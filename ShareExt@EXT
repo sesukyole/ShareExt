@@ -70,7 +70,7 @@ https://fikrulmkc.my.id/bagus/usee-dwtv.m3u8
 https://fikrulmkc.my.id/bagus/usee-france24.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MKCtv_News",CNA
 https://fikrulmkc.my.id/bagus/usee-newsasia.m3u8
-#EXTINF:0 tvg-id="TRTWorld.uk" group-title="NewsMKCtv_",TRT World
+#EXTINF:0 tvg-id="TRTWorld.uk" group-title="MKCtv_News",TRT World
 https://fikrulmkc.my.id/bagus/usee-trtworld.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MKCtv_News",CNN Indonesia
 https://fikrulmkc.my.id/bagus/usee-cnnindonesia.m3u8
