@@ -472,19 +472,23 @@ http://iptvtree.net:8080/Line1051/f4fffd47/165776
 
 
 
-#EXTINF:-1tvg-logo="https://i.postimg.cc/pXZzNDd1/111.png" group-title="SPORT LIVE",AstroSport1(setAuto)
+#EXTINF:-1tvg-logo="https://i.postimg.cc/pXZzNDd1/111.png" group-title="SPORT LIVE",AstroSport1
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247415
 http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=444
 http://190.2.155.140:8278/streams/d/supersport1_pye/playlist.m3u8
 
-#EXTINF:-1tvg-logo="https://i.postimg.cc/pXZzNDd1/111.png" group-title="SPORT LIVE",AstroSport2(setAuto)
+#EXTINF:-1tvg-logo="https://i.postimg.cc/pXZzNDd1/111.png" group-title="SPORT LIVE",AstroSport2
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247417
 http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=445
 http://190.2.155.140:8278/streams/d/supersport2_pye/playlist.m3u8
 
-#EXTINF:-1tvg-logo="https://i.postimg.cc/pXZzNDd1/111.png" group-title="SPORT LIVE",AstroSport3(setAuto)
+#EXTINF:-1tvg-logo="https://i.postimg.cc/pXZzNDd1/111.png" group-title="SPORT LIVE",AstroSport3
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247418
 http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=446
 http://190.2.155.140:8278/streams/d/supersport3_pye/playlist.m3u8
 
-#EXTINF:-1tvg-logo="https://i.postimg.cc/pXZzNDd1/111.png" group-title="SPORT LIVE",AstroSport4(setAuto)
+#EXTINF:-1tvg-logo="https://i.postimg.cc/pXZzNDd1/111.png" group-title="SPORT LIVE",AstroSport4
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247419
 http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=447
 http://190.2.155.140:8278/streams/d/supersport4_pye/playlist.m3u8
 
