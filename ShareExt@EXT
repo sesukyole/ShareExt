@@ -1786,6 +1786,337 @@ http://client-proplus.com:8080/remco/remco/22505
 
 
 
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AZ: Setanta Sports Eurasia 1 HD" tvg-logo="" group-title="Live: USA",Setanta Sports Eurasia 1 HD
+http://client-proplus.com:8080/remco/remco/7356
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AZ: Setanta Sports Eurasia 2 HD" tvg-logo="" group-title="Live: USA",Setanta Sports Eurasia 2 HD
+http://client-proplus.com:8080/remco/remco/64014
+
+
+
+#EXTINF:-1 tvg-ID="beinhe.tr" tvg-name="VIP TR: Bein Sport Haber HD" tvg-logo="[" group-title="Live: Türkiye",VIP TR: Bein Sport Haber HD
+http://client-proplus.com:8080/remco/remco/14792
+#EXTINF:-1 tvg-ID="beinsports1.tr" tvg-name="VIP TR: Bein Sport 1HD 1080P" tvg-logo="[" group-title="Live: Türkiye",VIP TR: Bein Sport 1HD 1080P
+http://client-proplus.com:8080/remco/remco/16292
+#EXTINF:-1 tvg-ID="beinsports2.tr" tvg-name="VIP TR: Bein Sport 2HD 1080P" tvg-logo="[" group-title="Live: Türkiye",VIP TR: Bein Sport 2HD 1080P
+http://client-proplus.com:8080/remco/remco/16291
+#EXTINF:-1 tvg-ID="beinsports3.tr" tvg-name="VIP TR: Bein Sport 3HD 1080P" tvg-logo="" group-title="Live: Türkiye",VIP TR: Bein Sport 3HD 1080P
+http://client-proplus.com:8080/remco/remco/16290
+#EXTINF:-1 tvg-ID="beinsports4.tr" tvg-name="VIP TR: Bein Sport 4HD 1080P" tvg-logo="" group-title="Live: Türkiye",VIP TR: Bein Sport 4HD 1080P
+http://client-proplus.com:8080/remco/remco/16289
+#EXTINF:-1 tvg-ID="beinsportsmax1.tr" tvg-name="VIP TR: Bein Sport MAX 1HD" tvg-logo="[" group-title="Live: Türkiye",VIP TR: Bein Sport MAX 1HD
+http://client-proplus.com:8080/remco/remco/9592
+#EXTINF:-1 tvg-ID="beinsportsmax2.tr" tvg-name="VIP TR: Bein Sport MAX 2HD" tvg-logo="[" group-title="Live: Türkiye",VIP TR: Bein Sport MAX 2HD
+http://client-proplus.com:8080/remco/remco/9591
+
+
+
+
+#EXTINF:-1 tvg-ID="beinsports.us" tvg-name="VIP US: BEIN SPORTS US" tvg-logo="" group-title="Live: USA",VIP US: BEIN SPORTS US
+http://client-proplus.com:8080/remco/remco/10696
+#EXTINF:-1 tvg-ID="beinsports2.us" tvg-name="VIP US: BEIN SPORTS Connect FHD" tvg-logo="[" group-title="Live: USA",VIP US: BEIN SPORTS Connect FHD
+http://client-proplus.com:8080/remco/remco/30738
+#EXTINF:-1 tvg-ID="beinsportespanol.us" tvg-name="VIP US: BEIN SPORTS N FHD" tvg-logo="[" group-title="Live: USA",VIP US: BEIN SPORTS N FHD
+http://client-proplus.com:8080/remco/remco/30739
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP US: BEIN SPORTS XTRA FHD" tvg-logo="[" group-title="Live: USA",VIP US: BEIN SPORTS XTRA FHD
+http://client-proplus.com:8080/remco/remco/30991
+#EXTINF:-1 tvg-ID="beinsports4.us" tvg-name="VIP US: BEIN SPORTS 4 FHD (Live During Events Only)" tvg-logo="" group-title="Live: USA",VIP US: BEIN SPORTS 4 FHD (Live During Events Only)
+http://client-proplus.com:8080/remco/remco/30740
+#EXTINF:-1 tvg-ID="beinsports5.us" tvg-name="VIP US: BEIN SPORTS 5 FHD (Live During Events Only)" tvg-logo="" group-title="Live: USA",VIP US: BEIN SPORTS 5 FHD (Live During Events Only)
+http://client-proplus.com:8080/remco/remco/30741
+#EXTINF:-1 tvg-ID="beinsports6.us" tvg-name="VIP US: BEIN SPORTS 6 FHD (Live During Events Only)" tvg-logo="" group-title="Live: USA",VIP US: BEIN SPORTS 6 FHD (Live During Events Only)
+http://client-proplus.com:8080/remco/remco/30742
+#EXTINF:-1 tvg-ID="beinsports7.us" tvg-name="VIP US: BEIN SPORTS 7 FHD (Live During Events Only)" tvg-logo="" group-title="Live: USA",VIP US: BEIN SPORTS 7 FHD (Live During Events Only)
+http://client-proplus.com:8080/remco/remco/30743
+#EXTINF:-1 tvg-ID="beinsports8.us" tvg-name="VIP US: BEIN SPORTS 8 FHD (Live During Events Only)" tvg-logo="" group-title="Live: USA",VIP US: BEIN SPORTS 8 FHD (Live During Events Only)
+http://client-proplus.com:8080/remco/remco/30744
+#EXTINF:-1 tvg-ID="bet.us" tvg-name="VIP US: BET" tvg-logo="" group-title="Live: USA",VIP US: BET
+http://client-proplus.com:8080/remco/remco/22923
+#EXTINF:-1 tvg-ID="bether.us" tvg-name="VIP US: BET Her" tvg-logo="" group-title="Live: USA",VIP US: BET Her
+http://client-proplus.com:8080/remco/remco/22922
+#EXTINF:-1 tvg-ID="bigtennetwork.us" tvg-name="VIP US: Big Ten Network HD" tvg-logo="[" group-title="Live: USA",VIP US: Big Ten Network HD
+http://client-proplus.com:8080/remco/remco/10681
+
+#EXTINF:-1 tvg-ID="espn.us" tvg-name="VIP US: ESPN" tvg-logo="[" group-title="Live: USA",VIP US: ESPN
+http://client-proplus.com:8080/remco/remco/10774
+#EXTINF:-1 tvg-ID="espn2.us" tvg-name="VIP US: ESPN 2 HD" tvg-logo="[" group-title="Live: USA",VIP US: ESPN 2 HD
+http://client-proplus.com:8080/remco/remco/10773
+#EXTINF:-1 tvg-ID="espnclassics.us" tvg-name="VIP US: ESPN Baseball Regionals" tvg-logo="[" group-title="Live: USA",VIP US: ESPN Baseball Regionals
+http://client-proplus.com:8080/remco/remco/10772
+#EXTINF:-1 tvg-ID="espnnews.us" tvg-name="VIP US: ESPN NEWS" tvg-logo="[" group-title="Live: USA",VIP US: ESPN NEWS
+http://client-proplus.com:8080/remco/remco/10771
+#EXTINF:-1 tvg-ID="espnclassics.us" tvg-name="VIP US: ESPN Classic HD" tvg-logo="[""]" group-title="Live: USA",VIP US: ESPN Classic HD
+http://client-proplus.com:8080/remco/remco/26664
+#EXTINF:-1 tvg-ID="espnu.us" tvg-name="VIP US: ESPN U HD" tvg-logo="[" group-title="Live: USA",VIP US: ESPN U HD
+http://client-proplus.com:8080/remco/remco/26665
+
+#EXTINF:-1 tvg-ID="worldfishingnetwork.us" tvg-name="VIP US: Fight Sport 1" tvg-logo="[" group-title="Live: USA",VIP US: Fight Sport 1
+http://client-proplus.com:8080/remco/remco/10726
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP US: World Fishing Network HD" tvg-logo="" group-title="Live: USA",VIP US: World Fishing Network HD
+http://client-proplus.com:8080/remco/remco/10723
+#EXTINF:-1 tvg-ID="foodnetwork.us" tvg-name="VIP US: FOOD NETWORK" tvg-logo="[" group-title="Live: USA",VIP US: FOOD NETWORK
+http://client-proplus.com:8080/remco/remco/10688
+#EXTINF:-1 tvg-ID="cw.us" tvg-name="VIP US: CW HD" tvg-logo="[" group-title="Live: USA",VIP US: CW HD
+http://client-proplus.com:8080/remco/remco/10748
+#EXTINF:-1 tvg-ID="foxnews.us" tvg-name="VIP US: Fox News" tvg-logo="" group-title="Live: USA",VIP US: Fox News
+http://client-proplus.com:8080/remco/remco/10727
+#EXTINF:-1 tvg-ID="foxsoccerplus.us" tvg-name="VIP US: Fox Soccer Plus HD" tvg-logo="[" group-title="Live: USA",VIP US: Fox Soccer Plus HD
+http://client-proplus.com:8080/remco/remco/12568
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Sport Kosova News HD" tvg-logo="[" group-title="Live: Albania",AL: Sport Kosova News HD
+http://client-proplus.com:8080/remco/remco/19812
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Sport Kosova 1 HD" tvg-logo="[" group-title="Live: Albania",AL: Sport Kosova 1 HD
+http://client-proplus.com:8080/remco/remco/226
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Sport Kosova 2 HD" tvg-logo="" group-title="Live: Albania",AL: Sport Kosova 2 HD
+http://client-proplus.com:8080/remco/remco/225
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport News HD" tvg-logo="" group-title="Live: Albania",AL: Super Sport News HD
+http://client-proplus.com:8080/remco/remco/224
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 2 HD" tvg-logo="" group-title="Live: Albania",AL: Super Sport 2 HD
+http://client-proplus.com:8080/remco/remco/223
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 3 HD" tvg-logo="[" group-title="Live: Albania",AL: Super Sport 3 HD
+http://client-proplus.com:8080/remco/remco/222
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 4 HD" tvg-logo="" group-title="Live: Albania",AL: Super Sport 4 HD
+http://client-proplus.com:8080/remco/remco/221
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 5 HD" tvg-logo="" group-title="Live: Albania",AL: Super Sport 5 HD
+http://client-proplus.com:8080/remco/remco/19809
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 6 HD" tvg-logo="" group-title="Live: Albania",AL: Super Sport 6 HD
+http://client-proplus.com:8080/remco/remco/19810
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 7 HD" tvg-logo="[" group-title="Live: Albania",AL: Super Sport 7 HD
+http://client-proplus.com:8080/remco/remco/29797
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Sport News HD" tvg-logo="" group-title="Live: Albania",AL: Tring Sport News HD
+http://client-proplus.com:8080/remco/remco/212
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Tring Sport 1 HD" tvg-logo="" group-title="Live: Albania",AL: Tring Sport 1 HD
+http://client-proplus.com:8080/remco/remco/213
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Sport 1" tvg-logo="" group-title="Live: Albania",AL: Tring Sport 1
+http://client-proplus.com:8080/remco/remco/2156
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Sport 2" tvg-logo="" group-title="Live: Albania",AL: Tring Sport 2
+http://client-proplus.com:8080/remco/remco/2155
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Tring Sport 3" tvg-logo="" group-title="Live: Albania",AL: Tring Sport 3
+http://client-proplus.com:8080/remco/remco/2154
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Tring Sport 4" tvg-logo="" group-title="Live: Albania",AL: Tring Sport 4
+http://client-proplus.com:8080/remco/remco/2153
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Tring Super" tvg-logo="" group-title="Live: Albania",AL: Tring Super
+http://client-proplus.com:8080/remco/remco/211
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Tring" tvg-logo="" group-title="Live: Albania",AL: Tring Tring
+http://client-proplus.com:8080/remco/remco/210
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: K Sport 1" tvg-logo="[" group-title="Live: Albania",AL: K Sport 1
+http://client-proplus.com:8080/remco/remco/2115
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: K Sport 2" tvg-logo="[" group-title="Live: Albania",AL: K Sport 2
+http://client-proplus.com:8080/remco/remco/2114
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: K Sport 3" tvg-logo="" group-title="Live: Albania",AL: K Sport 3
+http://client-proplus.com:8080/remco/remco/2113
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: K Sport 4" tvg-logo="" group-title="Live: Albania",AL: K Sport 4
+http://client-proplus.com:8080/remco/remco/2112
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: K Sport 5" tvg-logo="[" group-title="Live: Albania",AL: K Sport 5
+http://client-proplus.com:8080/remco/remco/29798
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Eurosport 1 HD" tvg-logo="" group-title="Live: Albania",AL: Eurosport 1 HD
+http://client-proplus.com:8080/remco/remco/2116
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Eurosport 2" tvg-logo="[" group-title="Live: Albania",AL: Eurosport 2
+http://client-proplus.com:8080/remco/remco/29796
+
+
+
+#EXTINF:-1 tvg-ID="arenasport1.rs" tvg-name="RS: Arena Sport 1 HD" tvg-logo="" group-title="Live: EX-Yu",RS: Arena Sport 1 HD
+http://client-proplus.com:8080/remco/remco/2504
+#EXTINF:-1 tvg-ID="arenasport2.rs" tvg-name="RS: Arena Sport 2 HD" tvg-logo="" group-title="Live: EX-Yu",RS: Arena Sport 2 HD
+http://client-proplus.com:8080/remco/remco/2502
+#EXTINF:-1 tvg-ID="arenasport3.rs" tvg-name="RS: Arena Sport 3 HD" tvg-logo="" group-title="Live: EX-Yu",RS: Arena Sport 3 HD
+http://client-proplus.com:8080/remco/remco/2500
+#EXTINF:-1 tvg-ID="arenasport4.rs" tvg-name="RS: Arena Sport 4 HD" tvg-logo="" group-title="Live: EX-Yu",RS: Arena Sport 4 HD
+http://client-proplus.com:8080/remco/remco/2498
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Arena Sport 5 HD" tvg-logo="" group-title="Live: EX-Yu",RS: Arena Sport 5 HD
+http://client-proplus.com:8080/remco/remco/13590
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: SPORT KLUB 1 HD" tvg-logo="[]" group-title="Live: EX-Yu",RS: SPORT KLUB 1 HD
+http://client-proplus.com:8080/remco/remco/7735
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: SPORT KLUB 2 HD" tvg-logo="[" group-title="Live: EX-Yu",RS: SPORT KLUB 2 HD
+http://client-proplus.com:8080/remco/remco/7734
+#EXTINF:-1 tvg-ID="" tvg-name="RS: SPORT KLUB 3 HD" tvg-logo="" group-title="Live: EX-Yu",RS: SPORT KLUB 3 HD
+http://client-proplus.com:8080/remco/remco/7733
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: SPORT KLUB 4 HD" tvg-logo="[" group-title="Live: EX-Yu",RS: SPORT KLUB 4 HD
+http://client-proplus.com:8080/remco/remco/23610
+#EXTINF:-1 tvg-ID="" tvg-name="RS: SPORT KLUB 5 HD" tvg-logo="" group-title="Live: EX-Yu",RS: SPORT KLUB 5 HD
+http://client-proplus.com:8080/remco/remco/23609
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: SPORT KLUB 6 HD" tvg-logo="[" group-title="Live: EX-Yu",RS: SPORT KLUB 6 HD
+http://client-proplus.com:8080/remco/remco/23608
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: SPORT KLUB Golf" tvg-logo="[" group-title="Live: EX-Yu",RS: SPORT KLUB Golf
+http://client-proplus.com:8080/remco/remco/23607
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Eurosport 1" tvg-logo="" group-title="Live: EX-Yu",RS: Eurosport 1
+http://client-proplus.com:8080/remco/remco/23612
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Eurosport 2" tvg-logo="" group-title="Live: EX-Yu",RS: Eurosport 2
+http://client-proplus.com:8080/remco/remco/23611
+#EXTINF:-1 tvg-ID="" tvg-name="RS: Sportska TV" tvg-logo="[""]" group-title="Live: EX-Yu",RS: Sportska TV
+http://client-proplus.com:8080/remco/remco/13588
+
+
+
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IN: STAR SPORTS 1HD" tvg-logo="[" group-title="Live: India",IN: STAR SPORTS 1HD
+http://client-proplus.com:8080/remco/remco/179
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IN: STAR SPORTS 2HD" tvg-logo="" group-title="Live: India",IN: STAR SPORTS 2HD
+http://client-proplus.com:8080/remco/remco/178
+#EXTINF:-1 tvg-ID="" tvg-name="IN: TEN 1 HD" tvg-logo="" group-title="Live: India",IN: TEN 1 HD
+http://client-proplus.com:8080/remco/remco/175
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IN: TEN 1" tvg-logo="" group-title="Live: India",IN: TEN 1
+http://client-proplus.com:8080/remco/remco/171
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IN: TEN 3" tvg-logo="" group-title="Live: India",IN: TEN 3
+http://client-proplus.com:8080/remco/remco/173
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IN: TEN 2" tvg-logo="" group-title="Live: India",IN: TEN 2
+http://client-proplus.com:8080/remco/remco/172
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IN: TEN Golf HD" tvg-logo="" group-title="Live: India",IN: TEN Golf HD
+http://client-proplus.com:8080/remco/remco/174
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PK: PTV SPORTS HD" tvg-logo="" group-title="Live: India",PK: PTV SPORTS HD
+http://client-proplus.com:8080/remco/remco/5221
+
+
+
+
+#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="VIP UK: Sky Sport Main Event FHD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Main Event FHD
+http://client-proplus.com:8080/remco/remco/30342
+#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="VIP UK: Sky Sport Cricket FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Cricket FHD
+http://client-proplus.com:8080/remco/remco/30346
+#EXTINF:-1 tvg-ID="skysportsaction.uk" tvg-name="VIP UK: Sky Sport NHL FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport NHL FHD
+http://client-proplus.com:8080/remco/remco/30348
+#EXTINF:-1 tvg-ID="skysportsgolf.uk" tvg-name="VIP UK: Sky Sport Golf FHD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Golf FHD
+http://client-proplus.com:8080/remco/remco/30343
+#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="VIP UK: Sky Sport Premier League FHD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Premier League FHD
+http://client-proplus.com:8080/remco/remco/30341
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="VIP UK: Sky Sport F1 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport F1 FHD
+http://client-proplus.com:8080/remco/remco/30345
+#EXTINF:-1 tvg-ID="skysportsarena.uk" tvg-name="VIP UK: Sky Sport Arena FHD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Arena FHD
+http://client-proplus.com:8080/remco/remco/30347
+#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="VIP UK: Sky Sport Football FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Football FHD
+http://client-proplus.com:8080/remco/remco/30344
+#EXTINF:-1 tvg-ID="skysportsmix.uk" tvg-name="VIP UK: Sky Sport Mix FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Mix FHD
+http://client-proplus.com:8080/remco/remco/30339
+#EXTINF:-1 tvg-ID="skysportsracing.uk" tvg-name="VIP UK: Sky Sport Racing FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Racing FHD
+http://client-proplus.com:8080/remco/remco/30340
+#EXTINF:-1 tvg-ID="skysportsnews.uk" tvg-name="VIP UK: Sky Sport News HD 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport News HD 1080P
+http://client-proplus.com:8080/remco/remco/28991
+#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="VIP UK: Sky Sport Main Events HD 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Main Events HD 1080P
+http://client-proplus.com:8080/remco/remco/8172
+#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="VIP UK: Sky Sport Cricket HD 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Cricket HD 1080P
+http://client-proplus.com:8080/remco/remco/8173
+#EXTINF:-1 tvg-ID="skysportsaction.uk" tvg-name="VIP UK: Sky Sport NHL HD 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport NHL HD 1080P
+http://client-proplus.com:8080/remco/remco/8174
+#EXTINF:-1 tvg-ID="skysportsgolf.uk" tvg-name="VIP UK: Sky Sport Golf HD 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Golf HD 1080P
+http://client-proplus.com:8080/remco/remco/8175
+#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="VIP UK: Sky Sport PL HD 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport PL HD 1080P
+http://client-proplus.com:8080/remco/remco/8176
+#EXTINF:-1 tvg-ID="skysportsarena.uk" tvg-name="VIP UK: Sky Sport Arena HD 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Arena HD 1080P
+http://client-proplus.com:8080/remco/remco/12662
+#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="VIP UK: Sky Sport Football HD 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Football HD 1080P
+http://client-proplus.com:8080/remco/remco/12663
+#EXTINF:-1 tvg-ID="skysportsmix.uk" tvg-name="VIP UK: Sky Sport Mix HD 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Mix HD 1080P
+http://client-proplus.com:8080/remco/remco/28990
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="VIP UK: Sky Sport F1 HD 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport F1 HD 1080P
+http://client-proplus.com:8080/remco/remco/8177
+#EXTINF:-1 tvg-ID="skysportsracing.uk" tvg-name="VIP UK: Sky Sport Racing" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Racing
+http://client-proplus.com:8080/remco/remco/26015
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: BT Sports 1 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BT Sports 1 FHD
+http://client-proplus.com:8080/remco/remco/60877
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: BT Sports 2 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BT Sports 2 FHD
+http://client-proplus.com:8080/remco/remco/60878
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: BT Sports 3 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BT Sports 3 FHD
+http://client-proplus.com:8080/remco/remco/60879
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: BT Sports ESPN FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BT Sports ESPN FHD
+http://client-proplus.com:8080/remco/remco/60880
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: SONY SIX" tvg-logo="" group-title="Live: India",VIP IN: SONY SIX
+http://client-proplus.com:8080/remco/remco/34105
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IN: Sony six HD" tvg-logo="" group-title="Live: India",VIP IN: Sony six HD
+http://client-proplus.com:8080/remco/remco/8108
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: SONY TEN 1" tvg-logo="" group-title="Live: India",VIP IN: SONY TEN 1
+http://client-proplus.com:8080/remco/remco/34106
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: SONY TEN 1 HD" tvg-logo="" group-title="Live: India",VIP IN: SONY TEN 1 HD
+http://client-proplus.com:8080/remco/remco/34490
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: SONY TEN 2" tvg-logo="" group-title="Live: India",VIP IN: SONY TEN 2
+http://client-proplus.com:8080/remco/remco/34107
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: SONY TEN 2 HD" tvg-logo="" group-title="Live: India",VIP IN: SONY TEN 2 HD
+http://client-proplus.com:8080/remco/remco/34491
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: SONY TEN 3" tvg-logo="" group-title="Live: India",VIP IN: SONY TEN 3
+http://client-proplus.com:8080/remco/remco/34108
+
+#EXTINF:-1 tvg-ID="" tvg-name="VIP JP: J Sports 1" tvg-logo="" group-title="Live: Korea & Japan",VIP JP: J Sports 1
+http://client-proplus.com:8080/remco/remco/53589
+#EXTINF:-1 tvg-ID="" tvg-name="VIP JP: J Sports 2" tvg-logo="" group-title="Live: Korea & Japan",VIP JP: J Sports 2
+http://client-proplus.com:8080/remco/remco/53590
+#EXTINF:-1 tvg-ID="" tvg-name="VIP JP: J Sports 3" tvg-logo="" group-title="Live: Korea & Japan",VIP JP: J Sports 3
+http://client-proplus.com:8080/remco/remco/53591
+#EXTINF:-1 tvg-ID="" tvg-name="VIP JP: J Sports 4" tvg-logo="" group-title="Live: Korea & Japan",VIP JP: J Sports 4
+http://client-proplus.com:8080/remco/remco/53593
+#EXTINF:-1 tvg-ID="" tvg-name="VIP JP: J Racing" tvg-logo="" group-title="Live: Korea & Japan",VIP JP: J Racing
+http://client-proplus.com:8080/remco/remco/53586
+#EXTINF:-1 tvg-ID="" tvg-name="VIP JP: J Fight" tvg-logo="" group-title="Live: Korea & Japan",VIP JP: J Fight
+http://client-proplus.com:8080/remco/remco/53588
+#EXTINF:-1 tvg-ID="" tvg-name="VIP JP: J Golf" tvg-logo="" group-title="Live: Korea & Japan",VIP JP: J Golf
+http://client-proplus.com:8080/remco/remco/53587
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CN: Fox Sports Asia 1 FHD" tvg-logo="[" group-title="Live: Korea & Japan",Fox Sports Asia 1 FHD
+http://client-proplus.com:8080/remco/remco/30045
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CN: Fox Sports Asia 2 FHD" tvg-logo="[" group-title="Live: Korea & Japan",Fox Sports Asia 2 FHD
+http://client-proplus.com:8080/remco/remco/30042
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CN: Fox Sports Asia 3 FHD" tvg-logo="[" group-title="Live: Korea & Japan",Fox Sports Asia 3 FHD
+http://client-proplus.com:8080/remco/remco/30040
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Blitz FHD" tvg-logo="[" group-title="Live: African",VIP ZA: SuperSport Blitz FHD
+http://client-proplus.com:8080/remco/remco/29930
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Grandstand FHD" tvg-logo="[" group-title="Live: African",VIP ZA: SuperSport Grandstand FHD
+http://client-proplus.com:8080/remco/remco/29940
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Rugby FHD" tvg-logo="[" group-title="Live: African",VIP ZA: SuperSport Rugby FHD
+http://client-proplus.com:8080/remco/remco/29933
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Cricket FHD" tvg-logo="[" group-title="Live: African",VIP ZA: SuperSport Cricket FHD
+http://client-proplus.com:8080/remco/remco/29932
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport PSL FHD" tvg-logo="[" group-title="Live: African",VIP ZA: SuperSport PSL FHD
+http://client-proplus.com:8080/remco/remco/29942
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Premier League FHD" tvg-logo="[" group-title="Live: African",VIP ZA: SuperSport Premier League FHD
+http://client-proplus.com:8080/remco/remco/29941
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport La Liga FHD" tvg-logo="[" group-title="Live: African",VIP ZA: SuperSport La Liga FHD
+http://client-proplus.com:8080/remco/remco/29943
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Football FHD" tvg-logo="[" group-title="Live: African",VIP ZA: SuperSport Football FHD
+http://client-proplus.com:8080/remco/remco/29936
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Play FHD" tvg-logo="[" group-title="Live: African",VIP ZA: SuperSport Play FHD
+http://client-proplus.com:8080/remco/remco/29935
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Football Plus FHD" tvg-logo="" group-title="Live: African",VIP ZA: SuperSport Football Plus FHD
+http://client-proplus.com:8080/remco/remco/33608
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Action FHD" tvg-logo="[" group-title="Live: African",VIP ZA: SuperSport Action FHD
+http://client-proplus.com:8080/remco/remco/29937
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Motorsport FHD" tvg-logo="" group-title="Live: African",VIP ZA: SuperSport Motorsport FHD
+http://client-proplus.com:8080/remco/remco/51416
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Golf FHD" tvg-logo="" group-title="Live: African",VIP ZA: SuperSport Golf FHD
+http://client-proplus.com:8080/remco/remco/33649
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Tennis FHD" tvg-logo="" group-title="Live: African",VIP ZA: SuperSport Tennis FHD
+http://client-proplus.com:8080/remco/remco/33610
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Variety 1 FHD" tvg-logo="[" group-title="Live: African",VIP ZA: SuperSport Variety 1 FHD
+http://client-proplus.com:8080/remco/remco/29938
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Variety 2 FHD" tvg-logo="[" group-title="Live: African",VIP ZA: SuperSport Variety 2 FHD
+http://client-proplus.com:8080/remco/remco/29939
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Variety 3 FHD" tvg-logo="[" group-title="Live: African",VIP ZA: SuperSport Variety 3 FHD
+http://client-proplus.com:8080/remco/remco/29934
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport Variety 4 FHD" tvg-logo="" group-title="Live: African",VIP ZA: SuperSport Variety 4 FHD
+http://client-proplus.com:8080/remco/remco/33609
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: SuperSport MáXimo FHD" tvg-logo="[" group-title="Live: African",VIP ZA: SuperSport MáXimo FHD
+http://client-proplus.com:8080/remco/remco/29929
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: WWE Superslam HD" tvg-logo="[" group-title="Live: African",VIP ZA: WWE Superslam HD
+http://client-proplus.com:8080/remco/remco/31351
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: ESPN" tvg-logo="" group-title="Live: African",VIP ZA: ESPN
+http://client-proplus.com:8080/remco/remco/51130
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: ESPN 2" tvg-logo="" group-title="Live: African",VIP ZA: ESPN 2
+http://client-proplus.com:8080/remco/remco/51129
+
+
+
+
+
+
+
+
+
 
 
 
