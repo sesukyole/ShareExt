@@ -1338,6 +1338,64 @@ http://snetiptv.hopto.org:1935/live/Crosatlinija/Tester/4045.ts
 
 
 
+#EXTINF:-1 tvg-id="beIN Sports 8 ARB" tvg-name="beIN SPORTS News HD" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/Logo_0022_NEWS-1.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS News HD
+http://topiptv.net:5890/abcd/123456/70058
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 PREMIUM HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 1 PREMIUM HD
+http://topiptv.net:5890/abcd/123456/98222
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 PREMIUM HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 2 PREMIUM HD
+http://topiptv.net:5890/abcd/123456/98225
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 PREMIUM HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 3 PREMIUM HD
+http://topiptv.net:5890/abcd/123456/98228
+#EXTINF:-1 tvg-id="beIN Sports 1 ARB" tvg-name="beIN SPORTS 1HD" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/Sports_HD1.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 1HD
+http://topiptv.net:5890/abcd/123456/16
+#EXTINF:-1 tvg-id="beIN Sports 2 ARB" tvg-name="beIN SPORTS 2HD" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/Sports_HD2.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 2HD
+http://topiptv.net:5890/abcd/123456/17
+#EXTINF:-1 tvg-id="beIN Sports 3 ARB" tvg-name="beIN SPORTS 3HD" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/Sports_HD3.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 3HD
+http://topiptv.net:5890/abcd/123456/18
+#EXTINF:-1 tvg-id="beIN Sports 4 ARB" tvg-name="beIN SPORTS 4HD" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/Sports_HD4.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 4HD
+http://topiptv.net:5890/abcd/123456/19
+#EXTINF:-1 tvg-id="beIN Sports 5 ARB" tvg-name="beIN SPORTS 5HD" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/Sports_HD5.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 5HD
+http://topiptv.net:5890/abcd/123456/20
+#EXTINF:-1 tvg-id="beIN Sports 6 ARB" tvg-name="beIN SPORTS 6HD" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/Sports_HD6.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 6HD
+http://topiptv.net:5890/abcd/123456/21
+#EXTINF:-1 tvg-id="beIN Sports 7 ARB" tvg-name="beIN SPORTS 7HD" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/Sports_HD7.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 7HD
+http://topiptv.net:5890/abcd/123456/22
+#EXTINF:-1 tvg-id="beIN Sports 11 HD ARB" tvg-name="beIN SPORTS 1 ENGLISH HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 1 ENGLISH HD
+http://topiptv.net:5890/abcd/123456/26
+#EXTINF:-1 tvg-id="beIN Sports 12 HD ARB" tvg-name="beIN SPORTS 2 ENGLISH HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 2 ENGLISH HD
+http://topiptv.net:5890/abcd/123456/27
+#EXTINF:-1 tvg-id="beIN Sports 13 HD ARB" tvg-name="beIN SPORTS 3 ENGLISH HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 3 ENGLISH HD
+http://topiptv.net:5890/abcd/123456/28
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 FRENCH HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 1 FRENCH HD
+http://topiptv.net:5890/abcd/123456/71322
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 FRENCH HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png" group-title="beIN SPORTS | LIVE ",BeIN SPORTS 2 FRENCH HD
+http://topiptv.net:5890/abcd/123456/94522
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 FRENCH HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png" group-title="beIN SPORTS | LIVE ",BeIN SPORTS 3 FRENCH HD
+http://topiptv.net:5890/abcd/123456/94523
+#EXTINF:-1 tvg-id="beIN Sports 8 ARB" tvg-name="beIN SPORTS 1 XTRA HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 1 XTRA HD
+http://topiptv.net:5890/abcd/123456/23
+#EXTINF:-1 tvg-id="beIN Sports 9 ARB" tvg-name="beIN SPORTS 2 XTRA HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 2 XTRA HD
+http://topiptv.net:5890/abcd/123456/24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
