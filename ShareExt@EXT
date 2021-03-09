@@ -2184,36 +2184,7 @@ http://topiptv.net:5890/abcd/123456/69083
 
 
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT_TOPiptv",GOLF HD TH
-http://topiptv.net:5890/abcd/123456/93961
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT_TOPiptv",Tennis HD TH
-http://topiptv.net:5890/abcd/123456/93962
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT_TOPiptv",truevisions 1 TH
-http://topiptv.net:5890/abcd/123456/93947
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT_TOPiptv",truevisions 2 TH
-http://topiptv.net:5890/abcd/123456/93948
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT_TOPiptv",truevisions 3 TH
-http://topiptv.net:5890/abcd/123456/93949
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT_TOPiptv",truevisions 4 TH
-http://topiptv.net:5890/abcd/123456/93950
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT_TOPiptv",truevisions 5 TH
-http://topiptv.net:5890/abcd/123456/93951
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT_TOPiptv",truevisions 6 TH
-http://topiptv.net:5890/abcd/123456/93952
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT_TOPiptv",truevisions 7 TH
-http://topiptv.net:5890/abcd/123456/93953
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT_TOPiptv",truevisions Premier 1 TH
-http://topiptv.net:5890/abcd/123456/93954
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT_TOPiptv",truevisions Premier 2 TH
-http://topiptv.net:5890/abcd/123456/93955
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT_TOPiptv",NBA HD TH
-http://topiptv.net:5890/abcd/123456/93956
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT_TOPiptv",FOX SPORT TH
-http://topiptv.net:5890/abcd/123456/93957
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT_TOPiptv",FOX SPORT 2 TH
-http://topiptv.net:5890/abcd/123456/93958
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT_TOPiptv",FOX SPORT 3 TH
-http://topiptv.net:5890/abcd/123456/93959
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT_TOPiptv",MY|ASTRO ARENA HD
 http://topiptv.net:5890/abcd/123456/68966
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT_TOPiptv",MY|ASTRO SUPERSPORTS 1 FHD
