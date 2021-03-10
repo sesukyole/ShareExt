@@ -593,6 +593,369 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 
 
 
+
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="http://jiekou.wakds.xyz/logo/r_2798.png" group-title="新马/SG",TV1
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/149
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-logo="http://jiekou.wakds.xyz/logo/r_2799.png" group-title="新马/SG",TV2
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/150
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="http://jiekou.wakds.xyz/logo/r_2800.png" group-title="新马/SG",TV3
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/151
+#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="http://jiekou.wakds.xyz/logo/r_2801.png" group-title="新马/SG",NTV7
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/153
+#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7 backup" tvg-logo="http://jiekou.wakds.xyz/logo/r_2801.png" group-title="新马/SG",NTV7 backup
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/154
+#EXTINF:-1 tvg-id="8TV" tvg-name="TV8" tvg-logo="http://jiekou.wakds.xyz/logo/r_2802.png" group-title="新马/SG",TV8
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/155
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="http://jiekou.wakds.xyz/logo/r_2803.png" group-title="新马/SG",TV9
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/156
+#EXTINF:-1 tvg-id="" tvg-name="RIA 1" tvg-logo="http://jiekou.wakds.xyz/logo/r_2824.png" group-title="新马/SG",RIA 1
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/158
+#EXTINF:-1 tvg-id="" tvg-name="Awani" tvg-logo="http://jiekou.wakds.xyz/logo/r_2831.png" group-title="新马/SG",Awani
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/159
+#EXTINF:-1 tvg-id="" tvg-name="Bernama" tvg-logo="http://jiekou.wakds.xyz/logo/Bernama.png" group-title="新马/SG",Bernama
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/160
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO PRIMA" tvg-logo="http://jiekou.wakds.xyz/logo/r_2822.png" group-title="新马/SG",ASTRO PRIMA
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/161
+#EXTINF:-1 tvg-id="7183" tvg-name="Al-Hijrah" tvg-logo="http://jiekou.wakds.xyz/logo/Hijrah.png" group-title="新马/SG",Al-Hijrah
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/162
+#EXTINF:-1 tvg-id="" tvg-name="RTM Sports HD" tvg-logo="http://jiekou.wakds.xyz/logo/RTMSports.png" group-title="新马/SG",RTM Sports HD
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/163
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Arena" tvg-logo="http://jiekou.wakds.xyz/logo/20200822074553994010011.png" group-title="新马/SG",ASTRO Arena
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/164
+#EXTINF:-1 tvg-id="427" tvg-name="NatGeo Wild HD" tvg-logo="http://jiekou.wakds.xyz/logo/r_2658.png" group-title="新马/SG",NatGeo Wild HD
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/165
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO OASIS" tvg-logo="http://jiekou.wakds.xyz/logo/20200822000614840910013.png" group-title="新马/SG",ASTRO OASIS
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/166
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Ceria" tvg-logo="http://jiekou.wakds.xyz/logo/r_2823.png" group-title="新马/SG",ASTRO Ceria
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/167
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Citra" tvg-logo="http://jiekou.wakds.xyz/logo/astroCitra.png" group-title="新马/SG",ASTRO Citra
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/168
+#EXTINF:-1 tvg-id="" tvg-name="Drama Sangat" tvg-logo="http://jiekou.wakds.xyz/logo/drama.png" group-title="新马/SG",Drama Sangat
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/169
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO NAURA" tvg-logo="http://jiekou.wakds.xyz/logo/20200822000716098910014.png" group-title="新马/SG",ASTRO NAURA
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/170
+#EXTINF:-1 tvg-id="" tvg-name="Hello" tvg-logo="http://jiekou.wakds.xyz/logo/20200822005756080410045.png" group-title="新马/SG",Hello
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/171
+#EXTINF:-1 tvg-id="" tvg-name="Goshop" tvg-logo="http://jiekou.wakds.xyz/logo/goshop.png" group-title="新马/SG",Goshop
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/172
+#EXTINF:-1 tvg-id="" tvg-name="Goshop Ch" tvg-logo="http://jiekou.wakds.xyz/logo/goshop.png" group-title="新马/SG",Goshop Ch
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/173
+#EXTINF:-1 tvg-id="" tvg-name="Sony HD" tvg-logo="http://jiekou.wakds.xyz/logo/20200822004118710210034.png" group-title="新马/SG",Sony HD
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/174
+#EXTINF:-1 tvg-id="" tvg-name="KBS Wolrd" tvg-logo="http://jiekou.wakds.xyz/logo/kbsworld.png" group-title="新马/SG",KBS Wolrd
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/175
+#EXTINF:-1 tvg-id="" tvg-name="TvN" tvg-logo="http://jiekou.wakds.xyz/logo/r_2923.png" group-title="新马/SG",TvN
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/176
+#EXTINF:-1 tvg-id="" tvg-name="Oh!k" tvg-logo="http://jiekou.wakds.xyz/logo/20200822004002838810033.png" group-title="新马/SG",Oh!k
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/177
+#EXTINF:-1 tvg-id="" tvg-name="天映频道" tvg-logo="http://jiekou.wakds.xyz/logo/r_2830.png" group-title="新马/SG",天映频道
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/179
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO WARNA" tvg-logo="http://jiekou.wakds.xyz/logo/20200820175023607310002.png" group-title="新马/SG",ASTRO WARNA
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/180
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO RIA" tvg-logo="http://jiekou.wakds.xyz/logo/r_2824.png" group-title="新马/SG",ASTRO RIA
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/181
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO AEC" tvg-logo="http://jiekou.wakds.xyz/logo/r_2814.png" group-title="新马/SG",ASTRO AEC
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/182
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO AOD 511" tvg-logo="http://jiekou.wakds.xyz/logo/r_2815.png" group-title="新马/SG",ASTRO AOD 511
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/183
+#EXTINF:-1 tvg-id="" tvg-name="华丽台" tvg-logo="http://jiekou.wakds.xyz/logo/r_2817.png" group-title="新马/SG",华丽台
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/184
+#EXTINF:-1 tvg-id="" tvg-name="欢喜台" tvg-logo="http://jiekou.wakds.xyz/logo/r_2816.png" group-title="新马/SG",欢喜台
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/185
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO 爱奇艺" tvg-logo="http://jiekou.wakds.xyz/logo/aiqiyi.png" group-title="新马/SG",ASTRO 爱奇艺
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/186
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO AOD HD" tvg-logo="http://jiekou.wakds.xyz/logo/r_2815.png" group-title="新马/SG",ASTRO AOD HD
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/187
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO 全佳" tvg-logo="http://jiekou.wakds.xyz/logo/r_2818.png" group-title="新马/SG",ASTRO 全佳
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/188
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO 双星" tvg-logo="http://jiekou.wakds.xyz/logo/r_2820.png" group-title="新马/SG",ASTRO 双星
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/189
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO 小太阳" tvg-logo="http://jiekou.wakds.xyz/logo/r_2829.png" group-title="新马/SG",ASTRO 小太阳
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/190
+#EXTINF:-1 tvg-id="" tvg-name="TVB 星河" tvg-logo="http://jiekou.wakds.xyz/logo/r_2826.png" group-title="新马/SG",TVB 星河
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/191
+#EXTINF:-1 tvg-id="" tvg-name="KiX HD" tvg-logo="http://jiekou.wakds.xyz/logo/20200822074509824210010.png" group-title="新马/SG",KiX HD
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/192
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://jiekou.wakds.xyz/logo/r_2745.png" group-title="新马/SG",HBO HD
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/193
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://jiekou.wakds.xyz/logo/HGTV.png" group-title="新马/SG",HGTV
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/194
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet (Eng)" tvg-logo="http://jiekou.wakds.xyz/logo/r_2667.png" group-title="新马/SG",Animal Planet (Eng)
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/195
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="6059" tvg-name="八大戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png" group-title="影视/Movie",八大戏剧
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3502
+#EXTINF:-1 tvg-id="6061" tvg-name="纬来戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandDrama.png" group-title="影视/Movie",纬来戏剧
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3503
+#EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="影视/Movie",好莱坞电影
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3504
+#EXTINF:-1 tvg-id="6087" tvg-name="FOX MOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" group-title="影视/Movie",FOX MOVIES
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3505
+#EXTINF:-1 tvg-id="6089" tvg-name="CineMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="影视/Movie",CineMAX
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3506
+#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="影视/Movie",FOX
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3507
+#EXTINF:-1 tvg-id="6101" tvg-name="靖洋戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖洋戏剧.png" group-title="影视/Movie",靖洋戏剧
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3508
+#EXTINF:-1 tvg-id="7222" tvg-name="EYE戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyexiju.png" group-title="影视/Movie",EYE戏剧
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3509
+#EXTINF:-1 tvg-id="870" tvg-name="FOX ACTION" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="影视/Movie",FOX ACTION
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3510
+#EXTINF:-1 tvg-id="6118" tvg-name="霹雳台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PiliPuppet.png" group-title="影视/Movie",霹雳台湾
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3511
+#EXTINF:-1 tvg-id="7164" tvg-name="国际电影台" tvg-logo="http://jiekou.wakds.xyz/logo/gjdyt.png" group-title="影视/Movie",国际电影台
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3512
+#EXTINF:-1 tvg-id="" tvg-name="民视影剧" tvg-logo="http://jiekou.wakds.xyz/logo/msyjt.png" group-title="影视/Movie",民视影剧
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3513
+#EXTINF:-1 tvg-id="354" tvg-name="FOX CRIME" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXCRIME.png" group-title="影视/Movie",FOX CRIME
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3515
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="影视/Movie",HBOSignature
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3516
+#EXTINF:-1 tvg-id="6153" tvg-name="HBO Hits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="影视/Movie",HBO Hits
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3517
+#EXTINF:-1 tvg-id="7185" tvg-name="影迷数位电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/影迷电影.png" group-title="影视/Movie",影迷数位电影
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3519
+#EXTINF:-1 tvg-id="7127" tvg-name="龙华戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华戏剧.png" group-title="影视/Movie",龙华戏剧
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3520
+#EXTINF:-1 tvg-id="6082" tvg-name="龙翔时代" tvg-logo="http://jiekou.wakds.xyz/logo/r_2674.png" group-title="影视/Movie",龙翔时代
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3521
+#EXTINF:-1 tvg-id="6085" tvg-name="AXN台湾" tvg-logo="http://jiekou.wakds.xyz/logo/20200823122807844410079.png" group-title="影视/Movie",AXN台湾
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3522
+#EXTINF:-1 tvg-id="7165" tvg-name="AMC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="影视/Movie",AMC
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3524
+#EXTINF:-1 tvg-id="517" tvg-name="星卫电影" tvg-logo="http://jiekou.wakds.xyz/logo/r_2646.png" group-title="影视/Movie",星卫电影
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3525
+#EXTINF:-1 tvg-id="" tvg-name="公视戏剧" tvg-logo="http://jiekou.wakds.xyz/logo/r_2561.png" group-title="影视/Movie",公视戏剧
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3526
+#EXTINF:-1 tvg-id="" tvg-name="光影欧洲" tvg-logo="http://jiekou.wakds.xyz/logo/ouzhou.png" group-title="影视/Movie",光影欧洲
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3527
+#EXTINF:-1 tvg-id="6085" tvg-name="AXN亚洲" tvg-logo="http://jiekou.wakds.xyz/logo/20200823122807844410079.png" group-title="影视/Movie",AXN亚洲
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3528
+#EXTINF:-1 tvg-id="" tvg-name="Trill恐怖电影" tvg-logo="http://jiekou.wakds.xyz/logo/Trill.png" group-title="影视/Movie",Trill恐怖电影
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3529
+#EXTINF:-1 tvg-id="6155" tvg-name="HBO Family" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="影视/Movie",HBO Family
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3530
+#EXTINF:-1 tvg-id="" tvg-name="华纳电影" tvg-logo="http://jiekou.wakds.xyz/logo/20200823123315290010093.png" group-title="影视/Movie",华纳电影
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3531
+#EXTINF:-1 tvg-id="" tvg-name="金光布袋戏" tvg-logo="http://jiekou.wakds.xyz/logo/r_2540.png" group-title="影视/Movie",金光布袋戏
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3532
+#EXTINF:-1 tvg-id="" tvg-name="卫视西片" tvg-logo="http://jiekou.wakds.xyz/logo/wsxpt.png" group-title="影视/Movie",卫视西片
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3534
+#EXTINF:-1 tvg-id="6182" tvg-name="Blue Ant Extreme" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BLUEAntExtreme.png" group-title="影视/Movie",Blue Ant Extreme
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3535
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://jiekou.wakds.xyz/logo/r_2537.png" group-title="影视/Movie",CHC高清电影
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3536
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://jiekou.wakds.xyz/logo/r_2538.png" group-title="影视/Movie",CHC动作电影
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3537
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭影院" tvg-logo="http://jiekou.wakds.xyz/logo/r_2539.png" group-title="影视/Movie",CHC家庭影院
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3538
+#EXTINF:-1 tvg-id="" tvg-name="CBN每日影院" tvg-logo="http://jiekou.wakds.xyz/logo/r_2525.png" group-title="影视/Movie",CBN每日影院
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3539
+#EXTINF:-1 tvg-id="" tvg-name="SETONE" tvg-logo="http://jiekou.wakds.xyz/logo/setone.png" group-title="影视/Movie",SETONE
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3540
+#EXTINF:-1 tvg-id="" tvg-name="GEM" tvg-logo="http://jiekou.wakds.xyz/logo/gemtv.png" group-title="影视/Movie",GEM
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3541
+#EXTINF:-1 tvg-id="" tvg-name="都市剧场" tvg-logo="http://jiekou.wakds.xyz/logo/r_2524.png" group-title="影视/Movie",都市剧场
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3542
+#EXTINF:-1 tvg-id="" tvg-name="卫视电影" tvg-logo="http://jiekou.wakds.xyz/logo/r_2649.png" group-title="影视/Movie",卫视电影
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3543
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育频道",CCTV5
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/4389
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://jiekou.wakds.xyz/logo/CCTV5puls.png" group-title="体育频道",CCTV5+
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/4390
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sport 1" tvg-logo="http://jiekou.wakds.xyz/logo/r_2686.png" group-title="体育频道",FOX Sport 1
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3545
+#EXTINF:-1 tvg-id="6092" tvg-name="FOX Sport 2" tvg-logo="http://jiekou.wakds.xyz/logo/r_2687.png" group-title="体育频道",FOX Sport 2
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3546
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 1" tvg-logo="http://jiekou.wakds.xyz/logo/r_2684.png" group-title="体育频道",Eleven Sport 1
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3547
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 2" tvg-logo="http://jiekou.wakds.xyz/logo/r_2685.png" group-title="体育频道",Eleven Sport 2
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3548
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS PLUS" tvg-logo="" group-title="体育频道",ELEVEN SPORTS PLUS
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3549
+#EXTINF:-1 tvg-id="" tvg-name="ELTA体育1" tvg-logo="" group-title="体育频道",ELTA体育1
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3550
+#EXTINF:-1 tvg-id="" tvg-name="ELTA体育2" tvg-logo="" group-title="体育频道",ELTA体育2
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3551
+#EXTINF:-1 tvg-id="" tvg-name="ELTA体育3" tvg-logo="" group-title="体育频道",ELTA体育3
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3552
+#EXTINF:-1 tvg-id="6122" tvg-name="Z频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ZChannel.png" group-title="体育频道",Z频道
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3553
+#EXTINF:-1 tvg-id="" tvg-name="皇马足球" tvg-logo="" group-title="体育频道",皇马足球
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3554
+#EXTINF:-1 tvg-id="6181" tvg-name="博斯无限2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_unlimited2.png" group-title="体育频道",博斯无限2
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3555
+#EXTINF:-1 tvg-id="6177" tvg-name="博斯高球1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports-golfch.png" group-title="体育频道",博斯高球1
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3556
+#EXTINF:-1 tvg-id="6178" tvg-name="博斯高球2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-golfplus.png" group-title="体育频道",博斯高球2
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3557
+#EXTINF:-1 tvg-id="6179" tvg-name="博斯魅力" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-trendsport.png" group-title="体育频道",博斯魅力
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3558
+#EXTINF:-1 tvg-id="988" tvg-name="TRACE Sport Stars" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TRACESportStars.png" group-title="体育频道",TRACE Sport Stars
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3559
+#EXTINF:-1 tvg-id="7182" tvg-name="智林体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林体育台.png" group-title="体育频道",智林体育
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3560
+#EXTINF:-1 tvg-id="" tvg-name="时尚运动X" tvg-logo="" group-title="体育频道",时尚运动X
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3561
+#EXTINF:-1 tvg-id="7215" tvg-name="欧洲体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" group-title="体育频道",欧洲体育
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3562
+#EXTINF:-1 tvg-id="" tvg-name="Edge Sport" tvg-logo="" group-title="体育频道",Edge Sport
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3563
+#EXTINF:-1 tvg-id="" tvg-name="Ginx电竞" tvg-logo="" group-title="体育频道",Ginx电竞
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3564
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="体育频道",广东体育
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3565
+#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS" tvg-logo="" group-title="体育频道",NOW SPORTS
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3566
+#EXTINF:-1 tvg-id="" tvg-name="jsport1" tvg-logo="" group-title="体育频道",jsport1
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3567
+#EXTINF:-1 tvg-id="" tvg-name="jsport2" tvg-logo="" group-title="体育频道",jsport2
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3568
+#EXTINF:-1 tvg-id="" tvg-name="jsport3" tvg-logo="" group-title="体育频道",jsport3
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3569
+#EXTINF:-1 tvg-id="" tvg-name="jsport4" tvg-logo="" group-title="体育频道",jsport4
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3570
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport ESPN" tvg-logo="" group-title="体育频道",BT Sport ESPN
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3571
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="" group-title="体育频道",BT Sport 2
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3572
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 3" tvg-logo="" group-title="体育频道",BT Sport 3
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3573
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1" tvg-logo="" group-title="体育频道",BT Sport 1
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3574
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 2" tvg-logo="" group-title="体育频道",Sky Sport 2
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3575
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 1" tvg-logo="" group-title="体育频道",Sky Sports 1
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3576
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1" tvg-logo="" group-title="体育频道",Sky Sports F1
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3577
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 3" tvg-logo="" group-title="体育频道",Sky Sport 3
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3578
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 4" tvg-logo="" group-title="体育频道",Sky Sport 4
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3579
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 5" tvg-logo="" group-title="体育频道",Sky Sport 5
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3580
+#EXTINF:-1 tvg-id="" tvg-name="Astro Sp1" tvg-logo="" group-title="体育频道",Astro Sp1
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3581
+#EXTINF:-1 tvg-id="" tvg-name="Astro Sp2" tvg-logo="" group-title="体育频道",Astro Sp2
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3582
+#EXTINF:-1 tvg-id="" tvg-name="Astro Sp3" tvg-logo="" group-title="体育频道",Astro Sp3
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3583
+#EXTINF:-1 tvg-id="" tvg-name="Astro Sp4" tvg-logo="" group-title="体育频道",Astro Sp4
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3584
+#EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="" group-title="体育频道",WWE
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/3585
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="巨乳控频道" tvg-logo="" group-title="18+",巨乳控频道
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/4433
+#EXTINF:-1 tvg-id="" tvg-name="零时差频道" tvg-logo="" group-title="18+",零时差频道
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/4434
+#EXTINF:-1 tvg-id="" tvg-name="制服诱惑频道" tvg-logo="" group-title="18+",制服诱惑频道
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/4435
+#EXTINF:-1 tvg-id="" tvg-name="加勒比全球频道" tvg-logo="" group-title="18+",加勒比全球频道
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/4436
+#EXTINF:-1 tvg-id="" tvg-name="松视深夜剧场" tvg-logo="" group-title="18+",松视深夜剧场
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/4437
+#EXTINF:-1 tvg-id="" tvg-name="松视超级企划" tvg-logo="" group-title="18+",松视超级企划
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/4438
+#EXTINF:-1 tvg-id="" tvg-name="HOT西洋黑映画频道" tvg-logo="" group-title="18+",HOT西洋黑映画频道
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/4439
+#EXTINF:-1 tvg-id="" tvg-name="一本道国际放送频道" tvg-logo="" group-title="18+",一本道国际放送频道
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/4440
+#EXTINF:-1 tvg-id="" tvg-name="D曹素人" tvg-logo="" group-title="18+",D曹素人
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/4441
+#EXTINF:-1 tvg-id="" tvg-name="日本无码频道" tvg-logo="" group-title="18+",日本无码频道
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/4442
+#EXTINF:-1 tvg-id="" tvg-name="一本道国际" tvg-logo="" group-title="18+",一本道国际
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/4443
+#EXTINF:-1 tvg-id="" tvg-name="二本道国际" tvg-logo="" group-title="18+",二本道国际
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/4444
+#EXTINF:-1 tvg-id="" tvg-name="三本道国际" tvg-logo="" group-title="18+",三本道国际
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/4445
+#EXTINF:-1 tvg-id="" tvg-name="四本道国际" tvg-logo="" group-title="18+",四本道国际
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/4446
+#EXTINF:-1 tvg-id="" tvg-name="红松企划" tvg-logo="" group-title="18+",红松企划
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/4447
+#EXTINF:-1 tvg-id="" tvg-name="红松特别企划" tvg-logo="" group-title="18+",红松特别企划
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/4448
+#EXTINF:-1 tvg-id="" tvg-name="五本道国际放送" tvg-logo="" group-title="18+",五本道国际放送
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/4449
+#EXTINF:-1 tvg-id="" tvg-name="六本道国际放送" tvg-logo="" group-title="18+",六本道国际放送
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/4450
+#EXTINF:-1 tvg-id="" tvg-name="七本道国际放送" tvg-logo="" group-title="18+",七本道国际放送
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/4451
+#EXTINF:-1 tvg-id="" tvg-name="八本道国际放送" tvg-logo="" group-title="18+",八本道国际放送
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/4452
+#EXTINF:-1 tvg-id="" tvg-name="MiamiTV18" tvg-logo="" group-title="18+",MiamiTV18
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/2661
+#EXTINF:-1 tvg-id="" tvg-name="Jasmin TV" tvg-logo="" group-title="18+",Jasmin TV
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/2667
+#EXTINF:-1 tvg-id="" tvg-name="车讯TV" tvg-logo="" group-title="18+",车讯TV
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/2726
+#EXTINF:-1 tvg-id="" tvg-name="D Fashion Lifestyle | FHD" tvg-logo="" group-title="18+",D Fashion Lifestyle | FHD
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/2727
+#EXTINF:-1 tvg-id="" tvg-name="香蕉台" tvg-logo="http://jiekou.wakds.xyz/logo/r_2891.png" group-title="18+",香蕉台
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/2701
+#EXTINF:-1 tvg-id="" tvg-name="松视1台" tvg-logo="http://jiekou.wakds.xyz/logo/r_2896.png" group-title="18+",松视1台
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/2704
+#EXTINF:-1 tvg-id="" tvg-name="松视2台" tvg-logo="http://jiekou.wakds.xyz/logo/r_2897.png" group-title="18+",松视2台
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/2705
+#EXTINF:-1 tvg-id="" tvg-name="松视3台" tvg-logo="http://jiekou.wakds.xyz/logo/r_2898.png" group-title="18+",松视3台
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/2706
+#EXTINF:-1 tvg-id="" tvg-name="潘朵拉完美" tvg-logo="http://jiekou.wakds.xyz/logo/r_2895.png" group-title="18+",潘朵拉完美
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/2707
+#EXTINF:-1 tvg-id="" tvg-name="潘朵拉粉红" tvg-logo="http://jiekou.wakds.xyz/logo/r_2894.png" group-title="18+",潘朵拉粉红
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/2708
+#EXTINF:-1 tvg-id="" tvg-name="彩虹电影" tvg-logo="http://jiekou.wakds.xyz/logo/r_2890.png" group-title="18+",彩虹电影
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/2709
+#EXTINF:-1 tvg-id="" tvg-name="彩虹K台" tvg-logo="http://jiekou.wakds.xyz/logo/r_2892.png" group-title="18+",彩虹K台
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/2710
+#EXTINF:-1 tvg-id="" tvg-name="彩虹E台" tvg-logo="http://jiekou.wakds.xyz/logo/r_2889.png" group-title="18+",彩虹E台
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/2711
+#EXTINF:-1 tvg-id="" tvg-name="HOT星颜" tvg-logo="http://jiekou.wakds.xyz/logo/r_2888.png" group-title="18+",HOT星颜
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/2715
+#EXTINF:-1 tvg-id="" tvg-name="HAPPY" tvg-logo="http://jiekou.wakds.xyz/logo/r_2887.png" group-title="18+",HAPPY
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/2716
+#EXTINF:-1 tvg-id="" tvg-name="惊豔台" tvg-logo="http://jiekou.wakds.xyz/logo/r_2893.png" group-title="18+",惊豔台
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/2717
+#EXTINF:-1 tvg-id="7122" tvg-name="极限电影台测试" tvg-logo="http://jiekou.wakds.xyz/logo/20200929212916806510006.png" group-title="18+",极限电影台测试
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/2718
+#EXTINF:-1 tvg-id="" tvg-name="舒活二台" tvg-logo="" group-title="18+",舒活二台
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/2719
+#EXTINF:-1 tvg-id="" tvg-name="舒活一台" tvg-logo="" group-title="18+",舒活一台
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/2723
+#EXTINF:-1 tvg-id="" tvg-name="蜜桃成人台" tvg-logo="" group-title="18+",蜜桃成人台
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/2724
+#EXTINF:-1 tvg-id="" tvg-name="乐活频道" tvg-logo="" group-title="18+",乐活频道
+http://tv.wakds.xyz:8080/WwitomGI8k/ShncRSt2dW/2725
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="AR: NILE SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nile_Sport_%D9%86%D8%A7%D9%8A%D9%84_%D8%B3%D8%A8%D9%88%D8%B1%D8%AA.png" group-title="SPORTS: International",AR: NILE SPORT
 http://pie.buzz:83/live/Peter.nyr1909/6547736256/336342.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: ON SPORT" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBxm83_d_C-w0OWqQvGeJPz5JPc_R8a4uJMfQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="SPORTS: International",AR: ON SPORT
