@@ -1,2 +1,0 @@
-# ShareExt
-ShareExt@group
