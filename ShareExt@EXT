@@ -62,29 +62,15 @@ http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
 http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@premiumSport",TvMatic Sport
 http://cdn.tvmatic.net/sport.m3u8
-#EXTINF:-1tvg-logo="https://i.postimg.cc/8k4wT1gJ/Sony-Ten.png" group-title="ShareExt@premiumSport",Sony Ten 1
-http://hitectv.live/hls/stream40.m3u8
+#EXTINF:-1tvg-logo="https://i.postimg.cc/8k4wT1gJ/Sony-Ten.png" group-title="ShareExt@premiumSport",SonyTen1(setNative)
 http://209.126.120.153/hls/ten1.m3u8
-#EXTINF:-1tvg-logo="https://i.postimg.cc/8k4wT1gJ/Sony-Ten.png" group-title="ShareExt@premiumSport",Sony Ten 2
-http://hitectv.live/hls/stream39.m3u8
+#EXTINF:-1tvg-logo="https://i.postimg.cc/8k4wT1gJ/Sony-Ten.png" group-title="ShareExt@premiumSport",SonyTen2(setNative)
 http://209.126.120.153/hls/ten2.m3u8
-#EXTINF:-1tvg-logo="https://i.postimg.cc/8k4wT1gJ/Sony-Ten.png" group-title="ShareExt@premiumSport",Sony Ten 3
+#EXTINF:-1tvg-logo="https://i.postimg.cc/8k4wT1gJ/Sony-Ten.png" group-title="ShareExt@premiumSport",SonyTen3(setNative)
 http://209.126.120.153/hls/ten3.m3u8
-#EXTINF:-1tvg-logo="https://i.postimg.cc/8k4wT1gJ/Sony-Ten.png" group-title="ShareExt@premiumSport",Sony Six
-http://hitectv.live/hls/stream10.m3u8
+#EXTINF:-1tvg-logo="https://i.postimg.cc/8k4wT1gJ/Sony-Ten.png" group-title="ShareExt@premiumSport",SonySix(setNative)
 http://209.126.120.153/hls/sonysix.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@premiumSport",PTVsport HD
-http://hitectv.live/hls/stream11.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@premiumSport",StarSport Select Hd
-http://hitectv.live/hls/stream12.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@premiumSport",StarSport1
-http://hitectv.live/hls/stream15.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@premiumSport",StarSport2
-http://hitectv.live/hls/stream16.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@premiumSport",TenSport
-http://hitectv.live/hls/stream34.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@premiumSport",StarSport(Indi)
-http://103.102.136.106:8080/cmcltv/livesports.m3u8
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@premiumSport",TurkmenistanSport
 http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@premiumSport",FootbalyDailly
@@ -191,9 +177,9 @@ https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@premiumSport",MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@premiumSport",Setanta1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@premiumSport",Setanta1(setNative)
 http://ott-cdn.ucom.am/s81/03.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@premiumSport",Setanta2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@premiumSport",Setanta2(setNative)
 http://92.43.140.200/s82/04.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@premiumSport",Belalus5
 https://95-213-224-181.livesports24.online/belarusss5.m3u8
@@ -933,81 +919,6 @@ https://nonton.site:8443/provision/pp/36
 
 
 
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",SonyPix
-http://hitectv.live/hls/stream1.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",AXN
-http://hitectv.live/hls/stream2.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",StarMovies
-http://hitectv.live/hls/stream3.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",QXM
-http://hitectv.live/hls/stream4.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",BBC EART
-http://hitectv.live/hls/stream5.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",UtvAction
-http://hitectv.live/hls/stream7.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",Discovery hd
-http://hitectv.live/hls/stream9.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",Sony6
-http://hitectv.live/hls/stream10.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",PTVsport 
-http://hitectv.live/hls/stream11.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",StarSportSelect1
-http://hitectv.live/hls/stream12.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",NatGeo
-http://hitectv.live/hls/stream13.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",StarSport1
-http://hitectv.live/hls/stream15.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",StarSport2
-http://hitectv.live/hls/stream16.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",ATNbangla
-http://hitectv.live/hls/stream17.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",Channel hd
-http://hitectv.live/hls/stream18.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",StarGoldHD
-http://hitectv.live/hls/stream19.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",MAASRAGA
-http://hitectv.live/hls/stream20.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",Evaly100
-http://hitectv.live/hls/stream21.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",Ch24
-http://hitectv.live/hls/stream22.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",Nick junior
-http://hitectv.live/hls/stream23.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",Indi1
-http://hitectv.live/hls/stream24.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",ZeeCinemaHD
-http://hitectv.live/hls/stream25.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",Enterr10
-http://hitectv.live/hls/stream26.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",StarMovies
-http://hitectv.live/hls/stream27.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",ColorHD
-http://hitectv.live/hls/stream28.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",ColorCineplex
-http://hitectv.live/hls/stream29.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",Zee tv
-http://hitectv.live/hls/stream30.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",StarHD
-http://hitectv.live/hls/stream31.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",SonyYOY
-http://hitectv.live/hls/stream32.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",Mekkah live
-http://hitectv.live/hls/stream33.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",TEN SPORT
-http://hitectv.live/hls/stream34.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",Al-Jazeera
-http://hitectv.live/hls/stream35.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",BBC world news
-http://hitectv.live/hls/stream36.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",Travelxp
-http://hitectv.live/hls/stream37.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",StarPlusHD
-http://hitectv.live/hls/stream38.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",TEN2
-http://hitectv.live/hls/stream39.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KUNCUYbasir_Indie",TEN1
-http://hitectv.live/hls/stream40.m3u8
 
 
 
