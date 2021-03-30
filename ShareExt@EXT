@@ -1,5 +1,60 @@
 
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",Skynet Sport Hd
+https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",Skynet Sport1
+https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",Skynet Sport2
+https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",Skynet Sport3
+https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",Skynet Sport4
+https://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",Skynet Sport5
+https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",Skynet Sport6
+https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",AstroSport1
+http://212.8.253.172:2052/AstroSupersports1HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=795036
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",AstroSport2
+http://212.8.253.172:2052/AstroSupersports2HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=795037
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",AstroSport3
+http://212.8.253.172:2052/AstroSupersports3HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=795038
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",AstroSport4
+http://212.8.253.172:2052/AstroSupersports4HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=795039
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",SS BLITZ
+http://212.8.253.172:2052/SuperSportBlitz/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793886
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",SS GRANDSTAND
+http://212.8.253.172:2052/SuperSport-Grandstand/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793895
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",SS PSL
+http://212.8.253.172:2052/SuperSport-PSL/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793897
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",SS PREMIER LIGA
+http://212.8.253.172:2052/SuperSport-PremierLeague/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793896
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",SS LALIGA
+http://212.8.253.172:2052/SuperSport-LaLiga/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793898
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",SS FOOTBALL
+http://212.8.253.172:2052/SuperSport-Football/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793891
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",SS VARIETY1
+http://212.8.253.172:2052/SuperSport-Variety-1/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",SS VARIETY2
+http://212.8.253.172:2052/SuperSport-Variety-2/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793894
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",SS VARIETY3
+http://212.8.253.172:2052/SuperSport-Variety-3/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793889
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",SS VARIETY4
+http://212.8.253.172:2052/SuperSport-Variety-4/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793890
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",SS ACTION
+http://212.8.253.172:2052/SuperSport-Action/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793892
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",SS RUGBY
+http://212.8.253.172:2052/SuperSport-Rugby/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793888
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",SS CRICKET
+http://212.8.253.172:2052/SuperSport-Cricket/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793887
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",SS GOLF
+http://212.8.253.172:2052/SuperSport-Golf/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=795610
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",SS TENNIS
+http://212.8.253.172:2052/SuperSport-Tennis/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=796173
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",SS MOTORSPORT
+http://212.8.253.172:2052/SuperSport-Motorsport/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=796174
+
 
 
 
