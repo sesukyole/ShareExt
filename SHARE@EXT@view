@@ -2,6 +2,148 @@
 
 
 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="|BE| Eleven Sports 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="ShareExt@EUROPE_Sports",Eleven Sports 1 HD
+http://iptv8.premium-stv.com:2052/sourc@@ebelgiquepro1/557873030/1874
+#EXTINF:-1 tvg-id="" tvg-name="|BE| Eleven Sports 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="ShareExt@EUROPE_Sports",Eleven Sports 2 HD
+http://iptv8.premium-stv.com:2052/sourc@@ebelgiquepro1/557873030/1875
+#EXTINF:-1 tvg-id="" tvg-name="|BE| Voo Sport 1 FHD" tvg-logo="" group-title="ShareExt@EUROPE_Sports",Voo Sport 1 FHD
+http://iptv8.premium-stv.com:2052/sourc@@ebelgiquepro1/557873030/1896
+#EXTINF:-1 tvg-id="" tvg-name="|BE| Voo Sport 2" tvg-logo="" group-title="ShareExt@EUROPE_Sports",Voo Sport 2
+http://iptv8.premium-stv.com:2052/sourc@@ebelgiquepro1/557873030/1897
+#EXTINF:-1 tvg-id="" tvg-name="|BE| Voo Sport World 1 FHD" tvg-logo="" group-title="ShareExt@EUROPE_Sports",Voo Sport World 1 FHD
+http://iptv8.premium-stv.com:2052/sourc@@ebelgiquepro1/557873030/1898
+#EXTINF:-1 tvg-id="" tvg-name="BE - PLAY SPORT 1 HD" tvg-logo="" group-title="ShareExt@EUROPE_Sports",PLAY SPORT 1 HD
+http://iptv8.premium-stv.com:2052/sourc@@ebelgiquepro1/557873030/3633
+#EXTINF:-1 tvg-id="" tvg-name="BE - PLAY SPORT 2 HD" tvg-logo="" group-title="ShareExt@EUROPE_Sports",PLAY SPORT 2 HD
+http://iptv8.premium-stv.com:2052/sourc@@ebelgiquepro1/557873030/3634
+
+#EXTINF:-1 group-title="ShareExt@EUROPE_Sports" tvg-name="ert.ertsports.gr" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
+#EXTINF:-1 group-title="ShareExt@EUROPE_Sports" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 2
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8
+#EXTINF:-1 group-title="ShareExt@EUROPE_Sports" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 3
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.m3u8
+
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EUROPE_Sports",beIN SPORTS News HD
+http://topiptv.net:5890/abcd/123456/70058
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EUROPE_Sports",beIN SPORTS 1 PREMIUM HD
+http://topiptv.net:5890/abcd/123456/98222
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EUROPE_Sports",beIN SPORTS 2 PREMIUM HD
+http://topiptv.net:5890/abcd/123456/98225
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EUROPE_Sports",beIN SPORTS 3 PREMIUM HD
+http://topiptv.net:5890/abcd/123456/98228
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EUROPE_Sports",beIN SPORTS 1HD
+http://topiptv.net:5890/abcd/123456/16
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EUROPE_Sports",beIN SPORTS 2HD
+http://topiptv.net:5890/abcd/123456/17
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EUROPE_Sports",beIN SPORTS 3HD
+http://topiptv.net:5890/abcd/123456/18
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EUROPE_Sports",beIN SPORTS 4HD
+http://topiptv.net:5890/abcd/123456/19
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EUROPE_Sports",beIN SPORTS 5HD
+http://topiptv.net:5890/abcd/123456/20
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EUROPE_Sports",beIN SPORTS 6HD
+http://topiptv.net:5890/abcd/123456/21
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EUROPE_Sports",beIN SPORTS 7HD
+http://topiptv.net:5890/abcd/123456/22
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EUROPE_Sports",beIN SPORTS 1 ENGLISH HD
+http://topiptv.net:5890/abcd/123456/26
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EUROPE_Sports",beIN SPORTS 2 ENGLISH HD
+http://topiptv.net:5890/abcd/123456/27
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EUROPE_Sports",beIN SPORTS 1 FRENCH HD
+http://topiptv.net:5890/abcd/123456/71322
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EUROPE_Sports",BeIN SPORTS 2 FRENCH HD
+http://topiptv.net:5890/abcd/123456/94522
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EUROPE_Sports",BeIN SPORTS 3 FRENCH HD
+http://topiptv.net:5890/abcd/123456/94523
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EUROPE_Sports",beIN SPORTS 1 XTRA HD
+http://topiptv.net:5890/abcd/123456/23
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EUROPE_Sports",beIN SPORTS 2 XTRA HD
+http://topiptv.net:5890/abcd/123456/24
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CO | WinSports Plus FHD" tvg-logo="" group-title="ShareExt@EUROPE_Sports",WinSports Plus FHD
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/8545
+#EXTINF:-1 tvg-id="" tvg-name="CL | Fox Sports" tvg-logo="" group-title="ShareExt@EUROPE_Sports",Fox Sports
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/179
+#EXTINF:-1 tvg-id="" tvg-name="AR | Fox Sports Premium*" tvg-logo="" group-title="ShareExt@EUROPE_Sports",Fox Sports Premium
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/4264
+#EXTINF:-1 tvg-id="" tvg-name="AR | TNT Sports HD*" tvg-logo="" group-title="ShareExt@EUROPE_Sports",TNT Sports HD
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/4263
+#EXTINF:-1 tvg-id="" tvg-name="PE | Gol Peru HD" tvg-logo="" group-title="ShareExt@EUROPE_Sports",Gol Peru HD
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/297
+#EXTINF:-1 tvg-id="" tvg-name="LAT-SD | Claro Sports 2" tvg-logo="" group-title="ShareExt@EUROPE_Sports",Claro Sports 2
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/92
+#EXTINF:-1 tvg-id="" tvg-name="LAT-SD | Claro Sports Latinoamerica" tvg-logo="" group-title="ShareExt@EUROPE_Sports",Claro Sports
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/91
+#EXTINF:-1 tvg-id="" tvg-name="LAT-SD | Espn 1 Sur" tvg-logo="" group-title="ShareExt@EUROPE_Sports",Espn 1 
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/73
+#EXTINF:-1 tvg-id="" tvg-name="LAT-SD | Espn 2 Sur" tvg-logo="" group-title="ShareExt@EUROPE_Sports",Espn 2 
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/72
+#EXTINF:-1 tvg-id="" tvg-name="LAT-SD | Espn 3 Sur" tvg-logo="" group-title="ShareExt@EUROPE_Sports",Espn 3 
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/71
+#EXTINF:-1 tvg-id="" tvg-name="LAT-SD | Espn Plus Sur" tvg-logo="" group-title="ShareExt@EUROPE_Sports",Espn Plus 
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/70
+#EXTINF:-1 tvg-id="" tvg-name="LAT-SD | Fox Sports 1 MX" tvg-logo="" group-title="ShareExt@EUROPE_Sports",Fox Sports 1 MX
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/55
+#EXTINF:-1 tvg-id="" tvg-name="LAT-SD | Fox Sports 1 Sur" tvg-logo="" group-title="ShareExt@EUROPE_Sports",Fox Sports 1 Sur
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/54
+#EXTINF:-1 tvg-id="" tvg-name="LAT-SD | Fox Sports 2 MX" tvg-logo="" group-title="ShareExt@EUROPE_Sports",Fox Sports 2 MX
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/53
+#EXTINF:-1 tvg-id="" tvg-name="LAT-SD | Fox Sports 2 Sur" tvg-logo="" group-title="ShareExt@EUROPE_Sports",Fox Sports 2 Sur
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/52
+#EXTINF:-1 tvg-id="" tvg-name="LAT-SD | Fox Sports 3 MX" tvg-logo="" group-title="ShareExt@EUROPE_Sports",Fox Sports 3 MX
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/51
+#EXTINF:-1 tvg-id="" tvg-name="LAT-SD | Fox Sports 3 Sur" tvg-logo="" group-title="ShareExt@EUROPE_Sports",Fox Sports 3 Sur
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/50
+#EXTINF:-1 tvg-id="" tvg-name="MX | Espn" tvg-logo="" group-title="ShareExt@EUROPE_Sports",Espn_MX
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/764
+#EXTINF:-1 tvg-id="" tvg-name="MX | Espn 2" tvg-logo="" group-title="ShareExt@EUROPE_Sports",Espn 2 MX
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/765
+#EXTINF:-1 tvg-id="" tvg-name="MX | Espn 3" tvg-logo="" group-title="ShareExt@EUROPE_Sports",Espn 3 MX
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/766
+#EXTINF:-1 tvg-id="" tvg-name="MX | Espn Plus" tvg-logo="" group-title="ShareExt@EUROPE_Sports",Espn Plus MX
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/818
+#EXTINF:-1 tvg-id="" tvg-name="MX | Espn Sec Network" tvg-logo="" group-title="ShareExt@EUROPE_Sports",Espn Sec Network
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/834
+#EXTINF:-1 tvg-id="" tvg-name="MX | Espn U" tvg-logo="" group-title="ShareExt@EUROPE_Sports",Espn U MX
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/835
+#EXTINF:-1 tvg-id="" tvg-name="MX | Fox Sports 1" tvg-logo="" group-title="ShareExt@EUROPE_Sports",Fox Sports 1 MX
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/767
+#EXTINF:-1 tvg-id="" tvg-name="MX | Fox Sports 2" tvg-logo="" group-title="ShareExt@EUROPE_Sports",Fox Sports 2 MX
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/768
+#EXTINF:-1 tvg-id="" tvg-name="MX | Fox Sports 3" tvg-logo="" group-title="ShareExt@EUROPE_Sports",Fox Sports 3 MX
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/769
+#EXTINF:-1 tvg-id="" tvg-name="MX | Golf Latin America" tvg-logo="" group-title="ShareExt@EUROPE_Sports",Golf Latin America
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/814
+#EXTINF:-1 tvg-id="" tvg-name="MX | Latin American Sports" tvg-logo="" group-title="ShareExt@EUROPE_Sports",Latin American Sports
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/715
+#EXTINF:-1 tvg-id="" tvg-name="CO | DIRECTV SPORTS 1" tvg-logo="" group-title="ShareExt@EUROPE_Sports",DIRECTV SPORTS 1
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/2658
+#EXTINF:-1 tvg-id="" tvg-name="CO | DIRECTV SPORTS 2" tvg-logo="" group-title="ShareExt@EUROPE_Sports",DIRECTV SPORTS 2
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/2659
+#EXTINF:-1 tvg-id="" tvg-name="CO | DIRECTV SPORTS PLUS" tvg-logo="" group-title="ShareExt@EUROPE_Sports",DIRECTV SPORTS PLUS
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/2660
+#EXTINF:-1 tvg-id="" tvg-name="AR | DIRECTV SPORTS 1*" tvg-logo="" group-title="ShareExt@EUROPE_Sports",DIRECTV SPORTS 1
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/5439
+#EXTINF:-1 tvg-id="" tvg-name="LAT | GOL TV" tvg-logo="" group-title="ShareExt@EUROPE_Sports",GOL TV
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/2655
+#EXTINF:-1 tvg-id="" tvg-name="LAT | BEIN Sports N" tvg-logo="" group-title="ShareExt@EUROPE_Sports",BEIN Sports N
+http://qtvplay.com:25461/gumikioro/VHcaOKVj88/2654
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="UFCTV.us" tvg-name="...UFC 24/7" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDVw-tfoaB8c6blIlH7oLN4YHUY-CJAMhTuPw=s48-mo-c-c0xffffffff-rj-k-no" group-title="SPORTS",...UFC 24/7
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/57427
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="...TSN 1 HD" tvg-logo="http://23.237.68.58/logo/tt/tsn_1_ca.png" group-title="SPORTS",...TSN 1 HD
