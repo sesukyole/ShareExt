@@ -110,10 +110,6 @@ http://212.8.253.172:2052/SuperSport-Motorsport/index.m3u8?username=FernanSisaya
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="ShareExt@MALAY_PRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Fox_movies_arabia_%28bein%29.png", FOX MOVIES
-https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_PRO",FoxActionMovies
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
