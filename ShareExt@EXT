@@ -506,6 +506,111 @@ http://139.196.144.110:80/huya11/11342430
 
 
 
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="blueantext" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565946228444.png" group-title="ShareExt@QNET",Blue Ant Extreme
+http://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="asian_food_channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" group-title="ShareExt@QNET",Asian Food Channel | FPT Play
+http://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="asian_food_channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" group-title="ShareExt@QNET",Asian Food Channel | HPlus
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="abc_australia" tvg-logo="http://fboximages.fptplay.net.vn/Channel/iconChannel/abcaustralia_vdsl.png" group-title="ShareExt@QNET",ABC Australia
+http://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="kbs_world" tvg-logo="https://imgstatic.vtvcab.vn/logos/KBS_WORLD_M.png" group-title="ShareExt@QNET",KBS World | VieON
+http://chungxda.github.io/m3u8/VieON/KBSWorldHD.m3u8
+#EXTINF:-1 tvg-id="kbs_world" tvg-logo="https://imgstatic.vtvcab.vn/logos/KBS_WORLD_M.png" group-title="ShareExt@QNET",KBS World | FPT Play
+http://livecdn.fptplay.net/sdb/kbs_2000.stream/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="national_geographic" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484307492.png" group-title="ShareExt@QNET",National Geographic HD
+http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.hplus.com.vn/460x260/poster/2019/07/16/198549-nat_geo_wild.png" group-title="ShareExt@QNET",Nat Geo WILD HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://api.discovery.com/v1/images/5ca22512d1b3ee5361260d00?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" group-title="ShareExt@QNET",Discovery Channel | FPT Play
+http://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://api.discovery.com/v1/images/5ca22512d1b3ee5361260d00?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" group-title="ShareExt@QNET",Discovery Channel | Hlus
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="discovery_asia" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/253.png" group-title="ShareExt@QNET",Discovery Asia
+http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="animalhd" tvg-logo="https://api.discovery.com/v1/images/5bc91cba6b66d1494068339f?aspectRatio=original&width=105&height=&key=3020a40c2356a645b4b4" group-title="ShareExt@QNET",Animal Planet HD
+https://livecdn.fptplay.net/qnetlive/animalplanet_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="tlc" tvg-logo="https://www.tlc-tw.com/images/logo.png" group-title="ShareExt@QNET",TLC
+http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="channel_v" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/200px-Channel_V_Logo.svg.png" group-title="ShareExt@QNET",Channel [V] HD | FPT Play
+http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="channel_v" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/200px-Channel_V_Logo.svg.png" group-title="ShareExt@QNET",Channel [V] HD | HPlus
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="cnn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/200px-CNN.svg.png" group-title="ShareExt@QNET",CNN
+http://livecdn.fptplay.net/qnetlive/cnn_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="nhk_world" tvg-logo="https://mytv.com.vn/upload/channel/50.png" group-title="ShareExt@QNET",NHK WORLD JAPAN
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-id="bbcworldnews" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/551.png?rand=829" group-title="ShareExt@QNET",BBC World News
+http://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="bbcearth" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/252.png?rand=576" group-title="ShareExt@QNET",BBC Earth
+http://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="bbclifestyle" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/260.png?rand=995" group-title="ShareExt@QNET",BBC Lifestyle
+http://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="outdoor_channel" tvg-logo="https://mytv.com.vn/upload/channel/108.png" group-title="ShareExt@QNET",Outdoor Channel
+http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="cna_channel_news_asia" tvg-logo="https://imgstatic.vtvcab.vn/logos/CNA_M.png" group-title="ShareExt@QNET",CNA - Channel News Asia
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="bloomberg" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/552.png?rand=978" group-title="ShareExt@QNET",Bloomberg TV
+https://livecdn.fptplay.net/qnetlive/bloomberg_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="tv5monde_asie" tvg-logo="https://mytv.com.vn/upload/channel/65.png" group-title="ShareExt@QNET",TV5 Monde Asie TV | VieON
+http://chungxda.github.io/m3u8/VieON/TV5MondeAsie.m3u8
+#EXTINF:-1 tvg-id="tv5monde_asie" tvg-logo="https://mytv.com.vn/upload/channel/65.png" group-title="ShareExt@QNET",TV5 Monde Asie ENG | FPT Play
+http://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="france_24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="ShareExt@QNET",France 24
+http://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="dw" tvg-logo="https://imgstatic.vtvcab.vn/logos/DW_CHANNEL_M.png" group-title="ShareExt@QNET",DW News
+http://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="fashion_tv" tvg-logo="https://mytv.com.vn/upload/channel/162.png" group-title="ShareExt@QNET",Fashion TV
+https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="mtv_asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/150px-MTV_Logo_2010.svg.png" group-title="ShareExt@QNET",MTV Asia
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.live/images/logo/channel/crops/645218ea392a5a3cb22cfdf9f332c8d9.png" group-title="ShareExt@QNET" ,ПЕРВЫЙ КАНАЛ HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TV/bw5000000/variant.m3u8
+#EXTINF:-1 tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/news_2x.png" group-title="ShareExt@QNET",Global News
+http://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://ui.cgtn.com/static/ng/resource/images/icon/logo@3x.png" group-title="ShareExt@QNET",CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/220px-CGTN_Documentary_logo.png" group-title="ShareExt@QNET",CGTN Documentary
+http://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="ShareExt@QNET",RT News
+http://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
+#EXTINF:-1 tvg-id="NASA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/160px-NASA_logo.svg.png" group-title="ShareExt@QNET",NASA TV
+http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-id="animaxhd" tvg-logo="https://static.epg.best/kr/Animax.kr.png" group-title="ShareExt@CARTOON",Animax
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/108.png?rand=246" group-title="ShareExt@CARTOON",CBeebies
+https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://mytv.com.vn/upload/channel/179.png" group-title="ShareExt@CARTOON", Cartoon Network HD 
+https://livecdn.fptplay.net/hda3/cartoonnetworkhd_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="ShareExt@CARTOON",Baby First 
+http://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="ShareExt@CARTOON",Baby First | HPlus
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
+#EXTINF:-1 tvg-id="boomerang" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/102.png" group-title="ShareExt@CARTOON",Boomerang
+http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="davinci" tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="ShareExt@CARTOON",Da Vinci Kids 
+http://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="davinci" tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="ShareExt@CARTOON",Da Vinci Kids Learning | HPlus
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="ShareExt@CARTOON",Nickelodeon
+http://gg.gg/NickelodeonChungXDA
+#EXTINF:-1 tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="ShareExt@CARTOON",Nick Jr
+http://gg.gg/NickelodeonJRbyChungXDA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tokusatsunetwork.com/wp-content/uploads/2020/03/tsu-e1584362198575.png" group-title="ShareExt@CARTOON",TokuSHOUTsu
+http://gg.gg/TokuSHOUTsu
+
+
+
+
+
+
+
+
+
 
 
 
