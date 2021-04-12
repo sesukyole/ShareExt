@@ -218,30 +218,6 @@ http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
 https://95-213-172-213.livesports24.online/setantaukraine.m3u8a
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" group-title="ShareExt@premiumSport",SetantaSport2 hd
 https://95-213-172-213.livesports24.online/setantaplusru.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" group-title="ShareExt@premiumSport",beIN Sport 1
-https://fikrulmkc.my.id/bagus/usee-bein1.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein2_small1.png?v=2.0.0.13" group-title="ShareExt@premiumSport",beIN Sport 2
-https://fikrulmkc.my.id/bagus/usee-bein2.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_nba_small1.png?v=2.0.0.13" group-title="ShareExt@premiumSport",NBA
-https://fikrulmkc.my.id/bagus/usee-nba.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_champ1_small.png" group-title="ShareExt@premiumSport",ChampionTV 1
-https://fikrulmkc.my.id/bagus/usee-champion1.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_champ2_small.png" group-title="ShareExt@premiumSport",Champion TV 2
-https://fikrulmkc.my.id/bagus/usee-champion2.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_foxsports1_small.png?v=2.0.0.13" group-title="ShareExt@premiumSport",Fox Sport 1
-https://fikrulmkc.my.id/bagus/usee-foxsport1.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_foxsports2_small.png?v=2.0.0.13" group-title="ShareExt@premiumSport",Fox Sport 2
-https://fikrulmkc.my.id/bagus/usee-foxsport2.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_foxsports3_small.png?v=2.0.0.13" group-title="ShareExt@premiumSport",Fox Sport 3
-https://fikrulmkc.my.id/bagus/usee-foxsport3.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_golf_small1.png?v=2.0.0.14" group-title="ShareExt@premiumSport",Golf+
-https://fikrulmkc.my.id/bagus/usee-golfplus.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_useesport_small.png?v=2.0.0.13" group-title="ShareExt@premiumSport",Useesports 1
-https://fikrulmkc.my.id/bagus/usee-useesport.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_useesports2_small.png" group-title="ShareExt@premiumSport", Useesports 2
-https://fikrulmkc.my.id/bagus/usee-useesports2.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_egg_small1.png?v=2.0.0.13" group-title="ShareExt@premiumSport",eGG TV
-https://fikrulmkc.my.id/bagus/usee-egg.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@premiumSport",Skynet Sport1
 http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@premiumSport",Skynet Sport2
@@ -441,6 +417,154 @@ https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
 https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/ydVydPGm/FEED-SPORTS.png" group-title="ShareExt@premiumSport",TrueSports 
 https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="ShareExt@HongKong_Tv",翡翠台
+http://61.238.6.49:8000/bysid/1
+#EXTINF:-1 tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="ShareExt@HongKong_Tv",J2台
+http://61.238.6.49:8001/bysid/82
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="ShareExt@HongKong_Tv",無綫明珠台(TVB Pearl)
+http://61.238.6.49:8001/bysid/2.mpeg
+#EXTINF:-1 tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png" group-title="ShareExt@HongKong_Tv",無綫新聞台
+http://livetv.dnsfor.me/channel.10.m3u8
+#EXTINF:-1 tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_financial_news.png" group-title="ShareExt@HongKong_Tv",無綫財經資訊台
+http://livetv.dnsfor.me/channel.11.m3u8
+#EXTINF:-1 tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_xing_he_channel.png" group-title="ShareExt@HongKong_Tv",TVB 星河频道
+http://live5.ocnttv.com:8080/ZZ_xinghe/ZZ_xinghe.m3u8
+#EXTINF:-1 tvg-logo="http://tv.sason.xyz/logo/fhxg.png" group-title="ShareExt@HongKong_Tv",鳳凰衛視HONG KONG台
+http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="ShareExt@HongKong_Tv",ViuTVsix
+http://61.238.6.49:8000/bysid/96
+#EXTINF:-1 tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="ShareExt@HongKong_Tv",ViuTV
+http://61.238.6.49:8000/bysid/99
+#EXTINF:-1 tvg-logo="http://utvhk.com/maint/images/channel/7ac969f6ec0ff483fcb34b05a257d7d1.png" group-title="ShareExt@HongKong_Tv",有線綜合娱乐
+http://livetv.dnsfor.me/channel.7.m3u8
+#EXTINF:-1 tvg-logo="http://utvhk.com/maint/images/channel/d116ecd633cdbff96b0a91867d4f7f8c.png" group-title="ShareExt@HongKong_Tv",有線新闻
+http://livetv.dnsfor.me:80/channel.5.m3u8
+#EXTINF:-1 tvg-logo="http://utvhk.com/maint/images/channel/be75ddf0144b7fccdd03bf8016a61f64.png" group-title="ShareExt@HongKong_Tv",有線財經資訊
+http://livetv.dnsfor.me/channel.6.m3u8
+#EXTINF:-1 tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="ShareExt@HongKong_Tv",HONG KONG开電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png" group-title="ShareExt@HongKong_Tv",Now Sports Prime
+http://teslagram.com/live/channel_630.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/bf/HKJC_Horse_Racing.jpg" group-title="ShareExt@HongKong_Tv",赛马直击
+http://liveima.utvlive.top/livehls/MOB-HR/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.hkatv.com/images/logo.png" group-title="ShareExt@HongKong_Tv",亞洲電視台
+https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",TVB J2台
+http://93.190.139.36:8278/streams/d/j2_twn/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",TVB 星河
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",TVB明珠台
+http://93.190.139.36:8278/streams/d/pearl_twn/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",TVB翡翠台
+http://93.190.139.36:8278/streams/d/jade_twn/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",TVB新聞台
+http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",J2
+http://61.238.6.49:8001/bysid/82
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",香港有綫新聞
+https://flv3948069e.live.126.net:443/live/251ad1cb6ff4eeb0a3e13f57c1cd97d8.flv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",TVB無綫新聞
+https://flv3948069e.live.126.net:443/live/26cd4ba8bf1fae3a74e95809032a21e9.flv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",無綫新聞資訊台
+http://61.238.6.49:8001/bysid/83
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",無綫財經資訊台
+http://61.238.6.49:8001/bysid/85
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",鳳凰資訊
+http://117.169.120.138:8080/live/fhzixun/.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",香港開電
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",Celestial Movies
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",Thrill
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",亞旅衛視
+http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",耀才財經台
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",港台電視31
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",凤凰中文台
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",有线新闻
+http://live-hwcdn.utvlive.top/live/fe19cd44717842fea90503d10aa7bab9/543b4d76d8614cf49194abe9db521736-1.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",有线新闻2
+http://livetv.dnsfor.me/channel.5.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",星空卫视2
+https://itv.ahcme.edu.cn/hls/startv.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",莲花卫视
+http://live-hls.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",澳视澳门
+http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",澳门卫星
+http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",澳门资讯
+http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",港视32台
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",港视32台2
+http://livetv.dnsfor.me/channel.2.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",TVB 明珠台
+http://61.238.6.49:8001/bysid/2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",TVB星河台
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",TVB 新闻台
+http://livetv.dnsfor.me/channel.10.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",香港开电视
+http://livetv.dnsfor.me/channel.9.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",无线财经资讯
+http://livetv.dnsfor.me/channel.11.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",有线娱乐台
+http://livetv.dnsfor.me/channel.7.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",有线财
+http://star.tvhz.xyz/iptv.php?id=7
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",有线财经新闻台
+http://livetv.dnsfor.me/channel.6.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",NOW新闻
+https://flv3948069e.live.126.net/live/nownews.flv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",NOW SPORT
+http://livetv.dnsfor.me/channel.12.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",RTHK31
+http://livetv.dnsfor.me/channel.1.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",澳亚卫视
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=192&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",澳视卫星
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",澳视葡文
+http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",澳视资讯
+http://61.244.22.5/ch5/info_ch5.live/master.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",澳门2台
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",澳门Macau
+http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",潍坊新闻HD
+http://stream.wfcmw.cn/1/sd/live.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",RTHK31
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",亚洲新闻
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",亚美卫视
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",求索一
+http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",求索三
+http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",求索二
+http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",求索四
+http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
+
+
+
+
+
+
 
 
 
