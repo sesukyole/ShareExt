@@ -618,83 +618,83 @@ http://gg.gg/TokuSHOUTsu
 
 
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",北京卫视高清
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",北京卫视高清(setAuto)
 rtmp://58.200.131.2:1935/livetv/btv1hd
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",北京影视高清
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",北京影视高清(setAuto)
 rtmp://58.200.131.2:1935/livetv/btv4hd
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",北京体育高清
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",北京体育高清(setAuto)
 rtmp://58.200.131.2:1935/livetv/btv6hd
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",北京新闻高清
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",北京新闻高清(setAuto)
 rtmp://58.200.131.2:1935/livetv/btv9hd
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",北京纪实高清
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",北京纪实高清(setAuto)
 rtmp://58.200.131.2:1935/livetv/btv11hd
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",北京文艺
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",北京文艺(setAuto)
 rtmp://58.200.131.2:1935/livetv/btv2
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",北京科教
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",北京科教(setAuto)
 rtmp://58.200.131.2:1935/livetv/btv3
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",北京财
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",北京财(setAuto)
 rtmp://58.200.131.2:1935/livetv/btv5
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",北京生活
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",北京生活(setAuto)
 rtmp://58.200.131.2:1935/livetv/btv7
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",北京青年
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",北京青年(setAuto)
 rtmp://58.200.131.2:1935/livetv/btv8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",北京卡酷
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",北京卡酷(setAuto)
 rtmp://58.200.131.2:1935/livetv/btv10
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",北京文艺高清
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",北京文艺高清(setAuto)
 rtmp://58.200.131.2:1935/livetv/btv2hd
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",安徽卫视高清
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",安徽卫视高清(setAuto)
 rtmp://58.200.131.2:1935/livetv/ahhd
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",重庆卫视高清
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",重庆卫视高清(setAuto)
 rtmp://58.200.131.2:1935/livetv/cqhd
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",东方卫视高清
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",东方卫视高清(setAuto)
 rtmp://58.200.131.2:1935/livetv/dfhd
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",天津卫视高清
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",天津卫视高清(setAuto)
 rtmp://58.200.131.2:1935/livetv/tjhd
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",东南卫视高清
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",东南卫视高清(setAuto)
 rtmp://58.200.131.2:1935/livetv/dnhd
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",江西卫视高清
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",江西卫视高清(setAuto)
 rtmp://58.200.131.2:1935/livetv/jxhd
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",河北卫视高清
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",河北卫视高清(setAuto)
 rtmp://58.200.131.2:1935/livetv/hebhd
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",湖南卫视高清
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",湖南卫视高清(setAuto)
 rtmp://58.200.131.2:1935/livetv/hunanhd
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",湖北卫视高清
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",湖北卫视高清(setAuto)
 rtmp://58.200.131.2:1935/livetv/hbhd
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",辽宁卫视高清
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",辽宁卫视高清(setAuto)
 rtmp://58.200.131.2:1935/livetv/lnhd
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",四川卫视高清
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",四川卫视高清(setAuto)
 rtmp://58.200.131.2:1935/livetv/schd
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",江苏卫视高清
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",江苏卫视高清(setAuto)
 rtmp://58.200.131.2:1935/livetv/jshd
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",浙江卫视高清
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",浙江卫视高清(setAuto)
 rtmp://58.200.131.2:1935/livetv/zjhd
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",山东卫视高清
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",山东卫视高清(setAuto)
 rtmp://58.200.131.2:1935/livetv/sdhd
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",广东卫视高清
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",广东卫视高清(setAuto)
 rtmp://58.200.131.2:1935/livetv/gdhd
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",深圳卫视高清
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",深圳卫视高清(setAuto)
 rtmp://58.200.131.2:1935/livetv/szhd
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",黑龙江卫视高清
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",黑龙江卫视高清(setAuto)
 rtmp://58.200.131.2:1935/livetv/hljhd
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",CHC高清电影
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",CHC高清电影(setAuto)
 rtmp://58.200.131.2:1935/livetv/chchd
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",上海纪实高清
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",上海纪实高清(setAuto)
 rtmp://58.200.131.2:1935/livetv/docuchina
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",金鹰纪实高清
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",金鹰纪实高清(setAuto)
 rtmp://58.200.131.2:1935/livetv/gedocu
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",全纪实高清
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",全纪实高清(setAuto)
 rtmp://58.200.131.2:1935/livetv/documentaryhd
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",Channel[V]
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",Channel[V](setAuto)
 rtmp://58.200.131.2:1935/livetv/channelv
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",CHC家庭影院
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",CHC家庭影院(setAuto)
 rtmp://58.200.131.2:1935/livetv/chctv
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",CHC动作电影
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",CHC动作电影(setAuto)
 rtmp://58.200.131.2:1935/livetv/chcatv
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",美国电视频道
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",美国电视频道(setAuto)
 rtmp://media3.scctv.net/live/scctv_800  
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",StarTvHK(xingkong)
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",StarTvHK(xingkong)(setAuto)
 rtmp://58.200.131.2:1935/livetv/startv
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",StarSportHK
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HongKong_Tv",StarSportHK(setAuto)
 rtmp://58.200.131.2:1935/livetv/starsports
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="ShareExt@HongKong_Tv",翡翠台
 http://61.238.6.49:8000/bysid/1
