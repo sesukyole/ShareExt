@@ -254,6 +254,150 @@ http://122.248.43.138:1935/ch26/myStream/live.m3u8
 
 
 
+#EXTINF:-1 tvg-id="6152" tvg-name="HBO_HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="ShareExt@TESST_TWMALY",HBO_HD
+http://tv.tangyuantv.cf:8080/test520/123456/94
+#EXTINF:-1 tvg-id="6153" tvg-name="HBO_HITS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="ShareExt@TESST_TWMALY",HBO_HITS
+http://tv.tangyuantv.cf:8080/test520/123456/96
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="http://jiekou.wakds.xyz/logo/r_2798.png" group-title="ShareExt@TESST_TWMALY",TV1
+http://tv.tangyuantv.cf:8080/test520/123456/149
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-logo="http://jiekou.wakds.xyz/logo/r_2799.png" group-title="ShareExt@TESST_TWMALY",TV2
+http://tv.tangyuantv.cf:8080/test520/123456/150
+#EXTINF:-1 tvg-id="" tvg-name="TvN" tvg-logo="http://jiekou.wakds.xyz/logo/r_2923.png" group-title="ShareExt@TESST_TWMALY",TvN
+http://tv.tangyuantv.cf:8080/test520/123456/176
+#EXTINF:-1 tvg-id="" tvg-name="欢喜台" tvg-logo="http://jiekou.wakds.xyz/logo/r_2816.png" group-title="ShareExt@TESST_TWMALY",欢喜台
+http://tv.tangyuantv.cf:8080/test520/123456/185
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="ShareExt@TESST_TWMALY",TVBS新闻
+http://tv.tangyuantv.cf:8080/test520/123456/14
+#EXTINF:-1 tvg-id="7204" tvg-name="寰宇财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/huanyucaijing.png" group-title="ShareExt@TESST_TWMALY",寰宇财经
+http://tv.tangyuantv.cf:8080/test520/123456/15
+#EXTINF:-1 tvg-id="6058" tvg-name="东森戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" group-title="ShareExt@TESST_TWMALY",东森戏剧
+http://tv.tangyuantv.cf:8080/test520/123456/39
+#EXTINF:-1 tvg-id="6080" tvg-name="东森电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="ShareExt@TESST_TWMALY",东森电影
+http://tv.tangyuantv.cf:8080/test520/123456/53
+#EXTINF:-1 tvg-id="6084" tvg-name="babyfirst" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyFirst.png" group-title="ShareExt@TESST_TWMALY",babyfirst
+http://tv.tangyuantv.cf:8080/test520/123456/56
+#EXTINF:-1 tvg-id="7128" tvg-name="龙华电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png" group-title="ShareExt@TESST_TWMALY",龙华电影
+http://tv.tangyuantv.cf:8080/test520/123456/58
+#EXTINF:-1 tvg-id="7127" tvg-name="龙华戏剧" tvg-logo="http://jiekou.wakds.xyz/logo/r_2591.png" group-title="ShareExt@TESST_TWMALY",龙华戏剧
+http://tv.tangyuantv.cf:8080/test520/123456/70
+#EXTINF:-1 tvg-id="7126" tvg-name="龙华偶像" tvg-logo="http://jiekou.wakds.xyz/logo/r_2592.png" group-title="ShareExt@TESST_TWMALY",龙华偶像
+http://tv.tangyuantv.cf:8080/test520/123456/77
+#EXTINF:-1 tvg-id="7132" tvg-name="龙华洋片" tvg-logo="http://jiekou.wakds.xyz/logo/r_2595.png" group-title="ShareExt@TESST_TWMALY",龙华洋片
+http://tv.tangyuantv.cf:8080/test520/123456/81
+#EXTINF:-1 tvg-id="870" tvg-name="FOXActionMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="ShareExt@TESST_TWMALY",FOXActionMovies
+http://tv.tangyuantv.cf:8080/test520/123456/98
+#EXTINF:-1 tvg-id="710" tvg-name="Fox_Family" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="ShareExt@TESST_TWMALY",Fox_Family
+http://tv.tangyuantv.cf:8080/test520/123456/99
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO BOX OFFICE" tvg-logo="" group-title="ShareExt@TESST_TWMALY",ASTRO BOX OFFICE
+http://tv.tangyuantv.cf:8080/test520/123456/122
+#EXTINF:-1 tvg-id="" tvg-name="天映经典" tvg-logo="" group-title="ShareExt@TESST_TWMALY",天映经典
+http://tv.tangyuantv.cf:8080/test520/123456/123
+#EXTINF:-1 tvg-id="7213" tvg-name="爱尔达体育3" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports3.png" group-title="ShareExt@TESST_TWMALY",爱尔达体育3
+http://tv.tangyuantv.cf:8080/test520/123456/144
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="http://jiekou.wakds.xyz/logo/r_2800.png" group-title="ShareExt@TESST_TWMALY",TV3
+http://tv.tangyuantv.cf:8080/test520/123456/151
+#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="http://jiekou.wakds.xyz/logo/r_2801.png" group-title="ShareExt@TESST_TWMALY",NTV7
+http://tv.tangyuantv.cf:8080/test520/123456/153
+#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7 backup" tvg-logo="http://jiekou.wakds.xyz/logo/r_2801.png" group-title="ShareExt@TESST_TWMALY",NTV7 backup
+http://tv.tangyuantv.cf:8080/test520/123456/154
+#EXTINF:-1 tvg-id="8TV" tvg-name="TV8" tvg-logo="http://jiekou.wakds.xyz/logo/r_2802.png" group-title="ShareExt@TESST_TWMALY",TV8
+http://tv.tangyuantv.cf:8080/test520/123456/155
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="http://jiekou.wakds.xyz/logo/r_2803.png" group-title="ShareExt@TESST_TWMALY",TV9
+http://tv.tangyuantv.cf:8080/test520/123456/156
+#EXTINF:-1 tvg-id="" tvg-name="Awani" tvg-logo="http://jiekou.wakds.xyz/logo/r_2831.png" group-title="ShareExt@TESST_TWMALY",Awani
+http://tv.tangyuantv.cf:8080/test520/123456/159
+#EXTINF:-1 tvg-id="" tvg-name="Bernama" tvg-logo="http://jiekou.wakds.xyz/logo/Bernama.png" group-title="ShareExt@TESST_TWMALY",Bernama
+http://tv.tangyuantv.cf:8080/test520/123456/160
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO PRIMA" tvg-logo="http://jiekou.wakds.xyz/logo/r_2822.png" group-title="ShareExt@TESST_TWMALY",ASTRO PRIMA
+http://tv.tangyuantv.cf:8080/test520/123456/161
+#EXTINF:-1 tvg-id="7183" tvg-name="Al-Hijrah" tvg-logo="http://jiekou.wakds.xyz/logo/Hijrah.png" group-title="ShareExt@TESST_TWMALY",Al-Hijrah
+http://tv.tangyuantv.cf:8080/test520/123456/162
+#EXTINF:-1 tvg-id="" tvg-name="RTM Sports HD" tvg-logo="http://jiekou.wakds.xyz/logo/RTMSports.png" group-title="ShareExt@TESST_TWMALY",RTM Sports HD
+http://tv.tangyuantv.cf:8080/test520/123456/163
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Arena" tvg-logo="http://jiekou.wakds.xyz/logo/20200822074553994010011.png" group-title="ShareExt@TESST_TWMALY",ASTRO Arena
+http://tv.tangyuantv.cf:8080/test520/123456/164
+#EXTINF:-1 tvg-id="427" tvg-name="NatGeo Wild HD" tvg-logo="http://jiekou.wakds.xyz/logo/r_2658.png" group-title="ShareExt@TESST_TWMALY",NatGeo Wild HD
+http://tv.tangyuantv.cf:8080/test520/123456/165
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO OASIS" tvg-logo="http://jiekou.wakds.xyz/logo/20200822000614840910013.png" group-title="ShareExt@TESST_TWMALY",ASTRO OASIS
+http://tv.tangyuantv.cf:8080/test520/123456/166
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Ceria" tvg-logo="http://jiekou.wakds.xyz/logo/r_2823.png" group-title="ShareExt@TESST_TWMALY",ASTRO Ceria
+http://tv.tangyuantv.cf:8080/test520/123456/167
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Citra" tvg-logo="http://jiekou.wakds.xyz/logo/astroCitra.png" group-title="ShareExt@TESST_TWMALY",ASTRO Citra
+http://tv.tangyuantv.cf:8080/test520/123456/168
+#EXTINF:-1 tvg-id="" tvg-name="Drama Sangat" tvg-logo="http://jiekou.wakds.xyz/logo/drama.png" group-title="ShareExt@TESST_TWMALY",Drama Sangat
+http://tv.tangyuantv.cf:8080/test520/123456/169
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO NAURA" tvg-logo="http://jiekou.wakds.xyz/logo/20200822000716098910014.png" group-title="ShareExt@TESST_TWMALY",ASTRO NAURA
+http://tv.tangyuantv.cf:8080/test520/123456/170
+#EXTINF:-1 tvg-id="" tvg-name="Hello" tvg-logo="http://jiekou.wakds.xyz/logo/20200822005756080410045.png" group-title="ShareExt@TESST_TWMALY",Hello
+http://tv.tangyuantv.cf:8080/test520/123456/171
+#EXTINF:-1 tvg-id="" tvg-name="Goshop" tvg-logo="http://jiekou.wakds.xyz/logo/goshop.png" group-title="ShareExt@TESST_TWMALY",Goshop
+http://tv.tangyuantv.cf:8080/test520/123456/172
+#EXTINF:-1 tvg-id="" tvg-name="Goshop Ch" tvg-logo="http://jiekou.wakds.xyz/logo/goshop.png" group-title="ShareExt@TESST_TWMALY",Goshop Ch
+http://tv.tangyuantv.cf:8080/test520/123456/173
+#EXTINF:-1 tvg-id="" tvg-name="Sony HD" tvg-logo="http://jiekou.wakds.xyz/logo/20200822004118710210034.png" group-title="ShareExt@TESST_TWMALY",Sony HD
+http://tv.tangyuantv.cf:8080/test520/123456/174
+#EXTINF:-1 tvg-id="" tvg-name="KBS Wolrd" tvg-logo="http://jiekou.wakds.xyz/logo/kbsworld.png" group-title="ShareExt@TESST_TWMALY",KBS Wolrd
+http://tv.tangyuantv.cf:8080/test520/123456/175
+#EXTINF:-1 tvg-id="" tvg-name="Oh!k" tvg-logo="http://jiekou.wakds.xyz/logo/20200822004002838810033.png" group-title="ShareExt@TESST_TWMALY",Oh!k
+http://tv.tangyuantv.cf:8080/test520/123456/177
+#EXTINF:-1 tvg-id="" tvg-name="天映频道" tvg-logo="http://jiekou.wakds.xyz/logo/r_2830.png" group-title="ShareExt@TESST_TWMALY",天映频道
+http://tv.tangyuantv.cf:8080/test520/123456/179
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO WARNA" tvg-logo="http://jiekou.wakds.xyz/logo/20200820175023607310002.png" group-title="ShareExt@TESST_TWMALY",ASTRO WARNA
+http://tv.tangyuantv.cf:8080/test520/123456/180
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO RIA" tvg-logo="http://jiekou.wakds.xyz/logo/r_2824.png" group-title="ShareExt@TESST_TWMALY",ASTRO RIA
+http://tv.tangyuantv.cf:8080/test520/123456/181
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO AEC" tvg-logo="http://jiekou.wakds.xyz/logo/r_2814.png" group-title="ShareExt@TESST_TWMALY",ASTRO AEC
+http://tv.tangyuantv.cf:8080/test520/123456/182
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO AOD 511" tvg-logo="http://jiekou.wakds.xyz/logo/r_2815.png" group-title="ShareExt@TESST_TWMALY",ASTRO AOD 511
+http://tv.tangyuantv.cf:8080/test520/123456/183
+#EXTINF:-1 tvg-id="" tvg-name="华丽台" tvg-logo="http://jiekou.wakds.xyz/logo/r_2817.png" group-title="ShareExt@TESST_TWMALY",华丽台
+http://tv.tangyuantv.cf:8080/test520/123456/184
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO 爱奇艺" tvg-logo="http://jiekou.wakds.xyz/logo/aiqiyi.png" group-title="ShareExt@TESST_TWMALY",ASTRO 爱奇艺
+http://tv.tangyuantv.cf:8080/test520/123456/186
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO AOD HD" tvg-logo="http://jiekou.wakds.xyz/logo/r_2815.png" group-title="ShareExt@TESST_TWMALY",ASTRO AOD HD
+http://tv.tangyuantv.cf:8080/test520/123456/187
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO 全佳" tvg-logo="http://jiekou.wakds.xyz/logo/r_2818.png" group-title="ShareExt@TESST_TWMALY",ASTRO 全佳
+http://tv.tangyuantv.cf:8080/test520/123456/188
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO 双星" tvg-logo="http://jiekou.wakds.xyz/logo/r_2820.png" group-title="ShareExt@TESST_TWMALY",ASTRO 双星
+http://tv.tangyuantv.cf:8080/test520/123456/189
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO 小太阳" tvg-logo="http://jiekou.wakds.xyz/logo/r_2829.png" group-title="ShareExt@TESST_TWMALY",ASTRO 小太阳
+http://tv.tangyuantv.cf:8080/test520/123456/190
+#EXTINF:-1 tvg-id="" tvg-name="TVB 星河" tvg-logo="http://jiekou.wakds.xyz/logo/r_2826.png" group-title="ShareExt@TESST_TWMALY",TVB 星河
+http://tv.tangyuantv.cf:8080/test520/123456/191
+#EXTINF:-1 tvg-id="" tvg-name="alhijrah" tvg-logo="" group-title="ShareExt@TESST_TWMALY",alhijrah
+http://tv.tangyuantv.cf:8080/test520/123456/192
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://jiekou.wakds.xyz/logo/r_2745.png" group-title="ShareExt@TESST_TWMALY",HBO HD
+http://tv.tangyuantv.cf:8080/test520/123456/193
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://jiekou.wakds.xyz/logo/HGTV.png" group-title="ShareExt@TESST_TWMALY",HGTV
+http://tv.tangyuantv.cf:8080/test520/123456/194
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet (Eng)" tvg-logo="http://jiekou.wakds.xyz/logo/r_2667.png" group-title="ShareExt@TESST_TWMALY",Animal Planet (Eng)
+http://tv.tangyuantv.cf:8080/test520/123456/195
+#EXTINF:-1 tvg-id="" tvg-name="New Japan Pro Wrestling World" tvg-logo="" group-title="ShareExt@TESST_TWMALY",New Japan Pro Wrestling World
+http://tv.tangyuantv.cf:8080/test520/123456/2779
+#EXTINF:-1 tvg-id="" tvg-name="BOO恐怖台" tvg-logo="http://jiekou.wakds.xyz/logo/20200822002155185110024.png" group-title="ShareExt@TESST_TWMALY",BOO恐怖台
+http://tv.tangyuantv.cf:8080/test520/123456/4382
+#EXTINF:-1 tvg-id="6142" tvg-name="大爱2" tvg-logo="http://jiekou.wakds.xyz/logo/r_2579.png" group-title="ShareExt@TESST_TWMALY",大爱2Daitv2
+http://tv.tangyuantv.cf:8080/test520/123456/4383
+#EXTINF:-1 tvg-id="6142" tvg-name="大爱3海外" tvg-logo="http://jiekou.wakds.xyz/logo/r_2578.png" group-title="ShareExt@TESST_TWMALY",大爱3海外Daitv3
+http://tv.tangyuantv.cf:8080/test520/123456/4384
+#EXTINF:-1 tvg-id="" tvg-name="ELTA娱乐" tvg-logo="http://jiekou.wakds.xyz/logo/r_2624.png" group-title="ShareExt@TESST_TWMALY",ELTA娱乐
+http://tv.tangyuantv.cf:8080/test520/123456/3501
+#EXTINF:-1 tvg-id="6087" tvg-name="FOX MOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" group-title="ShareExt@TESST_TWMALY",FOX MOVIES
+http://tv.tangyuantv.cf:8080/test520/123456/3505
+#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="ShareExt@TESST_TWMALY",FOX
+http://tv.tangyuantv.cf:8080/test520/123456/3507
+#EXTINF:-1 tvg-id="7164" tvg-name="国际电影台" tvg-logo="http://jiekou.wakds.xyz/logo/gjdyt.png" group-title="ShareExt@TESST_TWMALY",国际电影台
+http://tv.tangyuantv.cf:8080/test520/123456/3512
+#EXTINF:-1 tvg-id="" tvg-name="民视影剧" tvg-logo="http://jiekou.wakds.xyz/logo/msyjt.png" group-title="ShareExt@TESST_TWMALY",民视影剧
+http://tv.tangyuantv.cf:8080/test520/123456/3513
+#EXTINF:-1 tvg-id="354" tvg-name="FOX CRIME" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXCRIME.png" group-title="ShareExt@TESST_TWMALY",FOX CRIME
+http://tv.tangyuantv.cf:8080/test520/123456/3515
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="ShareExt@TESST_TWMALY",HBOSignature
+http://tv.tangyuantv.cf:8080/test520/123456/3516
+#EXTINF:-1 tvg-id="6153" tvg-name="HBO Hits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="ShareExt@TESST_TWMALY",HBO Hits
+http://tv.tangyuantv.cf:8080/test520/123456/3517
+#EXTINF:-1 tvg-id="" tvg-name="都市剧场" tvg-logo="http://jiekou.wakds.xyz/logo/r_2524.png" group-title="ShareExt@TESST_TWMALY",都市剧场
+http://tv.tangyuantv.cf:8080/test520/123456/3542
 
 
 
