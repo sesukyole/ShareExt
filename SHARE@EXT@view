@@ -886,6 +886,335 @@ http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
 
 
 
+
+
+
+
+
+
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",凤凰中文(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=sz_phcn&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",凤凰资讯(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=sz_phzx&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",凤凰香港(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=sz_phhk&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",翡翠台(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1001&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",J2(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1002&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",TVB星河频道(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58031&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",无线财经(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1003&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",明珠台(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1004&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",无线新闻(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1005&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",民视(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8813&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",民视新闻台(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8820&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",公视(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8817&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",公视台语(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8818&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",公视3(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8819&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",台视(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8815&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",台视综合(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8828&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",台视新闻(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8822&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",华视(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8816&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",华视新闻资讯(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8823&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",客家电(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8825&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",原住民(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8824&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",非凡商业(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12023&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",非凡新闻(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12024&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",中视(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8814&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",中视新闻(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8821&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",中视菁采(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8827&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",中视经典(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8826&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",台视财经(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8829&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",美亚电影台(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11001&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",卫视中文台(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13018&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",卫视电影台(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13017&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",卫视洋片台(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11002&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",星卫电影台(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11003&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",星卫娱乐台(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11004&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",国家地理野生(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11008&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",华纳电影(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11011&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",韩国娱乐台(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11016&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",Cbeebies卡通(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11018&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",Baby TV(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11014&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",Life Time(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11017&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",亚洲旅游台(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11020&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",FOX(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12001&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",FOX MOVIES(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12002&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",FOX CRIME(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11009&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",FOX family(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11010&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",FOX SPORTS(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12003&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",FOX SPORTS 2(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12004&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",FOX Sport 3(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11019&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",TVN(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11015&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",Eleven Sports Plus(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11006&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",Eleven Sports 2(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11007&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",Fx Movie Channel(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11012&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",Crime Investigation(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11013&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",博斯运动(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12005&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",博斯运动2(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12006&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",博斯高球(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12007&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",博斯高球2(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12008&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",博斯魅力(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12009&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",博斯网球(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12010&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",博斯無限(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12011&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",CNN(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12012&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",MTV台湾(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12013&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",Z频道(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12014&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",EYE TV旅游(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8807&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",NBA动态(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8810&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",东风卫视(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12015&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",年代MUCH(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12016&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",年代新闻(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12017&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",JET综合(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12018&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",龙翔时代(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12019&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",霹雳台湾台(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12020&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",MOMO亲子台(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12021&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",国兴卫视(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12022&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",动物星球(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13014&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",ANIMAX(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13020&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",AXN(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13021&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",DMAX(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13011&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",Travel Channel(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13024&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",HBO(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13001&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",HBO HITS(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13002&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",HBO family(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13003&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",HBO signature(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13004&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",Asian Food Network(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13005&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",EVE(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13006&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",HITS(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13007&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",Discovery(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13008&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",Discovery Asia(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13009&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",Discovery Scirnce(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13010&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",National Geographic(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13012&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",TLC(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13013&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",CN卡通频道(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13015&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",Hollywood(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13016&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",Euro Sports(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13023&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",CINEMAX(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13022&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",Disney卡通(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13019&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",三立戏剧台(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8809&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",三立iNEWS(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14022&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",三立台湾台(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14023&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",三立都会台(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14024&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",三立新闻台(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14021&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",东森新闻(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14001&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",东森财经新闻(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14004&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",东森洋片(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14003&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",东森电影(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14002&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",东森戏剧(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14005&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",东森超视(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14008&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",东森综合(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14006&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",东森幼幼(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14007&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",纬来综合(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14014&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",纬来电影(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14009&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",纬来育樂(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14010&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",纬来日本(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14013&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",纬来体育(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14011&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",纬来戏剧(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14012&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",TVBS(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14015&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",TVBS新闻台(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",TVBS欢乐台(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",中天新闻(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14018&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",中天娱乐(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14020&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",中天综合(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14019&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",寰宇新闻台(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15005&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",八大综合台(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15002&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",八大娱乐台(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15004&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",八大第一台(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15001&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",八大戏剧台(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15003&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",壹电影(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15006&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",美食星球(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8804&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",BBC WORLD NEWS(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15007&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",BBC Lifestyle(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8805&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",BBC Earth(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11005&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",Food Network(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8802&key=84797b799ae18d1b#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8801&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",Baby First(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8803&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",Outdoor Channel(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8806&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",History(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8811&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",History Channel 2(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8812&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",HGTV(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8808&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",Channel 5(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10001&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",Channel 8(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10002&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",Channel U(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10003&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",SURIA(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10004&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",Vasantham(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10005&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",CNA(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10007&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",TV OKEY(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58012&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",TV1(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58001&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",TV2(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58002&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",TV3(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58003&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",NTV7(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58005&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",8TV(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58006&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",TV9(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58007&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",AEC(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58025&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",AOD(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_882&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",TVB华丽(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_884&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",全佳(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_885&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",爱奇艺(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_886&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",双星(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58027&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",欢喜台(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58026&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",小太阳(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58021&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",ASSP 1(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_601&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",ASSP 2(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_602&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",ASSP 3(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_603&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",ASSP 4(setAuto/Native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_604&key=84797b799ae18d1b
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",Channel U(setAuto/native)
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_10003&key=84797b799ae18d1b 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALY_TESST",SURIA(setAuto/native)
