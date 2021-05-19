@@ -1,6 +1,30 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" group-title="ShareExt@MKCtv_USEE@Sports",beIN Sport 1
+https://mkctv.my.id/jusenak/useetv.m3u8?id=bein1
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein2_small1.png?v=2.0.0.13" group-title="ShareExt@MKCtv_USEE@Sports",beIN Sport 2
+https://mkctv.my.id/jusenak/useetv.m3u8?id=bein2
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_nba_small1.png?v=2.0.0.13" group-title="ShareExt@MKCtv_USEE@Sports",NBA
+https://mkctv.my.id/jusenak/useetv.m3u8?id=nba
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_champ1_small.png" group-title="ShareExt@MKCtv_USEE@Sports",ChampionTV 1
+https://mkctv.my.id/jusenak/useetv.m3u8?id=champion1
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_champ2_small.png" group-title="ShareExt@MKCtv_USEE@Sports",Champion TV 2
+https://mkctv.my.id/jusenak/useetv.m3u8?id=champion2
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_foxsports1_small.png?v=2.0.0.13" group-title="ShareExt@MKCtv_USEE@Sports",Fox Sport 1
+https://mkctv.my.id/jusenak/useetv.m3u8?id=foxsport1
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_foxsports2_small.png?v=2.0.0.13" group-title="ShareExt@MKCtv_USEE@Sports",Fox Sport 2
+https://mkctv.my.id/jusenak/useetv.m3u8?id=foxsport2
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_foxsports3_small.png?v=2.0.0.13" group-title="ShareExt@MKCtv_USEE@Sports",Fox Sport 3
+https://mkctv.my.id/jusenak/useetv.m3u8?id=foxsport3
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_golf_small1.png?v=2.0.0.14" group-title="ShareExt@MKCtv_USEE@Sports",Golf+
+https://mkctv.my.id/jusenak/useetv.m3u8?id=golfplus
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_useesport_small.png?v=2.0.0.13" group-title="ShareExt@MKCtv_USEE@Sports",Useesports 1
+https://mkctv.my.id/jusenak/useetv.m3u8?id=useesport
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_useesports2_small.png" group-title="ShareExt@MKCtv_USEE@Sports",Useesports 2
+https://mkctv.my.id/jusenak/useetv.m3u8?id=useesports2
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_egg_small1.png?v=2.0.0.13" group-title="ShareExt@MKCtv_USEE@Sports",eGG TV
+https://mkctv.my.id/jusenak/useetv.m3u8?id=egg
 
 
 
