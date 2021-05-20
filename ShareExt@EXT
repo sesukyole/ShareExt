@@ -266,8 +266,6 @@ http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
 
 
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",ZQ SPORTS
-http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",PERSIJA TV
 http://stream1.ninmedia.tv:1935/persijatv/udp.stream_360p/chunklist_w799388038.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",TVRI SPORT
@@ -3112,58 +3110,6 @@ http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/485
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN MOVIES 1" tvg-logo="http://212.8.253.112/logo/BEIN/BEINMOVIES.png" group-title="ShareExt@MOVIES@ARABIC VIP",BEIN MOVIES 1
-http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/1741
-#EXTINF:-1 tvg-id="" tvg-name="BEIN MOVIES 2" tvg-logo="http://212.8.253.112/logo/BEIN/BEINMOVIES.png" group-title="ShareExt@MOVIES@ARABIC VIP",BEIN MOVIES 2
-http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/1740
-#EXTINF:-1 tvg-id="" tvg-name="BEIN MOVIES 3" tvg-logo="http://212.8.253.112/logo/BEIN/BEINMOVIES.png" group-title="ShareExt@MOVIES@ARABIC VIP",BEIN MOVIES 3
-http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/1739
-#EXTINF:-1 tvg-id="" tvg-name="BEIN MOVIES 4" tvg-logo="http://212.8.253.112/logo/BEIN/BEINMOVIES.png" group-title="ShareExt@MOVIES@ARABIC VIP",BEIN MOVIES 4
-http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/1738
-#EXTINF:-1 tvg-id="" tvg-name="Bein Fox HD" tvg-logo="https://logo.ott.ma/logo/arabic%20premium/FOX.png" group-title="ShareExt@MOVIES@ARABIC VIP",Bein Fox HD
-http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/4236
-#EXTINF:-1 tvg-id="" tvg-name="Bein Fox Crime" tvg-logo="https://logo.ott.ma/logo/arabic%20premium/FOX_CRIME.png" group-title="ShareExt@MOVIES@ARABIC VIP",Bein Fox Crime
-http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/39024
-#EXTINF:-1 tvg-id="" tvg-name="bein Fox Life HD" tvg-logo="https://logo.ott.ma/logo/arabic%20premium/FOX_LIFE.png" group-title="ShareExt@MOVIES@ARABIC VIP",bein Fox Life HD
-http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/39023
-#EXTINF:-1 tvg-id="" tvg-name="bein Fox Movies HD" tvg-logo="https://logo.ott.ma/logo/arabic%20premium/FOX_MOVIES.png" group-title="ShareExt@MOVIES@ARABIC VIP",bein Fox Movies HD
-http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/39021
-#EXTINF:-1 tvg-id="" tvg-name="bein Fox Movies Familly HD" tvg-logo="" group-title="ShareExt@MOVIES@ARABIC VIP",bein Fox Movies Familly HD
-http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/39022
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SERIES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/The_new_logo_of_beIN_SERIES_at_2017.jpg" group-title="ShareExt@MOVIES@ARABIC VIP",BEIN SERIES 1
-http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/1737
-#EXTINF:-1 tvg-id="" tvg-name="Bein Series HD2" tvg-logo="http://212.8.253.112/logo/BEIN/BEIN SERIES.png" group-title="ShareExt@MOVIES@ARABIC VIP",Bein Series HD2
-http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/4239
-#EXTINF:-1 tvg-id="" tvg-name="Bein drama hd" tvg-logo="http://212.8.253.112/logo/BEIN/BEINDRAMA.png" group-title="ShareExt@MOVIES@ARABIC VIP",Bein drama hd
-http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/4230
-#EXTINF:-1 tvg-id="" tvg-name="BEIN JUNIOR" tvg-logo="http://www.cne-eg.com/UploadFolder/logos/469^be-Junior.png" group-title="ShareExt@MOVIES@ARABIC VIP",BEIN JUNIOR
-http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/1742
-#EXTINF:-1 tvg-id="" tvg-name="BARAEM" tvg-logo="https://www.thematv.com/medias/channels/baraem-tv/logo_baraem.jpg" group-title="ShareExt@MOVIES@ARABIC VIP",BARAEM
-http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/1747
-#EXTINF:-1 tvg-id="" tvg-name="Jeem TV HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINJEEMHD.png" group-title="ShareExt@MOVIES@ARABIC VIP",Jeem TV HD
-http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/4231
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BOOMERANGE" tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/11/17/DStv_Boomerang_4-3_blacklogo_003_lrg.png" group-title="ShareExt@MOVIES@ARABIC VIP",BEIN BOOMERANGE
-http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/2758
-#EXTINF:-1 tvg-id="" tvg-name="Bein Cartoon Network HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINCARTONNETWORK.png" group-title="ShareExt@MOVIES@ARABIC VIP",Bein Cartoon Network HD
-http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/4232
-#EXTINF:-1 tvg-id="" tvg-name="BEIN GROUMMET" tvg-logo="http://bein.net/en/wp-content/uploads/sites/3/2015/09/Gourmet.png" group-title="ShareExt@MOVIES@ARABIC VIP",BEIN GROUMMET
-http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/1743
-#EXTINF:-1 tvg-id="" tvg-name="FATAFEAT" tvg-logo="https://logo.ott.ma/logo/arabic%20premium/FATAFEAT.png" group-title="ShareExt@MOVIES@ARABIC VIP",FATAFEAT
-http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/36972
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO BEIN HD " tvg-logo="http://212.8.253.112/logo/BEIN/BEINNATGEO.png" group-title="ShareExt@MOVIES@ARABIC VIP",NAT GEO BEIN HD 
-http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/2757
-#EXTINF:-1 tvg-id="" tvg-name="Bein Nat People" tvg-logo="http://212.8.253.112/logo/BEIN/BIEN NAT PEAPLE.png" group-title="ShareExt@MOVIES@ARABIC VIP",Bein Nat People
-http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/4233
-#EXTINF:-1 tvg-id="" tvg-name="Bein Nat Wild" tvg-logo="http://212.8.253.112/logo/BEIN/BEIN NAT GEO.png" group-title="ShareExt@MOVIES@ARABIC VIP",Bein Nat Wild
-http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/4234
-#EXTINF:-1 tvg-id="" tvg-name="Bein Discovery Life HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINDISCOVERYLIFE.png" group-title="ShareExt@MOVIES@ARABIC VIP",Bein Discovery Life HD
-http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/4237
-#EXTINF:-1 tvg-id="" tvg-name="Bein Discovery Kids HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINDISCOVERYKIDS.png" group-title="ShareExt@MOVIES@ARABIC VIP",Bein Discovery Kids HD
-http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/4238
-#EXTINF:-1 tvg-id="mbcDrama-plus" tvg-name="BEIN DTX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/51/DTX_Discovery_logo.png" group-title="ShareExt@MOVIES@ARABIC VIP",BEIN DTX
-http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/1744
-#EXTINF:-1 tvg-id="" tvg-name="BEIN DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_España.svg/1200px-DMax_España.svg.png" group-title="ShareExt@MOVIES@ARABIC VIP",BEIN DMAX
-http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/1745
 
 
 
