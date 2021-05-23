@@ -1,32 +1,6 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" group-title="ShareExt@MKCtv_USEE@Sports",beIN Sport 1
-https://nonton.site:8443/provision/pp/728
-https://mkctv.my.id/jusenak/useetv.m3u8?id=bein1
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein2_small1.png?v=2.0.0.13" group-title="ShareExt@MKCtv_USEE@Sports",beIN Sport 2
-https://mkctv.my.id/jusenak/useetv.m3u8?id=bein2
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_nba_small1.png?v=2.0.0.13" group-title="ShareExt@MKCtv_USEE@Sports",NBA
-https://mkctv.my.id/jusenak/useetv.m3u8?id=nba
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_champ1_small.png" group-title="ShareExt@MKCtv_USEE@Sports",ChampionTV 1
-https://mkctv.my.id/jusenak/useetv.m3u8?id=champion1
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_champ2_small.png" group-title="ShareExt@MKCtv_USEE@Sports",Champion TV 2
-https://mkctv.my.id/jusenak/useetv.m3u8?id=champion2
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_foxsports1_small.png?v=2.0.0.13" group-title="ShareExt@MKCtv_USEE@Sports",Fox Sport 1
-https://mkctv.my.id/jusenak/useetv.m3u8?id=foxsport1
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_foxsports2_small.png?v=2.0.0.13" group-title="ShareExt@MKCtv_USEE@Sports",Fox Sport 2
-https://mkctv.my.id/jusenak/useetv.m3u8?id=foxsport2
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_foxsports3_small.png?v=2.0.0.13" group-title="ShareExt@MKCtv_USEE@Sports",Fox Sport 3
-https://mkctv.my.id/jusenak/useetv.m3u8?id=foxsport3
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_golf_small1.png?v=2.0.0.14" group-title="ShareExt@MKCtv_USEE@Sports",Golf+
-https://mkctv.my.id/jusenak/useetv.m3u8?id=golfplus
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_useesport_small.png?v=2.0.0.13" group-title="ShareExt@MKCtv_USEE@Sports",Useesports 1
-https://mkctv.my.id/jusenak/useetv.m3u8?id=useesport
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_useesports2_small.png" group-title="ShareExt@MKCtv_USEE@Sports",Useesports 2
-https://mkctv.my.id/jusenak/useetv.m3u8?id=useesports2
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_egg_small1.png?v=2.0.0.13" group-title="ShareExt@MKCtv_USEE@Sports",eGG TV
-https://mkctv.my.id/jusenak/useetv.m3u8?id=egg
-
 
 
 
@@ -1062,6 +1036,9 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6685_720p/index.m3u8
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6686_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0CyFv4-SR0eH_tbFi6pDnecZyx8=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-f32604.jpg" tvg-id="RIYAN.878427f65486bcabdef8b0085f410383.SHINTA" tvg-name"[CODAY] Champions TV 3 _VIDIO" group-title="ShareExt@VIDIO",Champions TV 3 _VIDIO
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6786_720p/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",MOLAtv Free
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6840_720p/index.m3u8
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",Rcti
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_665_720p/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",SCTV
