@@ -3745,9 +3745,9 @@ https://www.ugbcdn.com/20210222/ncKEFOvG/index.m3u8
 https://www.ugbcdn.com/20210222/cC5uEOcI/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHARE@EXT=Adult",Meimei.Vip08
 https://www.ugbcdn.com/20210221/RKC9k1eW/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHARE@EXT=Adult",7(18+)
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHARE@EXT=Adult",7(18+)setAuto
 rtmp://161.202.204.248:1935/tv/ttv11
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHARE@EXT=Adult",H(18+)
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHARE@EXT=Adult",H(18+)setAuto
 rtmp://161.202.204.248:1935/tv/ttv12
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHARE@EXT=Adult",CamLive01
 https://b-hls-02.stripst.com/hls/45812808/45812808.m3u8
