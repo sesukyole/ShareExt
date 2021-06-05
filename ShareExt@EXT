@@ -1,5 +1,211 @@
 
 
+#EXTINF:-1 tvg-id="" tvg-name="US : ADVENTURE SPORTS NETWORK" tvg-logo="https://i.imgur.com/d2o69uW.png" group-title="PREMIUM SPORTS",US : ADVENTURE SPORTS NETWORK
+http://mains.vip:2086/live/8386592806/2543983/56018.ts
+#EXTINF:-1 tvg-id="AltitudeSports.us" tvg-name="US : ALTITUDE SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Altitude_Sports_logo.svg/400px-Altitude_Sports_logo.svg.png" group-title="PREMIUM SPORTS",US : ALTITUDE SPORTS
+http://mains.vip:2086/live/8386592806/2543983/99512.ts
+#EXTINF:-1 tvg-id="atandtsportsnetpittsburgh.us" tvg-name="US : AT&T SPORTSNET PITTSBURGH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png" group-title="PREMIUM SPORTS",US : AT&T SPORTSNET PITTSBURGH
+http://mains.vip:2086/live/8386592806/2543983/100058.ts
+#EXTINF:-1 tvg-id="atandtsportsnetrockymountain.us" tvg-name="US : AT&T SPORTSNET ROCKY MOUNTAINS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png" group-title="PREMIUM SPORTS",US : AT&T SPORTSNET ROCKY MOUNTAINS
+http://mains.vip:2086/live/8386592806/2543983/100059.ts
+#EXTINF:-1 tvg-id="atandtsportsnetsouthwest.us" tvg-name="US : AT&T SPORTSNET SOUTHWEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png" group-title="PREMIUM SPORTS",US : AT&T SPORTSNET SOUTHWEST
+http://mains.vip:2086/live/8386592806/2543983/100060.ts
+#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US : CBS SPORTS HQ" tvg-logo="http://mains.vip:2086/images/b33779c739fa3627ea30ec86e75fd9b5.png" group-title="PREMIUM SPORTS",US : CBS SPORTS HQ
+http://mains.vip:2086/live/8386592806/2543983/6730.ts
+#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US : CBS SPORTS NETWORK" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs_sports_network.png" group-title="PREMIUM SPORTS",US : CBS SPORTS NETWORK
+http://mains.vip:2086/live/8386592806/2543983/220.ts
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US : ESPN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/espn.png" group-title="PREMIUM SPORTS",US : ESPN
+http://mains.vip:2086/live/8386592806/2543983/13604.ts
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="US : ESPN 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/espn2.png" group-title="PREMIUM SPORTS",US : ESPN 2
+http://mains.vip:2086/live/8386592806/2543983/343.ts
+#EXTINF:-1 tvg-id="espnnews.us" tvg-name="US : ESPN NEWS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/espnews.png" group-title="PREMIUM SPORTS",US : ESPN NEWS
+http://mains.vip:2086/live/8386592806/2543983/1702.ts
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="US : ESPN U" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/espnu.png" group-title="PREMIUM SPORTS",US : ESPN U
+http://mains.vip:2086/live/8386592806/2543983/475.ts
+#EXTINF:-1 tvg-id="nflfantasyzone.us" tvg-name="US : FANTASY SPORTS NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/FNTSY_Sports_Network.png" group-title="PREMIUM SPORTS",US : FANTASY SPORTS NETWORK
+http://mains.vip:2086/live/8386592806/2543983/21946.ts
+#EXTINF:-1 tvg-id="foxsportssandiego.us" tvg-name="US : FOX SPORTS SAN DIEGO PLUS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/fsn.png" group-title="PREMIUM SPORTS",US : FOX SPORTS SAN DIEGO PLUS
+http://mains.vip:2086/live/8386592806/2543983/44696.ts
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US : GOLF CHANNEL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/golf.png" group-title="PREMIUM SPORTS",US : GOLF CHANNEL
+http://mains.vip:2086/live/8386592806/2543983/390.ts
+#EXTINF:-1 tvg-id="thelonghonrnetwork.us" tvg-name="US : LONGHORN NETWORK" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/longhorn.png" group-title="PREMIUM SPORTS",US : LONGHORN NETWORK
+http://mains.vip:2086/live/8386592806/2543983/13562.ts
+#EXTINF:-1 tvg-id="marqueesportsnetwork.us" tvg-name="US : MARQUEE SPORTS NETWORK " tvg-logo="https://cdn.tvpassport.com/image/station/240x135/marquee-sports.png" group-title="PREMIUM SPORTS",US : MARQUEE SPORTS NETWORK 
+http://mains.vip:2086/live/8386592806/2543983/91120.ts
+#EXTINF:-1 tvg-id="masn.us" tvg-name="US : MASN" tvg-logo="http://mains.vip:2086/images/871f04db53349544285b4e2877d734fe.png" group-title="PREMIUM SPORTS",US : MASN
+http://mains.vip:2086/live/8386592806/2543983/99509.ts
+#EXTINF:-1 tvg-id="masn2.us" tvg-name="US : MASN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/MASN-Logo.png/400px-MASN-Logo.png" group-title="PREMIUM SPORTS",US : MASN 2
+http://mains.vip:2086/live/8386592806/2543983/99510.ts
+#EXTINF:-1 tvg-id="madisonsquaregarden.us" tvg-name="US : MSG" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/msg.png" group-title="PREMIUM SPORTS",US : MSG
+http://mains.vip:2086/live/8386592806/2543983/3113.ts
+#EXTINF:-1 tvg-id="madisonsquaregardenplus.us" tvg-name="US : MSG +" tvg-logo="http://mains.vip:2086/images/d9dd7dd44ebcfc4f306ad873759b25e9.png" group-title="PREMIUM SPORTS",US : MSG +
+http://mains.vip:2086/live/8386592806/2543983/86841.ts
+#EXTINF:-1 tvg-id="madisonsquaregarden2.us" tvg-name="US : MSG 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/msg.png" group-title="PREMIUM SPORTS",US : MSG 2
+http://mains.vip:2086/live/8386592806/2543983/18667.ts
+#EXTINF:-1 tvg-id="madisonsquaregardenplus.us" tvg-name="US : MSG PLUS" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Msg_plus.png/260px-Msg_plus.png" group-title="PREMIUM SPORTS",US : MSG PLUS
+http://mains.vip:2086/live/8386592806/2543983/18665.ts
+#EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="US : NBC SPORTS BAY AREA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbcsports.png" group-title="PREMIUM SPORTS",US : NBC SPORTS BAY AREA
+http://mains.vip:2086/live/8386592806/2543983/13529.ts
+#EXTINF:-1 tvg-id="nbcsportsboston.us" tvg-name="US : NBC SPORTS BOSTON" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbcsports.png" group-title="PREMIUM SPORTS",US : NBC SPORTS BOSTON
+http://mains.vip:2086/live/8386592806/2543983/13528.ts
+#EXTINF:-1 tvg-id="nbcsportscalifornia.us" tvg-name="US : NBC SPORTS CALIFORNIA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbcsports.png" group-title="PREMIUM SPORTS",US : NBC SPORTS CALIFORNIA
+http://mains.vip:2086/live/8386592806/2543983/13733.ts
+#EXTINF:-1 tvg-id="nbcsportschicago.us" tvg-name="US : NBC SPORTS CHICAGO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbcsports.png" group-title="PREMIUM SPORTS",US : NBC SPORTS CHICAGO
+http://mains.vip:2086/live/8386592806/2543983/13532.ts
+#EXTINF:-1 tvg-id="nbcsportschicagoplus.us" tvg-name="US : NBC SPORTS CHICAGO PLUS" tvg-logo="http://mains.vip:2086/images/0b0ef2d119ca31699a06dc91f3921e91.png" group-title="PREMIUM SPORTS",US : NBC SPORTS CHICAGO PLUS
+http://mains.vip:2086/live/8386592806/2543983/101092.ts
+#EXTINF:-1 tvg-id="nbcsportsnetwork.us" tvg-name="US : NBCSN (NBC SPORTS NETWORK)" tvg-logo="http://mains.vip:2086/images/0b0ef2d119ca31699a06dc91f3921e91.png" group-title="PREMIUM SPORTS",US : NBCSN (NBC SPORTS NETWORK)
+http://mains.vip:2086/live/8386592806/2543983/149.ts
+#EXTINF:-1 tvg-id="RootSportsNorthwest.us" tvg-name="US : ROOT SPORTS NORTHWEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Root_Sports_logo.svg/400px-Root_Sports_logo.svg.png" group-title="PREMIUM SPORTS",US : ROOT SPORTS NORTHWEST
+http://mains.vip:2086/live/8386592806/2543983/99511.ts
+#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="US : SEC NETWORK" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sec_network.png" group-title="PREMIUM SPORTS",US : SEC NETWORK
+http://mains.vip:2086/live/8386592806/2543983/1135.ts
+#EXTINF:-1 tvg-id="sportsnetnewyork.us" tvg-name="US : SNY (SPORTSNET NEW YORK)" tvg-logo="http://mains.vip:2086/images/bc6561094d9b9fe62eef391b456a33fb.png" group-title="PREMIUM SPORTS",US : SNY (SPORTSNET NEW YORK)
+http://mains.vip:2086/live/8386592806/2543983/8850.ts
+#EXTINF:-1 tvg-id="spectrumsportsnet.us" tvg-name="US : SPECTRUM SPORTSNET" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/specsports.png" group-title="PREMIUM SPORTS",US : SPECTRUM SPORTSNET
+http://mains.vip:2086/live/8386592806/2543983/52331.ts
+EXTINF:-1 tvg-id="spectrumsportsnetla.us" tvg-name="US : SPECTRUM SPORTSNET LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Spectrum_SportsNet_LA.png/240px-Spectrum_SportsNet_LA.png" group-title="PREMIUM SPORTS",US : SPECTRUM SPORTSNET LA
+http://mains.vip:2086/live/8386592806/2543983/98918.ts
+#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="US : SPORTSMAN CHANNEL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sportsman_channel.png" group-title="PREMIUM SPORTS",US : SPORTSMAN CHANNEL
+http://mains.vip:2086/live/8386592806/2543983/15468.ts
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="CA : NBC GOLF" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/NBC_Golf_flat_logo.png/250px-NBC_Golf_flat_logo.png" group-title="PREMIUM SPORTS",CA : NBC GOLF
+http://mains.vip:2086/live/8386592806/2543983/3403.ts
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="GB : BT SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/220px-BT_Sport_logo_2019.svg.png" group-title="PREMIUM SPORTS",GB : BT SPORTS 1
+http://mains.vip:2086/live/8386592806/2543983/67062.ts
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="GB : BT SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/220px-BT_Sport_logo_2019.svg.png" group-title="PREMIUM SPORTS",GB : BT SPORTS 2
+http://mains.vip:2086/live/8386592806/2543983/67063.ts
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="GB : BT SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/220px-BT_Sport_logo_2019.svg.png" group-title="PREMIUM SPORTS",GB : BT SPORTS 3
+http://mains.vip:2086/live/8386592806/2543983/67075.ts
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="GB : BT SPORTS ESPN" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/25319/BTSportESPN_darklight.png" group-title="PREMIUM SPORTS",GB : BT SPORTS ESPN
+http://mains.vip:2086/live/8386592806/2543983/67076.ts
+#EXTINF:-1 tvg-id="btsportx1.uk" tvg-name="GB : BT SPORTS EXTRA 1" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/58896/btsportextra1tv.png" group-title="PREMIUM SPORTS",GB : BT SPORTS EXTRA 1
+http://mains.vip:2086/live/8386592806/2543983/100001.ts
+#EXTINF:-1 tvg-id="btsportx2.uk" tvg-name="GB : BT SPORTS EXTRA 2" tvg-logo="https://static.tv24.co/v2/channels/small/100883.png" group-title="PREMIUM SPORTS",GB : BT SPORTS EXTRA 2
+http://mains.vip:2086/live/8386592806/2543983/100002.ts
+#EXTINF:-1 tvg-id="btsportx3.uk" tvg-name="GB : BT SPORTS EXTRA 3" tvg-logo="https://static.tv24.co/v2/channels/small/100884.png" group-title="PREMIUM SPORTS",GB : BT SPORTS EXTRA 3
+http://mains.vip:2086/live/8386592806/2543983/100003.ts
+#EXTINF:-1 tvg-id="btsportx4.uk" tvg-name="GB : BT SPORTS EXTRA 4" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/76000/btsportextra4tv.png" group-title="PREMIUM SPORTS",GB : BT SPORTS EXTRA 4
+http://mains.vip:2086/live/8386592806/2543983/100004.ts
+#EXTINF:-1 tvg-id="btsportx5.uk" tvg-name="GB : BT SPORTS EXTRA 5" tvg-logo="https://static.tv24.co/v2/channels/small/100886.png" group-title="PREMIUM SPORTS",GB : BT SPORTS EXTRA 5
+http://mains.vip:2086/live/8386592806/2543983/100005.ts
+#EXTINF:-1 tvg-id="btsportx6.uk" tvg-name="GB : BT SPORTS EXTRA 6" tvg-logo="https://static.tv24.co/v2/channels/small/100887.png" group-title="PREMIUM SPORTS",GB : BT SPORTS EXTRA 6
+http://mains.vip:2086/live/8386592806/2543983/100006.ts
+#EXTINF:-1 tvg-id="eir.sport.1.gb" tvg-name="GB : EIR SPORTS 1" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/broadband/img_sport.png" group-title="PREMIUM SPORTS",GB : EIR SPORTS 1
+http://mains.vip:2086/live/8386592806/2543983/36252.ts
+#EXTINF:-1 tvg-id="eir.sport.2.gb" tvg-name="GB : EIR SPORTS 2" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/broadband/img_sport.png" group-title="PREMIUM SPORTS",GB : EIR SPORTS 2
+http://mains.vip:2086/live/8386592806/2543983/36253.ts
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="GB : EUROSPORT ONE" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/27675/eurosport1_dark.png" group-title="PREMIUM SPORTS",GB : EUROSPORT ONE
+http://mains.vip:2086/live/8386592806/2543983/99200.ts
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="GB : EUROSPORT TWO" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/31358/eurosporttwotv.png" group-title="PREMIUM SPORTS",GB : EUROSPORT TWO
+http://mains.vip:2086/live/8386592806/2543983/99201.ts
+#EXTINF:-1 tvg-id="freesports.uk" tvg-name="GB : FREESPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/FreeSportsLogo.jpg/440px-FreeSportsLogo.jpg" group-title="PREMIUM SPORTS",GB : FREESPORTS
+http://mains.vip:2086/live/8386592806/2543983/99228.ts
+#EXTINF:-1 tvg-id="laligatv.uk" tvg-name="GB : LA LIGA TV" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/83061/laligatv_colordark.png" group-title="PREMIUM SPORTS",GB : LA LIGA TV
+http://mains.vip:2086/live/8386592806/2543983/99199.ts
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="GB : PREMIER SPORTS 1" tvg-logo="https://pbs.twimg.com/media/DOqy0lcW4AAQY0T.png" group-title="PREMIUM SPORTS",GB : PREMIER SPORTS 1
+http://mains.vip:2086/live/8386592806/2543983/91782.ts
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="GB : PREMIER SPORTS 2" tvg-logo="https://pbs.twimg.com/media/DOqy0lcW4AAQY0T.png" group-title="PREMIUM SPORTS",GB : PREMIER SPORTS 2
+http://mains.vip:2086/live/8386592806/2543983/91783.ts
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="GB : SKY SPORTS ACTION" tvg-logo="http://mains.vip:2086/images/77266ed1a3271d6d6ba940ab9253bcee.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS ACTION
+http://mains.vip:2086/live/8386592806/2543983/101183.ts
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="GB : SKY SPORTS ARENA" tvg-logo="http://mains.vip:2086/images/dcf43f17c2443f54cc7e2a3931d58b1f.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS ARENA
+http://mains.vip:2086/live/8386592806/2543983/85931.ts
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="GB : SKY SPORTS CRICKET" tvg-logo="http://mains.vip:2086/images/9bf2cf98b9f84e63ea8e9a3edd3ad033.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS CRICKET
+http://mains.vip:2086/live/8386592806/2543983/51106.ts
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="GB : SKY SPORTS F1" tvg-logo="http://mains.vip:2086/images/a9ab091e980651f7a36a359611d6ba92.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS F1
+http://mains.vip:2086/live/8386592806/2543983/67056.ts
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="GB : SKY SPORTS FOOTBALL" tvg-logo="http://mains.vip:2086/images/67593998f323465bbdf950fe0179275c.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS FOOTBALL
+http://mains.vip:2086/live/8386592806/2543983/67057.ts
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="GB : SKY SPORTS GOLF" tvg-logo="http://mains.vip:2086/images/bfdf22c5f8816ec8f0caf70925f753ea.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS GOLF
+http://mains.vip:2086/live/8386592806/2543983/67059.ts
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="GB : SKY SPORTS MAIN EVENT" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/140x140_734/Source/26315/skysportsmaineventtv.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS MAIN EVENT
+http://mains.vip:2086/live/8386592806/2543983/67058.ts
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="GB : SKY SPORTS MIX" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/84830/skysportsmixchannel.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS MIX
+http://mains.vip:2086/live/8386592806/2543983/67061.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="GB : SKY SPORTS NEWS" tvg-logo="http://mains.vip:2086/images/e37dc6a2760cc059a02cd3734741ae76.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS NEWS
+http://mains.vip:2086/live/8386592806/2543983/67091.ts
+#EXTINF:-1 tvg-id="skysportsnfl.uk" tvg-name="GB : SKY SPORTS NFL" tvg-logo="https://i.pinimg.com/originals/4e/97/6a/4e976adbaa220c952600be57a0cc3fab.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS NFL
+http://mains.vip:2086/live/8386592806/2543983/85930.ts
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="GB : SKY SPORTS PREMIER LEAGUE" tvg-logo="http://mains.vip:2086/images/fdeb5e06273c362896f5da6804d86295.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS PREMIER LEAGUE
+http://mains.vip:2086/live/8386592806/2543983/67060.ts
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="GB : SKY SPORTS RACING" tvg-logo="http://mains.vip:2086/images/ac7527fa9e163778c9d73869d1f6f3eb.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS RACING
+http://mains.vip:2086/live/8386592806/2543983/47763.ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : AU BEIN SPORTS 1" tvg-logo="http://mains.vip:2086/images/650ce3086ae36914197a4dbf3e0c1e48.png" group-title="WORLD SPORTS",SPORTS : AU BEIN SPORTS 1
+http://mains.vip:2086/live/8386592806/2543983/101215.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : AU BEIN SPORTS 2" tvg-logo="http://mains.vip:2086/images/650ce3086ae36914197a4dbf3e0c1e48.png" group-title="WORLD SPORTS",SPORTS : AU BEIN SPORTS 2
+http://mains.vip:2086/live/8386592806/2543983/101216.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : AU BEIN SPORTS 3" tvg-logo="http://mains.vip:2086/images/650ce3086ae36914197a4dbf3e0c1e48.png" group-title="WORLD SPORTS",SPORTS : AU BEIN SPORTS 3
+http://mains.vip:2086/live/8386592806/2543983/101217.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : AU FOX SPORTS 501" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/440px-Fox_Sports_logo1.svg.png" group-title="WORLD SPORTS",SPORTS : AU FOX SPORTS 501
+http://mains.vip:2086/live/8386592806/2543983/100783.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : AU FOX SPORTS 502" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/440px-Fox_Sports_logo1.svg.png" group-title="WORLD SPORTS",SPORTS : AU FOX SPORTS 502
+http://mains.vip:2086/live/8386592806/2543983/100784.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : AU FOX SPORTS 503" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/440px-Fox_Sports_logo1.svg.png" group-title="WORLD SPORTS",SPORTS : AU FOX SPORTS 503
+http://mains.vip:2086/live/8386592806/2543983/100785.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : AU FOX SPORTS 504" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/440px-Fox_Sports_logo1.svg.png" group-title="WORLD SPORTS",SPORTS : AU FOX SPORTS 504
+http://mains.vip:2086/live/8386592806/2543983/100786.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : AU FOX SPORTS 505" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/440px-Fox_Sports_logo1.svg.png" group-title="WORLD SPORTS",SPORTS : AU FOX SPORTS 505
+http://mains.vip:2086/live/8386592806/2543983/100787.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : AU FOX SPORTS 506" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/440px-Fox_Sports_logo1.svg.png" group-title="WORLD SPORTS",SPORTS : AU FOX SPORTS 506
+http://mains.vip:2086/live/8386592806/2543983/100788.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : AU FOX SPORTS 507" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/440px-Fox_Sports_logo1.svg.png" group-title="WORLD SPORTS",SPORTS : AU FOX SPORTS 507
+http://mains.vip:2086/live/8386592806/2543983/100789.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : AU OPTUS SPORT 1" tvg-logo="http://mains.vip:2086/images/deecb3c1a0a7e958cc7dc9206afa55b1.png" group-title="WORLD SPORTS",SPORTS : AU OPTUS SPORT 1
+http://mains.vip:2086/live/8386592806/2543983/100993.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : AU OPTUS SPORT 2" tvg-logo="http://mains.vip:2086/images/deecb3c1a0a7e958cc7dc9206afa55b1.png" group-title="WORLD SPORTS",SPORTS : AU OPTUS SPORT 2
+http://mains.vip:2086/live/8386592806/2543983/100994.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : AU OPTUS SPORT 3" tvg-logo="http://mains.vip:2086/images/deecb3c1a0a7e958cc7dc9206afa55b1.png" group-title="WORLD SPORTS",SPORTS : AU OPTUS SPORT 3
+http://mains.vip:2086/live/8386592806/2543983/100995.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : AU OPTUS SPORT 4" tvg-logo="http://mains.vip:2086/images/deecb3c1a0a7e958cc7dc9206afa55b1.png" group-title="WORLD SPORTS",SPORTS : AU OPTUS SPORT 4
+http://mains.vip:2086/live/8386592806/2543983/100996.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : AU OPTUS SPORT 5" tvg-logo="http://mains.vip:2086/images/deecb3c1a0a7e958cc7dc9206afa55b1.png" group-title="WORLD SPORTS",SPORTS : AU OPTUS SPORT 5
+http://mains.vip:2086/live/8386592806/2543983/100997.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : AU OPTUS SPORT 6" tvg-logo="http://mains.vip:2086/images/deecb3c1a0a7e958cc7dc9206afa55b1.png" group-title="WORLD SPORTS",SPORTS : AU OPTUS SPORT 6
+http://mains.vip:2086/live/8386592806/2543983/100998.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : AU OPTUS SPORT 7" tvg-logo="http://mains.vip:2086/images/deecb3c1a0a7e958cc7dc9206afa55b1.png" group-title="WORLD SPORTS",SPORTS : AU OPTUS SPORT 7
+http://mains.vip:2086/live/8386592806/2543983/100999.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : AU OPTUS SPORT 8" tvg-logo="http://mains.vip:2086/images/deecb3c1a0a7e958cc7dc9206afa55b1.png" group-title="WORLD SPORTS",SPORTS : AU OPTUS SPORT 8
+http://mains.vip:2086/live/8386592806/2543983/101000.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : BEIN SPORTS (ESP)" tvg-logo="https://apprecs.org/gp/images/app-icons/300/12/com.beinsports.andcontent.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS (ESP)
+http://mains.vip:2086/live/8386592806/2543983/66785.ts
+#EXTINF:-1 tvg-id="BEIN4HD" tvg-name="SPORTS : BEIN SPORTS 04" tvg-logo="https://apprecs.org/gp/images/app-icons/300/12/com.beinsports.andcontent.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS 04
+http://mains.vip:2086/live/8386592806/2543983/66775.ts
+#EXTINF:-1 tvg-id="BEIN5HD" tvg-name="SPORTS : BEIN SPORTS 05" tvg-logo="https://apprecs.org/gp/images/app-icons/300/12/com.beinsports.andcontent.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS 05
+http://mains.vip:2086/live/8386592806/2543983/66776.ts
+#EXTINF:-1 tvg-id="BEIN6HD" tvg-name="SPORTS : BEIN SPORTS 06" tvg-logo="https://apprecs.org/gp/images/app-icons/300/12/com.beinsports.andcontent.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS 06
+http://mains.vip:2086/live/8386592806/2543983/66777.ts
+#EXTINF:-1 tvg-id="BEIN7HD" tvg-name="SPORTS : BEIN SPORTS 07" tvg-logo="https://apprecs.org/gp/images/app-icons/300/12/com.beinsports.andcontent.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS 07
+http://mains.vip:2086/live/8386592806/2543983/66778.ts
+#EXTINF:-1 tvg-id="beINSports8Ar.qa" tvg-name="SPORTS : BEIN SPORTS 08" tvg-logo="https://apprecs.org/gp/images/app-icons/300/12/com.beinsports.andcontent.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS 08
+http://mains.vip:2086/live/8386592806/2543983/66779.ts
+#EXTINF:-1 tvg-id="beINSports9Ar.qa" tvg-name="SPORTS : BEIN SPORTS 09" tvg-logo="https://apprecs.org/gp/images/app-icons/300/12/com.beinsports.andcontent.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS 09
+http://mains.vip:2086/live/8386592806/2543983/66780.ts
+#EXTINF:-1 tvg-id="BEIN10HD" tvg-name="SPORTS : BEIN SPORTS 10" tvg-logo="https://apprecs.org/gp/images/app-icons/300/12/com.beinsports.andcontent.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS 10
+http://mains.vip:2086/live/8386592806/2543983/66781.ts
+#EXTINF:-1 tvg-id="beINSports11En.qa" tvg-name="SPORTS : BEIN SPORTS ENGLISH 01" tvg-logo="https://apprecs.org/gp/images/app-icons/300/12/com.beinsports.andcontent.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS ENGLISH 01
+http://mains.vip:2086/live/8386592806/2543983/66782.ts
+#EXTINF:-1 tvg-id="beINSports12En.qa" tvg-name="SPORTS : BEIN SPORTS ENGLISH 02" tvg-logo="https://apprecs.org/gp/images/app-icons/300/12/com.beinsports.andcontent.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS ENGLISH 02
+http://mains.vip:2086/live/8386592806/2543983/66783.ts
+#EXTINF:-1 tvg-id="beINSports13En.qa" tvg-name="SPORTS : BEIN SPORTS ENGLISH 03" tvg-logo="https://apprecs.org/gp/images/app-icons/300/12/com.beinsports.andcontent.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS ENGLISH 03
+http://mains.vip:2086/live/8386592806/2543983/66784.ts
+#EXTINF:-1 tvg-id="beINSportsLaLiga.us" tvg-name="SPORTS : BEIN SPORTS LA LIGA" tvg-logo="https://apprecs.org/gp/images/app-icons/300/12/com.beinsports.andcontent.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS LA LIGA
+http://mains.vip:2086/live/8386592806/2543983/66786.ts
+#EXTINF:-1 tvg-id="BEIN1HD" tvg-name="SPORTS : BEIN SPORTS PREMIUM 01" tvg-logo="https://apprecs.org/gp/images/app-icons/300/12/com.beinsports.andcontent.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS PREMIUM 01
+http://mains.vip:2086/live/8386592806/2543983/66772.ts
+#EXTINF:-1 tvg-id="BEIN2HD" tvg-name="SPORTS : BEIN SPORTS PREMIUM 02" tvg-logo="https://apprecs.org/gp/images/app-icons/300/12/com.beinsports.andcontent.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS PREMIUM 02
+http://mains.vip:2086/live/8386592806/2543983/66773.ts
+#EXTINF:-1 tvg-id="BEIN3HD" tvg-name="SPORTS : BEIN SPORTS PREMIUM 03" tvg-logo="https://apprecs.org/gp/images/app-icons/300/12/com.beinsports.andcontent.jpg" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS PREMIUM 03
+http://mains.vip:2086/live/8386592806/2543983/66774.ts
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="SPORTS : BEIN SPORTS USA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/BeIN_Sports.png/revision/latest?cb=20160218210123" group-title="WORLD SPORTS",SPORTS : BEIN SPORTS USA
+http://mains.vip:2086/live/8386592806/2543983/66771.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : SPORTSTV TURKEY" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/48/Sportstv_logosu.png" group-title="WORLD SPORTS",SPORTS : SPORTSTV TURKEY
+http://mains.vip:2086/live/8386592806/2543983/100878.ts
 
 
 
