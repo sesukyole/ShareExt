@@ -1,5 +1,55 @@
 
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" group-title="ShareExt@MKCsport@PAKAIjak",beIN Sport 1
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=bein1&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein2_small1.png?v=2.0.0.13" group-title="ShareExt@MKCsport@PAKAIjak",beIN Sport 2
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=bein2&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_nba_small1.png?v=2.0.0.13" group-title="ShareExt@MKCsport@PAKAIjak",NBA
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=nba&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_champ1_small.png" group-title="ShareExt@MKCsport@PAKAIjak",ChampionTV 1
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_champ2_small.png" group-title="ShareExt@MKCsport@PAKAIjak",Champion TV 2
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion2&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_foxsports1_small.png?v=2.0.0.13" group-title="ShareExt@MKCsport@PAKAIjak",Fox Sport 1
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_foxsports2_small.png?v=2.0.0.13" group-title="ShareExt@MKCsport@PAKAIjak",Fox Sport 2
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_foxsports3_small.png?v=2.0.0.13" group-title="ShareExt@MKCsport@PAKAIjak",Fox Sport 3
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_golf_small1.png?v=2.0.0.14" group-title="ShareExt@MKCsport@PAKAIjak",Golf+
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=golfplus&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_useesport_small.png?v=2.0.0.13" group-title="ShareExt@MKCsport@PAKAIjak",Useesports 1
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_useesports2_small.png" group-title="ShareExt@MKCsport@PAKAIjak", Useesports 2
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_egg_small1.png?v=2.0.0.13" group-title="ShareExt@MKCsport@PAKAIjak",eGG TV
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=egg&bandwidth=default&sync=0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="US : ADVENTURE SPORTS NETWORK" tvg-logo="https://i.imgur.com/d2o69uW.png" group-title="PREMIUM SPORTS",US : ADVENTURE SPORTS NETWORK
 http://mains.vip:2086/live/8386592806/2543983/56018.ts
 #EXTINF:-1 tvg-id="AltitudeSports.us" tvg-name="US : ALTITUDE SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Altitude_Sports_logo.svg/400px-Altitude_Sports_logo.svg.png" group-title="PREMIUM SPORTS",US : ALTITUDE SPORTS
