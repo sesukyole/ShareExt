@@ -33,12 +33,157 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_useesports2_small.png" group-title="ShareExt@MKCsport@PAKAIjak", Useesports 2
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_egg_small1.png?v=2.0.0.13" group-title="ShareExt@MKCsport@PAKAIjak",eGG TV
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=egg&bandwidth=default&sync=0
 
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="trans7" tvg-name="TRANS 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",TRANS 7 (Usee)
+http://gumisasak.site/USEETV/master.m3u8?id=trans7
+#EXTINF:-1 tvg-id="transtv" tvg-name="TRANS TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",TRANS TV (Usee)
+http://gumisasak.site/USEETV/master.m3u8?id=transtv
+#EXTINF:-1 tvg-id="indosiar" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="ShareExt@UseeLOKAL",Indosiar (Usee)
+http://gumisasak.site/USEETV/master.m3u8?id=indosiar
+#EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="ShareExt@UseeLOKAL",SCTV
+http://gumisasak.site/USEETV/master.m3u8?id=sctv
+#EXTINF:-1 tvg-id="metrotv" tvg-name="Metro TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",Metro TV
+http://gumisasak.site/USEETV/master.m3u8?id=metrotv
+#EXTINF:-1 tvg-id="net" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",NET TV
+http://gumisasak.site/USEETV/master.m3u8?id=net
+#EXTINF:-1 tvg-id="rtv" tvg-name="Rajawali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",Rajawali TV 
+http://gumisasak.site/USEETV/master.m3u8?id=rtv
+#EXTINF:-1 tvg-id="beritasatu" tvg-name="Berita Satu" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",Berita Satu 
+http://gumisasak.site/USEETV/master.m3u8?id=beritasatu
+#EXTINF:-1 tvg-id="kompastv" tvg-name="Kompas TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",Kompas tv
+http://gumisasak.site/USEETV/master.m3u8?id=kompastv
+#EXTINF:-1 tvg-id="jitv" tvg-name="JITV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jitv_small.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",JITV
+http://gumisasak.site/USEETV/master.m3u8?id=jitv
+#EXTINF:-1 tvg-id="insert" tvg-name="Insert" tvg-logo="https://www.useetv.com/assets/images/channel/logo_insert_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",Insert 
+http://gumisasak.site/USEETV/master.m3u8?id=insert
+#EXTINF:-1 tvg-id="antara" tvg-name="ANTARA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antara_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",ANTARA TV 
+http://gumisasak.site/USEETV/master.m3u8?id=antara
+#EXTINF:-1 tvg-id="useeinfo" tvg-name="Ruang Terampil" tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png?v=2.0.1.16" group-title="ShareExt@UseeLOKAL",Ruang Terampil 
+http://gumisasak.site/USEETV/master.m3u8?id=useeinfo
+#EXTINF:-1 tvg-id="useephoto" tvg-name="Usee Photo" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",Usee Photo 
+http://gumisasak.site/USEETV/master.m3u8?id=useephoto
+#EXTINF:-1 tvg-id="useeprime" tvg-name="Usee Prime" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",Usee Prime
+http://gumisasak.site/USEETV/master.m3u8?id=useeprime
+#EXTINF:-1 tvg-id="balitv" tvg-name="BALI TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",BALI TV
+http://gumisasak.site/USEETV/master.m3u8?id=balitv
+#EXTINF:-1 tvg-id="jaktv" tvg-name="JAK TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",JAK TV 
+http://gumisasak.site/USEETV/master.m3u8?id=jaktv
+#EXTINF:-1 tvg-id="jtv" tvg-name="JTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",JTV 
+http://gumisasak.site/USEETV/master.m3u8?id=jtv
+#EXTINF:-1 tvg-id="tvedukasi" tvg-name="TV Edukasi" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",TV Edukasi 
+http://gumisasak.site/USEETV/master.m3u8?id=tvedukasi
+#EXTINF:-1 tvg-id="tvri" tvg-name="TVRI" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",TVRI
+http://gumisasak.site/USEETV/master.m3u8?id=tvri
+#EXTINF:-1 tvg-id="daaitv" tvg-name="DAAI TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",DAAI Tv
+http://gumisasak.site/USEETV/master.m3u8?id=daaitv
+#EXTINF:-1 tvg-id="rrinet" tvg-name="RRI NET" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rri_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",RRI NET
+http://gumisasak.site/USEETV/master.m3u8?id=rrinet
+#EXTINF:-1 tvg-id="antv" tvg-name="antv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="ShareExt@UseeLOKAL",ANTV 
+http://210.210.155.35/session/0f9e2aba-c5ea-11e8-a5d9-c81f66f89318/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 tvg-id="tvone" tvg-name="tvone" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="ShareExt@UseeLOKAL",TV ONE
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="ShareExt@UseeEntertainment", Dunia Lain 
+http://gumisasak.site/USEETV/master.m3u8?id=dunialain
+#EXTINF:-1 tvg-id="citradrama" tvg-name="tes" tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png?v=2.0.0.15" group-title="ShareExt@UseeEntertainment", Citra Drama
+http://gumisasak.site/USEETV/master.m3u8?id=cdrama
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" group-title="ShareExt@UseeEntertainment", Warner 
+http://gumisasak.site/USEETV/master.m3u8?id=warner
+#EXTINF:-1 tvg-id="blueant" tvg-name="blueant" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="ShareExt@UseeEntertainment", Blue ant entertainmet
+http://gumisasak.site/USEETV/master.m3u8?id=blueant
+#EXTINF:-1 tvg-id="blueantextreme" tvg-name="blueantextreme" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="ShareExt@UseeEntertainment", Blue ant extreme
+http://gumisasak.site/USEETV/master.m3u8?id=blueantextreme
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="ShareExt@UseeEntertainment", AXN 
+http://gumisasak.site/USEETV/master.m3u8?id=axn
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png?v=2.0.0.13" group-title="ShareExt@UseeEntertainment", Chinese Drama 
+http://gumisasak.site/USEETV/master.m3u8?id=chinesedrama
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="ShareExt@UseeEntertainment", Kix 
+http://gumisasak.site/USEETV/master.m3u8?id=kix
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?v=2.0.0.13" group-title="ShareExt@UseeEntertainment", Waku Waku Japan 
+http://gumisasak.site/USEETV/master.m3u8?id=wakuwaku
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png?v=2.0.0.13" group-title="ShareExt@UseeEntertainment", K+ 
+http://gumisasak.site/USEETV/master.m3u8?id=kplus
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="ShareExt@UseeEntertainment", Sony GEM TV
+http://gumisasak.site/USEETV/master.m3u8?id=sgem
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title="ShareExt@UseeEntertainment", Sony One 
+http://gumisasak.site/USEETV/master.m3u8?id=sone
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_outdoor_small.png?v=1.1" group-title="ShareExt@UseeEntertainment", Outdoor CHANNEL 
+http://gumisasak.site/USEETV/master.m3u8?id=outdoor
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="ShareExt@UseeEntertainment", Aniplus 
+http://gumisasak.site/USEETV/master.m3u8?id=aniplus
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="ShareExt@UseeEntertainment", Animax 
+http://gumisasak.site/USEETV/master.m3u8?id=animax
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kbsworld_small.png" group-title="ShareExt@UseeEntertainment", KBS World 
+http://gumisasak.site/USEETV/master.m3u8?id=kbsworld
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png" group-title="ShareExt@UseeEntertainment", ABC Australia 
+http://gumisasak.site/USEETV/master.m3u8?id=abcaustralia
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="ShareExt@UseeEntertainment", Lifetime 
+http://gumisasak.site/USEETV/master.m3u8?id=lifetime
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_small.png" group-title="ShareExt@UseeEntertainment", Ctiasia
+http://gumisasak.site/USEETV/master.m3u8?id=ctiasia
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cctv4_small1.png?v=2.0.0.13" group-title="ShareExt@UseeEntertainment", CCTV4 
+http://gumisasak.site/USEETV/master.m3u8?id=cctv4
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_small.png?v=2.0.0.13" group-title="ShareExt@UseeEntertainment", NHK World Japan 
+http://gumisasak.site/USEETV/master.m3u8?id=nhkworld
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_arirang_small.png" group-title="ShareExt@UseeEntertainment", Arirang 
+http://gumisasak.site/USEETV/master.m3u8?id=arirang
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_small1.png?v=2.0.0.13" group-title="ShareExt@UseeEntertainment", TV5Monde 
+http://gumisasak.site/USEETV/master.m3u8?id=tv5monde
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="ShareExt@UseeMovies", Bioskop Indonesia 
+http://gumisasak.site/USEETV/master.m3u8?id=bioskopindonesia
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="ShareExt@UseeMovies", ZBioskop 
+http://gumisasak.site/USEETV/master.m3u8?id=zbioskop
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="ShareExt@UseeMovies", TVN 
+http://gumisasak.site/USEETV/master.m3u8?id=tvn
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="ShareExt@UseeMovies", TVN MOVIES
+http://gumisasak.site/USEETV/master.m3u8?id=tvnmovies
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="ShareExt@UseeMovies", Thrill 
+http://gumisasak.site/USEETV/master.m3u8?id=thrill
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="ShareExt@UseeMovies", Celestial Movie 
+http://gumisasak.site/USEETV/master.m3u8?id=celestialmovie
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="ShareExt@UseeMovies", Cinema World 
+http://gumisasak.site/USEETV/master.m3u8?id=cinemaworld
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="ShareExt@UseeMovies", Flik 
+http://gumisasak.site/USEETV/master.m3u8?id=flik
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="ShareExt@UseeMovies", Galaxy
+http://gumisasak.site/USEETV/master.m3u8?id=galaxy
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="ShareExt@UseeMovies", Galaxy Premium 
+http://gumisasak.site/USEETV/master.m3u8?id=galaxypremium
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="ShareExt@UseeMovies", IMC 
+http://gumisasak.site/USEETV/master.m3u8?id=imc
 
 
 
