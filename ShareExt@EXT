@@ -49,6 +49,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvri_big1.png?v=2.0.0.13" group-title="ShareExt@Lokal_Vid+Usee",TVRI _USEETV 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c74d97b01eae257e44aa9d5bade97baf0fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_indosiar_big1.png?v=2.0.0.15" group-title="ShareExt@Lokal_Vid+Usee",Indosiar _USEETV 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=indosiar
 https://cdn09jtedge.useetv.com/dass/133/indosiar/manifest_wuseetv.mpd?encp=gzjgMtW1PoFJ6Lxf9trZVg&uid=&expp=1622278249
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_kompastv_big.png?v=2.0.0.13" group-title="ShareExt@Lokal_Vid+Usee",Kompas TV _USEETV 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff30fb3069a97a8fb9df1d75e6456ecef11
@@ -59,8 +60,10 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rri_big1.png?v=2.0.0.13" group-title="ShareExt@Lokal_Vid+Usee",RRI NET _USEETV 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=38db3aed920cf82ab059bfccbd02be6a0fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_sctv_big1.png?v=2.0.0.15" group-title="ShareExt@Lokal_Vid+Usee",SCTV _USEETV 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=sctv
 https://cdn09jtedge.useetv.com/dass/133/sctv/manifest_wuseetv.mpd?encp=G1UciOie29AoLkoYRqqJtw&uid=&expp=1622278264
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_trans7_big1.png?v=2.0.0.13" group-title="ShareExt@Lokal_Vid+Usee",Trans7 _USEETV 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=trans7
 https://cdn09jtedge.useetv.com/dass/133/trans7_dash/manifest_wuseetv.mpd?encp=NBST9R1Oi1GPOMijFrsz5w&uid=&expp=1622278267
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_transtv_big1.png?v=2.0.0.13" group-title="ShareExt@Lokal_Vid+Usee",TransTV _USEETV 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e00fb3069a97a8fb9df1d75e6456ecef11
