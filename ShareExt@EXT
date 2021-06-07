@@ -83,9 +83,6 @@ http://gumisasak.site/USEETV/master.m3u8?id=rtv
 http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=beritasatu
 https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==beritasatu&b=15&c=beritasatu
 http://gumisasak.site/USEETV/master.m3u8?id=beritasatu
-#EXTINF:-1 tvg-id="kompastv" tvg-name="Kompas TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",Kompas tvhttp://gumisasak.site/USEETV/master.m3u8?id=kompastv
-http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=kompastv
-https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==kompastv&b=15&c=kompastv
 #EXTINF:-1 tvg-id="jitv" tvg-name="JITV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jitv_small.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",JITV
 http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=jitv
 https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==jitv&b=15&c=jitv
