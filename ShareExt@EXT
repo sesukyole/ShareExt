@@ -52,48 +52,69 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=egg&bandwidth=default&sync=0
 
 
 #EXTINF:-1 tvg-id="trans7" tvg-name="TRANS 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",TRANS 7 (Usee)
+https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==trans7&b=15&c=trans7
 http://gumisasak.site/USEETV/master.m3u8?id=trans7
 #EXTINF:-1 tvg-id="transtv" tvg-name="TRANS TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",TRANS TV (Usee)
+https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==transtv&b=15&c=transtv
 http://gumisasak.site/USEETV/master.m3u8?id=transtv
 #EXTINF:-1 tvg-id="indosiar" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="ShareExt@UseeLOKAL",Indosiar (Usee)
+https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==indosiar&b=15&c=indosiar
 http://gumisasak.site/USEETV/master.m3u8?id=indosiar
 #EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="ShareExt@UseeLOKAL",SCTV
+https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==sctv&b=15&c=sctv
 http://gumisasak.site/USEETV/master.m3u8?id=sctv
 #EXTINF:-1 tvg-id="metrotv" tvg-name="Metro TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",Metro TV
+https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==metrotv&b=15&c=metrotv
 http://gumisasak.site/USEETV/master.m3u8?id=metrotv
 #EXTINF:-1 tvg-id="net" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",NET TV
+https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==net&b=15&c=net
 http://gumisasak.site/USEETV/master.m3u8?id=net
 #EXTINF:-1 tvg-id="rtv" tvg-name="Rajawali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",Rajawali TV 
+https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==rtv&b=15&c=rtv
 http://gumisasak.site/USEETV/master.m3u8?id=rtv
 #EXTINF:-1 tvg-id="beritasatu" tvg-name="Berita Satu" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",Berita Satu 
+https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==beritasatu&b=15&c=beritasatu
 http://gumisasak.site/USEETV/master.m3u8?id=beritasatu
-#EXTINF:-1 tvg-id="kompastv" tvg-name="Kompas TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",Kompas tv
-http://gumisasak.site/USEETV/master.m3u8?id=kompastv
+#EXTINF:-1 tvg-id="kompastv" tvg-name="Kompas TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",Kompas tvhttp://gumisasak.site/USEETV/master.m3u8?id=kompastv
+https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==kompastv&b=15&c=kompastv
 #EXTINF:-1 tvg-id="jitv" tvg-name="JITV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jitv_small.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",JITV
+https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==jitv&b=15&c=jitv
 http://gumisasak.site/USEETV/master.m3u8?id=jitv
 #EXTINF:-1 tvg-id="insert" tvg-name="Insert" tvg-logo="https://www.useetv.com/assets/images/channel/logo_insert_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",Insert 
+https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==insert&b=15&c=insert
 http://gumisasak.site/USEETV/master.m3u8?id=insert
 #EXTINF:-1 tvg-id="antara" tvg-name="ANTARA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antara_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",ANTARA TV 
+https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==antara&b=15&c=antara
 http://gumisasak.site/USEETV/master.m3u8?id=antara
 #EXTINF:-1 tvg-id="useeinfo" tvg-name="Ruang Terampil" tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png?v=2.0.1.16" group-title="ShareExt@UseeLOKAL",Ruang Terampil 
+https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==useeinfo&b=15&c=useeinfo
 http://gumisasak.site/USEETV/master.m3u8?id=useeinfo
 #EXTINF:-1 tvg-id="useephoto" tvg-name="Usee Photo" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",Usee Photo 
+https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==useephoto&b=15&c=useephoto
 http://gumisasak.site/USEETV/master.m3u8?id=useephoto
 #EXTINF:-1 tvg-id="useeprime" tvg-name="Usee Prime" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",Usee Prime
+https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==useeprime&b=15&c=useeprime
 http://gumisasak.site/USEETV/master.m3u8?id=useeprime
 #EXTINF:-1 tvg-id="balitv" tvg-name="BALI TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",BALI TV
+https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==balitv&b=15&c=balitv
 http://gumisasak.site/USEETV/master.m3u8?id=balitv
 #EXTINF:-1 tvg-id="jaktv" tvg-name="JAK TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",JAK TV 
+https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==jaktv&b=15&c=jaktv
 http://gumisasak.site/USEETV/master.m3u8?id=jaktv
 #EXTINF:-1 tvg-id="jtv" tvg-name="JTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",JTV 
+https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==jtv&b=15&c=jtv
 http://gumisasak.site/USEETV/master.m3u8?id=jtv
 #EXTINF:-1 tvg-id="tvedukasi" tvg-name="TV Edukasi" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",TV Edukasi 
+https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==tvedukasi&b=15&c=tvedukasi
 http://gumisasak.site/USEETV/master.m3u8?id=tvedukasi
 #EXTINF:-1 tvg-id="tvri" tvg-name="TVRI" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",TVRI
+https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==tvri&b=15&c=tvri
 http://gumisasak.site/USEETV/master.m3u8?id=tvri
 #EXTINF:-1 tvg-id="daaitv" tvg-name="DAAI TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",DAAI Tv
+https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==wakuwaku&b=15&c=wakuwaku
 http://gumisasak.site/USEETV/master.m3u8?id=daaitv
 #EXTINF:-1 tvg-id="rrinet" tvg-name="RRI NET" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rri_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",RRI NET
+https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==rrinet&b=15&c=rrinet
 http://gumisasak.site/USEETV/master.m3u8?id=rrinet
 #EXTINF:-1 tvg-id="antv" tvg-name="antv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="ShareExt@UseeLOKAL",ANTV 
 http://210.210.155.35/session/0f9e2aba-c5ea-11e8-a5d9-c81f66f89318/qwr9ew/s/s07/01.m3u8
