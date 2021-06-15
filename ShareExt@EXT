@@ -4072,6 +4072,14 @@ http://ssx1.1xcdn.xyz/j2/Ten3_HD_HLS.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",Sony6HD
 http://ssx1.1xcdn.xyz/j2/Six_HD_HLS.m3u8
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",J SPORTS 1
+http://redlabmcdn.s.llnwi.net/jp01/bs15/index.m3u8 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",J SPORTS 2
+http://redlabmcdn.s.llnwi.net/jp01/bs11/index.m3u8 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",J SPORTS 3
+http://redlabmcdn.s.llnwi.net/jp01/bs12/index.m3u8 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",J SPORTS 4
+http://redlabmcdn.s.llnwi.net/jp01/cs02/index.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",Ten1(setAuto)
 http://103.153.39.34:8000/play/a042/index.m3u8
