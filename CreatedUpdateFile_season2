@@ -1,4 +1,69 @@
 
+
+
+
+
+
+
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-zCY5oq-o6J4/YMMviph-97I/AAAAAAAABE4/QfuAlDI1hN0PtMwxLN6pvL-Za347AeMlQCLcBGAsYHQ/s1365/1200px-UEFA_Euro_2020_Logo.svg.png"group-title="UEFA EURO CUP",Ten2HD
+http://103.153.39.34:8000/play/a05r/index.m3u8
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-zCY5oq-o6J4/YMMviph-97I/AAAAAAAABE4/QfuAlDI1hN0PtMwxLN6pvL-Za347AeMlQCLcBGAsYHQ/s1365/1200px-UEFA_Euro_2020_Logo.svg.png"group-title="UEFA EURO CUP",ESPN
+http://stream2.grandma.fit/fs2.m3u8
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-zCY5oq-o6J4/YMMviph-97I/AAAAAAAABE4/QfuAlDI1hN0PtMwxLN6pvL-Za347AeMlQCLcBGAsYHQ/s1365/1200px-UEFA_Euro_2020_Logo.svg.png"group-title="UEFA EURO CUP",BeinSport1Max
+http://vrn.bkourjhdqs.xyz/live/6262622200/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="ShareExt@UEFA EURO CUP",AstroArena
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="ShareExt@UEFA EURO CUP",AstroSport1
+http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="ShareExt@UEFA EURO CUP",AstroSport2
+http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="ShareExt@UEFA EURO CUP",Mytyson1 hd
+https://95-213-224-179.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="ShareExt@UEFA EURO CUP",BeinSport1max fr
+http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="ShareExt@UEFA EURO CUP",SK2
+http://31.220.41.88:8081/live/klub2.stream/chunks.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="ShareExt@UEFA EURO CUP",Cuarto(ligaEuro)
+http://91.126.141.13:1935/live/51/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="ShareExt@UEFA EURO CUP",BeinSport1Max(setNative)
+http://8.anbdaouras.xyz/live/6262622200/index.m3u8?hubtvapp.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="ShareExt@UEFA EURO CUP",TRT1(ligaEuro)
+https://tv-trt1.live.trt.com.tr/master_360.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="ShareExt@UEFA EURO CUP",TicoSport(setNative)
+https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_2.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="ShareExt@UEFA EURO CUP",ABC_us(ligaEuro)
+http://31.220.41.87:8081/live/us-abc.stream/chunks.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="ShareExt@UEFA EURO CUP",Premium1(setNative)
+http://ott-cdn.ucom.am/s83/03.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="ShareExt@UEFA EURO CUP",Ch5france(setNative)
+http://91.126.141.13:1935/live/61/1800-def.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="ShareExt@UEFA EURO CUP",ITV(ligaEuro)
+https://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="ShareExt@UEFA EURO CUP",HRT2(ligaEuro)
+http://109.105.201.198:80/HRT2HD/video.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="ShareExt@UEFA EURO CUP",SPOTTV(ligaEuro)
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="RTM Sports" tvg-name="RTM Sports" tvg-logo="https://i.ibb.co/zVKhdjR/rtm.png" group-title="ShareExt@SSPORTS",RTM Sports
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/146
 #EXTINF:-1 tvg-id="" tvg-name="BT ESPN (test)" tvg-logo="" group-title="ShareExt@SSPORTS",BT ESPN
