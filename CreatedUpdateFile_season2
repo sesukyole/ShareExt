@@ -67,7 +67,10 @@ http://gpc.my.id/vidio/champion-tv-2.m3u8
 #EXTINF:-1tvg-logo="https://i.postimg.cc/hPK2P2Yn/champions-tv-3-f32604.png" group-title="ShareExt@PREMIUMMSport",Champion TV 3 HD
 http://gpc.my.id/vidio/champion-tv-3.m3u8
 
-
+#EXTINF:-1tvg-logo="https://i.postimg.cc/hvpp1112/Logo-be-IN-SPORTS-MAX.png" group-title="ShareExt@PREMIUMMSport",Liga bien 1 
+http://185.180.221.194:8278/streams/d/Bein1hd/playlist.m3u8
+#EXTINF:-1tvg-logo="https://i.postimg.cc/hvpp1112/Logo-be-IN-SPORTS-MAX.png" group-title="ShareExt@PREMIUMMSport",Liga bien 2
+http://185.180.221.194:8278/streams/d/Bein2hd/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",SKYNETSPORT HD
 http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
