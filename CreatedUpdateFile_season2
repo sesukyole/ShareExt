@@ -132,6 +132,23 @@ http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4388
 
 
 
+
+#EXTINF:-1 tvg-id="tv-arena-sport-1-hr.sport" tvg-name="Arena Sport 1 HD (HR)" tvg-logo="http://mstv.ddns.net:18080/images/00001f1fba8573de8a67c408af85b031.png" group-title="ShareExt@PREMIUMMSport",ArenaSport1 HD(HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/1
+#EXTINF:-1 tvg-id="tv-arena-sport-2.sport" tvg-name="Arena Sport 2 HD (HR)" tvg-logo="http://mstv.ddns.net:18080/images/78c6eddd6ccb6192af57c60d07cac574.png" group-title="ShareExt@PREMIUMMSport",ArenaSport2 HD(HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/2
+#EXTINF:-1 tvg-id="arena4" tvg-name="Arena Sport 4 HD (HR)" tvg-logo="http://mstv.ddns.net:18080/images/a2725839025ee03d6c6bead98a920ce0.png" group-title="ShareExt@PREMIUMMSport",ArenaSport4 HD(HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/8
+#EXTINF:-1 tvg-id="arena5.rs" tvg-name="Arena Sport 5 HD (HR)" tvg-logo="http://mstv.ddns.net:18080/images/88d83074076ebff8564ff7daf5acd24b.png" group-title="ShareExt@PREMIUMMSport",ArenaSport5 HD(HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/20
+#EXTINF:-1 tvg-id="arena6" tvg-name="Arena Sport 6 HD (HR)" tvg-logo="http://mstv.ddns.net:18080/images/583f17723308f147f86e018998309611.png" group-title="ShareExt@PREMIUMMSport",ArenaSport6 HD(HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/31
+#EXTINF:-1 tvg-id="SportKlub2" tvg-name="Sport Klub 2 HD" tvg-logo="http://mstv.ddns.net:18080/images/8771c15251fc53509b29b829df056a38.png" group-title="ShareExt@PREMIUMMSport",SportKlub2 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/159
+#EXTINF:-1 tvg-id="SportKlub3" tvg-name="Sport Klub 3 HD" tvg-logo="http://mstv.ddns.net:18080/images/386ab59daf283dc03836a6982dff8352.png" group-title="ShareExt@PREMIUMMSport",SportKlub3 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/6
+
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",SKYNETSPORT HD
 http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",SKYNETSPORT1
