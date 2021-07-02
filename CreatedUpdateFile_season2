@@ -106,6 +106,26 @@ http://185.180.221.194:8278/streams/d/Bein1hd/playlist.m3u8
 #EXTINF:-1tvg-logo="https://i.postimg.cc/hvpp1112/Logo-be-IN-SPORTS-MAX.png" group-title="ShareExt@PREMIUMMSport",Liga bien 2
 http://185.180.221.194:8278/streams/d/Bein2hd/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Indian - Star Sports 1" tvg-logo="" group-title="ShareExt@PREMIUMMSport",Star Sports 1
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4364
+#EXTINF:-1 tvg-id="" tvg-name="Indian - Star Sports 2" tvg-logo="" group-title="ShareExt@PREMIUMMSport",Star Sports 2
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4365
+#EXTINF:-1 tvg-id="" tvg-name="Indian - TEN 1" tvg-logo="" group-title="ShareExt@PREMIUMMSport",TEN 1
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4373
+#EXTINF:-1 tvg-id="" tvg-name="Indian - TEN Action" tvg-logo="" group-title="ShareExt@PREMIUMMSport",TEN Action
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4374
+#EXTINF:-1 tvg-id="" tvg-name="Indian - TEN Cricket" tvg-logo="" group-title="ShareExt@PREMIUMMSport",TEN Cricket
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4375
+#EXTINF:-1 tvg-id="" tvg-name="Indian - TEN Golf" tvg-logo="" group-title="ShareExt@PREMIUMMSport",TEN Golf
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4376
+#EXTINF:-1 tvg-id="" tvg-name="Indian - TEN Sports" tvg-logo="" group-title="ShareExt@PREMIUMMSport",TEN Sports
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4377
+#EXTINF:-1 tvg-id="" tvg-name="Indian - Willow Cricket" tvg-logo="" group-title="ShareExt@PREMIUMMSport",Willow Cricket
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4388
+
+
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",SKYNETSPORT HD
 http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",SKYNETSPORT1
@@ -299,6 +319,128 @@ https://chostv.mobie.in/choos/sports/matchqy3.m3u8
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",Tennis+
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="latino.bein_sport_en_espanol" tvg-name="Latino - beIN Sports" tvg-logo="http://venomhosting.services/guide_files/guide_logo/NEWLOGOS/beIN%20Sports(1).png" group-title="ShareExt@GROUP_beIN Sports",Latin_beIN Sports
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/2623
+#EXTINF:-1 tvg-id="" tvg-name="Latino - beIN Sports La Liga" tvg-logo="http://venomhosting.services/guide_files/guide_logo/NEWLOGOS/beinsportslaliga.png" group-title="ShareExt@GROUP_beIN Sports",Latin_beIN Sports La Liga
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/2624
+#EXTINF:-1 tvg-id="" tvg-name="beIN La Liga" tvg-logo="https://venomhosting.services/guide_files/guide_logo/NEWLOGOS/beinsportslaliga.png" group-title="ShareExt@GROUP_beIN Sports",beIN La Liga
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/19690
+#EXTINF:-1 tvg-id="BEINSPORTSUSA" tvg-name="beIN Sports" tvg-logo="https://venomhosting.services/guide_files/guide_logo/NEWLOGOS/BEIN%20Sport%20USA(1).png" group-title="ShareExt@GROUP_beIN Sports",beIN Sports
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/906
+#EXTINF:-1 tvg-id="BEINSPORTSN" tvg-name="beIN Sports N" tvg-logo="http://venomhosting.services/guide_files/guide_logo/NEWLOGOS/BeinSportsN.png" group-title="ShareExt@GROUP_beIN Sports",beIN Sports N
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/907
+#EXTINF:-1 tvg-id="bein.sports.1.fr" tvg-name="FR - beIN SportS 1" tvg-logo="" group-title="ShareExt@GROUP_beIN Sports",FR-beIN SportS 1
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/8080
+#EXTINF:-1 tvg-id="bein.sports.2.fr" tvg-name="FR - beIN SportS 2" tvg-logo="" group-title="ShareExt@GROUP_beIN Sports",FR-beIN SportS 2
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/8081
+#EXTINF:-1 tvg-id="bein.sports.3.fr" tvg-name="FR - beIN SportS 3" tvg-logo="" group-title="ShareExt@GROUP_beIN Sports",FR-beIN SportS 3
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/8082
+#EXTINF:-1 tvg-id="bein.sports.max.10.fr" tvg-name="FR - beIN Sports Max 10" tvg-logo="" group-title="ShareExt@GROUP_beIN Sports",FR-beIN Sports Max 10
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/8089
+#EXTINF:-1 tvg-id="bein.sports.max.4.fr" tvg-name="FR - beIN Sports Max 4" tvg-logo="" group-title="ShareExt@GROUP_beIN Sports",FR-beIN Sports Max 4
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/8083
+#EXTINF:-1 tvg-id="bein.sports.max.5.fr" tvg-name="FR - beIN Sports Max 5" tvg-logo="" group-title="ShareExt@GROUP_beIN Sports",FR-beIN Sports Max 5
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/8084
+#EXTINF:-1 tvg-id="bein.sports.max.6.fr" tvg-name="FR - beIN Sports Max 6" tvg-logo="" group-title="ShareExt@GROUP_beIN Sports",FR-beIN Sports Max 6
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/8085
+#EXTINF:-1 tvg-id="bein.sports.max.7.fr" tvg-name="FR - beIN Sports Max 7" tvg-logo="" group-title="ShareExt@GROUP_beIN Sports",FR-beIN Sports Max 7
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/8086
+#EXTINF:-1 tvg-id="bein.sports.max.8.fr" tvg-name="FR - beIN Sports Max 8" tvg-logo="" group-title="ShareExt@GROUP_beIN Sports",FR-beIN Sports Max 8
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/8087
+#EXTINF:-1 tvg-id="bein.sports.max.9.fr" tvg-name="FR - beIN Sports Max 9" tvg-logo="" group-title="ShareExt@GROUP_beIN Sports",FR-beIN Sports Max 9
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/8088
+#EXTINF:-1 tvg-id="bein.sports.1.ae" tvg-name="beIN Sports 01" tvg-logo="http://venomhosting.services/guide_files/guide_logo/NEWLOGOS/BeIN%20Sports%201%20HD.png" group-title="ShareExt@GROUP_beIN Sports",beIN Sports 01
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4175
+#EXTINF:-1 tvg-id="bein.sports.2.ae" tvg-name="beIN Sports 02" tvg-logo="http://venomhosting.services/guide_files/guide_logo/NEWLOGOS/BeIN%20Sports%202%20HD.png" group-title="ShareExt@GROUP_beIN Sports",beIN Sports 02
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4176
+#EXTINF:-1 tvg-id="aghani.aghani.ae" tvg-name="beIN Sports 03" tvg-logo="http://venomhosting.services/guide_files/guide_logo/NEWLOGOS/BeIN%20Sports%203%20HD.png" group-title="ShareExt@GROUP_beIN Sports",beIN Sports 03
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4177
+#EXTINF:-1 tvg-id="bein.sports.4.ae" tvg-name="beIN Sports 04" tvg-logo="http://venomhosting.services/guide_files/guide_logo/NEWLOGOS/BeIN%20Sports%204%20HD.png" group-title="ShareExt@GROUP_beIN Sports",beIN Sports 04
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4178
+#EXTINF:-1 tvg-id="bein.sports.5.ae" tvg-name="beIN Sports 05" tvg-logo="http://venomhosting.services/guide_files/guide_logo/NEWLOGOS/BeIN%20Sports%205%20HD.png" group-title="ShareExt@GROUP_beIN Sports",beIN Sports 05
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4179
+#EXTINF:-1 tvg-id="bein.sports.6.ae" tvg-name="beIN Sports 06" tvg-logo="http://venomhosting.services/guide_files/guide_logo/NEWLOGOS/BeIN%20Sports%206%20HD.png" group-title="ShareExt@GROUP_beIN Sports",beIN Sports 06
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4180
+#EXTINF:-1 tvg-id="bein.sports.7.ae" tvg-name="beIN Sports 07" tvg-logo="http://venomhosting.services/guide_files/guide_logo/NEWLOGOS/BeIN%20Sports%207%20HD%202.png" group-title="ShareExt@GROUP_beIN Sports",beIN Sports 07
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4181
+#EXTINF:-1 tvg-id="bein.sports.8.ae" tvg-name="beIN Sports 08" tvg-logo="http://venomhosting.services/guide_files/guide_logo/NEWLOGOS/BeIN%20Sports%208%20HD%202.png" group-title="beIN Sports",ShareExt@GROUP_beIN Sports 08
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4182
+#EXTINF:-1 tvg-id="bein.sports.9.ae" tvg-name="beIN Sports 09" tvg-logo="http://venomhosting.services/guide_files/guide_logo/NEWLOGOS/BeIN%20Sports%209%20HD%202.png" group-title="ShareExt@GROUP_beIN Sports",beIN Sports 09
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4183
+#EXTINF:-1 tvg-id="bein.sports.10.ae" tvg-name="beIN Sports 10" tvg-logo="http://venomhosting.services/guide_files/guide_logo/NEWLOGOS/BeIN%20Sports%2010%20HD%202.png" group-title="ShareExt@GROUP_beIN Sports",beIN Sports 10
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4184
+#EXTINF:-1 tvg-id="bein.sports.11.ae" tvg-name="beIN Sports 11" tvg-logo="http://venomhosting.services/guide_files/guide_logo/NEWLOGOS/BeIN%20Sports%2011%20HD.png" group-title="ShareExt@GROUP_beIN Sports",beIN Sports 11
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4185
+#EXTINF:-1 tvg-id="bein.sports.12.ae" tvg-name="beIN Sports 12" tvg-logo="http://venomhosting.services/guide_files/guide_logo/NEWLOGOS/BeIN%20Sports%2012%20HD.png" group-title="ShareExt@GROUP_beIN Sports",beIN Sports 12
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4186
+#EXTINF:-1 tvg-id="aghani.aghani.ae" tvg-name="beIN Sports 13" tvg-logo="http://venomhosting.services/guide_files/guide_logo/NEWLOGOS/BeIN%20Sports%2013%20HD%202.png" group-title="ShareExt@GROUP_beIN Sports",beIN Sports 13
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4187
+#EXTINF:-1 tvg-id="bein.sports.1.perth.au" tvg-name="Australian - beIN Sports 1" tvg-logo="https://venomhosting.services/guide_files/guide_logo/recently_added/aus/bein1.png" group-title="ShareExt@GROUP_beIN Sports",beIN Sports 1(AU)
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/24073
+#EXTINF:-1 tvg-id="bein.sports.2.perth.au" tvg-name="Australian - beIN Sports 2" tvg-logo="https://venomhosting.services/guide_files/guide_logo/recently_added/aus/bein2.png" group-title="ShareExt@GROUP_beIN Sports",beIN Sports 2(AU)
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/24074
+#EXTINF:-1 tvg-id="bein.sports.3.perth.au" tvg-name="Australian - beIN Sports 3" tvg-logo="https://venomhosting.services/guide_files/guide_logo/recently_added/aus/bein3.png" group-title="ShareExt@GROUP_beIN Sports",beIN Sports 3(AU)
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/24075
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="SS-ACTION" tvg-name="SuperSport Action" tvg-logo="https://venomhosting.services/guide_files/guide_logo/recently_added/ssports/ss-action.png" group-title="ShareExt@SuperSports",SuperSport Action
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/8430
+#EXTINF:-1 tvg-id="SS-BLITZ" tvg-name="SuperSport Blitz" tvg-logo="https://venomhosting.services/guide_files/guide_logo/recently_added/ssports/ss-blitz.png" group-title="ShareExt@SuperSports",SuperSport Blitz
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/17339
+#EXTINF:-1 tvg-id="SS-CRICKET" tvg-name="SuperSport Cricket" tvg-logo="https://venomhosting.services/guide_files/guide_logo/recently_added/ssports/ss-cricket.png" group-title="ShareExt@SuperSports",SuperSport Cricket
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/8435
+#EXTINF:-1 tvg-id="SS-ESPN" tvg-name="SuperSport ESPN" tvg-logo="https://venomhosting.services/guide_files/guide_logo/recently_added/logo.png" group-title="ShareExt@SuperSports",SuperSport ESPN
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/21879
+#EXTINF:-1 tvg-id="SS-ESPN2" tvg-name="SuperSport ESPN2" tvg-logo="https://venomhosting.services/guide_files/guide_logo/recently_added/logo.png" group-title="ShareExt@SuperSports",SuperSport ESPN2
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/21880
+#EXTINF:-1 tvg-id="SS-FOOTBALL" tvg-name="SuperSport Football" tvg-logo="https://venomhosting.services/guide_files/guide_logo/recently_added/ssports/ss-football.png" group-title="ShareExt@SuperSports",SuperSport Football
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/8431
+#EXTINF:-1 tvg-id="SS-GOLF" tvg-name="SuperSport Golf" tvg-logo="https://venomhosting.services/guide_files/guide_logo/recently_added/ssports/ss-golf.png" group-title="ShareExt@SuperSports",SuperSport Golf
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/17343
+#EXTINF:-1 tvg-id="SS-GRANDSTAND" tvg-name="SuperSport Grandstand" tvg-logo="http://redsnakebite.net:80/images/00a1963343aee029f0681c170638ecef.png" group-title="ShareExt@SuperSports",SuperSport Grandstand
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/8427
+#EXTINF:-1 tvg-id="SS-LALIGA" tvg-name="SuperSport La Liga" tvg-logo="https://venomhosting.services/guide_files/guide_logo/recently_added/ssports/ss-laliga.png" group-title="ShareExt@SuperSports",SuperSport La Liga
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/8424
+#EXTINF:-1 tvg-id="SS-MOTORSPORT" tvg-name="SuperSport Motorsport" tvg-logo="https://venomhosting.services/guide_files/guide_logo/recently_added/ssports/ss-motorsport.png" group-title="ShareExt@SuperSports",SuperSport Motorsport
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/8432
+#EXTINF:-1 tvg-id="noepg" tvg-name="SuperSport Play" tvg-logo="https://venomhosting.services/guide_files/guide_logo/recently_added/ssports/ss-play.png" group-title="ShareExt@SuperSports",SuperSport Play
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/17342
+#EXTINF:-1 tvg-id="SS-PREMIER LEAGUE" tvg-name="SuperSport Premier League" tvg-logo="http://redsnakebite.net:80/images/3571cc760245f312ed08904a1172b4f0.png" group-title="ShareExt@SuperSports",SuperSport Premier League
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/8426
+#EXTINF:-1 tvg-id="SS-PSL" tvg-name="SuperSport PSL" tvg-logo="https://venomhosting.services/guide_files/guide_logo/recently_added/ssports/ss-psl.png" group-title="ShareExt@SuperSports",SuperSport PSL
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/8425
+#EXTINF:-1 tvg-id="SS-RUGBY" tvg-name="SuperSport Rugby" tvg-logo="https://venomhosting.services/guide_files/guide_logo/recently_added/ssports/ss-rugby.png" group-title="ShareExt@SuperSports",SuperSport Rugby
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/8434
+#EXTINF:-1 tvg-id="SS-TENNIS" tvg-name="SuperSport Tennis" tvg-logo="https://venomhosting.services/guide_files/guide_logo/recently_added/ssports/ss-tennis.png" group-title="ShareExt@SuperSports",SuperSport Tennis
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/8433
+#EXTINF:-1 tvg-id="SS-VARIETY-1" tvg-name="SuperSport Variety 1" tvg-logo="https://venomhosting.services/guide_files/guide_logo/recently_added/ssports/ss-variety1.png" group-title="ShareExt@SuperSports",SuperSport Variety 1
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/8429
+#EXTINF:-1 tvg-id="SS-VARIETY-2" tvg-name="SuperSport Variety 2" tvg-logo="http://redsnakebite.net:80/images/e63a3c0a225badf2d68edf7a8f764aff.png" group-title="ShareExt@SuperSports",SuperSport Variety 2
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/8428
+#EXTINF:-1 tvg-id="SS-VARIETY-3" tvg-name="SuperSport Variety 3" tvg-logo="https://venomhosting.services/guide_files/guide_logo/recently_added/ssports/ss-variety3.png" group-title="ShareExt@SuperSports",SuperSport Variety 3
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/19086
+#EXTINF:-1 tvg-id="SS-VARIETY-4" tvg-name="SuperSport Variety 4" tvg-logo="https://venomhosting.services/guide_files/guide_logo/recently_added/ssports/ss-variety4.png" group-title="ShareExt@SuperSports",SuperSport Variety 4
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/19087
+#EXTINF:-1 tvg-id="SS-WWE" tvg-name="SuperSport WWE" tvg-logo="https://venomhosting.services/guide_files/guide_logo/recently_added/ssports/ss-wwe.png" group-title="ShareExt@SuperSports",SuperSport WWE
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/21878
+
+
+
+
+
+
+
+
 
 
 
