@@ -64,6 +64,26 @@ http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="EPL 1" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="ShareExt@PremierLeague",EPL 1
+http://clientportal.link:80/7RgEEvt643/LtlEma51/19032
+#EXTINF:-1 tvg-id="" tvg-name="EPL 2" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="ShareExt@PremierLeague",EPL 2
+http://clientportal.link:80/7RgEEvt643/LtlEma51/19033
+#EXTINF:-1 tvg-id="" tvg-name="EPL 3" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="ShareExt@PremierLeague",EPL 3
+http://clientportal.link:80/7RgEEvt643/LtlEma51/19034
+#EXTINF:-1 tvg-id="" tvg-name="EPL 4" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="ShareExt@PremierLeague",EPL 4
+http://clientportal.link:80/7RgEEvt643/LtlEma51/19035
+#EXTINF:-1 tvg-id="" tvg-name="EPL 5" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="ShareExt@PremierLeague",EPL 5
+http://clientportal.link:80/7RgEEvt643/LtlEma51/19036
+#EXTINF:-1 tvg-id="" tvg-name="EPL 6" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="ShareExt@PremierLeague",EPL 6
+http://clientportal.link:80/7RgEEvt643/LtlEma51/19037
+#EXTINF:-1 tvg-id="" tvg-name="EPL 7" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="ShareExt@PremierLeague",EPL 7
+http://clientportal.link:80/7RgEEvt643/LtlEma51/19089
+#EXTINF:-1 tvg-id="" tvg-name="EPL 8" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="ShareExt@PremierLeague",EPL 8
+http://clientportal.link:80/7RgEEvt643/LtlEma51/19090
+#EXTINF:-1 tvg-id="" tvg-name="EPL 9" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="ShareExt@PremierLeague",EPL 9
+http://clientportal.link:80/7RgEEvt643/LtlEma51/28167
+#EXTINF:-1 tvg-id="" tvg-name="EPL 10" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="ShareExt@PremierLeague",EPL 10
+http://clientportal.link:80/7RgEEvt643/LtlEma51/28168
 
 
 
