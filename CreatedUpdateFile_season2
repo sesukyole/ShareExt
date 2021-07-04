@@ -3821,14 +3821,6 @@ http://iptv.tvmalaysia.cc:80/737373/737373/7228
 http://iptv.tvmalaysia.cc:80/737373/737373/7229
 #EXTINF:-1 tvg-id="" tvg-name="Celestial Classic Movies." tvg-logo="https://i.postimg.cc/bwFrd64g/download-29.jpg" group-title="LIVE | MOVIE (subtitle)",Celestial Classic Movies.
 http://iptv.tvmalaysia.cc:80/737373/737373/7222
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="TV Okey" tvg-logo="" group-title="LIVE | MEDIA PRIMA",TV Okey
 http://iptv.tvmalaysia.cc:80/737373/737373/8921
 #EXTINF:-1 tvg-id="ntv7.my" tvg-name="Didik TV (NTV 7)" tvg-logo="" group-title="LIVE | MEDIA PRIMA",Didik TV (NTV 7)
@@ -3841,6 +3833,142 @@ http://iptv.tvmalaysia.cc:80/737373/737373/8970
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="ShareExt@CINE SKY",CINE SKY 01
+http://rec2.distv.net:80/aurora/123456/48
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="ShareExt@CINE SKY",CINE SKY 02
+http://rec2.distv.net:80/aurora/123456/49
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="ShareExt@CINE SKY",CINE SKY 03
+http://rec2.distv.net:80/aurora/123456/50
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="ShareExt@CINE SKY",CINE SKY 04
+http://rec2.distv.net:80/aurora/123456/51
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="ShareExt@CINE SKY",CINE SKY 05
+http://rec2.distv.net:80/aurora/123456/52
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="ShareExt@CINE SKY",CINE SKY 06
+http://rec2.distv.net:80/aurora/123456/53
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="ShareExt@CINE SKY",CINE SKY 07
+http://rec2.distv.net:80/aurora/123456/54
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="ShareExt@CINE SKY",CINE SKY 08
+http://rec2.distv.net:80/aurora/123456/55
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="ShareExt@CINE SKY",CINE SKY 09
+http://rec2.distv.net:80/aurora/123456/56
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="ShareExt@CINE SKY",CINE SKY 10
+http://rec2.distv.net:80/aurora/123456/57
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS" tvg-logo="http://distv.net/icons/bandsports.png" group-title="ShareExt@BRAZIL_SPORTS",BAND SPORTS
+http://rec2.distv.net:80/aurora/123456/119
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE" tvg-logo="http://distv.net/icons/combate.png" group-title="ShareExt@BRAZIL_SPORTS",COMBATE
+http://rec2.distv.net:80/aurora/123456/126
+#EXTINF:-1 tvg-id="" tvg-name="DAZN" tvg-logo="http://distv.net/icons/dazn.png" group-title="ShareExt@BRAZIL_SPORTS",DAZN
+http://rec2.distv.net:80/aurora/123456/226
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://distv.net/icons/espn.png" group-title="ShareExt@BRAZIL_SPORTS",ESPN
+http://rec2.distv.net:80/aurora/123456/142
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://distv.net/icons/espn2.png" group-title="ShareExt@BRAZIL_SPORTS",ESPN 2
+http://rec2.distv.net:80/aurora/123456/143
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL" tvg-logo="http://distv.net/icons/espnbrasil.png" group-title="ShareExt@BRAZIL_SPORTS",ESPN BRASIL
+http://rec2.distv.net:80/aurora/123456/144
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="http://distv.net/icons/espnextra.png" group-title="ShareExt@BRAZIL_SPORTS",ESPN EXTRA
+http://rec2.distv.net:80/aurora/123456/145
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="http://distv.net/icons/foxsports.png" group-title="ShareExt@BRAZIL_SPORTS",FOX SPORTS
+http://rec2.distv.net:80/aurora/123456/152
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="http://distv.net/icons/foxsports2.png" group-title="ShareExt@BRAZIL_SPORTS",FOX SPORTS 2
+http://rec2.distv.net:80/aurora/123456/153
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2" tvg-logo="http://distv.net/icons/premiere2.png" group-title="ShareExt@BRAZIL_SPORTS",PREMIERE 2
+http://rec2.distv.net:80/aurora/123456/179
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3" tvg-logo="http://distv.net/icons/premiere3.png" group-title="ShareExt@BRAZIL_SPORTS",PREMIERE 3
+http://rec2.distv.net:80/aurora/123456/180
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4" tvg-logo="http://distv.net/icons/premeire4.png" group-title="ShareExt@BRAZIL_SPORTS",PREMIERE 4
+http://rec2.distv.net:80/aurora/123456/181
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5" tvg-logo="http://distv.net/icons/premeire5.png" group-title="ShareExt@BRAZIL_SPORTS",PREMIERE 5
+http://rec2.distv.net:80/aurora/123456/182
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6" tvg-logo="http://distv.net/icons/premiere6.png" group-title="ShareExt@BRAZIL_SPORTS",PREMIERE 6
+http://rec2.distv.net:80/aurora/123456/183
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7" tvg-logo="http://distv.net/icons/premiere7.png" group-title="ShareExt@BRAZIL_SPORTS",PREMIERE 7
+http://rec2.distv.net:80/aurora/123456/237
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES" tvg-logo="http://distv.net/icons/premiereclubes.png" group-title="ShareExt@BRAZIL_SPORTS",PREMIERE CLUBES
+http://rec2.distv.net:80/aurora/123456/184
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="http://distv.net/icons/sportv.png" group-title="ShareExt@BRAZIL_SPORTS",SPORTV
+http://rec2.distv.net:80/aurora/123456/188
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2" tvg-logo="http://distv.net/icons/sportv2.png" group-title="ShareExt@BRAZIL_SPORTS",SPORTV 2
+http://rec2.distv.net:80/aurora/123456/189
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3" tvg-logo="http://distv.net/icons/sportv3.png" group-title="ShareExt@BRAZIL_SPORTS",SPORTV 3
+http://rec2.distv.net:80/aurora/123456/190
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="http://distv.net/icons/foxlife.png" group-title="ShareExt@BRAZIL_MOVIES",FOX LIFE
+http://rec2.distv.net:80/aurora/123456/149
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1" tvg-logo="http://distv.net/icons/foxpremium1.png" group-title="ShareExt@BRAZIL_MOVIES",FOX PREMIUM 1
+http://rec2.distv.net:80/aurora/123456/150
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2" tvg-logo="http://distv.net/icons/foxpremium2.png" group-title="ShareExt@BRAZIL_MOVIES",FOX PREMIUM 2
+http://rec2.distv.net:80/aurora/123456/151
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://distv.net/icons/axn.png" group-title="ShareExt@BRAZIL_MOVIES",AXN
+http://rec2.distv.net:80/aurora/123456/116
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://distv.net/icons/hbo.png" group-title="ShareExt@BRAZIL_MOVIES",HBO
+http://rec2.distv.net:80/aurora/123456/156
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="http://distv.net/icons/hbo2.png" group-title="ShareExt@BRAZIL_MOVIES",HBO 2
+http://rec2.distv.net:80/aurora/123456/157
+#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBO FAMILY" tvg-logo="http://distv.net/icons/hbofamily.png" group-title="ShareExt@BRAZIL_MOVIES",HBO FAMILY
+http://rec2.distv.net:80/aurora/123456/158
+#EXTINF:-1 tvg-id="HBOMUNDI" tvg-name="HBO MUNDI" tvg-logo="http://distv.net/icons/hbomundi.png" group-title="ShareExt@BRAZIL_MOVIES",HBO MUNDI
+http://rec2.distv.net:80/aurora/123456/159
+#EXTINF:-1 tvg-id="HBOPLUS" tvg-name="HBO PLUS" tvg-logo="http://distv.net/icons/hboplus.png" group-title="ShareExt@BRAZIL_MOVIES",HBO PLUS
+http://rec2.distv.net:80/aurora/123456/160
+#EXTINF:-1 tvg-id="HBOPOP" tvg-name="HBO POP" tvg-logo="http://distv.net/icons/hbopop.png" group-title="ShareExt@BRAZIL_MOVIES",HBO POP
+http://rec2.distv.net:80/aurora/123456/161
+#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="http://distv.net/icons/hbosignature.png" group-title="ShareExt@BRAZIL_MOVIES",HBO SIGNATURE
+http://rec2.distv.net:80/aurora/123456/162
+#EXTINF:-1 tvg-id="HBOXTREME" tvg-name="HBO XTREME" tvg-logo="http://distv.net/icons/hboextreme.png" group-title="ShareExt@BRAZIL_MOVIES",HBO XTREME
+http://rec2.distv.net:80/aurora/123456/163
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://distv.net/icons/hgtv.png" group-title="ShareExt@BRAZIL_MOVIES",HGTV
+http://rec2.distv.net:80/aurora/123456/164
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="http://distv.net/icons/historychannel.png" group-title="ShareExt@BRAZIL_MOVIES",HISTORY
+http://rec2.distv.net:80/aurora/123456/165
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="http://distv.net/icons/h2.png" group-title="ShareExt@BRAZIL_MOVIES",HISTORY 2
+http://rec2.distv.net:80/aurora/123456/166
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="http://distv.net/icons/natgeo.png" group-title="ShareExt@BRAZIL_MOVIES",NAT GEO
+http://rec2.distv.net:80/aurora/123456/172
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS" tvg-logo="http://distv.net/icons/natgeokids.png" group-title="ShareExt@BRAZIL_MOVIES",NAT GEO KIDS
+http://rec2.distv.net:80/aurora/123456/173
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="http://distv.net/icons/natgeowild.png" group-title="ShareExt@BRAZIL_MOVIES",NAT GEO WILD
+http://rec2.distv.net:80/aurora/123456/174
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="http://distv.net/icons/cinemax.png" group-title="ShareExt@BRAZIL_MOVIES",CINEMAX
+http://rec2.distv.net:80/aurora/123456/125
+#EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="TELECINE ACTION" tvg-logo="http://distv.net/icons/tcaction.png" group-title="ShareExt@BRAZIL_MOVIES",TELECINE ACTION
+http://rec2.distv.net:80/aurora/123456/194
+#EXTINF:-1 tvg-id="TELECINECULT" tvg-name="TELECINE CULT" tvg-logo="http://distv.net/icons/tccult.png" group-title="ShareExt@BRAZIL_MOVIES",TELECINE CULT
+http://rec2.distv.net:80/aurora/123456/195
+#EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="TELECINE FUN" tvg-logo="http://distv.net/icons/tcfun.png" group-title="ShareExt@BRAZIL_MOVIES",TELECINE FUN
+http://rec2.distv.net:80/aurora/123456/196
+#EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="http://distv.net/icons/tcpipoca.png" group-title="ShareExt@BRAZIL_MOVIES",TELECINE PIPOCA
+http://rec2.distv.net:80/aurora/123456/197
+#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="http://distv.net/icons/tcpremium.png" group-title="ShareExt@BRAZIL_MOVIES",TELECINE PREMIUM
+http://rec2.distv.net:80/aurora/123456/198
+#EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="TELECINE TOUCH" tvg-logo="http://distv.net/icons/tctouch.png" group-title="ShareExt@BRAZIL_MOVIES",TELECINE TOUCH
+http://rec2.distv.net:80/aurora/123456/199
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://distv.net/icons/tlc.png" group-title="ShareExt@BRAZIL_MOVIES",TLC
+http://rec2.distv.net:80/aurora/123456/200
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://distv.net/icons/tnt.png" group-title="ShareExt@BRAZIL_MOVIES",TNT
+http://rec2.distv.net:80/aurora/123456/201
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="http://distv.net/icons/tntseries.png" group-title="ShareExt@BRAZIL_MOVIES",TNT SERIES
+http://rec2.distv.net:80/aurora/123456/202
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="http://distv.net/icons/tooncast.png" group-title="ShareExt@BRAZIL_MOVIES",TOONCAST
+http://rec2.distv.net:80/aurora/123456/203
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV" tvg-logo="http://distv.net/icons/universalchannel.png" group-title="ShareExt@BRAZIL_MOVIES",UNIVERSAL TV
+http://rec2.distv.net:80/aurora/123456/205
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="http://distv.net/icons/warnerchannel.png" group-title="ShareExt@BRAZIL_MOVIES",WARNER CHANNEL
+http://rec2.distv.net:80/aurora/123456/208
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="http://distv.net/icons/woohoo.png" group-title="ShareExt@BRAZIL_MOVIES",WOOHOO
+http://rec2.distv.net:80/aurora/123456/243
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="http://distv.net/icons/zoomoo.png" group-title="ShareExt@BRAZIL_MOVIES",ZOOMOO
+http://rec2.distv.net:80/aurora/123456/244
 
 
 
