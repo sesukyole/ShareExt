@@ -2601,42 +2601,13 @@ http://zalogitv.tech:8080/Hidayat/Hidayat/1718
 #EXTINF:-1 tvg-id="golfchannel.us" tvg-name="NBC Golf" tvg-logo="https://i.postimg.cc/MKfdLHRH/golf2.png" group-title="VIP SPORTS",NBC Golf
 http://zalogitv.tech:8080/Hidayat/Hidayat/1757
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Optus Sports 1" tvg-logo="https://i.postimg.cc/YSm1BT4b/IMG-20210312-002938.jpg" group-title="VIP SPORTS 2 (Only Match)",AFC 1
+#EXTINF:-1 tvg-id="" tvg-name="Optus Sports 1" tvg-logo="https://i.postimg.cc/YSm1BT4b/IMG-20210312-002938.jpg" group-title="VIP SPORTS",AFC1(matchOnly)
 http://zalogitv.tech:8080/Hidayat/Hidayat/11973
-#EXTINF:-1 tvg-id="" tvg-name="Optus Sports 2" tvg-logo="https://i.postimg.cc/YSm1BT4b/IMG-20210312-002938.jpg" group-title="VIP SPORTS 2 (Only Match)",AFC 2
+#EXTINF:-1 tvg-id="" tvg-name="Optus Sports 2" tvg-logo="https://i.postimg.cc/YSm1BT4b/IMG-20210312-002938.jpg" group-title="VIP SPORTS",AFC2(matchOnly)
 http://zalogitv.tech:8080/Hidayat/Hidayat/11974
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Tennis FHD (ZA)" tvg-logo="https://i.ibb.co/xsFDSwB/supersport-premier-league.png" group-title="VIP SPORTS 2 (Only Match)",DSTV: SuperSport Tennis FHD (ZA)
-http://zalogitv.tech:8080/Hidayat/Hidayat/1781
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Grandstand" tvg-logo="https://i.ibb.co/Ky5gdCV/supersport-grandstand.png" group-title="VIP SPORTS 2 (Only Match)",DSTV: SuperSport Grandstand
-http://zalogitv.tech:8080/Hidayat/Hidayat/1773
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Football" tvg-logo="https://i.ibb.co/LdKnp3Y/csn.png" group-title="VIP SPORTS 2 (Only Match)",DSTV: SuperSport Football
-http://zalogitv.tech:8080/Hidayat/Hidayat/1783
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Golf" tvg-logo="https://i.ibb.co/74W62vv/supersport-golf.png" group-title="VIP SPORTS 2 (Only Match)",DSTV: SuperSport Golf
-http://zalogitv.tech:8080/Hidayat/Hidayat/1778
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Rugby" tvg-logo="https://i.ibb.co/svyGcjf/supersport-rugby.png" group-title="VIP SPORTS 2 (Only Match)",DSTV: SuperSport Rugby
-http://zalogitv.tech:8080/Hidayat/Hidayat/1777
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Cricket" tvg-logo="https://i.ibb.co/37xZRdD/supersport-cricket.png" group-title="VIP SPORTS 2 (Only Match)",DSTV: SuperSport Cricket
-http://zalogitv.tech:8080/Hidayat/Hidayat/1776
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Variety 4" tvg-logo="https://i.ibb.co/Khcjyt4/supersport-variety-4.png" group-title="VIP SPORTS 2 (Only Match)",DSTV: SuperSport Variety 4
-http://zalogitv.tech:8080/Hidayat/Hidayat/1772
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport LaLiga FHD" tvg-logo="https://i.ibb.co/2MGQJZP/supersport-la-liga.png" group-title="VIP SPORTS 2 (Only Match)",DSTV: SuperSport LaLiga FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1771
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: Supersport Blitz FHD" tvg-logo="https://i.ibb.co/4d3ntSr/supersport-blitz.png" group-title="VIP SPORTS 2 (Only Match)",DSTV: Supersport Blitz FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1762
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Variety 1" tvg-logo="https://i.ibb.co/mDDdHQ4/supersport-variety-1.png" group-title="VIP SPORTS 2 (Only Match)",DSTV: SuperSport Variety 1
-http://zalogitv.tech:8080/Hidayat/Hidayat/1767
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Variety 2" tvg-logo="https://i.ibb.co/ngxhM4r/supersport-variety-2.png" group-title="VIP SPORTS 2 (Only Match)",DSTV: SuperSport Variety 2
-http://zalogitv.tech:8080/Hidayat/Hidayat/1769
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Variety 3 FHD (ZA)" tvg-logo="https://i.ibb.co/tLyXN07/supersport-variety-3.png" group-title="VIP SPORTS 2 (Only Match)",DSTV: SuperSport Variety 3 FHD (ZA)
-http://zalogitv.tech:8080/Hidayat/Hidayat/1770
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="Fox Sport US 1" tvg-logo="https://i.postimg.cc/DybXB023/IMG-20210209-174359.png" group-title="VIP SPORTS 2 (Only Match)",Fox Sport US 1
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="Fox Sport US 1" tvg-logo="https://i.postimg.cc/DybXB023/IMG-20210209-174359.png" group-title="VIP SPORTS",FoxSport1(matchOnly)
 http://zalogitv.tech:8080/Hidayat/Hidayat/6387
-#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="Fox Sport Us 2" tvg-logo="https://i.postimg.cc/440c6VR1/IMG-20210209-174603.png" group-title="VIP SPORTS 2 (Only Match)",Fox Sport Us 2
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="Fox Sport Us 2" tvg-logo="https://i.postimg.cc/440c6VR1/IMG-20210209-174603.png" group-title="VIP SPORTS",FoxSport2(matchOnly)
 http://zalogitv.tech:8080/Hidayat/Hidayat/6388
 
 
