@@ -64,6 +64,505 @@ http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 
 
 
+
+#EXTINF:-1 tvg-id="UFCTV.us" tvg-name="...UFC 24/7" tvg-logo="http://38.143.137.20/logo/prestige/United-States/ufc-tv-rossiya-us-ru.png" group-title="SPORTS",UFC
+http://qqtv.nl:8080/9513/9513/57427
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="...TSN 1 HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/tsn_1_ca.png" group-title="SPORTS",TSN 1 HD
+http://qqtv.nl:8080/9513/9513/8007
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="...TSN 2 HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/tsn_2_ca.png" group-title="SPORTS",TSN 2 HD
+http://qqtv.nl:8080/9513/9513/8006
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="...TSN 3 HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/tsn_3_ca.png" group-title="SPORTS",TSN 3 HD
+http://qqtv.nl:8080/9513/9513/8005
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="...TSN 4 HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/tsn_4_ca.png" group-title="SPORTS",TSN 4 HD
+http://qqtv.nl:8080/9513/9513/8004
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="...TSN 5 HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/tsn_5_ca.png" group-title="SPORTS",TSN 5 HD
+http://qqtv.nl:8080/9513/9513/8003
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="...ESPN 1 HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_242.png" group-title="SPORTS",ESPN 1 HD
+http://qqtv.nl:8080/9513/9513/7963
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="...ESPN 2 HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/espn_2.png" group-title="SPORTS",ESPN 2 HD
+http://qqtv.nl:8080/9513/9513/7896
+#EXTINF:-1 tvg-id="MadisonSquareGarden.us" tvg-name="...MSG NETWORKS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="SPORTS",MSG NETWORKS HD
+http://qqtv.nl:8080/9513/9513/7964
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="...ESPNU HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_242.png" group-title="SPORTS",ESPNU HD
+http://qqtv.nl:8080/9513/9513/7895
+#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="...ESPN NEWS HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_242.png" group-title="SPORTS",ESPN NEWS HD
+http://qqtv.nl:8080/9513/9513/7898
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="...beIN SPORTS HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/032015/bein_sport_0.png" group-title="SPORTS",beIN SPORTS HD
+http://qqtv.nl:8080/9513/9513/7866
+#EXTINF:-1 tvg-id="" tvg-name="...beIN XTRA HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/bein-sports-qa.png" group-title="SPORTS",beIN XTRA HD
+http://qqtv.nl:8080/9513/9513/411411
+#EXTINF:-1 tvg-id="247Retro.us" tvg-name="...beIN SPORTS PREMIUM HD EN" tvg-logo="http://glmtv.pw/logo/prestige/United-States/be_in_mena_sports_us.png" group-title="SPORTS",beIN SPORTS PREMIUM HD EN
+http://qqtv.nl:8080/9513/9513/30238
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="...beIN SPORTS Global HD" tvg-logo="http://epg4you.com/logos/beinsports.png" group-title="SPORTS",beIN SPORTS Global HD
+http://qqtv.nl:8080/9513/9513/30237
+#EXTINF:-1 tvg-id="Eurosport 1 UK" tvg-name="...Eurosport 1 HD" tvg-logo="http://glmtv.pw/logo/prestige/United-Kingdom/british_eurosport_1.png" group-title="SPORTS",Eurosport 1 HD
+http://qqtv.nl:8080/9513/9513/392996
+#EXTINF:-1 tvg-id="Eurosport 2 UK" tvg-name="...Eurosport 2 HD" tvg-logo="http://glmtv.pw/logo/prestige/United-Kingdom/british_eurosport_2.png" group-title="SPORTS",Eurosport 2 HD
+http://qqtv.nl:8080/9513/9513/392997
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="...ESPN SEC NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/espn_sec_network_us.png" group-title="SPORTS",ESPN SEC NETWORK HD
+http://qqtv.nl:8080/9513/9513/60414
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="...GOLF CHANNEL HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/golf_channel_us.png" group-title="SPORTS",GOLF CHANNEL HD
+http://qqtv.nl:8080/9513/9513/54843
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="...NBC GOLF CHANNEL HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/golf_channel_us.png" group-title="SPORTS",NBC GOLF CHANNEL HD
+http://qqtv.nl:8080/9513/9513/7962
+#EXTINF:-1 tvg-id="FOXSoccerPlus.us" tvg-name="...FOX SOCCER PLUS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_soccer_plus.png" group-title="SPORTS",FOX SOCCER PLUS HD
+http://qqtv.nl:8080/9513/9513/57429
+#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="...FIGHT NETWORK CANADA" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fight_sports_us.png" group-title="SPORTS",FIGHT NETWORK CANADA
+http://qqtv.nl:8080/9513/9513/5009
+#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="...BOX NATION UK" tvg-logo="http://epg4you.com/logos/boxnation.png" group-title="SPORTS",BOX NATION UK
+http://qqtv.nl:8080/9513/9513/15537
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="...BT SPORT 1 HD UK" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png" group-title="SPORTS",BT SPORT 1 HD UK
+http://qqtv.nl:8080/9513/9513/265920
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="...BT SPORT 2 HD UK" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-2-uk.png" group-title="SPORTS",BT SPORT 2 HD UK
+http://qqtv.nl:8080/9513/9513/265921
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="...BT SPORT 3 HD UK" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-3-uk.png" group-title="SPORTS",BT SPORT 3 HD UK
+http://qqtv.nl:8080/9513/9513/265922
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="...BT SPORT ESPN" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-espn-uk.png" group-title="SPORTS",BT SPORT ESPN
+http://qqtv.nl:8080/9513/9513/265923
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="...RSA SUPERSPORTS TENNIS HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png" group-title="SPORTS",RSA SUPERSPORTS TENNIS HD
+http://qqtv.nl:8080/9513/9513/311866
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="...SKY SPORT F1 HD" tvg-logo="http://38.143.137.20/logo/prestige/Italy/sky-sport-f1-it.png" group-title="SPORTS",SKY SPORT F1 HD
+http://qqtv.nl:8080/9513/9513/12814
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="...SKY SPORTS GOLF HD" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-golf-uk.png" group-title="SPORTS",SKY SPORTS GOLF HD
+http://qqtv.nl:8080/9513/9513/311867
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="...RSA SUPERSPORTS VARITY 01 HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png" group-title="SPORTS",SUPERSPORTS VARITY 01 HD
+http://qqtv.nl:8080/9513/9513/311868
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="...RSA SUPERSPORTS VARITY 02 HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png" group-title="SPORTS",SUPERSPORTS VARITY 02 HD
+http://qqtv.nl:8080/9513/9513/30957
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="...RSA SUPERSPORTS VARITY 03 HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png" group-title="SPORTS",SUPERSPORTS VARITY 03 HD
+http://qqtv.nl:8080/9513/9513/30330
+#EXTINF:-1 tvg-id="" tvg-name="...RSA SUPERSPORTS VARITY 04 HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png" group-title="SPORTS",SUPERSPORTS VARITY 04 HD
+http://qqtv.nl:8080/9513/9513/397213
+#EXTINF:-1 tvg-id="NBCGoldRugby.us" tvg-name="...RSA SUPERSPORTS RUGBY HD AF" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png" group-title="SPORTS",SUPERSPORTS RUGBY HD AF
+http://qqtv.nl:8080/9513/9513/395599
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="...RSA SUPERSPORTS PREMIER LEAGUE HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png" group-title="SPORTS",SUPERSPORTS PREMIER LEAGUE HD
+http://qqtv.nl:8080/9513/9513/269696
+#EXTINF:-1 tvg-id="FoxSportsSoutheast.us" tvg-name="...FOX SPORTS SOUTHEAST" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox-sports-2-nederland-us-nl.png" group-title="SPORTS",FOX SPORTS SOUTHEAST
+http://qqtv.nl:8080/9513/9513/7862
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="...FOX SPORTS 1 HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox-sports-1-nederland-us-nl.png" group-title="SPORTS",FOX SPORTS 1 HD
+http://qqtv.nl:8080/9513/9513/7894
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="...FOX SPORTS 2 HD." tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox-sports-2-nederland-us-nl.png" group-title="SPORTS",FOX SPORTS 2 HD.
+http://qqtv.nl:8080/9513/9513/7893
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="...ACC NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/acc-network-us.png" group-title="SPORTS",ACC NETWORK HD
+http://qqtv.nl:8080/9513/9513/186909
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="...TENNIS CHANNEL HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/tennis_channel.png" group-title="SPORTS",TENNIS CHANNEL HD
+http://qqtv.nl:8080/9513/9513/7988
+#EXTINF:-1 tvg-id="WWE.us" tvg-name="...WWE NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/world_wrestling_entertainment.png" group-title="SPORTS",WWE NETWORK HD
+http://qqtv.nl:8080/9513/9513/325241
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="...NBCSN HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbcsn-us.png" group-title="SPORTS",NBCSN HD
+http://qqtv.nl:8080/9513/9513/5137
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="...NBC SPORTS NETWORK HD" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/IsH/IsH_large.png" group-title="SPORTS",NBC SPORTS NETWORK HD
+http://qqtv.nl:8080/9513/9513/7995
+#EXTINF:-1 tvg-id="BTSportX1.uk" tvg-name="...BIG TEN NETWORK HD" tvg-logo="http://epg4you.com/logos/btsportextra1.png" group-title="SPORTS",BIG TEN NETWORK HD
+http://qqtv.nl:8080/9513/9513/15531
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="...CBS SPORTS NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs-sports-network-us.png" group-title="SPORTS",CBS SPORTS NETWORK HD
+http://qqtv.nl:8080/9513/9513/7992
+#EXTINF:-1 tvg-id="YesTV.ca" tvg-name="...YES NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/yes_network_us.png" group-title="SPORTS",YES NETWORK HD
+http://qqtv.nl:8080/9513/9513/4945
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="...ESPN PLUS HD" tvg-logo="http://epg4you.com/logos/beinsportsmax4.png" group-title="SPORTS",ESPN PLUS HD
+http://qqtv.nl:8080/9513/9513/31017
+#EXTINF:-1 tvg-id="" tvg-name="...Fite TV 24/7 HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/fite.png" group-title="SPORTS",Fite TVHD
+http://qqtv.nl:8080/9513/9513/411412
+#EXTINF:-1 tvg-id="TVASports.ca" tvg-name="...TVA SPORTS 1 HD FR" tvg-logo="http://38.143.137.20/logo/prestige/Canada/tva_sports_ca.png" group-title="SPORTS",TVA SPORTS 1 HD FR
+http://qqtv.nl:8080/9513/9513/4998
+#EXTINF:-1 tvg-id="TVASports.ca" tvg-name="...TVA SPORTS 2 HD FR" tvg-logo="http://38.143.137.20/logo/prestige/Canada/tva_sports_ca.png" group-title="SPORTS",TVA SPORTS 2 HD FR
+http://qqtv.nl:8080/9513/9513/21030
+#EXTINF:-1 tvg-id="ABCKAAL.us" tvg-name="...Gol TV English" tvg-logo="http://38.143.137.20/logo/prestige/United-States/gol_tv_us.png" group-title="SPORTS",Gol TV English
+http://qqtv.nl:8080/9513/9513/319606
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="...Optus 1 HD AU" tvg-logo="http://38.143.137.20/logo/prestige/Australia/optus_sport_au.png" group-title="SPORTS",Optus 1 HD AU
+http://qqtv.nl:8080/9513/9513/319618
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="...Optus 2 HD AU" tvg-logo="http://38.143.137.20/logo/prestige/Australia/optus_sport_au.png" group-title="SPORTS",Optus 2 HD AU
+http://qqtv.nl:8080/9513/9513/319616
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="...Spark Sports Event 1 NZ" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc_spark_ca.png" group-title="SPORTS",Spark Sports Event 1 NZ
+http://qqtv.nl:8080/9513/9513/319613
+#EXTINF:-1 tvg-id="" tvg-name="...Spark Sports Event 2 NZ" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc_spark_ca.png" group-title="SPORTS",Spark Sports Event 2 NZ
+http://qqtv.nl:8080/9513/9513/319614
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="...AT THE RACES" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-racing-uk.png" group-title="SPORTS",AT THE RACES
+http://qqtv.nl:8080/9513/9513/275641
+#EXTINF:-1 tvg-id="HPItv.ca" tvg-name="...HPI TV HD CA" tvg-logo="http://38.143.137.20/logo/prestige/Canada/hpi_tv_ca.png" group-title="SPORTS",HPI TV HD CA
+http://qqtv.nl:8080/9513/9513/329828
+#EXTINF:-1 tvg-id="TVG.us" tvg-name="...TVG 1 NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/tvg_us.png" group-title="SPORTS",TVG 1 NETWORK HD
+http://qqtv.nl:8080/9513/9513/266090
+#EXTINF:-1 tvg-id="TVG2.us" tvg-name="...TVG 2 NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/tvg_us.png" group-title="SPORTS",TVG 2 NETWORK HD
+http://qqtv.nl:8080/9513/9513/266091
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="ELEVEN SPORTS NETWORK [USA]" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/eleven-sports-network-uk.png" group-title="SPORTS",ELEVEN SPORTS NETWORK [USA]
+http://qqtv.nl:8080/9513/9513/148456
+#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="ELEVEN SPORTS 1 HD FR" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/eleven-sports-1-portugal-uk-pt.png" group-title="SPORTS",ELEVEN SPORTS 1 HD FR
+http://qqtv.nl:8080/9513/9513/148455
+#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="ELEVEN SPORTS 2 HD FR" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/eleven-sports-2-portugal-uk-pt.png" group-title="SPORTS",ELEVEN SPORTS 2 HD FR
+http://qqtv.nl:8080/9513/9513/148454
+#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="ELEVEN SPORTS 3 HD FR" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/eleven-sports-3-portugal-uk-pt.png" group-title="SPORTS",ELEVEN SPORTS 3 HD FR
+http://qqtv.nl:8080/9513/9513/148453
+#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="ELEVEN SPORTS HD USA" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/eleven-sports-4-portugal-uk-pt.png" group-title="SPORTS",ELEVEN SPORTS HD USA
+http://qqtv.nl:8080/9513/9513/148452
+#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS EURO 2020 4K" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/eleven-sports-network-uk.png" group-title="SPORTS",NOW SPORTS EURO 2020 4K
+http://qqtv.nl:8080/9513/9513/148451
+#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="ELEVEN SPORTS 1 HD [PT]" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/eleven-sports-1-portugal-uk-pt.png" group-title="SPORTS",ELEVEN SPORTS 1 HD [PT]
+http://qqtv.nl:8080/9513/9513/148450
+#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="ELEVEN SPORTS 2 HD [PT]" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/eleven-sports-2-portugal-uk-pt.png" group-title="SPORTS",ELEVEN SPORTS 2 HD [PT]
+http://qqtv.nl:8080/9513/9513/148449
+#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="ELEVEN SPORTS 3 HD [PT]" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/eleven-sports-3-portugal-uk-pt.png" group-title="SPORTS",ELEVEN SPORTS 3 HD [PT]
+http://qqtv.nl:8080/9513/9513/148448
+#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="ELEVEN SPORTS 4 HD [PT]" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/eleven-sports-4-portugal-uk-pt.png" group-title="SPORTS",ELEVEN SPORTS 4 HD [PT]
+http://qqtv.nl:8080/9513/9513/148447
+#EXTINF:-1 tvg-id="ElevenSports5.pt" tvg-name="ELEVEN SPORTS 5 HD [PT]" tvg-logo="http://38.143.137.20/logo/prestige/United-States/eleven-sports-network-uk.png" group-title="SPORTS",ELEVEN SPORTS 5 HD [PT]
+http://qqtv.nl:8080/9513/9513/148446
+#EXTINF:-1 tvg-id="ElevenSports6.pt" tvg-name="ELEVEN SPORTS 6 HD [PT]" tvg-logo="http://38.143.137.20/logo/prestige/United-States/eleven-sports-network-uk.png" group-title="SPORTS",ELEVEN SPORTS 6 HD [PT]
+http://qqtv.nl:8080/9513/9513/148445
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="...ARENA SPORT 1 HR" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-1-rs.png" group-title="SPORTS",ARENA SPORT 1 HR
+http://qqtv.nl:8080/9513/9513/12319
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="...ARENA SPORT 2 HR" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-2-rs.png" group-title="SPORTS",ARENA SPORT 2 HR
+http://qqtv.nl:8080/9513/9513/12317
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="...ARENA SPORT 3 HR" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-3-rs.png" group-title="SPORTS",ARENA SPORT 3 HR
+http://qqtv.nl:8080/9513/9513/12315
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="...ARENA SPORT 4 HR" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-4-rs.png" group-title="SPORTS",ARENA SPORT 4 HR
+http://qqtv.nl:8080/9513/9513/12313
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="...ARENA SPORT 5 HR" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-5-rs.png" group-title="SPORTS",ARENA SPORT 5 HR
+http://qqtv.nl:8080/9513/9513/12311
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="...ARENA SPORT 1 SRB" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-2-rs.png" group-title="SPORTS",ARENA SPORT 1 SRB
+http://qqtv.nl:8080/9513/9513/12318
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="...ARENA SPORT 2 SRB" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-2-rs.png" group-title="SPORTS",ARENA SPORT 2 SRB
+http://qqtv.nl:8080/9513/9513/12316
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="...ARENA SPORT 4 SRB" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-4-rs.png" group-title="SPORTS",ARENA SPORT 4 SRB
+http://qqtv.nl:8080/9513/9513/12312
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="...ARENA SPORT 5 SRB" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-5-rs.png" group-title="SPORTS",ARENA SPORT 5 SRB
+http://qqtv.nl:8080/9513/9513/12310
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS XTRA 1 HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/be_in_mena_sports_us.png" group-title="SPORTS",AR:beIN SPORTS XTRA 1 HD
+http://qqtv.nl:8080/9513/9513/315504
+#EXTINF:-1 tvg-id="247Retro.us" tvg-name="AR: beIN SPORTS NEWS HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/be_in_mena_sports_us.png" group-title="SPORTS",AR:beIN SPORTS NEWS HD
+http://qqtv.nl:8080/9513/9513/315505
+#EXTINF:-1 tvg-id="beINSports1Ar.qa" tvg-name="AR: beIN SPORT 01 HD" tvg-logo="http://epg4you.com/logos/beinsports.png" group-title="SPORTS",AR:beIN SPORT 01 HD
+http://qqtv.nl:8080/9513/9513/30248
+#EXTINF:-1 tvg-id="beINSports2Ar.qa" tvg-name="AR: beIN SPORT 02 HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/be_in_mena_sports_us.png" group-title="SPORTS",AR:beIN SPORT 02 HD
+http://qqtv.nl:8080/9513/9513/265924
+#EXTINF:-1 tvg-id="beINSports3Ar.qa" tvg-name="AR: beIN SPORT 03 HD" tvg-logo="http://epg4you.com/logos/beinsports3.png" group-title="SPORTS",AR:beIN SPORT 03 HD
+http://qqtv.nl:8080/9513/9513/30246
+#EXTINF:-1 tvg-id="beINSports4Ar.qa" tvg-name="AR: beIN SPORT 04 HD" tvg-logo="http://epg4you.com/logos/beinsports4.png" group-title="SPORTS",AR:beIN SPORT 04 HD
+http://qqtv.nl:8080/9513/9513/30245
+#EXTINF:-1 tvg-id="beINSports5Ar.qa" tvg-name="AR: beIN SPORT 05 HD" tvg-logo="http://epg4you.com/logos/beinsports5.png" group-title="SPORTS",AR:beIN SPORT 05 HD
+http://qqtv.nl:8080/9513/9513/30244
+#EXTINF:-1 tvg-id="beINSports6Ar.qa" tvg-name="AR: beIN SPORT 06 HD" tvg-logo="http://epg4you.com/logos/beinsports6.png" group-title="SPORTS",AR:beIN SPORT 06 HD
+http://qqtv.nl:8080/9513/9513/30243
+#EXTINF:-1 tvg-id="beINSports7Ar.qa" tvg-name="AR: beIN SPORT 07 HD" tvg-logo="http://epg4you.com/logos/beinsports7.png" group-title="SPORTS",AR:beIN SPORT 07 HD
+http://qqtv.nl:8080/9513/9513/30242
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS MAX 01 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_05_hd.png" group-title="SPORTS",beIN SPORTS MAX 01 HD
+http://qqtv.nl:8080/9513/9513/411422
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS MAX 02 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_05_hd.png" group-title="SPORTS",beIN SPORTS MAX 02 HD
+http://qqtv.nl:8080/9513/9513/411423
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS MAX 03 HD FRN" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_05_hd.png" group-title="SPORTS",beIN SPORTS MAX 03 HD FRN
+http://qqtv.nl:8080/9513/9513/411424
+#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="AR: beIN SPORTS MAX 04 HD ENG" tvg-logo="http://glmtv.pw/logo/prestige/United-States/be_in_mena_sports_us.png" group-title="SPORTS",beIN SPORTS MAX 04 HD ENG
+http://qqtv.nl:8080/9513/9513/15688
+#EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="AR: beIN SPORTS MAX 05 HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/bein-sports-2-qa-fr.png" group-title="SPORTS",beIN SPORTS MAX 05 HD
+http://qqtv.nl:8080/9513/9513/15714
+#EXTINF:-1 tvg-id="beINSports3.tr" tvg-name="AR: beIN SPORTS MAX 06 HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/bein-sports-3-qa-fr.png" group-title="SPORTS",beIN SPORTS MAX 06 HD
+http://qqtv.nl:8080/9513/9513/15671
+#EXTINF:-1 tvg-id="beINSports8.us" tvg-name="AR: beIN SPORTS PREMIUM 01 HD" tvg-logo="http://epg4you.com/logos/beinsports8.png" group-title="SPORTS",beIN SPORTS PREMIUM 01 HD
+http://qqtv.nl:8080/9513/9513/30241
+#EXTINF:-1 tvg-id="beINSports9.us" tvg-name="AR: beIN SPORTS PREMIUM 02 HD" tvg-logo="http://epg4you.com/logos/beinsports9.png" group-title="SPORTS",beIN SPORTS PREMIUM 02 HD
+http://qqtv.nl:8080/9513/9513/30240
+#EXTINF:-1 tvg-id="beINSports10.us" tvg-name="AR: beIN SPORTS PREMIUM 03 HD" tvg-logo="http://epg4you.com/logos/beinsports10.png" group-title="SPORTS",beIN SPORTS PREMIUM 03 HD
+http://qqtv.nl:8080/9513/9513/30239
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="...FOX SPORTS WISCONSIN HD" tvg-logo="http://epg4you.com/logos/beinsports1.png" group-title="SPORTS",FOX SPORTS WISCONSIN HD
+http://qqtv.nl:8080/9513/9513/31032
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="...FOX SPORTS SAN DIEGO HD" tvg-logo="http://epg4you.com/logos/beinsports2.png" group-title="SPORTS",FOX SPORTS SAN DIEGO HD
+http://qqtv.nl:8080/9513/9513/31031
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="...FOX SPORTS SPORTSTIME OHIO HD" tvg-logo="http://epg4you.com/logos/beinsports3.png" group-title="SPORTS",FOX SPORTS SPORTSTIME OHIO HD
+http://qqtv.nl:8080/9513/9513/31030
+#EXTINF:-1 tvg-id="beINSports4.us" tvg-name="...FOX SPORTS TENNESSEE HD" tvg-logo="http://epg4you.com/logos/beinsports.png" group-title="SPORTS",FOX SPORTS TENNESSEE HD
+http://qqtv.nl:8080/9513/9513/31029
+#EXTINF:-1 tvg-id="FoxSportsWest.us" tvg-name="...FOX SPORTS WEST HD" tvg-logo="http://epg4you.com/logos/beinsports.png" group-title="SPORTS",FOX SPORTS WEST HD
+http://qqtv.nl:8080/9513/9513/31028
+#EXTINF:-1 tvg-id="beINSports6.us" tvg-name="...FOX SPORTS NORTH HD" tvg-logo="http://epg4you.com/logos/beinsports.png" group-title="SPORTS",FOX SPORTS NORTH HD
+http://qqtv.nl:8080/9513/9513/31027
+#EXTINF:-1 tvg-id="beINSports7.us" tvg-name="...FOX SPORTS SOUTHWEST HD" tvg-logo="http://epg4you.com/logos/beinsports.png" group-title="SPORTS",FOX SPORTS SOUTHWEST HD
+http://qqtv.nl:8080/9513/9513/31026
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="...FOX SPORTS SUN HD" tvg-logo="http://epg4you.com/logos/beinsports.png" group-title="SPORTS",FOX SPORTS SUN HD
+http://qqtv.nl:8080/9513/9513/31021
+#EXTINF:-1 tvg-id="NBATV.ca" tvg-name="...NBA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nba_tv_us.png" group-title="SPORTS",NBA HD
+http://qqtv.nl:8080/9513/9513/4997
+#EXTINF:-1 tvg-id="TraceSportStars.uk" tvg-name="...TRACE SPORTS STARS" tvg-logo="http://38.143.137.20/logo/prestige/France/trace_fr_sport_stars.png" group-title="SPORTS",TRACE SPORTS STARS
+http://qqtv.nl:8080/9513/9513/412501
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="WC. SKY SPORTS CRICKET HD" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-cricket-uk.png" group-title="WORLD CRICKET",SKY SPORTS CRICKET HD
+http://qqtv.nl:8080/9513/9513/30326
+#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="WC. SUPERSPORT CRICKET HD" tvg-logo="http://epg4you.com/logos/willowcricket.png" group-title="WORLD CRICKET",SUPERSPORT CRICKET HD
+http://qqtv.nl:8080/9513/9513/30621
+#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="WC. WILLOW CRICKET HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/willow_us_extra.png" group-title="WORLD CRICKET",WILLOW CRICKET HD
+http://qqtv.nl:8080/9513/9513/7999
+#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="WC. WILLOW CRICKET USA" tvg-logo="http://38.143.137.20/logo/prestige/United-States/willow_us.png" group-title="WORLD CRICKET",WILLOW CRICKET USA
+http://qqtv.nl:8080/9513/9513/30327
+#EXTINF:-1 tvg-id="" tvg-name="WC. WILLOW CRICKET EXTRA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/willow_us.png" group-title="WORLD CRICKET",WILLOW CRICKET EXTRA HD
+http://qqtv.nl:8080/9513/9513/381931
+#EXTINF:-1 tvg-id="AstroCricket.my" tvg-name="WC. ASTRO CRICKET HD" tvg-logo="http://38.143.137.20/logo/prestige/Malaysia/astro-citra-my.png" group-title="WORLD CRICKET",ASTRO CRICKET HD
+http://qqtv.nl:8080/9513/9513/319604
+#EXTINF:-1 tvg-id="" tvg-name="WC. WILLOW CRICKET CANADA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/willow_us.png" group-title="WORLD CRICKET",WILLOW CRICKET CANADA HD
+http://qqtv.nl:8080/9513/9513/30329
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="WC. FLOWER SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/flow_sports_uk.png" group-title="WORLD CRICKET",FLOWER SPORTS
+http://qqtv.nl:8080/9513/9513/275731
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="WC. OSN SPORTS CRICKET" tvg-logo="http://38.143.137.20/logo/prestige/United-Arab-Emirates/osn_barker_channel.png" group-title="WORLD CRICKET",OSN SPORTS CRICKET
+http://qqtv.nl:8080/9513/9513/30599
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="WC. GEO SUPER PK" tvg-logo="http://38.143.137.20/logo/prestige/India/geo-super.png" group-title="WORLD CRICKET",GEO SUPER PK
+http://qqtv.nl:8080/9513/9513/5230
+#EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-name="WC. ATN CRICKET PLUS HD CANADA" tvg-logo="http://38.143.137.20/logo/prestige/India/atn-punjabi-in-ca.png" group-title="WORLD CRICKET",ATN CRICKET PLUS HD CANADA
+http://qqtv.nl:8080/9513/9513/30328
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="WC. PTV SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Pakistan/ptv_sports_pk.png" group-title="WORLD CRICKET",PTV SPORTS
+http://qqtv.nl:8080/9513/9513/5216
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="WC. TEN SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/India/ten_sports_in_pakistan.png" group-title="WORLD CRICKET",TEN SPORTS
+http://qqtv.nl:8080/9513/9513/30574
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="WC. TEN 1 CRICKET ." tvg-logo="http://38.143.137.20/logo/prestige/India/ten_cricket_in.png" group-title="WORLD CRICKET",TEN 1 
+http://qqtv.nl:8080/9513/9513/30617
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="WC. TEN 2 CRICKET HD" tvg-logo="http://38.143.137.20/logo/prestige/India/ten_cricket_in.png" group-title="WORLD CRICKET",TEN 2HD
+http://qqtv.nl:8080/9513/9513/7244
+#EXTINF:-1 tvg-id="Ten3.in" tvg-name="WC. TEN 3 CRICKET HD" tvg-logo="https://www.comparedth.com/files/upload_files/thumb/1521188137_IC-290.png" group-title="WORLD CRICKET",TEN 3HD
+http://qqtv.nl:8080/9513/9513/30623
+#EXTINF:-1 tvg-id="Ten3.in" tvg-name="WC. JIO CRICKET 1 HD" tvg-logo="https://www.comparedth.com/files/upload_files/thumb/1521188137_IC-290.png" group-title="WORLD CRICKET",JIO CRICKET 1 HD
+http://qqtv.nl:8080/9513/9513/7243
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="WC. JIO CRICKET 2 HD" tvg-logo="http://38.143.137.20/logo/prestige/India/ten_cricket_in.png" group-title="WORLD CRICKET",JIO CRICKET 2 HD
+http://qqtv.nl:8080/9513/9513/30622
+#EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="WC. SONY ESPN HD" tvg-logo="https://i.pinimg.com/originals/bb/bc/19/bbbc19c4df468d67a3fcd39734cace3c.png" group-title="WORLD CRICKET",SONY ESPN HD
+http://qqtv.nl:8080/9513/9513/30626
+#EXTINF:-1 tvg-id="" tvg-name="WC. STAR SPORTS FIRST" tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_in_1_tamil.png" group-title="WORLD CRICKET",STAR SPORTS FIRST
+http://qqtv.nl:8080/9513/9513/30628
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="WC. STAR SPORTS 1" tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_in_1.png" group-title="WORLD CRICKET",STAR SPORTS 1
+http://qqtv.nl:8080/9513/9513/30630
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="WC. STAR SPORTS 2" tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_in_2.png" group-title="WORLD CRICKET",STAR SPORTS 2
+http://qqtv.nl:8080/9513/9513/30629
+#EXTINF:-1 tvg-id="Star Sports Select 1 HD" tvg-name="WC. STAR SPORTS SELECT 1 HD" tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_hk_select_hd_1.png" group-title="WORLD CRICKET",STAR SPORTS SELECT 1 HD
+http://qqtv.nl:8080/9513/9513/30539
+#EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="WC. STAR SPORTS SELECT 2 HD" tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_hk_select_hd_2.png" group-title="WORLD CRICKET",STAR SPORTS SELECT 2 HD
+http://qqtv.nl:8080/9513/9513/30538
+#EXTINF:-1 tvg-id="" tvg-name="WC. RSA SUPERSPORT CRICKET HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png" group-title="WORLD CRICKET",SUPERSPORT CRICKET HD
+http://qqtv.nl:8080/9513/9513/393845
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="AstroOnDemand361.my" tvg-name="CH: AOD 351" tvg-logo="http://38.143.137.20/logo/prestige/Hong-Kong/astro_AOD.png" group-title="CHINESE -//- KOREAN",CH: AOD 351
+http://qqtv.nl:8080/9513/9513/59234
+#EXTINF:-1 tvg-id="" tvg-name="CH: AOD 352" tvg-logo="http://38.143.137.20/logo/prestige/Hong-Kong/astro_AOD.png" group-title="CHINESE -//- KOREAN",CH: AOD 352
+http://qqtv.nl:8080/9513/9513/59225
+#EXTINF:-1 tvg-id="" tvg-name="CH: AOD 353" tvg-logo="http://38.143.137.20/logo/prestige/Hong-Kong/astro_AOD.png" group-title="CHINESE -//- KOREAN",CH: AOD 353
+http://qqtv.nl:8080/9513/9513/324058
+#EXTINF:-1 tvg-id="AstroOnDemand362.my" tvg-name="CH: AOD 362" tvg-logo="http://38.143.137.20/logo/prestige/Hong-Kong/astro_AOD.png" group-title="CHINESE -//- KOREAN",CH: AOD 362
+http://qqtv.nl:8080/9513/9513/319605
+#EXTINF:-1 tvg-id="AstroOnDemand363.my" tvg-name="CH: AOD 363" tvg-logo="http://38.143.137.20/logo/prestige/Hong-Kong/astro_AOD.png" group-title="CHINESE -//- KOREAN",CH: AOD 363
+http://qqtv.nl:8080/9513/9513/324059
+#EXTINF:-1 tvg-id="TVBNews.hk" tvg-name="CH: TVB NEWS HD" tvg-logo="http://38.143.137.20/logo/prestige/Hong-Kong/tvb_hk_jade_my.png" group-title="CHINESE -//- KOREAN",CH: TVB NEWS HD
+http://qqtv.nl:8080/9513/9513/320683
+#EXTINF:-1 tvg-id="" tvg-name="CH: TVB 1" tvg-logo="http://38.143.137.20/logo/prestige/Hong-Kong/tvb_hk_1.png" group-title="CHINESE -//- KOREAN",CH: TVB 1
+http://qqtv.nl:8080/9513/9513/320682
+#EXTINF:-1 tvg-id="TVBJ2.hk" tvg-name="CH: TVB J1" tvg-logo="http://38.143.137.20/logo/prestige/Hong-Kong/tvb_hk_jade_my.png" group-title="CHINESE -//- KOREAN",CH: TVB J1
+http://qqtv.nl:8080/9513/9513/59222
+#EXTINF:-1 tvg-id="TVBJade.hk" tvg-name="CH: TVB JADE " tvg-logo="http://38.143.137.20/logo/prestige/Hong-Kong/tvb_hk_jade_my.png" group-title="CHINESE -//- KOREAN",CH: TVB JADE 
+http://qqtv.nl:8080/9513/9513/319320
+#EXTINF:-1 tvg-id="TVBPearl.hk" tvg-name="CH: TVB PEARL" tvg-logo="http://38.143.137.20/logo/prestige/Hong-Kong/tvb_hk_pearl.png" group-title="CHINESE -//- KOREAN",CH: TVB PEARL
+http://qqtv.nl:8080/9513/9513/320679
+#EXTINF:-1 tvg-id="YesTVDrama.il" tvg-name="CH: TVB DRAMA" tvg-logo="http://38.143.137.20/logo/prestige/Hong-Kong/tvb_hk_japanese_drama.png" group-title="CHINESE -//- KOREAN",CH: TVB DRAMA
+http://qqtv.nl:8080/9513/9513/320678
+#EXTINF:-1 tvg-id="TVBNews.hk" tvg-name="CH: TVB E-NEWS" tvg-logo="http://38.143.137.20/logo/prestige/Hong-Kong/tvb_hk_jade_my.png" group-title="CHINESE -//- KOREAN",CH: TVB E-NEWS
+http://qqtv.nl:8080/9513/9513/149030
+#EXTINF:-1 tvg-id="TVBXinghe.hk" tvg-name="CH: TVB XING HE " tvg-logo="http://38.143.137.20/logo/prestige/Hong-Kong/tvb_hk_jade_my.png" group-title="CHINESE -//- KOREAN",CH: TVB XING HE 
+http://qqtv.nl:8080/9513/9513/319319
+#EXTINF:-1 tvg-id="BabyTV.in" tvg-name="CH: BABY TV MANDARIN" tvg-logo="http://glmtv.pw/logo/prestige/China/baby_channel_cn.png" group-title="CHINESE -//- KOREAN",CH: BABY TV MANDARIN
+http://qqtv.nl:8080/9513/9513/320681
+#EXTINF:-1 tvg-id="TVBClassicMovies.hk" tvg-name="CH: TVB CLASSIC MOVIES" tvg-logo="http://38.143.137.20/logo/prestige/Hong-Kong/tvb_hk_classic.png" group-title="CHINESE -//- KOREAN",CH: TVB CLASSIC MOVIES
+http://qqtv.nl:8080/9513/9513/319321
+#EXTINF:-1 tvg-id="Fairchild2.ca" tvg-name="CH: FAIRCHILD 2 HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/fairchild_tv_2_hd.png" group-title="CHINESE -//- KOREAN",CH: FAIRCHILD 2 HD
+http://qqtv.nl:8080/9513/9513/324056
+#EXTINF:-1 tvg-id="FashionTV.ca" tvg-name="CH: FAIRCHILD Television" tvg-logo="http://38.143.137.20/logo/prestige/Canada/fairchild_tv_east.png" group-title="CHINESE -//- KOREAN",CH: FAIRCHILD Television
+http://qqtv.nl:8080/9513/9513/324057
+#EXTINF:-1 tvg-id="FashionTV.ca" tvg-name="CH: FAIRCHILD Television West" tvg-logo="http://38.143.137.20/logo/prestige/Canada/fairchild_tv_west.png" group-title="CHINESE -//- KOREAN",CH: FAIRCHILD Television West
+http://qqtv.nl:8080/9513/9513/328961
+#EXTINF:-1 tvg-id="FashionTV.ca" tvg-name="CH: FAIRCHILD Television Mandarin" tvg-logo="http://38.143.137.20/logo/prestige/Canada/fairchild_tv.png" group-title="CHINESE -//- KOREAN",CH: FAIRCHILD Television Mandarin
+http://qqtv.nl:8080/9513/9513/328962
+#EXTINF:-1 tvg-id="" tvg-name="CH: YAOCAI FINANCE " tvg-logo="http://glmtv.pw/logo/prestige/Taiwan/ttv-finance-tw.png" group-title="CHINESE -//- KOREAN",CH: YAOCAI FINANCE 
+http://qqtv.nl:8080/9513/9513/59217
+#EXTINF:-1 tvg-id="TVBClassicMovies.hk" tvg-name="CH: CLASSIC MOVIES " tvg-logo="http://glmtv.pw/logo/prestige/China/cctv-classic-cn.png" group-title="CHINESE -//- KOREAN",CH: CLASSIC MOVIES 
+http://qqtv.nl:8080/9513/9513/59216
+#EXTINF:-1 tvg-id="" tvg-name="CH: ASTRO XIAO TAI YANG" tvg-logo="http://glmtv.pw/logo/prestige/Malaysia/astro_shuang_xing.png" group-title="CHINESE -//- KOREAN",CH: ASTRO XIAO TAI YANG
+http://qqtv.nl:8080/9513/9513/88500
+#EXTINF:-1 tvg-id="" tvg-name="CH: GREAT WALL ELITE HD" tvg-logo="http://glmtv.pw/logo/prestige/China/great-wall-elite-cn.png" group-title="CHINESE -//- KOREAN",CH: GREAT WALL ELITE HD
+http://qqtv.nl:8080/9513/9513/150060
+#EXTINF:-1 tvg-id="NowJelliEn.hk" tvg-name="CH: CTI ASIA TW" tvg-logo="http://glmtv.pw/logo/prestige/Hong-Kong/now_hk_tv.png" group-title="CHINESE -//- KOREAN",CH: CTI ASIA TW
+http://qqtv.nl:8080/9513/9513/320670
+#EXTINF:-1 tvg-id="ATV.be" tvg-name="CH: TVBE" tvg-logo="http://38.143.137.20/logo/prestige/Hong-Kong/tvb_hk_e.png" group-title="CHINESE -//- KOREAN",CH: TVBE
+http://qqtv.nl:8080/9513/9513/320680
+#EXTINF:-1 tvg-id="" tvg-name="CH: HKS TV - 香港衛視" tvg-logo="http://glmtv.pw/logo/prestige/Hong-Kong/hks_tv.png" group-title="CHINESE -//- KOREAN",CH: HKS TV - 香港衛視
+http://qqtv.nl:8080/9513/9513/87276
+#EXTINF:-1 tvg-id="NowHongKongCn.hk" tvg-name="CH: NOW HONG KONG CN" tvg-logo="http://glmtv.pw/logo/prestige/Hong-Kong/OPEN_TV.png" group-title="CHINESE -//- KOREAN",CH: NOW HONG KONG CN
+http://qqtv.nl:8080/9513/9513/149026
+#EXTINF:-1 tvg-id="" tvg-name="CH: PHOENIX HONG KONG" tvg-logo="http://glmtv.pw/logo/prestige/Hong-Kong/phoenix_cn.png" group-title="CHINESE -//- KOREAN",CH: PHOENIX HONG KONG
+http://qqtv.nl:8080/9513/9513/320677
+#EXTINF:-1 tvg-id="" tvg-name="CH: PSTV AMERICA" tvg-logo="http://glmtv.pw/logo/prestige/China/cetv-1-cn.png" group-title="CHINESE -//- KOREAN",CH: PSTV AMERICA
+http://qqtv.nl:8080/9513/9513/88337
+#EXTINF:-1 tvg-id="" tvg-name="CH: PHOENIX NEWS AMERICA" tvg-logo="http://glmtv.pw/logo/prestige/Hong-Kong/phoenix_cn.png" group-title="CHINESE -//- KOREAN",CH: PHOENIX NEWS AMERICA
+http://qqtv.nl:8080/9513/9513/87277
+#EXTINF:-1 tvg-id="ShineTV.nz" tvg-name="CH: SHENZHEN TV" tvg-logo="http://glmtv.pw/logo/prestige/China/shenzhen-satellite-tv-cn.png" group-title="CHINESE -//- KOREAN",CH: SHENZHEN TV
+http://qqtv.nl:8080/9513/9513/59219
+#EXTINF:-1 tvg-id="TVBNews.hk" tvg-name="CH: TVBS NEWS" tvg-logo="http://38.143.137.20/logo/prestige/Hong-Kong/tvb_hk_jade_my.png" group-title="CHINESE -//- KOREAN",CH: TVBS NEWS
+http://qqtv.nl:8080/9513/9513/149027
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="CH: TVBS ASIA " tvg-logo="http://38.143.137.20/logo/prestige/Hong-Kong/tvb_hk_japanese_drama.png" group-title="CHINESE -//- KOREAN",CH: TVBS ASIA 
+http://qqtv.nl:8080/9513/9513/319322
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="HK: Now 668 HD" tvg-logo="http://glmtv.pw/logo/prestige/Australia/fox-sports-503-us-au.png" group-title="CHINESE -//- KOREAN",HK: Now 668 HD
+http://qqtv.nl:8080/9513/9513/319615
+#EXTINF:-1 tvg-id="9Life.au" tvg-name="HK: Now Premier Sports 1" tvg-logo="" group-title="CHINESE -//- KOREAN",HK: Now Premier Sports 1
+http://qqtv.nl:8080/9513/9513/319609
+#EXTINF:-1 tvg-id="9Go.au" tvg-name="HK: Now Premier Sports 2" tvg-logo="" group-title="CHINESE -//- KOREAN",HK: Now Premier Sports 2
+http://qqtv.nl:8080/9513/9513/319611
+#EXTINF:-1 tvg-id="Ketnet.nl" tvg-name="CH: ETTV NEWS -TWN" tvg-logo="http://glmtv.pw/logo/prestige/Taiwan/ettv-news-tw.png" group-title="CHINESE -//- KOREAN",CH: ETTV NEWS -TWN
+http://qqtv.nl:8080/9513/9513/87511
+#EXTINF:-1 tvg-id="ETVCinema.in" tvg-name="CH: ETTV CHINA - TWN" tvg-logo="http://glmtv.pw/logo/prestige/Taiwan/et_tv_china.png" group-title="CHINESE -//- KOREAN",CH: ETTV CHINA - TWN
+http://qqtv.nl:8080/9513/9513/87506
+#EXTINF:-1 tvg-id="NETTV.mt" tvg-name="CH: ETTV DRAMA -TWN" tvg-logo="http://glmtv.pw/logo/prestige/Taiwan/ettv-drama-tw.png" group-title="CHINESE -//- KOREAN",CH: ETTV DRAMA -TWN
+http://qqtv.nl:8080/9513/9513/87508
+#EXTINF:-1 tvg-id="TVS1GuangdongEconomicScienceEducation.cn" tvg-name="CH: ETTV GLOBAL -TWN" tvg-logo="http://glmtv.pw/logo/prestige/Taiwan/et_tv_global.png" group-title="CHINESE -//- KOREAN",CH: ETTV GLOBAL -TWN
+http://qqtv.nl:8080/9513/9513/87509
+#EXTINF:-1 tvg-id="" tvg-name="CH: ETTV FINANCIAL NEWS -TWN" tvg-logo="http://glmtv.pw/logo/prestige/Taiwan/ettv-financial-tw.png" group-title="CHINESE -//- KOREAN",CH: ETTV FINANCIAL NEWS -TWN
+http://qqtv.nl:8080/9513/9513/87505
+#EXTINF:-1 tvg-id="" tvg-name="CH: CTS AMERICA -TWN" tvg-logo="http://glmtv.pw/logo/prestige/Taiwan/cts_news_info_tw.png" group-title="CHINESE -//- KOREAN",CH: CTS AMERICA -TWN
+http://qqtv.nl:8080/9513/9513/148950
+#EXTINF:-1 tvg-id="" tvg-name="CH: SETi  NEWS - TWN" tvg-logo="http://glmtv.pw/logo/prestige/Taiwan/set_tw_i_news.png" group-title="CHINESE -//- KOREAN",CH: SETi  NEWS - TWN
+http://qqtv.nl:8080/9513/9513/382719
+#EXTINF:-1 tvg-id="AtreseriesInternacional.es" tvg-name="CH: SETi INTERNATIONAL -TWN" tvg-logo="http://glmtv.pw/logo/prestige/Taiwan/set_tv_international.png" group-title="CHINESE -//- KOREAN",CH: SETi INTERNATIONAL -TWN
+http://qqtv.nl:8080/9513/9513/88335
+#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="CH: CELESTIAL HD" tvg-logo="http://glmtv.pw/logo/prestige/Hong-Kong/celestial-movies-hk.png" group-title="CHINESE -//- KOREAN",CH: CELESTIAL HD
+http://qqtv.nl:8080/9513/9513/148951
+#EXTINF:-1 tvg-id="StarTV.ch" tvg-name="CH: SHUANG XING HD" tvg-logo="http://glmtv.pw/logo/prestige/Hong-Kong/star_utsav.png" group-title="CHINESE -//- KOREAN",CH: SHUANG XING HD
+http://qqtv.nl:8080/9513/9513/59230
+#EXTINF:-1 tvg-id="" tvg-name="CH: WOW TV HD" tvg-logo="http://glmtv.pw/logo/prestige/China/chongqing-tv-cn.png" group-title="CHINESE -//- KOREAN",CH: WOW TV HD
+http://qqtv.nl:8080/9513/9513/59221
+#EXTINF:-1 tvg-id="SCM.id" tvg-name="CH: SCM" tvg-logo="http://glmtv.pw/logo/prestige/Hong-Kong/now_hk_international.png" group-title="CHINESE -//- KOREAN",CH: SCM
+http://qqtv.nl:8080/9513/9513/148949
+#EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="CH: BEI JING TV" tvg-logo="http://glmtv.pw/logo/prestige/China/beijing-tv-international-channel-cn.png" group-title="CHINESE -//- KOREAN",CH: BEI JING TV
+http://qqtv.nl:8080/9513/9513/148952
+#EXTINF:-1 tvg-id="" tvg-name="CH: HUNAN SATELLITE TV" tvg-logo="http://glmtv.pw/logo/prestige/China/hunan-satellite-tv-cn.png" group-title="CHINESE -//- KOREAN",CH: HUNAN SATELLITE TV
+http://qqtv.nl:8080/9513/9513/87280
+#EXTINF:-1 tvg-id="ExpressNews.pk" tvg-name="CH: EXPLORER NEWS" tvg-logo="http://glmtv.pw/logo/prestige/Taiwan/world_tv_tw.png" group-title="CHINESE -//- KOREAN",CH: EXPLORER NEWS
+http://qqtv.nl:8080/9513/9513/88494
+#EXTINF:-1 tvg-id="" tvg-name="CH: GREAT WALL FRESH HD" tvg-logo="http://glmtv.pw/logo/prestige/China/great-wall-elite-cn.png" group-title="CHINESE -//- KOREAN",CH: GREAT WALL FRESH HD
+http://qqtv.nl:8080/9513/9513/88336
+#EXTINF:-1 tvg-id="Asianet.in" tvg-name="CH: ASIAN ACTION " tvg-logo="http://glmtv.pw/logo/prestige/China/chc-action-cn.png" group-title="CHINESE -//- KOREAN",CH: ASIAN ACTION 
+http://qqtv.nl:8080/9513/9513/87279
+#EXTINF:-1 tvg-id="9XTashan.in" tvg-name="CH: SHUANG XING HD" tvg-logo="http://glmtv.pw/logo/prestige/China/shaanxi-tv-cn.png" group-title="CHINESE -//- KOREAN",CH: SHUANG XING HD
+http://qqtv.nl:8080/9513/9513/87507
+#EXTINF:-1 tvg-id="" tvg-name="CH: GUANGDONG SOUTHERN TV" tvg-logo="http://glmtv.pw/logo/prestige/China/guangdong_cn_satellite.png" group-title="CHINESE -//- KOREAN",CH: GUANGDONG SOUTHERN TV
+http://qqtv.nl:8080/9513/9513/87281
+#EXTINF:-1 tvg-id="SCMLegend.id" tvg-name="CH: SCM LEGEND" tvg-logo="http://glmtv.pw/logo/prestige/Hong-Kong/now_hk_international.png" group-title="CHINESE -//- KOREAN",CH: SCM LEGEND
+http://qqtv.nl:8080/9513/9513/87282
+#EXTINF:-1 tvg-id="" tvg-name="CH: FUJIAN STAITSA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a0/TVS-4_Logo.png/150px-TVS-4_Logo.png" group-title="CHINESE -//- KOREAN",CH: FUJIAN STAITSA TV
+http://qqtv.nl:8080/9513/9513/87286
+#EXTINF:-1 tvg-id="TVS3GuangdongVariety.cn" tvg-name="CH: CCTV-Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a0/TVS-4_Logo.png/150px-TVS-4_Logo.png" group-title="CHINESE -//- KOREAN",CH: CCTV-Entertainment
+http://qqtv.nl:8080/9513/9513/87510
+#EXTINF:-1 tvg-id="TVS5GuangdongChildren.cn" tvg-name="CH: FORMOSA TV -TWN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a0/TVS-4_Logo.png/150px-TVS-4_Logo.png" group-title="CHINESE -//- KOREAN",CH: FORMOSA TV -TWN
+http://qqtv.nl:8080/9513/9513/87512
+#EXTINF:-1 tvg-id="" tvg-name="CH: LS TIMES HD " tvg-logo="http://glmtv.pw/logo/prestige/China/chinese_hope_tv.png" group-title="CHINESE -//- KOREAN",CH: LS TIMES HD 
+http://qqtv.nl:8080/9513/9513/149029
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="CH: CGTN" tvg-logo="http://glmtv.pw/logo/prestige/China/cgtn_cn_america.png" group-title="CHINESE -//- KOREAN",CH: CGTN
+http://qqtv.nl:8080/9513/9513/59233
+#EXTINF:-1 tvg-id="CGTNDocu.cn" tvg-name="CH: CGTN DOCUMENTARY" tvg-logo="http://glmtv.pw/logo/prestige/China/cgtn_cn_documentary.png" group-title="CHINESE -//- KOREAN",CH: CGTN DOCUMENTARY
+http://qqtv.nl:8080/9513/9513/59231
+#EXTINF:-1 tvg-id="" tvg-name="CH: CCTV OPERA" tvg-logo="http://glmtv.pw/logo/prestige/China/cctv_opera.png" group-title="CHINESE -//- KOREAN",CH: CCTV OPERA
+http://qqtv.nl:8080/9513/9513/59224
+#EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CH: CCTV 1" tvg-logo="http://38.143.137.20/logo/prestige/China/cctv-1-cn.png" group-title="CHINESE -//- KOREAN",CH: CCTV 1
+http://qqtv.nl:8080/9513/9513/11971
+#EXTINF:-1 tvg-id="CCTV2.cn" tvg-name="CH: CCTV 2" tvg-logo="http://38.143.137.20/logo/prestige/China/cctv-2-cn.png" group-title="CHINESE -//- KOREAN",CH: CCTV 2
+http://qqtv.nl:8080/9513/9513/11964
+#EXTINF:-1 tvg-id="CCTV3.cn" tvg-name="CH: CCTV 3" tvg-logo="http://38.143.137.20/logo/prestige/China/cctv-3-cn.png" group-title="CHINESE -//- KOREAN",CH: CCTV 3
+http://qqtv.nl:8080/9513/9513/11963
+#EXTINF:-1 tvg-id="CCTV4.cn" tvg-name="CH: CCTV 4 " tvg-logo="http://38.143.137.20/logo/prestige/China/cctv-4-america-cn.png" group-title="CHINESE -//- KOREAN",CH: CCTV 4 
+http://qqtv.nl:8080/9513/9513/11962
+#EXTINF:-1 tvg-id="CCTV5.cn" tvg-name="CH: CCTV 5" tvg-logo="http://38.143.137.20/logo/prestige/China/cctv-5-cn.png" group-title="CHINESE -//- KOREAN",CH: CCTV 5
+http://qqtv.nl:8080/9513/9513/1657
+#EXTINF:-1 tvg-id="CCTV6.cn" tvg-name="CH: CCTV 6" tvg-logo="http://38.143.137.20/logo/prestige/China/cctv-6-cn.png" group-title="CHINESE -//- KOREAN",CH: CCTV 6
+http://qqtv.nl:8080/9513/9513/11961
+#EXTINF:-1 tvg-id="CCTV7.cn" tvg-name="CH: CCTV 7" tvg-logo="http://38.143.137.20/logo/prestige/China/cctv-7-cn.png" group-title="CHINESE -//- KOREAN",CH: CCTV 7
+http://qqtv.nl:8080/9513/9513/165758
+#EXTINF:-1 tvg-id="CCTV8.cn" tvg-name="CH: CCTV 8" tvg-logo="http://38.143.137.20/logo/prestige/China/cctv-8-cn.png" group-title="CHINESE -//- KOREAN",CH: CCTV 8
+http://qqtv.nl:8080/9513/9513/11960
+#EXTINF:-1 tvg-id="CCTV9.cn" tvg-name="CH: CCTV 9" tvg-logo="http://38.143.137.20/logo/prestige/China/cctv-9-cn.png" group-title="CHINESE -//- KOREAN",CH: CCTV 9
+http://qqtv.nl:8080/9513/9513/11958
+#EXTINF:-1 tvg-id="CCTV10.cn" tvg-name="CH: CCTV 10" tvg-logo="http://38.143.137.20/logo/prestige/China/cctv-10-cn.png" group-title="CHINESE -//- KOREAN",CH: CCTV 10
+http://qqtv.nl:8080/9513/9513/11970
+#EXTINF:-1 tvg-id="CCTV11.cn" tvg-name="CH: CCTV 11" tvg-logo="http://38.143.137.20/logo/prestige/China/cctv-11-cn.png" group-title="CHINESE -//- KOREAN",CH: CCTV 11
+http://qqtv.nl:8080/9513/9513/11969
+#EXTINF:-1 tvg-id="CCTV12.cn" tvg-name="CH: CCTV 12" tvg-logo="http://38.143.137.20/logo/prestige/China/cctv-12-cn.png" group-title="CHINESE -//- KOREAN",CH: CCTV 12
+http://qqtv.nl:8080/9513/9513/11968
+#EXTINF:-1 tvg-id="CCTV13.cn" tvg-name="CH: CCTV 13" tvg-logo="http://38.143.137.20/logo/prestige/China/cctv-13-cn.png" group-title="CHINESE -//- KOREAN",CH: CCTV 13
+http://qqtv.nl:8080/9513/9513/11967
+#EXTINF:-1 tvg-id="CCTV14.cn" tvg-name="CH: CCTV 14" tvg-logo="http://38.143.137.20/logo/prestige/China/cctv-14-cn.png" group-title="CHINESE -//- KOREAN",CH: CCTV 14
+http://qqtv.nl:8080/9513/9513/11966
+#EXTINF:-1 tvg-id="CCTV15.cn" tvg-name="CH: CCTV 15." tvg-logo="http://38.143.137.20/logo/prestige/China/cctv-15-cn.png" group-title="CHINESE -//- KOREAN",CH: CCTV 15.
+http://qqtv.nl:8080/9513/9513/11965
+#EXTINF:-1 tvg-id="" tvg-name="<<<<<< KOREAN >>>>>>>" tvg-logo="" group-title="CHINESE -//- KOREAN",<<<<<< KOREAN >>>>>>>
+http://qqtv.nl:8080/9513/9513/57421
+#EXTINF:-1 tvg-id="KBSW.kr" tvg-name="KOR: KBS W HD MY" tvg-logo="http://glmtv.pw/logo/prestige/South-Korea/kbs_w_kr.png" group-title="CHINESE -//- KOREAN",KOR: KBS W HD MY
+http://qqtv.nl:8080/9513/9513/16363
+#EXTINF:-1 tvg-id="" tvg-name="KOR: KBS 1 HD" tvg-logo="http://glmtv.pw/logo/prestige/South-Korea/kbs_world_jp.png" group-title="CHINESE -//- KOREAN",KOR: KBS 1 HD
+http://qqtv.nl:8080/9513/9513/16344
+#EXTINF:-1 tvg-id="" tvg-name="KOR: KBS 2 HD" tvg-logo="http://glmtv.pw/logo/prestige/South-Korea/k_plus_kr.png" group-title="CHINESE -//- KOREAN",KOR: KBS 2 HD
+http://qqtv.nl:8080/9513/9513/16359
+#EXTINF:-1 tvg-id="TVOne.us" tvg-name="KOR: KBS DRAMA TV" tvg-logo="http://glmtv.pw/logo/prestige/South-Korea/sbs_kr.png" group-title="CHINESE -//- KOREAN",KOR: KBS DRAMA TV
+http://qqtv.nl:8080/9513/9513/348520
+#EXTINF:-1 tvg-id="KBSWorldEn.kr" tvg-name="KOR: KBS WORLD HD VN" tvg-logo="http://glmtv.pw/logo/prestige/South-Korea/kbs_world_jp.png" group-title="CHINESE -//- KOREAN",KOR: KBS WORLD HD VN
+http://qqtv.nl:8080/9513/9513/394209
+#EXTINF:-1 tvg-id="KBSWorld.us" tvg-name="KOR: KBS WORLD HD USA" tvg-logo="http://glmtv.pw/logo/prestige/South-Korea/kbs_world_jp.png" group-title="CHINESE -//- KOREAN",KOR: KBS WORLD HD USA
+http://qqtv.nl:8080/9513/9513/394208
+#EXTINF:-1 tvg-id="" tvg-name="KOR: YTN Korean LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/EBS_1TV_Logo.png" group-title="CHINESE -//- KOREAN",KOR: YTN Korean LIVE
+http://qqtv.nl:8080/9513/9513/16362
+#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="KOR: MTN" tvg-logo="http://glmtv.pw/logo/prestige/South-Korea/mtn_kr.png" group-title="CHINESE -//- KOREAN",KOR: MTN
+http://qqtv.nl:8080/9513/9513/16360
+#EXTINF:-1 tvg-id="" tvg-name="KOR: TVN TV" tvg-logo="http://glmtv.pw/logo/prestige/South-Korea/tvn_kr_o.png" group-title="CHINESE -//- KOREAN",KOR: TVN TV
+http://qqtv.nl:8080/9513/9513/16353
+#EXTINF:-1 tvg-id="" tvg-name="KOR: EDAILY TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Maeil_Broadcasting_Network_logo_at_%28Black_Design%29.svg/1200px-Maeil_Broadcasting_Network_logo_at_%28Black_Design%29.svg.png" group-title="CHINESE -//- KOREAN",KOR: EDAILY TV HD
+http://qqtv.nl:8080/9513/9513/16348
+#EXTINF:-1 tvg-id="" tvg-name="KOR: MBC" tvg-logo="http://glmtv.pw/logo/prestige/South-Korea/mbc_kr_mokpo.png" group-title="CHINESE -//- KOREAN",KOR: MBC
+http://qqtv.nl:8080/9513/9513/16352
+#EXTINF:-1 tvg-id="" tvg-name="KOR: CTS HD" tvg-logo="http://glmtv.pw/logo/prestige/South-Korea/cts_kr.png" group-title="CHINESE -//- KOREAN",KOR: CTS HD
+http://qqtv.nl:8080/9513/9513/16354
+#EXTINF:-1 tvg-id="" tvg-name="KOR: ARIRANG KOREA" tvg-logo="http://38.143.137.20/logo/prestige/South-Korea/arirang_kr.png" group-title="CHINESE -//- KOREAN",KOR: ARIRANG KOREA
+http://qqtv.nl:8080/9513/9513/16311
+#EXTINF:-1 tvg-id="" tvg-name="KOR: M NET" tvg-logo="http://glmtv.pw/logo/prestige/South-Korea/m_net_jp.png" group-title="CHINESE -//- KOREAN",KOR: M NET
+http://qqtv.nl:8080/9513/9513/16356
+#EXTINF:-1 tvg-id="" tvg-name="KOR: SBS PLUS" tvg-logo="http://glmtv.pw/logo/prestige/South-Korea/sbs_kr_plus.png" group-title="CHINESE -//- KOREAN",KOR: SBS PLUS
+http://qqtv.nl:8080/9513/9513/16326
+#EXTINF:-1 tvg-id="MBC.nl" tvg-name="KOR: EBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/MBC_logo_%28Other%29_at_%28Black_Design%29.svg/639px-MBC_logo_%28Other%29_at_%28Black_Design%29.svg.png" group-title="CHINESE -//- KOREAN",KOR: EBS
+http://qqtv.nl:8080/9513/9513/16350
+#EXTINF:-1 tvg-id="MBC.kr" tvg-name="KOR: MBN" tvg-logo="https://3.bp.blogspot.com/-6uMdwr7kw5M/WOv3q8K4IfI/AAAAAAAAE-Y/PDlkmFV-KlcsdS1STpoOfS68siiY0TmKQCLcB/s1600/mbc_ae_pro_sports.png" group-title="CHINESE -//- KOREAN",KOR: MBN
+http://qqtv.nl:8080/9513/9513/16349
+#EXTINF:-1 tvg-id="" tvg-name="KOR: TOMATO TV HD" tvg-logo="http://glmtv.pw/logo/prestige/South-Korea/tvnmovies.png" group-title="CHINESE -//- KOREAN",KOR: TOMATO TV HD
+http://qqtv.nl:8080/9513/9513/16345
+#EXTINF:-1 tvg-id="KolkataTV.in" tvg-name="KOR: TAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="CHINESE -//- KOREAN",KOR: TAN TV
+http://qqtv.nl:8080/9513/9513/16346
+#EXTINF:-1 tvg-id="" tvg-name="KOR: SBS HD" tvg-logo="http://glmtv.pw/logo/prestige/South-Korea/sbs_kr.png" group-title="CHINESE -//- KOREAN",KOR: SBS HD
+http://qqtv.nl:8080/9513/9513/348521
+#EXTINF:-1 tvg-id="" tvg-name="KOR: NATGEO KOREA" tvg-logo="http://glmtv.pw/logo/prestige/South-Korea/nat_geo_us.png" group-title="CHINESE -//- KOREAN",KOR: NATGEO KOREA
+http://qqtv.nl:8080/9513/9513/273494
+#EXTINF:-1 tvg-id="NTANews24.ng" tvg-name="JP: NTV NEWS 24" tvg-logo="" group-title="CHINESE -//- KOREAN",JP: NTV NEWS 24
+http://qqtv.nl:8080/9513/9513/57405
+#EXTINF:-1 tvg-id="Jaya.in" tvg-name="JP: JAPANET" tvg-logo="" group-title="CHINESE -//- KOREAN",JP: JAPANET
+http://qqtv.nl:8080/9513/9513/57407
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="JP: NHK WORLD TV" tvg-logo="" group-title="CHINESE -//- KOREAN",JP: NHK WORLD TV
+http://qqtv.nl:8080/9513/9513/57409
+#EXTINF:-1 tvg-id="" tvg-name="JP: TV JAPAN " tvg-logo="" group-title="CHINESE -//- KOREAN",JP: TV JAPAN 
+http://qqtv.nl:8080/9513/9513/397796
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="EPL 1" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="ShareExt@PremierLeague",EPL 1
 http://clientportal.link:80/7RgEEvt643/LtlEma51/19032
 #EXTINF:-1 tvg-id="" tvg-name="EPL 2" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="ShareExt@PremierLeague",EPL 2
