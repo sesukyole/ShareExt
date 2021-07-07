@@ -223,19 +223,7 @@ http://cdn.miptv.ws:8880/vgxjb/vgxlj/747
 http://cdn.miptv.ws:8880/vgxjb/vgxlj/745
 #EXTINF:-1 tvg-ID="WOO" tvg-name="Woohoo" tvg-logo="http://img.miptv.ws/Woohoo.png" group-title="SHARE_EXT@Esportes",Woohoo
 http://cdn.miptv.ws:8880/vgxjb/vgxlj/704
-#EXTINF:-1 tvg-ID="" tvg-name="COPA DO NORDESTE 1" tvg-logo="" group-title="SHARE_EXT@Esportes",COPA DO NORDESTE 1
-http://cdn.miptv.ws:8880/vgxjb/vgxlj/11967
-#EXTINF:-1 tvg-ID="" tvg-name="COPA DO NORDESTE 2" tvg-logo="" group-title="SHARE_EXT@Esportes",COPA DO NORDESTE 2
-http://cdn.miptv.ws:8880/vgxjb/vgxlj/11968
-#EXTINF:-1 tvg-ID="" tvg-name="COPA DO NORDESTE 3" tvg-logo="" group-title="SHARE_EXT@Esportes",COPA DO NORDESTE 3
-http://cdn.miptv.ws:8880/vgxjb/vgxlj/11969
-#EXTINF:-1 tvg-ID="" tvg-name="Globoesporte.com" tvg-logo="" group-title="SHARE_EXT@Esportes",Globoesporte.com
-http://cdn.miptv.ws:8880/vgxjb/vgxlj/11970
-#EXTINF:-1 tvg-ID="" tvg-name="COPA CATARINENSE" tvg-logo="" group-title="SHARE_EXT@Esportes",COPA CATARINENSE
-http://cdn.miptv.ws:8880/vgxjb/vgxlj/11971
-#EXTINF:-1 tvg-ID="" tvg-name="COPA CATARINENSE 2 HD" tvg-logo="" group-title="SHARE_EXT@Esportes",COPA CATARINENSE 2 HD
-http://cdn.miptv.ws:8880/vgxjb/vgxlj/11974
-#EXTINF:-1 tvg-ID="" tvg-name="DAZN2" tvg-logo="" group-title="SHARE_EXT@Esportes",DAZN2
+EXTINF:-1 tvg-ID="" tvg-name="DAZN2" tvg-logo="" group-title="SHARE_EXT@Esportes",DAZN2
 http://cdn.miptv.ws:8880/vgxjb/vgxlj/12028
 #EXTINF:-1 tvg-ID="" tvg-name="DAZN3" tvg-logo="" group-title="SHARE_EXT@Esportes",DAZN3
 http://cdn.miptv.ws:8880/vgxjb/vgxlj/12029
@@ -265,26 +253,6 @@ http://cdn.miptv.ws:8880/vgxjb/vgxlj/13444
 http://cdn.miptv.ws:8880/vgxjb/vgxlj/13445
 #EXTINF:-1 tvg-ID="" tvg-name="CONMEBOL TV 1" tvg-logo="" group-title="SHARE_EXT@Esportes",CONMEBOL TV 1
 http://cdn.miptv.ws:8880/vgxjb/vgxlj/13446
-#EXTINF:-1 tvg-ID="" tvg-name="CAMPEONATO CARIOCA 03 2021" tvg-logo="" group-title="SHARE_EXT@Esportes",CAMPEONATO CARIOCA 03 2021
-http://cdn.miptv.ws:8880/vgxjb/vgxlj/14269
-#EXTINF:-1 tvg-ID="" tvg-name="CAMPEONATO CARIOCA 02 2021" tvg-logo="" group-title="SHARE_EXT@Esportes",CAMPEONATO CARIOCA 02 2021
-http://cdn.miptv.ws:8880/vgxjb/vgxlj/14270
-#EXTINF:-1 tvg-ID="" tvg-name="CAMPEONATO CARIOCA 01 2021" tvg-logo="" group-title="SHARE_EXT@Esportes",CAMPEONATO CARIOCA 01 2021
-http://cdn.miptv.ws:8880/vgxjb/vgxlj/14271
-#EXTINF:-1 tvg-ID="" tvg-name="Estádio TNT Sports HD" tvg-logo="" group-title="SHARE_EXT@Esportes",Estádio TNT Sports HD
-http://cdn.miptv.ws:8880/vgxjb/vgxlj/14648
-#EXTINF:-1 tvg-ID="" tvg-name="Estadio TNT Sports 01" tvg-logo="" group-title="SHARE_EXT@Esportes",Estadio TNT Sports 01
-http://cdn.miptv.ws:8880/vgxjb/vgxlj/14651
-#EXTINF:-1 tvg-ID="" tvg-name="Estadio TNT Sports 02" tvg-logo="" group-title="SHARE_EXT@Esportes",Estadio TNT Sports 02
-http://cdn.miptv.ws:8880/vgxjb/vgxlj/14652
-#EXTINF:-1 tvg-ID="" tvg-name="Estadio TNT Sports 03" tvg-logo="" group-title="SHARE_EXT@Esportes",Estadio TNT Sports 03
-http://cdn.miptv.ws:8880/vgxjb/vgxlj/14653
-#EXTINF:-1 tvg-ID="" tvg-name="Estadio TNT Sports 04" tvg-logo="" group-title="SHARE_EXT@Esportes",Estadio TNT Sports 04
-http://cdn.miptv.ws:8880/vgxjb/vgxlj/14654
-#EXTINF:-1 tvg-ID="" tvg-name="Estadio TNT Sports 05" tvg-logo="" group-title="SHARE_EXT@Esportes",Estadio TNT Sports 05
-http://cdn.miptv.ws:8880/vgxjb/vgxlj/14655
-#EXTINF:-1 tvg-ID="" tvg-name="Estadio TNT Sports 06" tvg-logo="" group-title="SHARE_EXT@Esportes",Estadio TNT Sports 06
-http://cdn.miptv.ws:8880/vgxjb/vgxlj/14656
 
 
 
