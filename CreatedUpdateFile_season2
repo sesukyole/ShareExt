@@ -1269,6 +1269,57 @@ http://209.222.101.100:25461/tv/tv/82655
 
 
 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Network HD US" tvg-logo="http://pici.life/logo.png" group-title="English Premier League",NBC Sports Network HD US
+http://mytv.fun:8080/828ek2bb7g/padet80m3v/682014
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Premier League FHD VIP AF" tvg-logo="http://pici.life/logo.png" group-title="English Premier League",SuperSport Premier League FHD VIP AF
+http://mytv.fun:8080/828ek2bb7g/padet80m3v/682910
+#EXTINF:-1 tvg-id="" tvg-name="Optus Sport HD VIP AU" tvg-logo="" group-title="English Premier League",Optus Sport HD VIP AU
+http://mytv.fun:8080/828ek2bb7g/padet80m3v/684004
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="Sky Sports Premier League FHD VIP UK" tvg-logo="http://pici.life/UK/sky-sports-premier-league.png" group-title="English Premier League",Sky Sports Premier League FHD VIP UK
+http://mytv.fun:8080/828ek2bb7g/padet80m3v/684434
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="Sky Sports Main Event FHD VIP UK" tvg-logo="http://pici.life/UK/SkySportsMainEvent.uk.png" group-title="English Premier League",Sky Sports Main Event FHD VIP UK
+http://mytv.fun:8080/828ek2bb7g/padet80m3v/671299
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="Sky Sports Main Event HD VIP UK" tvg-logo="http://pici.life/UK/SkySportsMainEvent.uk.png" group-title="English Premier League",Sky Sports Main Event HD VIP UK
+http://mytv.fun:8080/828ek2bb7g/padet80m3v/683841
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1 FHD VIP UK" tvg-logo="http://pici.life/uk/BTSport1.uk.png" group-title="English Premier League",BT Sport 1 FHD VIP UK
+http://mytv.fun:8080/828ek2bb7g/padet80m3v/683858
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1 HD VIP UK" tvg-logo="http://pici.life/uk/BTSport1.uk.png" group-title="English Premier League",BT Sport 1 HD VIP UK
+http://mytv.fun:8080/828ek2bb7g/padet80m3v/683859
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1 VIP UK" tvg-logo="http://pici.life/uk/BTSport1.uk.png" group-title="English Premier League",BT Sport 1 VIP UK
+http://mytv.fun:8080/828ek2bb7g/padet80m3v/683860
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sport 2 FHD VIP UK" tvg-logo="http://pici.life/UK/btsport2hd.png" group-title="English Premier League",BT Sport 2 FHD VIP UK
+http://mytv.fun:8080/828ek2bb7g/padet80m3v/683861
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sport 2 HD VIP UK" tvg-logo="http://pici.life/UK/btsport2hd.png" group-title="English Premier League",BT Sport 2 HD VIP UK
+http://mytv.fun:8080/828ek2bb7g/padet80m3v/683862
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sport 2 VIP UK" tvg-logo="http://pici.life/UK/btsport2hd.png" group-title="English Premier League",BT Sport 2 VIP UK
+http://mytv.fun:8080/828ek2bb7g/padet80m3v/683863
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT Sport 3 FHD VIP UK" tvg-logo="http://pici.life/uk/BTSport3.uk.png" group-title="English Premier League",BT Sport 3 FHD VIP UK
+http://mytv.fun:8080/828ek2bb7g/padet80m3v/683865
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT Sport 3 HD VIP UK" tvg-logo="http://pici.life/uk/BTSport3.uk.png" group-title="English Premier League",BT Sport 3 HD VIP UK
+http://mytv.fun:8080/828ek2bb7g/padet80m3v/683866
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT Sport 3 VIP UK" tvg-logo="http://pici.life/uk/BTSport3.uk.png" group-title="English Premier League",BT Sport 3 VIP UK
+http://mytv.fun:8080/828ek2bb7g/padet80m3v/683867
+#EXTINF:-1 tvg-id="beinsports11.qa" tvg-name="Bein Sports 11 FHD VIP US" tvg-logo="http://pici.life/logo.png" group-title="English Premier League",Bein Sports 11 FHD VIP US
+http://mytv.fun:8080/828ek2bb7g/padet80m3v/682912
+#EXTINF:-1 tvg-id="beinsports12.qa" tvg-name="Bein Sports 12 HD VIP US" tvg-logo="http://pici.life/logo.png" group-title="English Premier League",Bein Sports 12 HD VIP US
+http://mytv.fun:8080/828ek2bb7g/padet80m3v/682913
+#EXTINF:-1 tvg-id="btsportx1.uk" tvg-name="BT Sport Extra 1 [Match Time] UK" tvg-logo="http://pici.life/uk/BTSportX1.uk.png" group-title="English Premier League",BT Sport Extra 1 [Match Time] UK
+http://mytv.fun:8080/828ek2bb7g/padet80m3v/683835
+#EXTINF:-1 tvg-id="btsportx2.uk" tvg-name="BT Sport Extra 2 [Match Time] UK" tvg-logo="http://pici.life/uk/BTSportX2.uk.png" group-title="English Premier League",BT Sport Extra 2 [Match Time] UK
+http://mytv.fun:8080/828ek2bb7g/padet80m3v/683836
+#EXTINF:-1 tvg-id="btsportx3.uk" tvg-name="BT Sport Extra 3 [Match Time] UK" tvg-logo="" group-title="English Premier League",BT Sport Extra 3 [Match Time] UK
+http://mytv.fun:8080/828ek2bb7g/padet80m3v/683837
+#EXTINF:-1 tvg-id="btsportx4.uk" tvg-name="BT Sport Extra 4 [Match Time] UK" tvg-logo="http://pici.life/btsport4extra.png" group-title="English Premier League",BT Sport Extra 4 [Match Time] UK
+http://mytv.fun:8080/828ek2bb7g/padet80m3v/683838
+#EXTINF:-1 tvg-id="btsportx5.uk" tvg-name="BT Sport Extra 5 [Match Time] UK" tvg-logo="" group-title="English Premier League",BT Sport Extra 5 [Match Time] UK
+http://mytv.fun:8080/828ek2bb7g/padet80m3v/683839
+
+
+
+
 #EXTINF:-1 tvg-id="supersportvariety1.za" tvg-name="SuperSport Variety 1 FHD VIP AF" tvg-logo="" group-title="Sports",SuperSport Variety 1 FHD VIP AF
 http://mytv.fun:8080/828ek2bb7g/padet80m3v/678020
 #EXTINF:-1 tvg-id="supersportvariety2.za" tvg-name="SuperSport Variety 2 FHD AF" tvg-logo="" group-title="Sports",SuperSport Variety 2 FHD AF
