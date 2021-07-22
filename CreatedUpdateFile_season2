@@ -3640,8 +3640,6 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/nGyLf93oqNA46xjDD4OQrTNdi_4=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" tvg-id=".SHINTA" tvg-name"SCTV _VIDIO" group-title="ShareExt@VIDIO",SCTV _VIDIO
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4e0cf1f47118daebc5b16269099ad7347
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/MrpjGfeZOGLUw5Pmo0dXNmQjYco=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6840/mola-tv-free-1bf0f0.jpg" tvg-id=".SHINTA" tvg-name"Domestic Disturbance _VIDIO" group-title="ShareExt@VIDIO",MolaTv Free_VIDIO
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=4324e8d0d37b110ee1a4f1633ac52df5e0cf1f47118daebc5b16269099ad7347
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9Ezkx-2W1qb9SpnaYvUXkDsHVcY=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" tvg-id=".SHINTA" tvg-name"Indosiar _VIDIO" group-title="ShareExt@VIDIO",Indosiar _VIDIO
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69e0cf1f47118daebc5b16269099ad7347
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/D4fhQdRMaUBB2JN2h0N4KbUauUw=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" tvg-id="RIYAN.fa162703d9d267b0195c8b58eb14bd9c.SHINTA" tvg-name"[CODAY] MNCTV _VIDIO" group-title="ShareExt@VIDIO",MNCTV _VIDIO
@@ -3673,7 +3671,6 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb5
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",MolaTv Free
 http://gpc.my.id/vidio/mola-tv-free.m3u8
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=6840
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",Champion1
 http://gpc.my.id/vidio/champion-tv-1.m3u8
@@ -3686,100 +3683,30 @@ http://gpc.my.id/vidio/champion-tv-3.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",Rcti
 http://gpc.my.id/vidio/rcti.m3u8
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-665.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",SCTV
 http://gpc.my.id/vidio/sctv.m3u8
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-204.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",Gtv
 http://gpc.my.id/vidio/gtv.m3u8
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-778.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",Kompastv
 http://gpc.my.id/vidio/kompas-tv.m3u8
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-874.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",Trans7
 http://gpc.my.id/vidio/trans7.m3u8
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-734.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",TransTV
 http://gpc.my.id/vidio/transtv.m3u8
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-733.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",Rtv
 http://gpc.my.id/vidio/rtv.m3u8
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=1561
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-1561.m3u8
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",Daitv
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=6482
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6482.m3u8
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",ntv
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=7432
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7432.m3u8
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",Jaktv
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=5415
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5415.m3u8
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",Mytv
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=6711
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6711.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",Indosiar
 http://gpc.my.id/vidio/indosiar.m3u8
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-205.m3u8
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",O channel
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-206.m3u8
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",TVRI
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6441.m3u8
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",Ajwa tv
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=7464
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",Alquran Kareem
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=6852
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",Metro tv
 http://gpc.my.id/vidio/metro-tv.m3u8
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-777.m3u8
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",MNC tv
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-870.m3u8
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",Jak tv
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5415.m3u8
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",Net
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-875.m3u8
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",I news
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=5409
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5409.m3u8
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",O shop
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=6166
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6166.m3u8
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",DW
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=5075
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",Tv edukasi
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=6838
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6838.m3u8
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",Rtv
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=1561
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-1561.m3u8
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",Berita satu
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=6165
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6165.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",Citra bioskop
 http://gpc.my.id/vidio/citra-bioskop.m3u8
@@ -3792,142 +3719,12 @@ http://gpc.my.id/vidio/citra-drama.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",Citra dangdut
 http://gpc.my.id/vidio/citra-dangdut.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",Smithsonian
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=6550
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",Love nature
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=6635
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",Hip-hop Horee
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=7052
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",Zoomoo
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=6533
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",Davinci
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=6549
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",Al-Jazeera
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=6410
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",Euro news
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=6412
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",ABC Australia
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=7150
-
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",Citra muslim
 http://gpc.my.id/vidio/citra-muslim.m3u8
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",Reformed21
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=6853
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6853.m3u8
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@VIDIO",V channel
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=6898
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6898.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="ShareExt@VIDIO",SCTV
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=204
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-204.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="ShareExt@VIDIO",INDOSIAR
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=205
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-205.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ochannel.png" group-title="ShareExt@VIDIO",O Channel
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=206
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-206.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ajwatv.png" group-title="ShareExt@VIDIO",AJWA TV
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=7464
-
-#EXTINF:-1 tvg-id="ksa.alqurantv" tvg-logo="http://kamiselaluada.com/img/mekkah.png" group-title="ShareExt@VIDIO",AlQuran Kareem
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=6852
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="ShareExt@VIDIO",Kompas TV
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=874
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-874.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bs.png" group-title="ShareExt@VIDIO",Berita Satu
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=6165
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6165.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="ShareExt@VIDIO",Metro TV
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=777
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-777.m3u8
-
-#EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="ShareExt@VIDIO",Trans TV
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=733
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-733.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="ShareExt@VIDIO",RCTI
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=665
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-665.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="ShareExt@VIDIO",Trans 7
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=734
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-734.m3u8
-
-#EXTINF:-1 tvg-id="mnctv" tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="ShareExt@VIDIO",MNCTV
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=870
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-870.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="ShareExt@VIDIO",JakTV
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=5415
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5415.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="ShareExt@VIDIO",GTV
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=778
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-778.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="ShareExt@VIDIO",NET
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=875
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-875.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/inews.png" group-title="ShareExt@VIDIO",iNews
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=5409
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5409.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/oshop.png" group-title="ShareExt@VIDIO",O SHop
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=6166
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6166.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="ShareExt@VIDIO",TVRI
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=6441
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6441.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mytv.png" group-title="ShareExt@VIDIO",MYTV
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=6711
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6711.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/magnatv.png" group-title="ShareExt@VIDIO",Magna TV
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_ShareExt_b3884000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="nusantaratv" tvg-logo="http://kamiselaluada.com/img/ntv.png" group-title="ShareExt@VIDIO",Nusantara TV
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=7432
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7432.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/daaitv.png" group-title="ShareExt@VIDIO",DAAI TV
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=6482
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6482.m3u8
-
-#EXTINF:-1 tvg-id="dwtv" tvg-logo="http://kamiselaluada.com/img/dw.png" group-title="ShareExt@VIDIO",DW English
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=5075
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvedukasi.png" group-title="ShareExt@VIDIO",TV Edukasi
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=6838
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6838.m3u8
-
-#EXTINF:-1 tvg-id="rtv" tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="ShareExt@VIDIO",RTV
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=1561
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-1561.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/seatoday.png" group-title="ShareExt@VIDIO", SEA TODAY
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=7687
-
-#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/musica.png" group-title="ShareExt@VIDIO",MUSICA
-http://iptvid.cgflix.xyz/playlist.m3u8?vidio=7619
 
 
 
@@ -5992,7 +5789,7 @@ http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/35
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/37
 #EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/kVLz3ty/mnc.png" group-title="ShareExt@id_INDONESIA",MNCTV
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/40
-#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXrk5h0/asrdrd.png" group-title="ShareExt@id_INDONESIA",RCTI
+#EXTINF:-1 tvg-id="RCTI.MACAN" -name="RCTI" tvg-logo="https://i.ibb.co/SXrk5h0/asrdrd.png" group-title="ShareExt@id_INDONESIA",RCTI
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/38
 #EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="https://i.ibb.co/yRBwDV1/gtv.png" group-title="ShareExt@id_INDONESIA",GTV
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/39
