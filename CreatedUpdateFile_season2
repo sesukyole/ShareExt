@@ -41,6 +41,18 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqHXdY66/Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",SkynetSport1
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqHXdY66/Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",SkynetSport2
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqHXdY66/Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Tennis tv
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports3/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqHXdY66/Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",TOP FIGHT
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports4/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqHXdY66/Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",NBA one shoot
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports5/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqHXdY66/Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",AstroSport4
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports6/chunklist.m3u8
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",SK2
