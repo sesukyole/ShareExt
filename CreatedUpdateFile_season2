@@ -210,6 +210,167 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 
 
 
+
+#EXTINF:-1 tvg-id="antv.id" tvg-name="ANTV" tvg-logo="http://iptv.lancartech.co.id:8080/images/2d45267cc3c17cd9685c2828832e1da7.png" group-title="SHAREEXT@Local",ANTV
+http://iptvelvan.my.id:8080/anuvell/anuvell21/9
+#EXTINF:-1 tvg-id="beritasatu.id" tvg-name="Berita Satu" tvg-logo="http://iptv.lancartech.co.id:8080/images/7249d491b1dfa39c9ea1fd210e700221.png" group-title="SHAREEXT@Local",Berita Satu
+http://iptvelvan.my.id:8080/anuvell/anuvell21/17
+#EXTINF:-1 tvg-id="cnbc.id" tvg-name="CNBC Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_big.png" group-title="SHAREEXT@Local",CNBC Indonesia
+http://iptvelvan.my.id:8080/anuvell/anuvell21/13
+#EXTINF:-1 tvg-id="cnninternational.id" tvg-name="CNN Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_big1.png" group-title="SHAREEXT@Local",CNN Indonesia
+http://iptvelvan.my.id:8080/anuvell/anuvell21/15
+#EXTINF:-1 tvg-id="globaltv.id" tvg-name="GTV" tvg-logo="http://iptv.lancartech.co.id:8080/images/5d7b7671d668e72883dc0bf87d0c0620.png" group-title="SHAREEXT@Local",GTV
+http://iptvelvan.my.id:8080/anuvell/anuvell21/54418
+#EXTINF:-1 tvg-id="indosiar.id" tvg-name="Indosiar" tvg-logo="http://iptv.lancartech.co.id:8080/images/7df6bbbecfb1e436fbbe52f8513aac7c.png" group-title="SHAREEXT@Local",Indosiar
+http://iptvelvan.my.id:8080/anuvell/anuvell21/8
+#EXTINF:-1 tvg-id="kompastv.id" tvg-name="Kompas TV" tvg-logo="http://iptv.lancartech.co.id:8080/images/edeb7d2a61260e2ab56d3b9f83190c02.png" group-title="SHAREEXT@Local",Kompas TV
+http://iptvelvan.my.id:8080/anuvell/anuvell21/14
+#EXTINF:-1 tvg-id="metrotv.id" tvg-name="Metro TV" tvg-logo="http://iptv.lancartech.co.id:8080/images/73ec3ef1c3cfb768e33705c07fa9680f.png" group-title="SHAREEXT@Local",Metro TV
+http://iptvelvan.my.id:8080/anuvell/anuvell21/11
+#EXTINF:-1 tvg-id="mnctv.id" tvg-name="MNC" tvg-logo="http://iptv.lancartech.co.id:8080/images/06b53047cf294f7207789ff5293ad2dc.png" group-title="SHAREEXT@Local",MNC
+http://iptvelvan.my.id:8080/anuvell/anuvell21/54425
+#EXTINF:-1 tvg-id="nettv.id" tvg-name="Net. TV" tvg-logo="http://iptv.lancartech.co.id:8080/images/e444cd6ab89131f259fdba2c933d0404.png" group-title="SHAREEXT@Local",Net. TV
+http://iptvelvan.my.id:8080/anuvell/anuvell21/2
+#EXTINF:-1 tvg-id="rctihd.id" tvg-name="RCTI" tvg-logo="http://iptv.lancartech.co.id:8080/images/900aeab81f03b096ae866649493f6c6e.png" group-title="SHAREEXT@Local",RCTI
+http://iptvelvan.my.id:8080/anuvell/anuvell21/53259
+#EXTINF:-1 tvg-id="sctv.id" tvg-name="SCTV" tvg-logo="http://iptv.lancartech.co.id:8080/images/ca7ff38d9e1cde4729c125b73c1e016f.png" group-title="SHAREEXT@Local",SCTV
+http://iptvelvan.my.id:8080/anuvell/anuvell21/4
+#EXTINF:-1 tvg-id="trans7.id" tvg-name="Trans 7" tvg-logo="http://iptv.lancartech.co.id:8080/images/e18c428ec6f96466e7e7fdfbbda2322b.png" group-title="SHAREEXT@Local",Trans 7
+http://iptvelvan.my.id:8080/anuvell/anuvell21/6
+#EXTINF:-1 tvg-id="transtv.id" tvg-name="TransTV" tvg-logo="http://iptv.lancartech.co.id:8080/images/04ebe1be276402086a467a487a0986a5.png" group-title="SHAREEXT@Local",TransTV
+http://iptvelvan.my.id:8080/anuvell/anuvell21/5
+#EXTINF:-1 tvg-id="tvri.id" tvg-name="TVRI" tvg-logo="http://iptv.lancartech.co.id:8080/images/6de0e6537399cf208f340eefd8613805.png" group-title="SHAREEXT@Local",TVRI
+http://iptvelvan.my.id:8080/anuvell/anuvell21/16
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="animax.id" tvg-name="Animax" tvg-logo="http://iptv.lancartech.co.id:8080/images/36586c0fdf11d084fa9e3d5197ceb492.png" group-title="SHAREEXT@Kids",Animax
+http://iptvelvan.my.id:8080/anuvell/anuvell21/47
+#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="http://iptv.lancartech.co.id:8080/images/a12cb7b314bdd831bafab9c93d86eacc.png" group-title="SHAREEXT@Kids",Aniplus
+http://iptvelvan.my.id:8080/anuvell/anuvell21/51
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="Cartoon Network" tvg-logo="http://iptv.lancartech.co.id:8080/images/8f82405d65fb662c46865ef3e0daf77f.png" group-title="SHAREEXT@Kids",Cartoon Network
+http://iptvelvan.my.id:8080/anuvell/anuvell21/81
+#EXTINF:-1 tvg-id="disneychannel.uk" tvg-name="Disney Channel" tvg-logo="http://iptv.lancartech.co.id:8080/images/f132ef6daa958f766a3e2f4ae0cb1f6f.png" group-title="SHAREEXT@Kids",Disney Channel
+http://iptvelvan.my.id:8080/anuvell/anuvell21/60
+#EXTINF:-1 tvg-id="disneyjunior.id" tvg-name="Disney Junior" tvg-logo="http://iptv.lancartech.co.id:8080/images/61fd5949469de350e1458f7c073608c9.png" group-title="SHAREEXT@Kids",Disney Junior
+http://iptvelvan.my.id:8080/anuvell/anuvell21/61
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo" tvg-logo="http://iptv.lancartech.co.id:8080/images/54395cbe5010a9b4a488a30f24a97471.png" group-title="SHAREEXT@Kids",ZooMoo
+http://iptvelvan.my.id:8080/anuvell/anuvell21/21606
+#EXTINF:-1 tvg-id="nickelodeon.id" tvg-name="Nickelodeon" tvg-logo="http://iptv.lancartech.co.id:8080/images/f19b88e6cb8cb067565bb3880b2fb3e1.png" group-title="SHAREEXT@Kids",Nickelodeon
+http://iptvelvan.my.id:8080/anuvell/anuvell21/63249
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="http://iptv.lancartech.co.id:8080/images/7622791dc6a5065d2ed76026ea55ea85.png" group-title="SHAREEXT@Entertainment",Arirang
+http://iptvelvan.my.id:8080/anuvell/anuvell21/52014
+#EXTINF:-1 tvg-id="asianfoodchannel.id" tvg-name="Asia Food Network" tvg-logo="http://iptv.lancartech.co.id:8080/images/720efe7f1cd644e70e6d278d482dc413.png" group-title="SHAREEXT@Entertainment",Asia Food Network
+http://iptvelvan.my.id:8080/anuvell/anuvell21/94
+#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment" tvg-logo="http://iptv.lancartech.co.id:8080/images/e719a4f23a42e2e32e02130b73de77e4.png" group-title="SHAREEXT@Entertainment",Blue Ant Entertainment
+http://iptvelvan.my.id:8080/anuvell/anuvell21/45
+#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Extreme" tvg-logo="http://iptv.lancartech.co.id:8080/images/51a9faea9360d288c444ac942546ddab.png" group-title="SHAREEXT@Entertainment",Blue Ant Extreme
+http://iptvelvan.my.id:8080/anuvell/anuvell21/46
+#EXTINF:-1 tvg-id="crimeinvestigation.id" tvg-name="Crime & Investigation" tvg-logo="http://iptv.lancartech.co.id:8080/images/3cc5b63743203387b6480ded1439a758.png" group-title="SHAREEXT@Entertainment",Crime & Investigation
+http://iptvelvan.my.id:8080/anuvell/anuvell21/95
+#EXTINF:-1 tvg-id="" tvg-name="Eat & Go" tvg-logo="http://iptv.lancartech.co.id:8080/images/09862d49821a4f9c58e09c9a0f316f96.png" group-title="SHAREEXT@Entertainment",Eat & Go
+http://iptvelvan.my.id:8080/anuvell/anuvell21/15956
+#EXTINF:-1 tvg-id="fashionone.za" tvg-name="Fashion TV" tvg-logo="http://iptv.lancartech.co.id:8080/images/8a6559845412a2457aa68dd9ca87c332.png" group-title="SHAREEXT@Entertainment",Fashion TV
+http://iptvelvan.my.id:8080/anuvell/anuvell21/72
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV Midnight Secret" tvg-logo="http://iptv.lancartech.co.id:8080/images/84977c43e443da507b764f3748664d7f.png" group-title="SHAREEXT@Entertainment",Fashion TV Midnight Secret
+http://iptvelvan.my.id:8080/anuvell/anuvell21/73
+#EXTINF:-1 tvg-id="hgtv.id" tvg-name="HGTV" tvg-logo="http://iptv.lancartech.co.id:8080/images/f5942f3a5a7366991e01b19fd70720e4.png" group-title="SHAREEXT@Entertainment",HGTV
+http://iptvelvan.my.id:8080/anuvell/anuvell21/64
+#EXTINF:-1 tvg-id="" tvg-name="KBS World" tvg-logo="http://iptv.lancartech.co.id:8080/images/8f9f9bb51b332f72e708cd149a4a0077.png" group-title="SHAREEXT@Entertainment",KBS World
+http://iptvelvan.my.id:8080/anuvell/anuvell21/21661
+#EXTINF:-1 tvg-id="lifetime.id" tvg-name="Lifetime" tvg-logo="http://iptv.lancartech.co.id:8080/images/7e85904261e86aa8854211ad7a0380dc.png" group-title="SHAREEXT@Entertainment",Lifetime
+http://iptvelvan.my.id:8080/anuvell/anuvell21/16748
+#EXTINF:-1 tvg-id="" tvg-name="Sony Gem" tvg-logo="http://iptv.lancartech.co.id:8080/images/b647045f594bb2f075d3df4d55fceb89.png" group-title="SHAREEXT@Entertainment",Sony Gem
+http://iptvelvan.my.id:8080/anuvell/anuvell21/39
+#EXTINF:-1 tvg-id="sonyonehd.id" tvg-name="Sony One" tvg-logo="http://iptv.lancartech.co.id:8080/images/2bfe7a1772e1b7f251081ba7973e5fa6.png" group-title="SHAREEXT@Entertainment",Sony One
+http://iptvelvan.my.id:8080/anuvell/anuvell21/152
+#EXTINF:-1 tvg-id="tlc.id" tvg-name="TLC" tvg-logo="http://iptv.lancartech.co.id:8080/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" group-title="SHAREEXT@Entertainment",TLC
+http://iptvelvan.my.id:8080/anuvell/anuvell21/78
+#EXTINF:-1 tvg-id="tvn.id" tvg-name="TvN" tvg-logo="http://iptv.lancartech.co.id:8080/images/0f566e9d977e0c511535d944d0b10c06.png" group-title="SHAREEXT@Entertainment",TvN
+http://iptvelvan.my.id:8080/anuvell/anuvell21/57
+#EXTINF:-1 tvg-id="wakuwakujapan.id" tvg-name="Waku-Waku" tvg-logo="http://iptv.lancartech.co.id:8080/images/9969517f2bbdaf765a18efc20091aeab.png" group-title="SHAREEXT@Entertainment",Waku-Waku
+http://iptvelvan.my.id:8080/anuvell/anuvell21/15955
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="axnhd.id" tvg-name="AXN" tvg-logo="http://iptv.lancartech.co.id:8080/images/c9f5436a465a63617d86f03b9aeec334.png" group-title="SHAREEXT@Movies",AXN
+http://iptvelvan.my.id:8080/anuvell/anuvell21/38
+#EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="http://iptv.lancartech.co.id:8080/images/c355204d40e7e4f35385759f21152507.png" group-title="SHAREEXT@Movies",Bioskop Indonesia
+http://iptvelvan.my.id:8080/anuvell/anuvell21/28568
+#EXTINF:-1 tvg-id="ccm.id" tvg-name="Celestial Classic Movies" tvg-logo="http://iptv.lancartech.co.id:8080/images/29ca5e95b87cd1d6916a7df3fa01314d.png" group-title="SHAREEXT@Movies",Celestial Classic Movies
+http://iptvelvan.my.id:8080/anuvell/anuvell21/52915
+#EXTINF:-1 tvg-id="celestialmovies.id" tvg-name="Celestial Movies" tvg-logo="http://iptv.lancartech.co.id:8080/images/d7fcc795bd7685c4681b24cb60ff9d89.png" group-title="SHAREEXT@Movies",Celestial Movies
+http://iptvelvan.my.id:8080/anuvell/anuvell21/21
+#EXTINF:-1 tvg-id="" tvg-name="Chinese Drama" tvg-logo="http://iptv.lancartech.co.id:8080/images/cc0af06d4dd4f1fa6c34d98610e12794.png" group-title="SHAREEXT@Movies",Chinese Drama
+http://iptvelvan.my.id:8080/anuvell/anuvell21/51994
+#EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="http://iptv.lancartech.co.id:8080/images/ecc7cac20ddfec79b2ebb27d422f31b0.png" group-title="SHAREEXT@Movies",Cinema World
+http://iptvelvan.my.id:8080/anuvell/anuvell21/49
+#EXTINF:-1 tvg-id="cinemaxhd.id" tvg-name="Cinemax" tvg-logo="http://iptv.lancartech.co.id:8080/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="SHAREEXT@Movies",Cinemax
+http://iptvelvan.my.id:8080/anuvell/anuvell21/16851
+#EXTINF:-1 tvg-id="foxhd.id" tvg-name="Fox" tvg-logo="http://iptv.lancartech.co.id:8080/images/2b95d1f09b8b66c5c43622a4d9ec9a04.png" group-title="SHAREEXT@Movies",Fox
+http://iptvelvan.my.id:8080/anuvell/anuvell21/55
+#EXTINF:-1 tvg-id="foxactionmovieshd.id" tvg-name="Fox Action Movies" tvg-logo="http://iptv.lancartech.co.id:8080/images/d820df19d590b5c688bc684b2652844b.png" group-title="SHAREEXT@Movies",Fox Action Movies
+http://iptvelvan.my.id:8080/anuvell/anuvell21/53
+#EXTINF:-1 tvg-id="foxcrime.id" tvg-name="Fox Crime" tvg-logo="http://iptv.lancartech.co.id:8080/images/9f3eb890e64f9781d58d7ff7470f06dc.png" group-title="SHAREEXT@Movies",Fox Crime
+http://iptvelvan.my.id:8080/anuvell/anuvell21/54
+#EXTINF:-1 tvg-id="foxfamilymovieshd.id" tvg-name="Fox Family Movies" tvg-logo="http://iptv.lancartech.co.id:8080/images/319d2af75fd510d34dddb7346bae254f.png" group-title="SHAREEXT@Movies",Fox Family Movies
+http://iptvelvan.my.id:8080/anuvell/anuvell21/41257
+#EXTINF:-1 tvg-id="foxlifehd.id" tvg-name="Fox Life" tvg-logo="http://iptv.lancartech.co.id:8080/images/bc102c9f9ee634e208b9fd58b056eb17.png" group-title="SHAREEXT@Movies",Fox Life
+http://iptvelvan.my.id:8080/anuvell/anuvell21/762
+#EXTINF:-1 tvg-id="foxmoviespremiumhd.id" tvg-name="Fox Movies Premium" tvg-logo="http://iptv.lancartech.co.id:8080/images/0c03dbe5df06526a692b7da7280b5a70.png" group-title="SHAREEXT@Movies",Fox Movies Premium
+http://iptvelvan.my.id:8080/anuvell/anuvell21/52
+#EXTINF:-1 tvg-id="hbo.id" tvg-name="HBO " tvg-logo="http://iptv.lancartech.co.id:8080/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="SHAREEXT@Movies",HBO 
+http://iptvelvan.my.id:8080/anuvell/anuvell21/56
+#EXTINF:-1 tvg-id="hbofamilyhd.id" tvg-name="HBO Family" tvg-logo="http://iptv.lancartech.co.id:8080/images/7ac60ed5d6e929c81d0885b615c5fd60.png" group-title="SHAREEXT@Movies",HBO Family
+http://iptvelvan.my.id:8080/anuvell/anuvell21/75
+#EXTINF:-1 tvg-id="hbohitshd.id" tvg-name="HBO Hits" tvg-logo="http://iptv.lancartech.co.id:8080/images/906430197071759f2e1aa8e8e03b859f.png" group-title="SHAREEXT@Movies",HBO Hits
+http://iptvelvan.my.id:8080/anuvell/anuvell21/92
+#EXTINF:-1 tvg-id="hbosignaturehd.id" tvg-name="HBO Signature" tvg-logo="http://iptv.lancartech.co.id:8080/images/59c79fdb9059ea5288761dc1878f0298.png" group-title="SHAREEXT@Movies",HBO Signature
+http://iptvelvan.my.id:8080/anuvell/anuvell21/28656
+#EXTINF:-1 tvg-id="hits.id" tvg-name="HITS" tvg-logo="http://iptv.lancartech.co.id:8080/images/076544dccc9c836d2b127812112e0eb2.png" group-title="SHAREEXT@Movies",HITS
+http://iptvelvan.my.id:8080/anuvell/anuvell21/43
+#EXTINF:-1 tvg-id="hitsmovies.id" tvg-name="HITS Movies" tvg-logo="http://iptv.lancartech.co.id:8080/images/305c809b588b10b192a21741e7df34e7.png" group-title="SHAREEXT@Movies",HITS Movies
+http://iptvelvan.my.id:8080/anuvell/anuvell21/2911
+#EXTINF:-1 tvg-id="" tvg-name="K Drama" tvg-logo="http://iptv.lancartech.co.id:8080/images/eca6a0bdfcf21f9de20263e0c93f49b4.png" group-title="SHAREEXT@Movies",K Drama
+http://iptvelvan.my.id:8080/anuvell/anuvell21/23
+#EXTINF:-1 tvg-id="Kplus.id" tvg-name="K+" tvg-logo="http://iptv.lancartech.co.id:8080/images/eed687fce2087a12e2e38e9ad72edc1c.png" group-title="SHAREEXT@Movies",K+
+http://iptvelvan.my.id:8080/anuvell/anuvell21/2912
+#EXTINF:-1 tvg-id="kix.id" tvg-name="KiX" tvg-logo="http://iptv.lancartech.co.id:8080/images/509766b82fb48561314cf32520e6e3b4.png" group-title="SHAREEXT@Movies",KiX
+http://iptvelvan.my.id:8080/anuvell/anuvell21/48
+#EXTINF:-1 tvg-id="" tvg-name="Red by HBO" tvg-logo="http://iptv.lancartech.co.id:8080/images/bda9643ac6601722a28f238714274da4.png" group-title="SHAREEXT@Movies",Red by HBO
+http://iptvelvan.my.id:8080/anuvell/anuvell21/16749
+#EXTINF:-1 tvg-id="scm.id" tvg-name="Star Chinese Movies" tvg-logo="http://iptv.lancartech.co.id:8080/images/50c822dead87b42361bdf9906bd04b71.png" group-title="SHAREEXT@Movies",Star Chinese Movies
+http://iptvelvan.my.id:8080/anuvell/anuvell21/131
+#EXTINF:-1 tvg-id="thrill.id" tvg-name="Thrill" tvg-logo="http://iptv.lancartech.co.id:8080/images/41d6209db93e403a5bf375a3a5cbd89f.png" group-title="SHAREEXT@Movies",Thrill
+http://iptvelvan.my.id:8080/anuvell/anuvell21/22
+#EXTINF:-1 tvg-id="tvnmovies.id" tvg-name="TvN Movies" tvg-logo="http://iptv.lancartech.co.id:8080/images/3f39e79625406629cf9d17bc9f4a163e.png" group-title="SHAREEXT@Movies",TvN Movies
+http://iptvelvan.my.id:8080/anuvell/anuvell21/58
+#EXTINF:-1 tvg-id="warnertv.id" tvg-name="Warner TV" tvg-logo="http://iptv.lancartech.co.id:8080/images/4c579ebb7ceecd9785e69dc6715263ba.png" group-title="SHAREEXT@Movies",Warner TV
+http://iptvelvan.my.id:8080/anuvell/anuvell21/76
+#EXTINF:-1 tvg-id="zee.id" tvg-name="ZeeBioskop" tvg-logo="http://iptv.lancartech.co.id:8080/images/fefed935e3d7e8c8aa59f96640679fae.png" group-title="SHAREEXT@Movies",ZeeBioskop
+http://iptvelvan.my.id:8080/anuvell/anuvell21/27479
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-ID="" tvg-name="[TR] A SPOR HD" tvg-logo="" group-title="ShareExt@SPORTS_Streams",A SPOR HD
 http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/62.ts
 #EXTINF:-1 tvg-ID="" tvg-name="[TR] TRT SPOR HD" tvg-logo="" group-title="ShareExt@SPORTS_Streams",TRT SPOR HD
