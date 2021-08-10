@@ -211,6 +211,73 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 
 
 
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Champion TV 1" tvg-logo="http://iptv.lancartech.co.id:8080/images/4078aefd8165a7cea9c588514429b25e.png" group-title="SHAREEXT@Sports",Champion TV 1
+http://iptvelvan.my.id:8080/anuvell/anuvell21/51996
+#EXTINF:-1 tvg-id="" tvg-name="Champion TV 2" tvg-logo="http://iptv.lancartech.co.id:8080/images/2cdb28f5c7b9d87c57b6ff7dbb2680f0.png" group-title="SHAREEXT@Sports",Champion TV 2
+http://iptvelvan.my.id:8080/anuvell/anuvell21/51997
+#EXTINF:-1 tvg-id="" tvg-name="Astro Arena" tvg-logo="http://iptv.lancartech.co.id:8080/images/1060c5df3409a1d6a4cc6bc8bd839cb0.png" group-title="SHAREEXT@Sports",Astro Arena
+http://iptvelvan.my.id:8080/anuvell/anuvell21/54701
+#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 1" tvg-logo="http://iptv.lancartech.co.id:8080/images/d963672df576fe18b7dc4a85e34f9cf7.png" group-title="SHAREEXT@Sports",Astro Super Sport 1
+http://iptvelvan.my.id:8080/anuvell/anuvell21/53222
+#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 2" tvg-logo="http://iptv.lancartech.co.id:8080/images/f4b54bdc09fda0458e4737fce63df11d.png" group-title="SHAREEXT@Sports",Astro Super Sport 2
+http://iptvelvan.my.id:8080/anuvell/anuvell21/53223
+#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 3" tvg-logo="http://iptv.lancartech.co.id:8080/images/b43d354c9e8354ce4fe9687ad073dc5e.png" group-title="SHAREEXT@Sports",Astro Super Sport 3
+http://iptvelvan.my.id:8080/anuvell/anuvell21/53224
+#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 4" tvg-logo="http://iptv.lancartech.co.id:8080/images/2e49854dd042cf154ab8143faf4fb7ea.png" group-title="SHAREEXT@Sports",Astro Super Sport 4
+http://iptvelvan.my.id:8080/anuvell/anuvell21/53225
+#EXTINF:-1 tvg-id="" tvg-name="Bein Premium 1" tvg-logo="http://iptv.lancartech.co.id:8080/images/c4fbb8f504530f131e2015fd1b454ce1.png" group-title="SHAREEXT@Sports",Bein Premium 1
+http://iptvelvan.my.id:8080/anuvell/anuvell21/54421
+#EXTINF:-1 tvg-id="" tvg-name="Bein Premium 2" tvg-logo="http://iptv.lancartech.co.id:8080/images/abde6d35f62361dd6ec65e9213982a46.png" group-title="SHAREEXT@Sports",Bein Premium 2
+http://iptvelvan.my.id:8080/anuvell/anuvell21/54422
+#EXTINF:-1 tvg-id="" tvg-name="Bein Premium 3" tvg-logo="http://iptv.lancartech.co.id:8080/images/4daaf1daab4f195c427fcff6e798bd7d.png" group-title="SHAREEXT@Sports",Bein Premium 3
+http://iptvelvan.my.id:8080/anuvell/anuvell21/54423
+#EXTINF:-1 tvg-id="beinsports1.id" tvg-name="beIN Sports 1 ID" tvg-logo="http://iptv.lancartech.co.id:8080/images/a99b231c7b2361a3cecda3e420b17747.png" group-title="SHAREEXT@Sports",beIN Sports 1 ID
+http://iptvelvan.my.id:8080/anuvell/anuvell21/25
+#EXTINF:-1 tvg-id="beinsports2hd.id" tvg-name="beIN Sports 2 ID" tvg-logo="http://iptv.lancartech.co.id:8080/images/f3350623b8c79960e2db7863860d7ba1.png" group-title="SHAREEXT@Sports",beIN Sports 2 ID
+http://iptvelvan.my.id:8080/anuvell/anuvell21/26
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Sport 1" tvg-logo="http://iptv.lancartech.co.id:8080/images/38d41ac6e1083268c6313ebbbd1749f5.png" group-title="SHAREEXT@Sports",Dubai Sport 1
+http://iptvelvan.my.id:8080/anuvell/anuvell21/52882
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Sport 2" tvg-logo="http://iptv.lancartech.co.id:8080/images/46bad71ccb26afc9098d49f1345bf342.png" group-title="SHAREEXT@Sports",Dubai Sport 2
+http://iptvelvan.my.id:8080/anuvell/anuvell21/52883
+#EXTINF:-1 tvg-id="" tvg-name="eGG Network" tvg-logo="http://iptv.lancartech.co.id:8080/images/330b5f0a923a8eb570b3efb890ceaef4.png" group-title="SHAREEXT@Sports",eGG Network
+http://iptvelvan.my.id:8080/anuvell/anuvell21/52916
+#EXTINF:-1 tvg-id="foxsports.id" tvg-name="Fox Sports 1" tvg-logo="http://iptv.lancartech.co.id:8080/images/dae7967cdee2d7cdbec127ed8a09c6d0.png" group-title="SHAREEXT@Sports",Fox Sports 1
+http://iptvelvan.my.id:8080/anuvell/anuvell21/68
+#EXTINF:-1 tvg-id="foxsports2hd.id" tvg-name="Fox Sports 2" tvg-logo="http://iptv.lancartech.co.id:8080/images/bed699297a765787d213e0a15e677ef2.png" group-title="SHAREEXT@Sports",Fox Sports 2
+http://iptvelvan.my.id:8080/anuvell/anuvell21/69
+#EXTINF:-1 tvg-id="foxsports3.id" tvg-name="Fox Sports 3" tvg-logo="http://iptv.lancartech.co.id:8080/images/003ac1a727141643b1949779ea8c1d89.png" group-title="SHAREEXT@Sports",Fox Sports 3
+http://iptvelvan.my.id:8080/anuvell/anuvell21/70
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="One Golf" tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_big1.png" group-title="SHAREEXT@Sports",One Golf
+http://iptvelvan.my.id:8080/anuvell/anuvell21/33
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="http://iptv.lancartech.co.id:8080/images/a59e2fcd2ab41b549f4dbbd9300d7962.png" group-title="SHAREEXT@Sports",Red Bull TV
+http://iptvelvan.my.id:8080/anuvell/anuvell21/52877
+#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="Tennis Channel" tvg-logo="http://iptv.lancartech.co.id:8080/images/b92e50500706f3ea2e8d7c487c1cae76.png" group-title="SHAREEXT@Sports",Tennis Channel
+http://iptvelvan.my.id:8080/anuvell/anuvell21/50
+#EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="http://iptv.lancartech.co.id:8080/images/e9e81c0cd366d964713890108249eb0a.png" group-title="SHAREEXT@Sports",UFC
+http://iptvelvan.my.id:8080/anuvell/anuvell21/52891
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="WWE Superslam" tvg-logo="http://iptv.lancartech.co.id:8080/images/ec6f6c0f998342a31dadfb8e594fc892.png" group-title="SHAREEXT@Sports",WWE Superslam
+http://iptvelvan.my.id:8080/anuvell/anuvell21/18477
+#EXTINF:-1 tvg-id="" tvg-name="KSA Sport 1" tvg-logo="http://iptv.lancartech.co.id:8080/images/b0248540da530498765546ad21c32db5.png" group-title="SHAREEXT@Sports",KSA Sport 1
+http://iptvelvan.my.id:8080/anuvell/anuvell21/64776
+#EXTINF:-1 tvg-id="" tvg-name="KSA Sport 2" tvg-logo="http://iptv.lancartech.co.id:8080/images/9a0c4b2442f05d8d2f0c16855787afd6.png" group-title="SHAREEXT@Sports",KSA Sport 2
+http://iptvelvan.my.id:8080/anuvell/anuvell21/64777
+#EXTINF:-1 tvg-id="" tvg-name="KSA Sport 3" tvg-logo="http://iptv.lancartech.co.id:8080/images/05f9be491cd954a011f6110b89586861.png" group-title="SHAREEXT@Sports",KSA Sport 3
+http://iptvelvan.my.id:8080/anuvell/anuvell21/64778
+#EXTINF:-1 tvg-id="" tvg-name="KSA Sport 4" tvg-logo="http://iptv.lancartech.co.id:8080/images/bddde2f12476ec4907cf112dc19672d8.png" group-title="SHAREEXT@Sports",KSA Sport 4
+http://iptvelvan.my.id:8080/anuvell/anuvell21/64779
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports MAX" tvg-logo="http://iptv.lancartech.co.id:8080/images/93e2455406bcbbdaa28204c11ba5ee59.png" group-title="SHAREEXT@Sports",Bein Sports MAX
+http://iptvelvan.my.id:8080/anuvell/anuvell21/64780
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="antv.id" tvg-name="ANTV" tvg-logo="http://iptv.lancartech.co.id:8080/images/2d45267cc3c17cd9685c2828832e1da7.png" group-title="SHAREEXT@Local",ANTV
 http://iptvelvan.my.id:8080/anuvell/anuvell21/9
 #EXTINF:-1 tvg-id="beritasatu.id" tvg-name="Berita Satu" tvg-logo="http://iptv.lancartech.co.id:8080/images/7249d491b1dfa39c9ea1fd210e700221.png" group-title="SHAREEXT@Local",Berita Satu
