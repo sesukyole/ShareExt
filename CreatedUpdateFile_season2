@@ -293,6 +293,105 @@ http://103.81.104.118/hls/stream40.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Action HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c01edd9028bd637cc5bdc8527acc3353.png" group-title="SHAREEXT@SPORT_South Africa",SuperSport Action HD
+http://tyciptv.site:8080/test-e78555/cf00/194354
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Cricket HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5b9d9ddbf95526d59c2fdd6725253646.png" group-title="SHAREEXT@SPORT_South Africa",SuperSport Cricket HD
+http://tyciptv.site:8080/test-e78555/cf00/11637
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Football HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8dab62dd2c2faa3d66261a2a5afa6260.png" group-title="SHAREEXT@SPORT_South Africa",SuperSport Football HD
+http://tyciptv.site:8080/test-e78555/cf00/38575
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Golf HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a20c92d13ce602ec324ff03b209ed0c2.png" group-title="SHAREEXT@SPORT_South Africa",SuperSport Golf HD
+http://tyciptv.site:8080/test-e78555/cf00/11641
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Grandstand HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a8f0bee8d482364f261394bf7678fa0e.png" group-title="SHAREEXT@SPORT_South Africa",SuperSport Grandstand HD
+http://tyciptv.site:8080/test-e78555/cf00/194353
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport LaLiga HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png" group-title="SHAREEXT@SPORT_South Africa",SuperSport LaLiga HD
+http://tyciptv.site:8080/test-e78555/cf00/194358
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Motorsport HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="SHAREEXT@SPORT_South Africa",SuperSport Motorsport HD
+http://tyciptv.site:8080/test-e78555/cf00/11638
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Máximo 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/488fd8d34ea146bfaf82c12331f4223e.png" group-title="SHAREEXT@SPORT_South Africa",SuperSport Máximo 1 HD
+http://tyciptv.site:8080/test-e78555/cf00/38572
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Premier League HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2f8f23e2a35d5a4e9ea336d7b51fd98f.png" group-title="SHAREEXT@SPORT_South Africa",SuperSport Premier League HD
+http://tyciptv.site:8080/test-e78555/cf00/11642
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport PSL HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@SPORT_South Africa",SuperSport PSL HD
+http://tyciptv.site:8080/test-e78555/cf00/11643
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Rugby HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/55a7ac3c8cdd7718d94d29b8ebc99f2e.png" group-title="SHAREEXT@SPORT_South Africa",SuperSport Rugby HD
+http://tyciptv.site:8080/test-e78555/cf00/11639
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Tennis HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b51cde8be3defead0ca307c5be0c9453.png" group-title="SHAREEXT@SPORT_South Africa",SuperSport Tennis HD
+http://tyciptv.site:8080/test-e78555/cf00/15200
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5440da812326351c34541cb82f6aac9e.png" group-title="SHAREEXT@SPORT_South Africa",SuperSport Variety 1 HD
+http://tyciptv.site:8080/test-e78555/cf00/11633
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/65bb8b6586b7fa25553a450811acce40.png" group-title="SHAREEXT@SPORT_South Africa",SuperSport Variety 2 HD
+http://tyciptv.site:8080/test-e78555/cf00/11634
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/712a4054a884ffbeb3cac1bd3d4700da.png" group-title="SHAREEXT@SPORT_South Africa",SuperSport Variety 3 HD
+http://tyciptv.site:8080/test-e78555/cf00/11635
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7816729fca81dcee05b869f633b8a84d.png" group-title="SHAREEXT@SPORT_South Africa",SuperSport Variety 4 HD
+http://tyciptv.site:8080/test-e78555/cf00/11636
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: Sky Sports Arena HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/989d4bde4ee6d3236460b11510e03e5c.png" group-title="SHAREEXT@SKYSPORTSS",Sky Sports Arena HD
+http://tyciptv.site:8080/test-e78555/cf00/267
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK Sky Sports F1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="SHAREEXT@SKYSPORTSS",Sky Sports F1 HD
+http://tyciptv.site:8080/test-e78555/cf00/37177
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sports Football HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/860b7e2f2ed148c938115c734f31ef62.png" group-title="SHAREEXT@SKYSPORTSS",Sky Sports Football HD
+#EXTINF:-1 tvg-id="" tvg-name="UK Sky Sports Main Event HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@SKYSPORTSS",Sky Sports Main Event HD
+http://tyciptv.site:8080/test-e78555/cf00/279281
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: Sky Sports News HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/429d072a80243dcd3db3c4c941b8f5e0.png" group-title="SHAREEXT@SKYSPORTSS",Sky Sports News HD
+http://tyciptv.site:8080/test-e78555/cf00/260
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK Sky Sports Cricket FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1ead7a44d2911e65fee4ded535ac1815.png" group-title="SHAREEXT@SKYSPORTSS",Sky Sports Cricket FHD
+http://tyciptv.site:8080/test-e78555/cf00/273427
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: Sky Sports Golf FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5acb0ff26afa4f347663d42261af36bf.png" group-title="SHAREEXT@SKYSPORTSS",Sky Sports Golf FHD
+http://tyciptv.site:8080/test-e78555/cf00/264
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK Sky Sports Mix FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/14216659a007f43c908ea7acb0080325.png" group-title="SHAREEXT@SKYSPORTSS",Sky Sports Mix FHD
+http://tyciptv.site:8080/test-e78555/cf00/37181
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/09bb1aded27d31530f3939146dffbc0c.png" group-title="SHAREEXT@SKYSPORTSS",Sky Sports Premier League FHD
+http://tyciptv.site:8080/test-e78555/cf00/263
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DE Sky Sport 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f12f66e0590ba09cdb4312c7512849d0.png" group-title="SHAREEXT@SKYSPORTSS",Sky Sport 1 FHD
+http://tyciptv.site:8080/test-e78555/cf00/279280
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6962967cb5e4b6c03a86f864fca59042.png" group-title="SHAREEXT@SKYSPORTSS",Sky Sport 2 FHD
+http://tyciptv.site:8080/test-e78555/cf00/266589
+#EXTINF:-1 tvg-id="skysport3.de" tvg-name="DE: Sky Sport 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9a130d66800619cfa11f847581c4bffd.png" group-title="SHAREEXT@SKYSPORTSS",Sky Sport 3 FHD
+http://tyciptv.site:8080/test-e78555/cf00/72238
+#EXTINF:-1 tvg-id="skyselect4.de" tvg-name="DE: Sky Sport 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/53419dd61d60da397ce1e27e595f182f.png" group-title="SHAREEXT@SKYSPORTSS",Sky Sport 4 FHD
+http://tyciptv.site:8080/test-e78555/cf00/32708
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 5 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0dc1530132538daaba4c0b1eebb9496a.png" group-title="SHAREEXT@SKYSPORTSS",Sky Sport 5 HD
+http://tyciptv.site:8080/test-e78555/cf00/13497
+#EXTINF:-1 tvg-id="skysport6.de" tvg-name="DE: Sky Sport 6 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/892d5cf9e4c70d2b8f04b5f018e81087.png" group-title="SHAREEXT@SKYSPORTSS",Sky Sport 6 FHD
+http://tyciptv.site:8080/test-e78555/cf00/31445
+#EXTINF:-1 tvg-id="skyselect7.de" tvg-name="DE: Sky Sport 7 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9e73c2b075a96c9d4defa94146c2b0af.png" group-title="SHAREEXT@SKYSPORTSS",Sky Sport 7 HD
+http://tyciptv.site:8080/test-e78555/cf00/2133
+#EXTINF:-1 tvg-id="skysport8.de" tvg-name="DE: Sky Sport 8 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cee921aeeee33ebdf358a846f72e1ccd.png" group-title="SHAREEXT@SKYSPORTSS",Sky Sport 8 FHD
+http://tyciptv.site:8080/test-e78555/cf00/4489
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 10 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4aac20e5ec5f70c87c5c5b73eac32af0.png" group-title="SHAREEXT@SKYSPORTSS",Sky Sport 10 FHD
+http://tyciptv.site:8080/test-e78555/cf00/147342
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 11 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e88032101017f4b7b4c28408e6d47125.png" group-title="SHAREEXT@SKYSPORTSS",Sky Sport 11 HD
+http://tyciptv.site:8080/test-e78555/cf00/192205
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DE: Sky Sport Bundesliga 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cbe531ca1d3128a5ea1d826026c1c967.png" group-title="SHAREEXT@SKYSPORTSS",Sky Sport Bundesliga 1 FHD
+http://tyciptv.site:8080/test-e78555/cf00/2431
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="DE Sky Sport Bundesliga 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e3ee9ea336c26f1717aabd269adb0199.png" group-title="SHAREEXT@SKYSPORTSS",Sky Sport Bundesliga 2 FHD
+http://tyciptv.site:8080/test-e78555/cf00/81607
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="DE: Sky Sport Bundesliga 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a7de132a1213bb481524dd15b684e0b3.png" group-title="SHAREEXT@SKYSPORTSS",Sky Sport Bundesliga 3 FHD
+http://tyciptv.site:8080/test-e78555/cf00/2135
+#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="DE: Sky Sport Bundesliga 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c685e1115586d117d8bd52211fb175ec.png" group-title="SHAREEXT@SKYSPORTSS",Sky Sport Bundesliga 4 FHD
+http://tyciptv.site:8080/test-e78555/cf00/3513
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="DE: Sky Sport Bundesliga 5 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ae1ff23f60068f326deb088d3751a607.png" group-title="SHAREEXT@SKYSPORTSS",Sky Sport Bundesliga 5 FHD
+http://tyciptv.site:8080/test-e78555/cf00/2136
+#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="DE: Sky Sport Bundesliga 6 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b600abfaf8bbe572f199a04457b67a0a.png" group-title="SHAREEXT@SKYSPORTSS",Sky Sport Bundesliga 6 HD
+http://tyciptv.site:8080/test-e78555/cf00/12638
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 7 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/acbb2d746d6270db2b1f28711ecc3cb6.png" group-title="SHAREEXT@SKYSPORTSS",Sky Sport Bundesliga 7 FHD
+http://tyciptv.site:8080/test-e78555/cf00/2433
+#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="DE: Sky Sport Bundesliga 8 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7e32f4dbf139eeda0ca4bef4c31a303c.png" group-title="SHAREEXT@SKYSPORTSS",Sky Sport Bundesliga 8 FHD
+http://tyciptv.site:8080/test-e78555/cf00/2434
+#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="DE: Sky Sport Bundesliga 9 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/210f77aa7e453d5335c8a4c6b341e4c9.png" group-title="SHAREEXT@SKYSPORTSS",Sky Sport Bundesliga 9 FHD
+http://tyciptv.site:8080/test-e78555/cf00/10051
+#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="DE: Sky Sport Bundesliga 10 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/db1d07a63257ba1ba7ff36c393016fd8.png" group-title="SHAREEXT@SKYSPORTSS",Sky Sport Bundesliga 10 FHD
+http://tyciptv.site:8080/test-e78555/cf00/2432
+
 
 
 
