@@ -42,11 +42,11 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 #EXTINF:-1 tvg-id="tvg-name="ChampionTVshareExt"tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Champion1
-https://bit.ly/Champ1SHAREext
+
 #EXTINF:-1 tvg-id="tvg-name="ChampionTVshareExt"tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Champion2
-https://bit.ly/Champ2SHAREext
+
 #EXTINF:-1 tvg-id="tvg-name="ChampionTVshareExt"tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Champion3
-https://bit.ly/Champ3SHAREext
+
 
 
 
