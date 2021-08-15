@@ -2183,24 +2183,33 @@ http://122.248.43.138:1935/ch20/myStream/live.m3u8
 
 
 #EXTINF:-1 group-title="ShareExt@USEETV" tvg-logo="https://images.useetv.com/logo_bein1_small1.png?v=2.0.0.13",Bein1
+http://topwin-tv.my.id/2/master.m3u8?id=bein1
 http://topwin-tv.my.id/2/chunklist.m3u8?id=bein1&bandwidth=b684100&sync=0
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 group-title="ShareExt@USEETV" tvg-logo="https://images.useetv.com/logo_bein2_small1.png?v=2.0.0.13",Bein2
+http://topwin-tv.my.id/2/master.m3u8?id=bein2
 http://topwin-tv.my.id/2/chunklist.m3u8?id=bein2&bandwidth=b684100&sync=0
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-id="tvg-name="ChampionTVshareExt"tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg"group-title="ShareExt@USEETV",Champion1
+http://topwin-tv.my.id/2/master.m3u8?id=champion1
 http://topwin-tv.my.id/2/chunklist.m3u8?id=champion2&bandwidth=b684100&sync=0
 #EXTINF:-1 tvg-id="tvg-name="ChampionTVshareExt"tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg"group-title="ShareExt@USEETV",Champion2
+http://topwin-tv.my.id/2/master.m3u8?id=champion2
 http://topwin-tv.my.id/2/chunklist.m3u8?id=champion1&bandwidth=b684100&sync=0
 #EXTINF:-1 group-title="ShareExt@USEETV" tvg-logo="https://images.useetv.com/logo_foxsports1_small.png?v=2.0.0.13",FoxSport1
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
 http://topwin-tv.my.id/2/chunklist.m3u8?id=foxsport1&bandwidth=b684100&sync=0
 #EXTINF:-1 group-title="ShareExt@USEETV" tvg-logo="https://images.useetv.com/logo_foxsports2_small.png?v=2.0.0.13",FoxSport2
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
 http://topwin-tv.my.id/2/chunklist.m3u8?id=foxsport2&bandwidth=b684100&sync=0
 #EXTINF:-1 group-title="ShareExt@USEETV" tvg-logo="https://images.useetv.com/logo_foxsports3_small.png?v=2.0.0.13",FoxSport3
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
 http://topwin-tv.my.id/2/chunklist.m3u8?id=foxsport3&bandwidth=b684100&sync=0
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useesports2_big.png" group-title="ShareExt@USEETV"  tvg-id="Riyan.1ff1de774005f8da13f42943881c655f.Coday" tvg-name"[CODAY] UseeSports2 _USEETV",UseeSports1 _USEE
+http://topwin-tv.my.id/2/master.m3u8?id=useesport
 http://topwin-tv.my.id/2/chunklist.m3u8?id=useesport&bandwidth=b684100&sync=0
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useesports2_big.png" group-title="ShareExt@USEETV"  tvg-id="Riyan.1ff1de774005f8da13f42943881c655f.Coday" tvg-name"[CODAY] UseeSports2 _USEETV",UseeSports2 _USEE
+http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 http://topwin-tv.my.id/2/chunklist.m3u8?id=useesports2&bandwidth=b684100&sync=0
 
 
