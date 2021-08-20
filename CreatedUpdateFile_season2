@@ -3026,6 +3026,7 @@ http://122.248.43.138:1935/ch20/myStream/live.m3u8
 
 
 #EXTINF:-1 group-title="ShareExt@USEETV" tvg-logo="https://images.useetv.com/logo_bein1_small1.png?v=2.0.0.13",Bein1
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein1
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=bein1&bandwidth=default&sync=0
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 group-title="ShareExt@USEETV" tvg-logo="https://images.useetv.com/logo_bein2_small1.png?v=2.0.0.13",Bein2
@@ -3034,6 +3035,7 @@ http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-id="tvg-name="ChampionTVshareExt"tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg"group-title="ShareExt@USEETV",Champion1
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="tvg-name="ChampionTVshareExt"tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg"group-title="ShareExt@USEETV",Champion2
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=champion2
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion2&bandwidth=default&sync=0
 #EXTINF:-1 group-title="ShareExt@USEETV" tvg-logo="https://images.useetv.com/logo_foxsports1_small.png?v=2.0.0.13",FoxSport1
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
