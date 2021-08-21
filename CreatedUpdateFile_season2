@@ -49,7 +49,7 @@ https://home-tv.web.id/RHS/bewe.m3u8?channel=vidio-6686
 https://home-tv.web.id/RHS/bewe.m3u8?channel=vidio-6786
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",FoxSports1(my)
 http://50.7.161.82:8278/streams/d/foxsports_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@"PREMIUMMSport,FoxSports2(my)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",FoxSports2(my)
 http://50.7.161.82:8278/streams/d/foxsports2_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqHXdY66/Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",SkynetSport1
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/chunklist.m3u8
