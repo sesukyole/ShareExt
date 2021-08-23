@@ -3854,13 +3854,13 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizke
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Aljazeera
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=aljazeera
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=aljazeera
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Animax
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=animax
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=animax
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",AniPlus
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=aniplus
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=aniplus
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Antara TV
 http://dituduhmaling.xyz/US33T4/antara.m3u8
@@ -3869,79 +3869,79 @@ http://dituduhmaling.xyz/US33T4/antara.m3u8
 http://dituduhmaling.xyz/US33T4/arirang.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Asian Food Network
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=afc
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=afc
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",AXN
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=axn
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=axn
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Baby First
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=babyfirst
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=babyfirst
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Bali TV
 http://dituduhmaling.xyz/US33T4/balitv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",beIN Sport 1
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=bein1
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein1
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",beIN Sport 2
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=bein2
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein2
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Berita Satu
 http://dituduhmaling.xyz/US33T4/beritasatu.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Bioskop Indonesia
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=bioskopindonesia
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bioskopindonesia
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Bloomberg
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=bloomberg
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bloomberg
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Blue Ant
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=blueant
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=blueant
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Blue Ant Extreme
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=blueantextreme
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=blueantextreme
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Boomerang
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=boomerang
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=boomerang
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Cartoon Network
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=cartoonnetwork
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=cartoonnetwork
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",CCTV4
 http://dituduhmaling.xyz/US33T4/cctv4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Celestial Movies
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=celestialmovie
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=celestialmovie
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",CGTN Documentary
 http://dituduhmaling.xyz/US33T4/cgtndocumentary.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Champions TV 1
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=champion1
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=champion1
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Champions TV 2
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=champion2
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=champion2
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Chinese Drama
 http://dituduhmaling.xyz/US33T4/chinesedrama.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Cinema World
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=cinemaworld
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=cinemaworld
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Citra Dangdut
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=citradangdut
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=citradangdut
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Citra Drama
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=cdrama
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=cdrama
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",CNBC Asia
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=cnbcasia
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=cnbcasia
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",CNBC Indonesia
 http://dituduhmaling.xyz/US33T4/cnbcindonesia.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",CNN Indonesia
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=cnnindonesia
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=cnnindonesia
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",CNN International
 http://dituduhmaling.xyz/US33T4/cnninternational.m3u8
@@ -3950,40 +3950,40 @@ http://dituduhmaling.xyz/US33T4/cnninternational.m3u8
 http://dituduhmaling.xyz/US33T4/crimeinvestigation.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",CTI Asia
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=ctiasia
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=ctiasia
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Da Vinci Learning
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=davinci
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=davinci
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",DAAI TV
 http://dituduhmaling.xyz/US33T4/daaitv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Discovery
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=disco
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=disco
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",DreamWorks
 http://dituduhmaling.xyz/US33T4/dreamworks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",DreamWorks
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=dreamworks
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=dreamworks
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Dunia Anak
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=duniaanak
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=duniaanak
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Dunia Lain
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=dunialain
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=dunialain
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",DW-TV
 http://dituduhmaling.xyz/US33T4/dwtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Eat & Go
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=eatgo
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=eatgo
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",EBC Asia
 http://dituduhmaling.xyz/US33T4/ettvasia.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",eGG Network
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=egg
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=egg
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",El John TV
 http://dituduhmaling.xyz/US33T4/eljohn.m3u8
@@ -3995,31 +3995,31 @@ http://dituduhmaling.xyz/US33T4/euronews.m3u8
 http://dituduhmaling.xyz/US33T4/fashiontv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Flik
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=flik
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=flik
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Formosa
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=formosa
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=formosa
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",FOX Sports 1
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=foxsport1
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=foxsport1
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",FOX Sports 2
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=foxsport2
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=foxsport2
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",FOX Sports 3
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=foxsport3
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=foxsport3
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",France 24
 http://dituduhmaling.xyz/US33T4/france24.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Galaxy
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=galaxy
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=galaxy
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Galaxy Premium
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=galaxypremium
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=galaxypremium
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",GOLF
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=golfplus
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=golfplus
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",HGTV
 http://dituduhmaling.xyz/US33T4/hgtv.m3u8
@@ -4028,10 +4028,10 @@ http://dituduhmaling.xyz/US33T4/hgtv.m3u8
 http://dituduhmaling.xyz/US33T4/history.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",History
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=history
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=history
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Horee
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=horee
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=horee
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",I-Konser
 http://dituduhmaling.xyz/US33T4/ikonser.m3u8
@@ -4040,7 +4040,7 @@ http://dituduhmaling.xyz/US33T4/ikonser.m3u8
 http://dituduhmaling.xyz/US33T4/idx.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",IMC
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=imc
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=imc
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Indihome Shopping
 http://dituduhmaling.xyz/US33T4/indishopping.m3u8
@@ -4055,7 +4055,7 @@ http://dituduhmaling.xyz/US33T4/indosiar.m3u8
 http://dituduhmaling.xyz/US33T4/inews.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Insert
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=insert
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=insert
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",JakTV
 http://dituduhmaling.xyz/US33T4/jaktv.m3u8
@@ -4064,19 +4064,19 @@ http://dituduhmaling.xyz/US33T4/jaktv.m3u8
 http://dituduhmaling.xyz/US33T4/jtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",KBS World
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=kbsworld
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=kbsworld
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",KIX
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=kix
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=kix
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Kplus
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=kplus
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=kplus
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Kungfu TV
 http://dituduhmaling.xyz/US33T4/kungfutv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Lifetime
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=lifetime
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=lifetime
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Lingua
 http://dituduhmaling.xyz/US33T4/lingua.m3u8
@@ -4103,16 +4103,16 @@ http://dituduhmaling.xyz/US33T4/muhammadiyahtv.m3u8
 http://dituduhmaling.xyz/US33T4/mykids.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Nat Geo Channel
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=natgeo
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=natgeo
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Nat Geo People
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=natgeopeople
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=natgeopeople
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Nat Geo Wild
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=natgeowild
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=natgeowild
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",NBA-TV
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=nba
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=nba
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",NHK World
 http://dituduhmaling.xyz/US33T4/nhkworld.m3u8
@@ -4121,10 +4121,10 @@ http://dituduhmaling.xyz/US33T4/nhkworld.m3u8
 http://dituduhmaling.xyz/US33T4/nhkpremium.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Nick Junior
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=nickjr
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=nickjr
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Nickelodeon
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=nickelodeon
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=nickelodeon
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Nusantara TV
 http://dituduhmaling.xyz/US33T4/nusantaratv.m3u8
@@ -4151,19 +4151,19 @@ http://dituduhmaling.xyz/US33T4/useeinfo.m3u8
 http://dituduhmaling.xyz/US33T4/sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",SGEM
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=sgem
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=sgem
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",SONE
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=sone
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=sone
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Tawaf TV
 http://dituduhmaling.xyz/US33T4/tawaftv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Thrill
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=thrill
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=thrill
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Trans7
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=trans7
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=trans7
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",TRT World
 http://dituduhmaling.xyz/US33T4/trtworld.m3u8
@@ -4175,28 +4175,28 @@ http://dituduhmaling.xyz/US33T4/tvedukasi.m3u8
 http://dituduhmaling.xyz/US33T4/muitv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",TV5 Monde
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=tv5monde
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=tv5monde
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",TVN
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=tvn
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=tvn
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",TVN Movies
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=tvnmovies
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=tvnmovies
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Usee Sports 1
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=useesport
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=useesport
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Usee Sports 2
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=useesports2
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=useesports2
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Waku Waku Japan
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=wakuwaku
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=wakuwaku
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",WarnerTV
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=warner
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=warner
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Zee Bioskop
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=zbioskop
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=zbioskop
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Bali TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
