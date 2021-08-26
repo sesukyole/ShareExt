@@ -64,7 +64,36 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports5/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqHXdY66/Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",AstroSport4
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports6/chunklist.m3u8
 
-
+#EXTINF:-1 tvg-id="astroarena.my" tvg-name="ASTRO Arena HD" tvg-logo="https://i.postimg.cc/tgHPJhrw/Astro-Arena.jpg" group-title="ShareExt@PREMIUMMSport",ASTRO Arena HD
+http://iptv.tvmalaysia.cc:80/932633/932633/6707
+#EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="https://i.postimg.cc/7hm8GMMV/Astro-ASSP1.png" group-title="ShareExt@PREMIUMMSport",ASTRO SUPERSPORT HD
+http://iptv.tvmalaysia.cc:80/932633/932633/6708
+#EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT 2 HD" tvg-name="ASTRO SUPERSPORT 2 HD" tvg-logo="https://i.postimg.cc/LXv2LpmL/Astro-Super-Sport-2.png" group-title="ShareExt@PREMIUMMSport",ASTRO SUPERSPORT 2 HD
+http://iptv.tvmalaysia.cc:80/932633/932633/6710
+#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="ASTRO SUPERSPORT 3 HD" tvg-logo="https://i.postimg.cc/3wmgKLYP/200px-Astro-ASSP3.png" group-title="ShareExt@PREMIUMMSport",ASTRO SUPERSPORT 3 HD
+http://iptv.tvmalaysia.cc:80/932633/932633/6711
+#EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT 4 HD" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png" group-title="ShareExt@PREMIUMMSport",ASTRO SUPERSPORT 4 HD
+http://iptv.tvmalaysia.cc:80/932633/932633/6712
+#EXTINF:-1 tvg-id="MY: FOX SPORTS" tvg-name="FOX Sports HD" tvg-logo="https://i.postimg.cc/ZYMPd4SS/1200px-Fox-Sports-Logo-svg.png" group-title="ShareExt@PREMIUMMSport",FOX Sports HD
+http://iptv.tvmalaysia.cc:80/932633/932633/6793
+#EXTINF:-1 tvg-id="MY: FOX SPORTS 2 HD" tvg-name="FOX Sports 2 HD" tvg-logo="https://i.postimg.cc/Dzf3Htwx/fox-sports-2-logo-876-FE0-A3-C1-seeklogo-com.png" group-title="ShareExt@PREMIUMMSport",FOX Sports 2 HD
+http://iptv.tvmalaysia.cc:80/932633/932633/6791
+#EXTINF:-1 tvg-id="MY: FOX SPORTS 3 HD" tvg-name="FOX Sports 3 HD" tvg-logo="https://i.postimg.cc/QMhyV1LC/837-300.png" group-title="ShareExt@PREMIUMMSport",FOX Sports 3 HD
+http://iptv.tvmalaysia.cc:80/932633/932633/6792
+#EXTINF:-1 tvg-id="MY: ASTRO CRICKET HD" tvg-name="ASTRO Cricket" tvg-logo="https://i.postimg.cc/fy0bQb4Z/Astro-Cricket-Logo-2.png" group-title="ShareExt@PREMIUMMSport",ASTRO Cricket
+http://iptv.tvmalaysia.cc:80/932633/932633/6717
+#EXTINF:-1 tvg-id="MY: BEIN SPORTS HD" tvg-name="beIN Sports" tvg-logo="https://i.postimg.cc/JhVqt6KN/11b14885c76a7e6534130043e86337d0.png" group-title="ShareExt@PREMIUMMSport",beIN Sports
+http://iptv.tvmalaysia.cc:80/932633/932633/6749
+#EXTINF:-1 tvg-id="beinsportsmax.my" tvg-name="beIN MAX" tvg-logo="https://i.postimg.cc/QxTnfTBd/bein-sports-max.png" group-title="ShareExt@PREMIUMMSport",beIN MAX
+http://iptv.tvmalaysia.cc:80/932633/932633/6748
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 2" tvg-logo="https://i.postimg.cc/sX9NLwMV/1613886308377.png" group-title="ShareExt@PREMIUMMSport",beIN MAX 2
+http://iptv.tvmalaysia.cc:80/932633/932633/7195
+#EXTINF:-1 tvg-id="MY: WWE NETWORK HD" tvg-name="WWE Network" tvg-logo="https://i.postimg.cc/xTWdLGvj/799f112a24fa359d82d460b8fd2fd3b7.jpg" group-title="ShareExt@PREMIUMMSport",WWE Network
+http://iptv.tvmalaysia.cc:80/932633/932633/6849
+#EXTINF:-1 tvg-id="MY: RUGBYPASS TV HD" tvg-name="Rugby Pass TV" tvg-logo="https://i.postimg.cc/NGX652N1/0oc4b-Nx1esqf-G02-LC9f6f-Vp-I3-Gv-AE-1542901919-KJY9-GHGf.png" group-title="ShareExt@PREMIUMMSport",Rugby Pass TV
+http://iptv.tvmalaysia.cc:80/932633/932633/6821
+#EXTINF:-1 tvg-id="MY: GOLF CHANNEL HD" tvg-name="Golf Channel HD" tvg-logo="https://i.postimg.cc/Zq2p2LKM/new-golf-channel-logo-304.jpg" group-title="ShareExt@PREMIUMMSport",Golf Channel HD
+http://iptv.tvmalaysia.cc:80/932633/932633/6796
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",TruePremier1 HD
