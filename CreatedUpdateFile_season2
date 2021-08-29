@@ -162,6 +162,15 @@ http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
 http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqHXdY66/Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Starsport1(bc)
+http://tvflixbdvip.ddns.net/hls/chss1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqHXdY66/Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Starsport2(bc)
+http://tvflixbdvip.ddns.net/hls/chss2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqHXdY66/Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",ten1(bc)
+http://tvflixbdvip.ddns.net/hls/ten1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqHXdY66/Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",ten2(bc)
+http://tvflixbdvip.ddns.net/hls/ten2.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",ArenaSport1
