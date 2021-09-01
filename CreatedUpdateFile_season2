@@ -41,11 +41,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="tvg-name="ChampionTVshareExt"tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Champion1
-http://gpc.my.id/vidio/champion-tv-1.m3u8
-
-#EXTINF:-1 tvg-id="tvg-name="ChampionTVshareExt"tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Champion2
-http://gpc.my.id/vidio/champion-tv-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",FoxSports1(my)
 http://50.7.161.82:8278/streams/d/foxsports_pye/playlist.m3u8
