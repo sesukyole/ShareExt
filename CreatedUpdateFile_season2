@@ -107,16 +107,21 @@ https://cmt.mb13.cyou/bW9kZXJv/ku/see/ucf.m3u8?a=foxsport2
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",Foxsport3(Z.Usee)
 https://cmt.mb13.cyou/bW9kZXJv/ku/see/ucf.m3u8?a=foxsport3
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",MNC SPORTS
+http://cdn-livetv-studio.metube.id/mncsport_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",FoxSports1(my)
 http://50.7.161.82:8278/streams/d/foxsports_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",FoxSports2(my)
 http://50.7.161.82:8278/streams/d/foxsports2_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqHXdY66/Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",SkynetSportHD
+http://4digital.ddns.net:11223/ts/0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqHXdY66/Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",SkynetSport1
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqHXdY66/Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",SkynetSport2
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqHXdY66/Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",SkynetSport3
+http://916309128f3e.sn.mynetname.net:1935/aslive/astrosupersport4/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqHXdY66/Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Tennis tv
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports3/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqHXdY66/Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",TOP FIGHT
@@ -506,8 +511,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",EXTREME MADURA
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/chunklist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",ASTROSPORT2
-http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",TruePremierHD4
 http://4digital.ddns.net:11222/ts/0
