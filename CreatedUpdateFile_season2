@@ -130,7 +130,8 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports4/chunklist.m3u8
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports5/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqHXdY66/Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",AstroSport4
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports6/chunklist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqHXdY66/Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",SUKAN RTM(mpd)
+https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 #EXTINF:-1 tvg-id="astroarena.my" tvg-name="ASTRO Arena HD" tvg-logo="https://i.postimg.cc/tgHPJhrw/Astro-Arena.jpg" group-title="ShareExt@PREMIUMMSport",ASTRO Arena HD
 http://iptv.tvmalaysia.cc:80/932633/932633/6707
 #EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="https://i.postimg.cc/7hm8GMMV/Astro-ASSP1.png" group-title="ShareExt@PREMIUMMSport",ASTRO SUPERSPORT HD
