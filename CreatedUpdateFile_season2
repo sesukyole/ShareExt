@@ -169,23 +169,6 @@ http://cdn-livetv-studio.metube.id/mncsport_480/index.m3u8
 http://50.7.161.82:8278/streams/d/foxsports_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",FoxSports2(my)
 http://50.7.161.82:8278/streams/d/foxsports2_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqHXdY66/Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",SkynetSport1
-http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqHXdY66/Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",SkynetSport2
-http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqHXdY66/Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",SkynetSport3
-http://916309128f3e.sn.mynetname.net:1935/aslive/astrosupersport4/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqHXdY66/Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Tennis tv
-http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports3/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqHXdY66/Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",TOP FIGHT
-http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports4/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqHXdY66/Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",NBA one shoot
-http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports5/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqHXdY66/Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",AstroSport4
-http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports6/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqHXdY66/Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",SUKAN RTM(mpd)
-https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",CCTVsportCH4
 http://103.233.191.133/ch4/sport_ch4.live/playlist.m3u8
