@@ -587,6 +587,116 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport Xtra 1 HD" tvg-logo="" group-title="ShareExt@Beinsport_SSC",BeINSport Xtra 1 HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/176223
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport Xtra 2 HD" tvg-logo="" group-title="ShareExt@Beinsport_SSC",BeINSport Xtra 2 HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/176224
+#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="BeIN Global HD" tvg-logo="http://vod-logo.net/photos/5ececcb5c9e23ff48872510bcced1048.jpg" group-title="ShareExt@Beinsport_SSC",BeIN Global HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/33688
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="BeIN Sports News HD" tvg-logo="http://vod-logo.net/photos/3963471dee86ddcfbe014f8b4eaa6eb3.jpg" group-title="ShareExt@Beinsport_SSC",BeINSports News HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/33689
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BeIN Sports Premium 1 HD" tvg-logo="http://vod-logo.net/photos/429db06ff895bd405f2e25e9e22532b8.JPG" group-title="ShareExt@Beinsport_SSC",BeINSports Premium 1 HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/33705
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BeIN Sports Premium 2 HD" tvg-logo="http://vod-logo.net/photos/89b8a49ea6f1d431db07a2a12d42eab5.jpg" group-title="ShareExt@Beinsport_SSC",BeINSports Premium 2 HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/33704
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BeIN Sports Premium 3 HD" tvg-logo="http://vod-logo.net/photos/689ccc2ebc85c6f4e8b629a0afdb0a5d.jpg" group-title="ShareExt@Beinsport_SSC",BeINSports Premium 3 HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/33703
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BeIN Sports 1 HD" tvg-logo="http://vod-logo.net/photos/f5425ee2421ffa3ef52cfeb565566a50.jpg" group-title="ShareExt@Beinsport_SSC",BeINSports 1 HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/33702
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="BeIN Sports 2 HD" tvg-logo="http://vod-logo.net/photos/36b33893d5bd8e749d3e27ed459baf76.jpg" group-title="ShareExt@Beinsport_SSC",BeINSports 2 HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/33701
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BeIN Sports 3 HD" tvg-logo="http://vod-logo.net/photos/16d77a2f77a14d9c03f148e80f52426b.jpg" group-title="ShareExt@Beinsport_SSC",BeINSports 3 HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/33700
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BeIN Sports 4 HD" tvg-logo="http://vod-logo.net/photos/0abaa5bcb78037c862836575fa01b453.jpg" group-title="ShareExt@Beinsport_SSC",BeINSports 4 HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/33699
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="BeIN Sports 5 HD" tvg-logo="http://vod-logo.net/photos/6b19f9a2b9222060f45d2f9252b74e4e.jpg" group-title="ShareExt@Beinsport_SSC",BeINSports 5 HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/33698
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="BeIN Sports 6 HD" tvg-logo="http://vod-logo.net/photos/430e163792be3fffe1f1f08fcc31fd2c.jpg" group-title="ShareExt@Beinsport_SSC",BeINSports 6 HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/33697
+#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="BeIN Sports 7 HD" tvg-logo="http://vod-logo.net/photos/e8551acb3d745e5ed7ef2c9501473d34.jpg" group-title="ShareExt@Beinsport_SSC",BeINSports 7 HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/33696
+#EXTINF:-1 tvg-id="beinsports12.qa" tvg-name="BeIN Sports English HD2" tvg-logo="http://vod-logo.net/photos/3c2bd7083b44dea6d6ecb353cbd25af1.jpg" group-title="ShareExt@Beinsport_SSC",BeINSports English HD2
+http://new-pro.tv:8080/Hotel-2021/Allroom/33694
+#EXTINF:-1 tvg-id="beinsports13.qa" tvg-name="BeIN Sports English HD3" tvg-logo="http://vod-logo.net/photos/2ca1ce3cb557f6ad5c623ceeaf5ead55.jpg" group-title="ShareExt@Beinsport_SSC",BeINSports English HD3
+http://new-pro.tv:8080/Hotel-2021/Allroom/33693
+#EXTINF:-1 tvg-id="beinsports14.qa" tvg-name="BeIN Sports French HD1" tvg-logo="http://vod-logo.net/photos/8ae945d2e91b454eee2d69b3ed837bb6.jpg" group-title="ShareExt@Beinsport_SSC",BeINSports French HD1
+http://new-pro.tv:8080/Hotel-2021/Allroom/33692
+#EXTINF:-1 tvg-id="beinsports15.qa" tvg-name="BeIN Sports French HD2" tvg-logo="http://vod-logo.net/photos/8190fe1b46bfb4c0abf591382279b5dc.jpg" group-title="ShareExt@Beinsport_SSC",BeINSports French HD2
+http://new-pro.tv:8080/Hotel-2021/Allroom/36360
+#EXTINF:-1 tvg-id="beinsports16.qa" tvg-name="BeIN Sports English HD1" tvg-logo="http://vod-logo.net/photos/78bb03d8c7fbbc5cd187aaf82786e3b5.jpg" group-title="ShareExt@Beinsport_SSC",BeINSports English HD1
+http://new-pro.tv:8080/Hotel-2021/Allroom/33690
+#EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="BeIN Sports NBA HD" tvg-logo="http://vod-logo.net/photos/611d4f368444be8254a1a838c2674cfc.jpg" group-title="ShareExt@Beinsport_SSC",BeINSports NBA HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/28294
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: SSC HD1 Backup" tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Beinsport_SSC",SSC HD1
+http://new-pro.tv:8080/Hotel-2021/Allroom/178385
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: SSC HD2" tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Beinsport_SSC",SSC HD2
+http://new-pro.tv:8080/Hotel-2021/Allroom/178386
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: SSC HD3" tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Beinsport_SSC",SSC HD3
+http://new-pro.tv:8080/Hotel-2021/Allroom/178387
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: SSC HD4" tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Beinsport_SSC",SSC HD4
+http://new-pro.tv:8080/Hotel-2021/Allroom/178388
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: SSC HD5" tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Beinsport_SSC",SSC HD5
+http://new-pro.tv:8080/Hotel-2021/Allroom/178389
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: SSC HD6" tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Beinsport_SSC",SSC HD6
+http://new-pro.tv:8080/Hotel-2021/Allroom/178390
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: SSC HD7" tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Beinsport_SSC",SSC HD7
+http://new-pro.tv:8080/Hotel-2021/Allroom/178391
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Af | DSTV: SUPER SPORTS La Liga" tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@African DSTV",SUPERSPORTS LaLiga
+http://new-pro.tv:8080/Hotel-2021/Allroom/60922
+#EXTINF:-1 tvg-id="" tvg-name="Af | DSTV: SUPER SPORTS 1 PSL" tvg-logo="http://vod-logo.net/photos/ff8d998db66bc29690a5dcc2cb0e1641.png" group-title="ShareExt@African DSTV",SUPERSPORTS 1 PSL
+http://new-pro.tv:8080/Hotel-2021/Allroom/67690
+#EXTINF:-1 tvg-id="" tvg-name="Af | DSTV: SUPER SPORTS PREMIER LEAGUE" tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@African DSTV",SUPERSPORTS PREMIER LEAGUE
+http://new-pro.tv:8080/Hotel-2021/Allroom/60924
+#EXTINF:-1 tvg-id="" tvg-name="Af | DSTV: SUPER SPORTS GRAND STAND" tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@African DSTV",SUPERSPORTS GRANDSTAND
+http://new-pro.tv:8080/Hotel-2021/Allroom/60925
+#EXTINF:-1 tvg-id="" tvg-name="Af | DSTV: SUPER SPORTS VARIETY 2" tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@African DSTV",SUPERSPORTS VARIETY 2
+http://new-pro.tv:8080/Hotel-2021/Allroom/60926
+#EXTINF:-1 tvg-id="" tvg-name="Af | DSTV: SUPER SPORTS OTT 2 HD" tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@African DSTV",SUPERSPORTS OTT 2 HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/60927
+#EXTINF:-1 tvg-id="" tvg-name="Af | DSTV: SUPER SPORTS ACTION" tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@African DSTV",SUPERSPORTS ACTION
+http://new-pro.tv:8080/Hotel-2021/Allroom/60928
+#EXTINF:-1 tvg-id="" tvg-name="Af | DSTV: SUPER SPORTS FOOTBALL 4" tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@African DSTV",SUPERSPORTS FOOTBALL 4
+http://new-pro.tv:8080/Hotel-2021/Allroom/60929
+#EXTINF:-1 tvg-id="" tvg-name="Af | DSTV: SUPER SPORTS VARIETY 4" tvg-logo="http://vod-logo.net/photos/ba7b6c2a20cad542fcd0e712cbe9fc08.jpg" group-title="ShareExt@African DSTV",SUPERSPORTS VARIETY 4
+http://new-pro.tv:8080/Hotel-2021/Allroom/60930
+#EXTINF:-1 tvg-id="" tvg-name="Af | DSTV: SUPER SPORTS VARIETY 3" tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@African DSTV",SUPERSPORTS VARIETY 3
+http://new-pro.tv:8080/Hotel-2021/Allroom/60931
+#EXTINF:-1 tvg-id="" tvg-name="Af | DSTV: SUPER SPORTS RUGBY" tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@African DSTV",SUPERSPORTS RUGBY
+http://new-pro.tv:8080/Hotel-2021/Allroom/60932
+#EXTINF:-1 tvg-id="" tvg-name="Af | DSTV: SUPER SPORTS CRICKET" tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@African DSTV",SUPERSPORTS CRICKET
+http://new-pro.tv:8080/Hotel-2021/Allroom/60933
+#EXTINF:-1 tvg-id="" tvg-name="Af | DSTV: SUPER SPORTS GOLF" tvg-logo="http://vod-logo.net/photos/d183f08eef1f25d1eb37323912362ba0.jpg" group-title="ShareExt@African DSTV",SUPERSPORTS GOLF
+http://new-pro.tv:8080/Hotel-2021/Allroom/60934
+#EXTINF:-1 tvg-id="" tvg-name="Af | DSTV: SUPER SPORTS MOTORSPORTS" tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@African DSTV",SUPERSPORTS MOTORSPORTS
+http://new-pro.tv:8080/Hotel-2021/Allroom/60938
+#EXTINF:-1 tvg-id="" tvg-name="Af | DSTV: SUPER SPORTS TENNIS" tvg-logo="http://vod-logo.net/photos/581f4c3bf17495aed6fe7df81e478a86.jpg" group-title="ShareExt@African DSTV",SUPERSPORTS TENNIS
+http://new-pro.tv:8080/Hotel-2021/Allroom/60939
+#EXTINF:-1 tvg-id="" tvg-name="Af | DSTV: SuperSport Play" tvg-logo="http://vod-logo.net/photos/7264df46586684f4453b1f90c31f0a2d.png" group-title="ShareExt@African DSTV",SuperSport Play
+http://new-pro.tv:8080/Hotel-2021/Allroom/60936
+#EXTINF:-1 tvg-id="" tvg-name="Af | DSTV: SuperSport Blitz" tvg-logo="http://vod-logo.net/photos/332926d9c2a786cca9108445aed110d5.png" group-title="ShareExt@African DSTV",SuperSport Blitz
+http://new-pro.tv:8080/Hotel-2021/Allroom/60921
+#EXTINF:-1 tvg-id="" tvg-name="Af | DSTV: SuperSport Maximo 1" tvg-logo="http://vod-logo.net/photos/0156bdbd85cb9e551f0afb40a246a8c0.jpg" group-title="ShareExt@African DSTV",SuperSport Maximo 1
+http://new-pro.tv:8080/Hotel-2021/Allroom/60935
+#EXTINF:-1 tvg-id="" tvg-name="Af | DSTV: ESPN 1" tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@African DSTV",ESPN 1
+http://new-pro.tv:8080/Hotel-2021/Allroom/112582
+#EXTINF:-1 tvg-id="" tvg-name="Af | DSTV: ESPN 2" tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@African DSTV",ESPN 2
+http://new-pro.tv:8080/Hotel-2021/Allroom/112583
+#EXTINF:-1 tvg-id="" tvg-name="Af | DSTV: Ginx eSports TV" tvg-logo="http://vod-logo.net/photos/9a2e4e786f2c801b5794955638f87769.jpg" group-title="ShareExt@African DSTV",Ginx eSports TV
+http://new-pro.tv:8080/Hotel-2021/Allroom/61023
+#EXTINF:-1 tvg-id="" tvg-name="Af | DSTV: WWE Channel" tvg-logo="http://vod-logo.net/photos/089a1f25f730b942e050e6ac167b56e2.jpg" group-title="ShareExt@African DSTV",WWE Channel
+http://new-pro.tv:8080/Hotel-2021/Allroom/61024
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORT 1" tvg-logo="http://tvstar.live:8880/chimg/6731903753.png" group-title="SHAREEXT@Sports All Live",ELEVEN SPORT 1
 http://geoiptv.me:8880/live/iptvtree/yfL7uQLwXl/283470.ts
