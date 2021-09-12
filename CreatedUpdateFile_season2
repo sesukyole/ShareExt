@@ -131,6 +131,54 @@ https://cdn.nowhdtime.com.bd/SonyTen3/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="RTM Sports" tvg-name="RTM Sports" tvg-logo="https://i.ibb.co/zVKhdjR/rtm.png" group-title="ShareExt@PREMIUMMSport",RTM Sports
+http://foctv.xyz:25510/Amir5641/YY5641/146
+#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="ShareExt@PREMIUMMSport",ArenaSports
+http://foctv.xyz:25510/Amir5641/YY5641/147
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP_A" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="ShareExt@PREMIUMMSport",ASSP1
+http://foctv.xyz:25510/Amir5641/YY5641/148
+#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2_A" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="ShareExt@PREMIUMMSport",ASSP2
+http://foctv.xyz:25510/Amir5641/YY5641/149
+#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3_B" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="ShareExt@PREMIUMMSport",ASSP3
+http://foctv.xyz:25510/Amir5641/YY5641/232
+#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4_B" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="ShareExt@PREMIUMMSport",ASSP4
+http://foctv.xyz:25510/Amir5641/YY5641/249
+#EXTINF:-1 tvg-id="FOXSportsHD.MACAN" tvg-name="FOX Sport 1" tvg-logo="https://i.ibb.co/7KwFrKz/bhyd.png" group-title="ShareExt@PREMIUMMSport",FOX Sport 1
+http://foctv.xyz:25510/Amir5641/YY5641/152
+#EXTINF:-1 tvg-id="FOXSports2.MACAN" tvg-name="FOX Sport 2" tvg-logo="https://i.ibb.co/CvnK56X/ey.png" group-title="ShareExt@PREMIUMMSport",FOX Sport 2
+http://foctv.xyz:25510/Amir5641/YY5641/153
+#EXTINF:-1 tvg-id="FOXSports3.MACAN" tvg-name="FOX Sport 3" tvg-logo="https://i.ibb.co/tL5n9cw/sdgs.png" group-title="ShareExt@PREMIUMMSport",FOX Sport 3
+http://foctv.xyz:25510/Amir5641/YY5641/154
+#EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="beIN Sports 1 ID" tvg-logo="https://i.ibb.co/PM0qNz8/hdg.png" group-title="ShareExt@PREMIUMMSport",beINSports 1 ID
+http://foctv.xyz:25510/Amir5641/YY5641/155
+#EXTINF:-1 tvg-id="beINSports2.MACAN" tvg-name="beIN Sports 2 ID" tvg-logo="https://i.ibb.co/5vfCzNb/was.png" group-title="ShareExt@PREMIUMMSport",beINSports 2 ID
+http://foctv.xyz:25510/Amir5641/YY5641/156
+#EXTINF:-1 tvg-id="" tvg-name="Champions 1" tvg-logo="https://i.ibb.co/47f0Fvt/etwq.png" group-title="ShareExt@PREMIUMMSport",Champions 1
+http://foctv.xyz:25510/Amir5641/YY5641/157
+#EXTINF:-1 tvg-id="" tvg-name="Champions 2" tvg-logo="https://i.ibb.co/bdC18Cx/zsfr.png" group-title="ShareExt@PREMIUMMSport",Champions 2
+http://foctv.xyz:25510/Amir5641/YY5641/158
+#EXTINF:-1 tvg-id="" tvg-name="Usee Sport 1" tvg-logo="https://i.ibb.co/sJY8zst/usport.png" group-title="ShareExt@PREMIUMMSport",Usee Sport 1
+http://foctv.xyz:25510/Amir5641/YY5641/241
+#EXTINF:-1 tvg-id="" tvg-name="Usee Sport 2" tvg-logo="https://i.ibb.co/sJY8zst/usport.png" group-title="ShareExt@PREMIUMMSport",Usee Sport 2
+http://foctv.xyz:25510/Amir5641/YY5641/242
+#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://i.ibb.co/kKbY94c/wwe.png" group-title="ShareExt@PREMIUMMSport",WWE
+http://foctv.xyz:25510/Amir5641/YY5641/350
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport" tvg-logo="https://i.ibb.co/4ZNgGVx/eu.png" group-title="ShareExt@PREMIUMMSport",Eurosport
+http://foctv.xyz:25510/Amir5641/YY5641/328
+#EXTINF:-1 tvg-id="" tvg-name="Rugby TV" tvg-logo="https://i.ibb.co/XbNF7Bq/rugby.png" group-title="ShareExt@PREMIUMMSport",Rugby TV
+http://foctv.xyz:25510/Amir5641/YY5641/337
+#EXTINF:-1 tvg-id="" tvg-name="NBC Golf" tvg-logo="https://i.ibb.co/7S24MGc/adh.png" group-title="ShareExt@PREMIUMMSport",NBC Golf
+http://foctv.xyz:25510/Amir5641/YY5641/159
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://i.ibb.co/J7Hs50x/vs.png" group-title="ShareExt@PREMIUMMSport",NBA TV
+http://foctv.xyz:25510/Amir5641/YY5641/160
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sport" tvg-logo="https://i.ibb.co/qRkkPwS/ewry.png" group-title="ShareExt@PREMIUMMSport",FightSport
+http://foctv.xyz:25510/Amir5641/YY5641/161
+#EXTINF:-1 tvg-id="eGG.MACAN" tvg-name="eGG TV" tvg-logo="https://i.ibb.co/vkvd2d6/swce.png" group-title="ShareExt@PREMIUMMSport",eGG TV
+http://foctv.xyz:25510/Amir5641/YY5641/162
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",MNC SPORTS
 http://cdn-livetv-studio.metube.id/mncsport_480/index.m3u8
