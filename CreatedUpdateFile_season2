@@ -42,16 +42,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Champion1(V.LiveTv)
-https://home-tv.web.id/RHS/ganti_baru.m3u8?channel=vidio-6685
-https://newlivetv.my.id/vidio/6685-LiveTV.m3u8?livetv
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Champion2(V.LiveTv)
-https://home-tv.web.id/RHS/ganti_baru.m3u8?channel=vidio-6686
-https://newlivetv.my.id/vidio/6686-LiveTV.m3u8?livetv
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Champion3(V.LiveTv)
-https://home-tv.web.id/RHS/ganti_baru.m3u8?channel=vidio-6786
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",USEESPORT1(F.Usee)
 https://iptvid.cgflix.xyz/Usee/sport/usees1.m3u8
