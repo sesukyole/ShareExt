@@ -43,10 +43,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",USEESPORT1(F.Usee)
-https://iptvid.cgflix.xyz/Usee/sport/usees1.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",USEESPORT2(F.Usee)
-https://iptvid.cgflix.xyz/Usee/sport/usees2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",USEESPORT(H.Usee)
 http://topwin-tv.my.id/2/master.m3u8?id=useesport
 http://topwin-tv.my.id/2/chunklist.m3u8?id=useesport&bandwidth=b684100&sync=0
