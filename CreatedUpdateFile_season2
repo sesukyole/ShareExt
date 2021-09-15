@@ -3398,7 +3398,8 @@ http://103.153.39.34:8000/play/a06t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",ANIMALplanet
 http://103.153.39.34:8000/play/a05i/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",BBC WORLD http://103.153.39.34:8000/play/a04x/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",BBC WORLD 
+http://103.153.39.34:8000/play/a04x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",CARTOON-Network
 http://103.153.39.34:8000/play/a04k/index.m3u8
@@ -3772,16 +3773,20 @@ http://103.213.238.194:8080/SonyTen1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",SONY TEN 2
 http://103.213.238.194:8080/SonyTen2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",SONY TEN3 http://103.213.238.194:8080/SonyTen3/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",SONY TEN3 
+http://103.213.238.194:8080/SonyTen3/index.m3u8 
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",SONY SIX https://cdn.nowhdtime.com.bd/SonySix/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",SONY SIX 
+https://cdn.nowhdtime.com.bd/SonySix/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",SONY Tv
 http://173.199.120.51/hls/chs.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",STAR PLUS http://173.199.120.51/hls/chsp.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",STAR PLUS 
+http://173.199.120.51/hls/chsp.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",COLORS TV http://173.199.120.51/hls/chc.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",COLORS TV 
+http://173.199.120.51/hls/chc.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",AND TV 
 http://173.199.120.51/hls/andtv.m3u8
@@ -3796,7 +3801,7 @@ http://173.199.120.51/hls/b4umovies.m3u8
 http://173.199.120.51/hls/b4umusic.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",UTV ACTION
-http://143.244.60.10/HINDI__UTV_ACTION/tracks-v1a1/mono.m3u8?token=shareext
+http://143.244.60.10/HINDI__UTV_ACTION/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",ShowBox
 https://epiconvh.s.llnwi.net:443/showbox/master.m3u8
@@ -3852,7 +3857,8 @@ https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Animax cartoon hd 
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",World fashion tv hd  https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",World fashion tv hd  
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Kasthuri tv
 http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
