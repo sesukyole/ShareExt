@@ -116,6 +116,25 @@ https://cdn.nowhdtime.com.bd/SonyTen3/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="RTM Sports" tvg-name="RTM Sport" tvg-logo="https://i.ibb.co/zVKhdjR/rtm.png" group-title="ShareExt@PREMIUMMSport",RTM Sport
+http://194.233.73.66:2082/freehitv/freehitv/33
+#EXTINF:-1 tvg-id="" tvg-name="Astro Golf" tvg-logo="https://i.ibb.co/7S24MGc/adh.png" group-title="ShareExt@PREMIUMMSport",AstroGolf
+http://194.233.73.66:2082/freehitv/freehitv/34
+#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket" tvg-logo="https://i.imgur.com/fTZJG5v.png" group-title="ShareExt@PREMIUMMSport",AstroCricket
+http://194.233.73.66:2082/freehitv/freehitv/35
+#EXTINF:-1 tvg-id="Arena" tvg-name="MY: Astro Arena[A]" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="ShareExt@PREMIUMMSport",AstroArena[A]
+http://194.233.73.66:2082/freehitv/freehitv/36
+#EXTINF:-1 tvg-id="Arena" tvg-name="MY: Astro Arena[B]" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="ShareExt@PREMIUMMSport",AstroArena[B]
+http://194.233.73.66:2082/freehitv/freehitv/37
+#EXTINF:-1 tvg-id="WWE" tvg-name="MY:  WWE [A]" tvg-logo="https://i.ibb.co/v31x13p/wwe.png" group-title="ShareExt@PREMIUMMSport",WWE
+http://194.233.73.66:2082/freehitv/freehitv/38
+#EXTINF:-1 tvg-id="Rugby" tvg-name="NBA SPORTS TV" tvg-logo="https://i.ibb.co/FBTFJGc/DR.png" group-title="ShareExt@PREMIUMMSport",NBA SPORTS TV
+http://194.233.73.66:2082/freehitv/freehitv/39
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="RTM Sports" tvg-name="RTM Sports" tvg-logo="https://i.ibb.co/zVKhdjR/rtm.png" group-title="ShareExt@PREMIUMMSport",RTM Sports
 http://foctv.xyz:25510/Amir5641/YY5641/146
@@ -2519,6 +2538,99 @@ http://cdn.miptv.ws:8880/vgxjb/vgxlj/13446
 
 
 
+
+
+
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="MY: TV 1 [A]" tvg-logo="https://i.imgur.com/bvbWbJD.png" group-title="ShareExt@Television_MALAYSIAN",TV1[A]
+http://194.233.73.66:2082/freehitv/freehitv/1
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="MY: TV 1 [B]" tvg-logo="https://i.imgur.com/bvbWbJD.png" group-title="ShareExt@Television_MALAYSIAN",TV1[B]
+http://194.233.73.66:2082/freehitv/freehitv/2
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="MY: TV 2 [A]" tvg-logo="https://i.imgur.com/WJ36oGA.png" group-title="ShareExt@Television_MALAYSIAN",TV2[A]
+http://194.233.73.66:2082/freehitv/freehitv/3
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="MY: TV 2 [B]" tvg-logo="https://i.imgur.com/WJ36oGA.png" group-title="ShareExt@Television_MALAYSIAN",TV2[B]
+http://194.233.73.66:2082/freehitv/freehitv/4
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="MY: TV 3 [A]" tvg-logo="https://i.imgur.com/Ub07mKT.png" group-title="ShareExt@Television_MALAYSIAN",TV3[A]
+http://194.233.73.66:2082/freehitv/freehitv/5
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="MY: TV 3 [B]" tvg-logo="https://i.imgur.com/Ub07mKT.png" group-title="ShareExt@Television_MALAYSIAN",TV3[B]
+http://194.233.73.66:2082/freehitv/freehitv/6
+#EXTINF:-1 tvg-id="" tvg-name="MY: TV6" tvg-logo="https://i.imgur.com/1trItXA.png" group-title="ShareExt@Television_MALAYSIAN",TV6
+#EXTINF:-1 tvg-id="NTV7" tvg-name="MY: NTV 7 [A]" tvg-logo="https://i.imgur.com/YkXfsnE.png" group-title="ShareExt@Television_MALAYSIAN",NTV7[A]
+http://194.233.73.66:2082/freehitv/freehitv/7
+#EXTINF:-1 tvg-id="NTV7" tvg-name="MY: NTV 7 [B]" tvg-logo="https://i.imgur.com/YkXfsnE.png" group-title="ShareExt@Television_MALAYSIAN",NTV7[B]
+http://194.233.73.66:2082/freehitv/freehitv/8
+#EXTINF:-1 tvg-id="8TV" tvg-name="MY: Tv 8 [A]" tvg-logo="https://i.imgur.com/7t1ynuB.png" group-title="ShareExt@Television_MALAYSIAN",Tv8[A]
+http://194.233.73.66:2082/freehitv/freehitv/9
+#EXTINF:-1 tvg-id="8TV" tvg-name="MY: Tv 8 [B]" tvg-logo="https://i.imgur.com/7t1ynuB.png" group-title="ShareExt@Television_MALAYSIAN",Tv8[B]
+http://194.233.73.66:2082/freehitv/freehitv/10
+#EXTINF:-1 tvg-id="TV9" tvg-name="MY: Tv 9 [A]" tvg-logo="https://i.imgur.com/Or8jovs.png" group-title="ShareExt@Television_MALAYSIAN",Tv9[A]
+http://194.233.73.66:2082/freehitv/freehitv/11
+#EXTINF:-1 tvg-id="TV9" tvg-name="MY: Tv 9 [B]" tvg-logo="https://i.imgur.com/Or8jovs.png" group-title="ShareExt@Television_MALAYSIAN",Tv9[B]
+http://194.233.73.66:2082/freehitv/freehitv/12
+#EXTINF:-1 tvg-id="TV Okey" tvg-name="MY: Okey Tv" tvg-logo="https://i.imgur.com/L8pCcaP.png" group-title="ShareExt@Television_MALAYSIAN",OkeyTv
+http://194.233.73.66:2082/freehitv/freehitv/13
+#EXTINF:-1 tvg-id="" tvg-name="MY: Drama Sangat" tvg-logo="https://i.imgur.com/jT7TDyU.png" group-title="ShareExt@Television_MALAYSIAN",DramaSangat
+http://194.233.73.66:2082/freehitv/freehitv/14
+#EXTINF:-1 tvg-id="AstroHello.my" tvg-name="MY: Hello TV" tvg-logo="https://i.imgur.com/YILBPlR.png" group-title="ShareExt@Television_MALAYSIAN",HelloTV
+http://194.233.73.66:2082/freehitv/freehitv/15
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="MY: Astro Ria [A]" tvg-logo="https://i.imgur.com/pmYfDlY.png" group-title="ShareExt@Television_MALAYSIAN",AstroRia[A]
+http://194.233.73.66:2082/freehitv/freehitv/16
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="MY: Astro Ria [B]" tvg-logo="https://i.imgur.com/pmYfDlY.png" group-title="ShareExt@Television_MALAYSIAN",AstroRia[B]
+http://194.233.73.66:2082/freehitv/freehitv/17
+#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="MY: Astro Prima [A]" tvg-logo="https://i.imgur.com/zDtVGyH.png" group-title="ShareExt@Television_MALAYSIAN",AstroPrima[A]
+http://194.233.73.66:2082/freehitv/freehitv/18
+#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="MY: Astro Prima [B]" tvg-logo="https://i.imgur.com/zDtVGyH.png" group-title="ShareExt@Television_MALAYSIAN",AstroPrima[B]
+http://194.233.73.66:2082/freehitv/freehitv/19
+#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="MY: Astro Oasis [A]" tvg-logo="https://i.imgur.com/YQ1Vyv4.png" group-title="ShareExt@Television_MALAYSIAN",AstroOasis[A]
+http://194.233.73.66:2082/freehitv/freehitv/20
+#EXTINF:-1 tvg-id="TVS" tvg-name="MY: TVS" tvg-logo="https://i.imgur.com/0uAcMN4.png" group-title="ShareExt@Television_MALAYSIAN",TVS
+http://194.233.73.66:2082/freehitv/freehitv/21
+#EXTINF:-1 tvg-id="BERNAMA" tvg-name="MY: Bernama" tvg-logo="https://i.imgur.com/7YEzidO.png" group-title="ShareExt@Television_MALAYSIAN",Bernama
+http://194.233.73.66:2082/freehitv/freehitv/22
+#EXTINF:-1 tvg-id="" tvg-name="MY:IKIM" tvg-logo="https://i.imgur.com/7nXR71W.png" group-title="ShareExt@Television_MALAYSIAN",IKIM
+http://194.233.73.66:2082/freehitv/freehitv/23
+#EXTINF:-1 tvg-id="" tvg-name="MY:RTB GO" tvg-logo="https://i.imgur.com/nQCaWEA.png" group-title="ShareExt@Television_MALAYSIAN",RTB GO
+http://194.233.73.66:2082/freehitv/freehitv/24
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="MY: Astro Awani" tvg-logo="https://i.imgur.com/idq2D6N.png" group-title="ShareExt@Television_MALAYSIAN",AstroAwani
+http://194.233.73.66:2082/freehitv/freehitv/25
+#EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="MY: TV ALHIJRAH" tvg-logo="https://i.imgur.com/z3PkuKh.png" group-title="ShareExt@Television_MALAYSIAN",TV ALHIJRAH
+http://194.233.73.66:2082/freehitv/freehitv/26
+#EXTINF:-1 tvg-id="AstroNaura.my" tvg-name="MY: Naura" tvg-logo="https://i.imgur.com/9whyAHv.png" group-title="ShareExt@Television_MALAYSIAN",Naura
+http://194.233.73.66:2082/freehitv/freehitv/27
+#EXTINF:-1 tvg-id="FoxLife.MACAN" tvg-name="Fox Life" tvg-logo="https://i.ibb.co/7z3Rx3j/jtth.png" group-title="ShareExt@Television_MALAYSIAN",FoxLife
+http://194.233.73.66:2082/freehitv/freehitv/28
+#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBO" tvg-logo="https://i.postimg.cc/SKhTC4ns/HBO2.png" group-title="ShareExt@Television_MALAYSIAN",HBO
+http://194.233.73.66:2082/freehitv/freehitv/29
+#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/SsZmZyZ/THRILL.png" group-title="ShareExt@Television_MALAYSIAN",Thrill
+http://194.233.73.66:2082/freehitv/freehitv/30
+#EXTINF:-1 tvg-id="WarnerTV.MACAN" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/GR4H1Tt/jjkj.png" group-title="ShareExt@Television_MALAYSIAN",WarnerTV
+http://194.233.73.66:2082/freehitv/freehitv/31
+#EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="CCM" tvg-logo="https://i.ibb.co/ZVWNMDL/ddg.png" group-title="ShareExt@Television_MALAYSIAN",CCM
+http://194.233.73.66:2082/freehitv/freehitv/32
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-logo="https://i.imgur.com/Mg7OSZZ.png" group-title="ShareExt@Television_MALAYSIAN",AstroCeria
+http://194.233.73.66:2082/freehitv/freehitv/40
+#EXTINF:-1 tvg-id="Boomerang.MACAN" tvg-name="Boomerang" tvg-logo="https://i.imgur.com/e7BnRNr.png" group-title="ShareExt@Television_MALAYSIAN",Boomerang
+http://194.233.73.66:2082/freehitv/freehitv/41
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network" tvg-logo="https://i.postimg.cc/fRc46BXV/car2.png" group-title="ShareExt@Television_MALAYSIAN",Cartoon Network
+http://194.233.73.66:2082/freehitv/freehitv/42
+#EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="SONY ONE HD" tvg-logo="https://i.ibb.co/b6VfXKX/ONE.png" group-title="ShareExt@Television_MALAYSIAN",SONY ONE HD
+http://194.233.73.66:2082/freehitv/freehitv/43
+#EXTINF:-1 tvg-id="IQIYI" tvg-name="iQIYI" tvg-logo="https://i.imgur.com/1xuxF4q.png" group-title="ShareExt@Television_MALAYSIAN",iQIYI
+http://194.233.73.66:2082/freehitv/freehitv/44
+#EXTINF:-1 tvg-id="" tvg-name="Oh!K" tvg-logo="https://i.imgur.com/KiL41d0.png" group-title="ShareExt@Television_MALAYSIAN",Oh!K
+http://194.233.73.66:2082/freehitv/freehitv/45
+#EXTINF:-1 tvg-id="AnimalPlanet.MACAN" tvg-name="Animal Planet" tvg-logo="https://i.postimg.cc/kGmYFd1w/animal22.png" group-title="ShareExt@Television_MALAYSIAN",Animal Planet
+http://194.233.73.66:2082/freehitv/freehitv/46
+#EXTINF:-1 tvg-id="NationalGeographicWild.MACAN" tvg-name="Nat Geo Wild" tvg-logo="https://i.ibb.co/84RvFKs/vvgfgh.png" group-title="ShareExt@Television_MALAYSIAN",NatGeo Wild
+http://194.233.73.66:2082/freehitv/freehitv/47
+#EXTINF:-1 tvg-id="HistoryChannel.id" tvg-name="History" tvg-logo="https://i.postimg.cc/wTrntn5y/histo2.png" group-title="ShareExt@Television_MALAYSIAN",History
+http://194.233.73.66:2082/freehitv/freehitv/48
+#EXTINF:-1 tvg-id="HGTV.MACAN" tvg-name="HGTV" tvg-logo="https://i.postimg.cc/NjrSRbbN/hgtv2.png" group-title="ShareExt@Television_MALAYSIAN",HGTV
+http://194.233.73.66:2082/freehitv/freehitv/49
+
+
+
+
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",Astro Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",Cartoon Club
@@ -2712,8 +2824,6 @@ http://dituduhmaling.xyz/V11710/Kompas.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_MALAYSIAN",FOX Action Movies
-http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist_w83033785.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_MALAYSIAN",RTM SPORT
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_MALAYSIAN",Astro 双星
@@ -5788,6 +5898,29 @@ http://iptv.tvmalaysia.cc:80/737373/737373/7223
 http://iptv.tvmalaysia.cc:80/737373/737373/7225
 #EXTINF:-1 tvg-id="fox.id" tvg-name="FOX" tvg-logo="http://tvmalaysia.cc:80/images/fb4a91d4d15cd876e63f4b83a35b2ce4.png" group-title="LIVE | MOVIE (subtitle)",FOX
 http://iptv.tvmalaysia.cc:80/737373/737373/7227
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Jungle Cruise (2021) #Sponser Daniel Razak" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dKCd55IuTT5QRs989m9Qlb7d2B.jpg" group-title="ShareExt@PILEM2021",JungleCruise(2021)
+http://194.233.73.66:2082/movie/freehitv/freehitv/50.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Upin & Ipin: Keris Siamang Tunggal #Sponser Daniel Razak" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9vEMgw1Y7nG6gO1Zf516eAbVe5.jpg" group-title="ShareExt@PILEM2021",Upin&Ipin:Keris Siamang Tunggal
+http://194.233.73.66:2082/movie/freehitv/freehitv/51.mp4
+#EXTINF:-1 tvg-id="" tvg-name="F9 (2021) #Sponser Daniel Razak" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg" group-title="ShareExt@PILEM2021",F9(2021)
+http://194.233.73.66:2082/movie/freehitv/freehitv/52.mp4
+#EXTINF:-1 tvg-id="" tvg-name="J2: J Retribusi (2021) #Sponser Daniel Razak" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvPfAW9soIwwo0zJxRAzwDpLaXS.jpg" group-title="ShareExt@PILEM2021",J2:J Retribusi(2021)
+http://194.233.73.66:2082/movie/freehitv/freehitv/53.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Widow (2021) #Sponser Daniel Razak" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg" group-title="ShareExt@PILEM2021",BlackWidow(2021)
+http://194.233.73.66:2082/movie/freehitv/freehitv/54.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stand by Me Doraemon 2 #Sponser Daniel Razak" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mu5t94c8IZU781aMg1E1FKinYG2.jpg" group-title="ShareExt@PILEM2021",StandBy Me Doraemon 2
+http://194.233.73.66:2082/movie/freehitv/freehitv/55.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Suicide Squad (2021) #Sponser Daniel Razak" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg" group-title="ShareExt@PILEM2021",TheSuicide Squad (2021)
+http://194.233.73.66:2082/movie/freehitv/freehitv/56.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Don't Breathe 2 (2021) #Sponser Daniel Razak" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRMfgGFRAZIlvwVWy8DYJdLTpvN.jpg" group-title="ShareExt@PILEM2021",Don't Breathe2(2021)
+http://194.233.73.66:2082/movie/freehitv/freehitv/57.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla vs. Kong (2021) #Sponser by Daniel Razak" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg" group-title="ShareExt@PILEM2021",Godzilla.vs.Kong (2021)
+http://194.233.73.66:2082/movie/freehitv/freehitv/59.mp4
 
 
 
