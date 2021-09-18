@@ -578,6 +578,34 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="SHAREEXT@ELEVEN SPORTS",ElevenSports1
+http://serverfulltop.com:80/jackson/jackson/20793
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="SHAREEXT@ELEVEN SPORTS",ElevenSports10
+http://serverfulltop.com:80/jackson/jackson/20802
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="SHAREEXT@ELEVEN SPORTS",ElevenSports2
+http://serverfulltop.com:80/jackson/jackson/20794
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="SHAREEXT@ELEVEN SPORTS",ElevenSports3
+http://serverfulltop.com:80/jackson/jackson/20795
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="SHAREEXT@ELEVEN SPORTS",ElevenSports4
+http://serverfulltop.com:80/jackson/jackson/20796
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="SHAREEXT@ELEVEN SPORTS",ElevenSports5
+http://serverfulltop.com:80/jackson/jackson/20797
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="SHAREEXT@ELEVEN SPORTS",ElevenSports6
+http://serverfulltop.com:80/jackson/jackson/20798
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="SHAREEXT@ELEVEN SPORTS",ElevenSports7
+http://serverfulltop.com:80/jackson/jackson/20799
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="SHAREEXT@ELEVEN SPORTS",ElevenSports8
+http://serverfulltop.com:80/jackson/jackson/20800
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="SHAREEXT@ELEVEN SPORTS",ElevenSports9
+http://serverfulltop.com:80/jackson/jackson/20801
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Alb: Eurosport 1 HD" tvg-logo="https://i.postimg.cc/FRCNH9QL/Share-Ext-inter-Nsport.png" group-title="SHAREEXT@Internationl Sports",Alb:Eurosport1 HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/116122
 #EXTINF:-1 tvg-id="" tvg-name="Spt-VIP| Alb: Eurosport 2 HD" tvg-logo="https://i.postimg.cc/FRCNH9QL/Share-Ext-inter-Nsport.png" group-title="SHAREEXT@Internationl Sports",Alb:Eurosport2 HD
