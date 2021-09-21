@@ -4876,17 +4876,17 @@ http://serverfulltop.com:80/jackson/jackson/345
 
 
 
-#EXTINF:-1 group-title="SHAREEXT@HBO_VIP" tvg-name="Red By HBO" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" ,RedBy HBO
+#EXTINF:0 group-title="SHAREEXT@HBO_VIP" tvg-name="Red By HBO" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" ,RedBy HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-#EXTINF:-1 group-title="SHAREEXT@HBO_VIP" tvg-id="Cinemax.id" tvg-name="CINEMAX ID" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" ,CINEMAX
+#EXTINF:0 group-title="SHAREEXT@HBO_VIP" tvg-id="Cinemax.id" tvg-name="CINEMAX ID" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" ,CINEMAX
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-#EXTINF:-1 group-title="SHAREEXT@HBO_VIP" tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" ,HBO
+#EXTINF:0 group-title="SHAREEXT@HBO_VIP" tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" ,HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:-1 group-title="SHAREEXT@HBO_VIP" tvg-name="HBO Family" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" ,HBO Family
+#EXTINF:0 group-title="SHAREEXT@HBO_VIP" tvg-name="HBO Family" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" ,HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:-1 group-title="SHAREEXT@HBO_VIP" tvg-name="HBO Hits" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" ,HBO Hits
+#EXTINF:0 group-title="SHAREEXT@HBO_VIP" tvg-name="HBO Hits" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" ,HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:-1 group-title="SHAREEXT@HBO_VIP" tvg-name="HBO Signature" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" ,HBO Signature
+#EXTINF:0 group-title="SHAREEXT@HBO_VIP" tvg-name="HBO Signature" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" ,HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
 
