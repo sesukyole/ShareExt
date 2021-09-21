@@ -2448,6 +2448,65 @@ http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="ShareExt@Television_THAILAND",FOX MOVIES
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="ShareExt@Television_THAILAND",FOX LIFE
+http://203.154.243.88:11088/hi/foxlife
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="ShareExt@Television_THAILAND",FOX ACTION
+http://203.154.243.88:11088/hi/foxaction
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="ShareExt@Television_THAILAND",Channel7 HD(240p)
+https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="ShareExt@Television_THAILAND",Channel8 Thailand
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="ShareExt@Television_THAILAND",CTB(1080p)
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="ShareExt@Television_THAILAND",NBT Bangkok(1080p)
+http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="ShareExt@Television_THAILAND",News1
+http://news1.live14.com/stream/news1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="ShareExt@Television_THAILAND",ThaiPBS3
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="ShareExt@Television_THAILAND",ThaiPBS3(1080p)
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="ShareExt@Television_THAILAND",ThaiPBS3(720p)
+https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="ShareExt@Television_THAILAND",ThairathTV 32
+https://live.thairath.co.th/trtv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="ShareExt@Television_THAILAND",ThairathTV32(720p)
+https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="ShareExt@Television_THAILAND",TPTV
+http://49.231.66.85:1935/live/tptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="ShareExt@Television_THAILAND",WhiteChannel
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="ShareExt@Television_THAILAND",News1(hi)
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="ShareExt@Television_THAILAND",bTV News
+http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="ShareExt@Television_THAILAND",NBT Bangkok(p)
+http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="ShareExt@Television_THAILAND",NBT Bangkok(c)
+http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="ShareExt@Television_THAILAND",NBT Central
+http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="ShareExt@Television_THAILAND",News1
+http://news1.live14.com/stream/news1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="ShareExt@Television_THAILAND",TPTV
+http://49.231.66.85:1935/live/tptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="ShareExt@Television_THAILAND",ThaiPBS(480p)
+http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="ShareExt@Television_THAILAND",ThaiPBS(720p)
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="ShareExt@Television_THAILAND",ThaiPBS3(1080)
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="ShareExt@Television_THAILAND",Thai PBS 3
+https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="ShareExt@Television_THAILAND",Yateem TV (New!)
+https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",DISNEP CHANNEL
