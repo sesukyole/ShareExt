@@ -43,53 +43,12 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",USEESPORT(H.Usee)
-http://topwin-tv.my.id/2/master.m3u8?id=useesport
-http://topwin-tv.my.id/2/chunklist.m3u8?id=useesport&bandwidth=b684100&sync=0
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",USEESPORT2(H.Usee)
-http://topwin-tv.my.id/2/master.m3u8?id=useesports2
-http://topwin-tv.my.id/2/chunklist.m3u8?id=useesports2&bandwidth=b684100&sync=0
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",BEINSPORT1(H.Usee)
-http://topwin-tv.my.id/2/master.m3u8?id=bein1
-http://topwin-tv.my.id/2/chunklist.m3u8?id=bein1&bandwidth=b684100&sync=0
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",BEINSPORT2(H.Usee)
-http://topwin-tv.my.id/2/master.m3u8?id=bein2
-http://topwin-tv.my.id/2/chunklist.m3u8?id=bein2&bandwidth=b684100&sync=0
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",CHAMPION1(H.Usee)
-http://topwin-tv.my.id/2/master.m3u8?id=champion1
-http://topwin-tv.my.id/2/chunklist.m3u8?id=champion1&bandwidth=b684100&sync=0
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",CHAMPION2(H.Usee)
-http://topwin-tv.my.id/2/master.m3u8?id=champion2
-http://topwin-tv.my.id/2/chunklist.m3u8?id=champion2&bandwidth=b684100&sync=0
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",FOXSPORT1(H.Usee)
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
-http://topwin-tv.my.id/2/chunklist.m3u8?id=foxsport1&bandwidth=b684100&sync=0
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",FOXSPORT2(H.Usee)
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
-http://topwin-tv.my.id/2/chunklist.m3u8?id=foxsport2&bandwidth=b684100&sync=0
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",FOXSPORT3(H.Usee)
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
-http://topwin-tv.my.id/2/chunklist.m3u8?id=foxsport3&bandwidth=b684100&sync=0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",Bein1(Z.Usee)
 https://cmt.mb13.cyou/bW9kZXJv/ku/see/ucf.m3u8?a=bein1
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",Bein2(Z.Usee)
 https://cmt.mb13.cyou/bW9kZXJv/ku/see/ucf.m3u8?a=bein2
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",Champ1(Z.Usee)
-https://cmt.mb13.cyou/bW9kZXJv/ku/see/ucf.m3u8?a=champion1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",Champ2(Z.Usee)
-https://cmt.mb13.cyou/bW9kZXJv/ku/see/ucf.m3u8?a=champion2
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",Useesport1(Z.Usee)
 https://cmt.mb13.cyou/bW9kZXJv/ku/see/ucf.m3u8?a=useesport
