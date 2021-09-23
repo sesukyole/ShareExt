@@ -1097,6 +1097,8 @@ http://starshare.live:8080/live/21432143/21432143/154.ts
 http://starshare.live:8080/live/21432143/21432143/192.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@MULTI_Sport",SONYTEN3 HD
 http://starshare.live:8080/live/21432143/21432143/146.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@MULTI_Sport",SONYTEN4 HD
+http://starshare.live:8080/live/21432143/21432143/29469.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@MULTI_Sport",Six HD
 http://starshare.live:8080/live/21432143/21432143/176.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@MULTI_Sport",SONY ESPN HD
@@ -2605,12 +2607,6 @@ https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-
 https://liveanevia.mncnow.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",iNews(vision)
 https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",INDOSIAR(Vd)
-http://dituduhmaling.xyz/V11710/Indosiar.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",Ochannel(Vd)
-http://dituduhmaling.xyz/V11710/Ochannel.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",KOMPAStV(Vd)
-http://dituduhmaling.xyz/V11710/Kompas.m3u8
 
 
 
