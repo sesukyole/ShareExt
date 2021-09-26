@@ -2904,6 +2904,40 @@ http://125.227.210.37:18358/VideoInput/play.ts
 
 
 
+
+
+
+
+#EXTINF:-1  tvg-id="N/A" group-title="SHAREEXT@KOREA/한국JEPANG/日本" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgRED4q0h589eD4JqRRdOnUnD3PFEWM07NGqh8CfuM7bh9Q_KV_r2MTs17tA&s=10",BS Asahi
+http://203.162.235.41:16914
+
+#EXTINF:-1  tvg-id="N/A" group-title="SHAREEXT@KOREA/한국JEPANG/日本" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRv2P3i5GJEbDGq91Sq8UQ_eawem5KzkBqkVx3qJ9dQg5pixmi&usqp=CAU",BS Fuji
+http://203.162.235.41:16911
+
+#EXTINF:-1  tvg-id="N/A" group-title="SHAREEXT@KOREA/한국JEPANG/日本" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzzD3ZzH7BPugY1TxcDPIO42bYIdM1PuRCuyceeINSHhqBtAUJ&usqp=CAU",!BS JP-KR
+http://203.162.235.41:16915
+
+#EXTINF:-1  tvg-id="N/A" group-title="SHAREEXT@KOREA/한국JEPANG/日本" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/320px-BS4_logo.svg.png",BS NTV
+http://203.162.235.41:16912
+
+#EXTINF:-1  tvg-id="N/A" group-title="SHAREEXT@KOREA/한국JEPANG/日本" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6y2cYiA8X-mfObfOrIWMl6TZfcuYD9vJxOuGv-Au4qUwHfgaV&usqp=CAU",GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+
+#EXTINF:-1  tvg-id="N/A" group-title="SHAREEXT@KOREA/한국JEPANG/日本" tvg-logo="https://i.imgur.com/967Ud6N.png",MBS
+http://203.162.235.41:16910
+
+#EXTINF:-1  tvg-id="N/A" group-title="SHAREEXT@KOREA/한국JEPANG/日本" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSu89C3UmQsQiIgGLbiHfxfHHgvUGF63wPqkGDj88suHRVWwwfK&usqp=CAU",NJPW World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+
+#EXTINF:-1  tvg-id="N/A" group-title="SHAREEXT@KOREA/한국JEPANG/日本" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdEVI6-GzViLGrTPM2EGbiieZrc2PWl_1tPxSi1lWvvH7AUMCx&usqp=CAU",Nippon TV
+http://203.162.235.41:16905
+
+#EXTINF:-1  tvg-id="N/A" group-title="SHAREEXT@KOREA/한국JEPANG/日本" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaomd2uhu1cxIkhNqBtmvQDOwFbnybEtQYq_ghcuFcSFvupHmC&usqp=CAU",QVC JP-KR
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/EBS.kr.png" group-title="SHAREEXT@KOREA/한국JEPANG/日本",EBS1
 http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/EBS_2TV_Logo.png" group-title="SHAREEXT@KOREA/한국JEPANG/日本",EBS2
