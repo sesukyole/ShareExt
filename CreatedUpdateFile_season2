@@ -39,19 +39,22 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",Bein1(Z.Usee)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",Bein1(Usee)
 https://cmt.mb13.cyou/bW9kZXJv/ku/see/ucf.m3u8?a=bein1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",Bein2(Z.Usee)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",Bein2(Usee)
 https://cmt.mb13.cyou/bW9kZXJv/ku/see/ucf.m3u8?a=bein2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",Useesport1(Z.Usee)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",Useesport1(Usee)
 https://cmt.mb13.cyou/bW9kZXJv/ku/see/ucf.m3u8?a=useesport
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",Useesport2(Z.Usee)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",Useesport2(Usee)
 https://cmt.mb13.cyou/bW9kZXJv/ku/see/ucf.m3u8?a=useesports2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",Foxsport1(Z.Usee)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",Foxsport1(Usee)
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=foxsport1
 https://cmt.mb13.cyou/bW9kZXJv/ku/see/ucf.m3u8?a=foxsport1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",Foxsport2(Z.Usee)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",Foxsport2(Usee)
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=foxsport2
 https://cmt.mb13.cyou/bW9kZXJv/ku/see/ucf.m3u8?a=foxsport2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",Foxsport3(Z.Usee)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",Foxsport3(Usee)
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=foxsport3
 https://cmt.mb13.cyou/bW9kZXJv/ku/see/ucf.m3u8?a=foxsport3
 
 
