@@ -374,22 +374,6 @@ https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",LaoChampa3
 https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="astroarena.my" tvg-name="ASTRO Arena HD" tvg-logo="https://i.postimg.cc/tgHPJhrw/Astro-Arena.jpg" group-title="ShareExt@PREMIUMMSport",ASTRO Arena HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6707
-#EXTINF:-1 tvg-id="MY: FOX SPORTS" tvg-name="FOX Sports HD" tvg-logo="https://i.postimg.cc/ZYMPd4SS/1200px-Fox-Sports-Logo-svg.png" group-title="ShareExt@PREMIUMMSport",FOX Sports HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6793
-#EXTINF:-1 tvg-id="MY: FOX SPORTS 2 HD" tvg-name="FOX Sports 2 HD" tvg-logo="https://i.postimg.cc/Dzf3Htwx/fox-sports-2-logo-876-FE0-A3-C1-seeklogo-com.png" group-title="ShareExt@PREMIUMMSport",FOX Sports 2 HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6791
-#EXTINF:-1 tvg-id="MY: FOX SPORTS 3 HD" tvg-name="FOX Sports 3 HD" tvg-logo="https://i.postimg.cc/QMhyV1LC/837-300.png" group-title="ShareExt@PREMIUMMSport",FOX Sports 3 HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6792
-#EXTINF:-1 tvg-id="MY: ASTRO CRICKET HD" tvg-name="ASTRO Cricket" tvg-logo="https://i.postimg.cc/fy0bQb4Z/Astro-Cricket-Logo-2.png" group-title="ShareExt@PREMIUMMSport",ASTRO Cricket
-http://iptv.tvmalaysia.cc:80/932633/932633/6717
-#EXTINF:-1 tvg-id="MY: BEIN SPORTS HD" tvg-name="beIN Sports" tvg-logo="https://i.postimg.cc/JhVqt6KN/11b14885c76a7e6534130043e86337d0.png" group-title="ShareExt@PREMIUMMSport",beIN Sports
-http://iptv.tvmalaysia.cc:80/932633/932633/6749
-#EXTINF:-1 tvg-id="beinsportsmax.my" tvg-name="beIN MAX" tvg-logo="https://i.postimg.cc/QxTnfTBd/bein-sports-max.png" group-title="ShareExt@PREMIUMMSport",beIN MAX
-http://iptv.tvmalaysia.cc:80/932633/932633/6748
-#EXTINF:-1 tvg-id="MY: WWE NETWORK HD" tvg-name="WWE Network" tvg-logo="https://i.postimg.cc/xTWdLGvj/799f112a24fa359d82d460b8fd2fd3b7.jpg" group-title="ShareExt@PREMIUMMSport",WWE Network
-http://iptv.tvmalaysia.cc:80/932633/932633/6849
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Bein1
 http://31.220.41.88:8081/live/bein1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Bein2
@@ -4993,6 +4977,80 @@ http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/145
 
 
 
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| beIN MOVIES 1 HD PREMIERE" tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg" group-title="SHAREEXT@BEIN ENTERTAINMENT",beINMOVIES1 HD PREMIERE
+http://eurotv.vip:80/60/60/43055
+#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| beIN MOVIES 2HD ACTION" tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg" group-title="SHAREEXT@BEIN ENTERTAINMENT",beINMOVIES2HD ACTION
+http://eurotv.vip:80/60/60/43056
+#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| beIN MOVIES 3HD DRAMA" tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg" group-title="SHAREEXT@BEIN ENTERTAINMENT",beINMOVIES3HD DRAMA
+http://eurotv.vip:80/60/60/43057
+#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| beIN MOVIES 4HD FAMILY" tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg" group-title="SHAREEXT@BEIN ENTERTAINMENT",beINMOVIES4HD FAMILY
+http://eurotv.vip:80/60/60/43058
+#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| FATAFEAT HD" tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg" group-title="SHAREEXT@BEIN ENTERTAINMENT",FATAFEAT HD
+http://eurotv.vip:80/60/60/43059
+#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| beIN GOURMET HD" tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg" group-title="SHAREEXT@BEIN ENTERTAINMENT",beINGOURMET HD
+http://eurotv.vip:80/60/60/43060
+#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| AMC HD" tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg" group-title="SHAREEXT@BEIN ENTERTAINMENT",AMC HD
+http://eurotv.vip:80/60/60/43061
+#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| STAR MOVIES HD" tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg" group-title="SHAREEXT@BEIN ENTERTAINMENT",STARMOVIES HD
+http://eurotv.vip:80/60/60/43062
+#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| STAR WORLD HD" tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg" group-title="SHAREEXT@BEIN ENTERTAINMENT",STARWORLD HD
+http://eurotv.vip:80/60/60/43063
+#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| FOX MOVIES HD" tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg" group-title="SHAREEXT@BEIN ENTERTAINMENT",FOXMOVIES HD
+http://eurotv.vip:80/60/60/43064
+#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| beIN DMAX" tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg" group-title="SHAREEXT@BEIN ENTERTAINMENT",beIN DMAX
+http://eurotv.vip:80/60/60/43065
+#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| Fox Action Movies" tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg" group-title="SHAREEXT@BEIN ENTERTAINMENT",FoxActionMovies
+http://eurotv.vip:80/60/60/43066
+#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| beIN Drama HD 1" tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg" group-title="SHAREEXT@BEIN ENTERTAINMENT",beIN DramaHD 1
+http://eurotv.vip:80/60/60/43067
+#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| FOX HD" tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg" group-title="SHAREEXT@BEIN ENTERTAINMENT",FOX HD
+http://eurotv.vip:80/60/60/43068
+#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| beIN Outdoor" tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg" group-title="SHAREEXT@BEIN ENTERTAINMENT",beIN Outdoor
+http://eurotv.vip:80/60/60/43069
+#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| BOOMERANG" tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg" group-title="SHAREEXT@BEIN ENTERTAINMENT",BOOMERANG
+http://eurotv.vip:80/60/60/43070
+#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| beIN DTX" tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg" group-title="SHAREEXT@BEIN ENTERTAINMENT",beIN DTX
+http://eurotv.vip:80/60/60/43071
+#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| ANIMAL PLANET HD" tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg" group-title="SHAREEXT@BEIN ENTERTAINMENT",ANIMAL PLANET HD
+http://eurotv.vip:80/60/60/43072
+#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| beJunior HD" tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg" group-title="SHAREEXT@BEIN ENTERTAINMENT",beJunior HD
+http://eurotv.vip:80/60/60/43073
+#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| SMASH ARABIA" tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg" group-title="SHAREEXT@BEIN ENTERTAINMENT",SMASH ARABIA
+http://eurotv.vip:80/60/60/43074
+#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| Fox LIFE" tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg" group-title="SHAREEXT@BEIN ENTERTAINMENT",FoxLIFE
+http://eurotv.vip:80/60/60/43075
+#EXTINF:-1 tvg-id="" tvg-name="|AR.BEIN| Fox CRIME" tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg" group-title="SHAREEXT@BEIN ENTERTAINMENT",FoxCRIME
+http://eurotv.vip:80/60/60/43076
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK SKY CINEMA HITS HD" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/11/Sky-Cinema-Hits.png" group-title="SHAREEXT@UK MOVIES ",SKYCINEMA HITS HD
+http://eurotv.vip:80/60/60/51407
+#EXTINF:-1 tvg-id="" tvg-name="UK SKY MOVIES ACTION & ADV" tvg-logo="Logo N/A" group-title="SHAREEXT@UK MOVIES ",SKYMOVIES ACTION & ADV
+http://eurotv.vip:80/60/60/51408
+#EXTINF:-1 tvg-id="" tvg-name="UK SKY MOVIES COMEDY" tvg-logo="Logo N/A" group-title="SHAREEXT@UK MOVIES ",SKYMOVIES COMEDY
+http://eurotv.vip:80/60/60/51409
+#EXTINF:-1 tvg-id="" tvg-name="UK SKY MOVIES DISNEY" tvg-logo="" group-title="SHAREEXT@UK MOVIES ",SKYMOVIES DISNEY
+http://eurotv.vip:80/60/60/51410
+#EXTINF:-1 tvg-id="" tvg-name="UK SKY MOVIES DRAMA" tvg-logo="Logo N/A" group-title="SHAREEXT@UK MOVIES ",SKYMOVIES DRAMA
+http://eurotv.vip:80/60/60/51411
+#EXTINF:-1 tvg-id="" tvg-name="UK SKY MOVIES FAMILY" tvg-logo="https://iptveditorlogo.netsons.org/Sky_Movies_Family.png" group-title="SHAREEXT@UK MOVIES ",SKYMOVIES FAMILY
+http://eurotv.vip:80/60/60/51412
+#EXTINF:-1 tvg-id="" tvg-name="UK SKY MOVIES MODERN-GEANT" tvg-logo="Logo N/A" group-title="SHAREEXT@UK MOVIES ",SKYMOVIES MODERN-GEANT
+http://eurotv.vip:80/60/60/51414
+#EXTINF:-1 tvg-id="SkySciFiHorror.uk" tvg-name="UK SKY MOVIES SCI-FI" tvg-logo="http://cardano.ddns.net/images/479ab08f6ccb055aeb5873a782701878.png" group-title="SHAREEXT@UK MOVIES ",SKYMOVIES SCI-FI
+http://eurotv.vip:80/60/60/51416
+#EXTINF:-1 tvg-id="" tvg-name="UK SKY MOVIES SELECT" tvg-logo="http://cardano.ddns.net/images/6bc9ec5f267d8b86df282a1d533b83f8.jpeg" group-title="SHAREEXT@UK MOVIES ",SKYMOVIES SELECT
+http://eurotv.vip:80/60/60/51417
+#EXTINF:-1 tvg-id="" tvg-name="UK SKY MOVIES THRILLER" tvg-logo="https://www.satlogo.com/hires/ss/sky_uk_cinema_crime_thriller.png" group-title="SHAREEXT@UK MOVIES ",SKYMOVIES THRILLER
+http://eurotv.vip:80/60/60/51418
 
 
 
