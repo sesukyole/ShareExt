@@ -1861,7 +1861,8 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/Stream(03)/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_INDONESIAN",TVRI JATENG SEMARANG
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/Stream(03)/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_INDONESIAN",TVRI RIAU
+#EXTINF:-1   tvg-logo="https://i
+postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_INDONESIAN",TVRI RIAU
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIriau)/Stream(03)/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_INDONESIAN",SUMUT MEDAN
 http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/Stream(03)/index.m3u8
@@ -2368,6 +2369,38 @@ http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
 
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="SHAREEXT@THAiLandTv",HBO
+https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="SHAREEXT@THAiLandTv",Animax HD cartoon 
+https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="SHAREEXT@THAiLandTv",BestCableMusic 
+https://tv.siete.us/bestcablemusic/bestcablemusic/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="SHAREEXT@THAiLandTv",SBS TV HD
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="SHAREEXT@THAiLandTv",TBS TV HD
+https://tbs.hscdn.com/tbstvweb/tbstv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="SHAREEXT@THAiLandTv",MTN HD
+http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="SHAREEXT@THAiLandTv",TV 5 hd
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="SHAREEXT@THAiLandTv",Discovery HD
+https://livecdn.fptplay.net/hda2/discovery_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="SHAREEXT@THAiLandTv",KiX Movies HD
+https://livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="SHAREEXT@THAiLandTv",Cinemax HD
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="SHAREEXT@THAiLandTv",HBO HD
+https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="SHAREEXT@THAiLandTv",Animal Planet HD
+https://livecdn.fptplay.net/hda2/animalplanet_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="SHAREEXT@THAiLandTv",Natgeowild HD
+https://livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist.m3u8
 
 
 
