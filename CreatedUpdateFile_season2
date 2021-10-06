@@ -2127,6 +2127,46 @@ http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch51-2.m3
 
 
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h3Ly6bg/FB-IMG-1626507629868.jpg"group-title="ShaReExT@Taiwan",SBS 
+https://www.navchina.cf/IPTV/sbs.php?id=S01
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h3Ly6bg/FB-IMG-1626507629868.jpg"group-title="ShaReExT@Taiwan",SBS PLUS
+https://www.navchina.cf/IPTV/sbs.php?id=S03
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h3Ly6bg/FB-IMG-1626507629868.jpg"group-title="ShaReExT@Taiwan",SBS FUN
+https://www.navchina.cf/IPTV/sbs.php?id=S04
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h3Ly6bg/FB-IMG-1626507629868.jpg"group-title="ShaReExT@Taiwan",SBS GOLF
+https://www.navchina.cf/IPTV/sbs.php?id=S05
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h3Ly6bg/FB-IMG-1626507629868.jpg"group-title="ShaReExT@Taiwan",SBS BIZ
+https://www.navchina.cf/IPTV/sbs.php?id=S06
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h3Ly6bg/FB-IMG-1626507629868.jpg"group-title="ShaReExT@Taiwan",SBS MTV
+https://www.navchina.cf/IPTV/sbs.php?id=S09
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h3Ly6bg/FB-IMG-1626507629868.jpg"group-title="ShaReExT@Taiwan",Now劇集台
+http://sytv.xtvants.fun/mytv.php?id=nowjj&token=qq3036107507&user=fmys
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h3Ly6bg/FB-IMG-1626507629868.jpg"group-title="ShaReExT@Taiwan",Now華劇台
+http://sytv.xtvants.fun/mytv.php?id=nowhj&token=qq3036107507&user=fmys
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h3Ly6bg/FB-IMG-1626507629868.jpg"group-title="ShaReExT@Taiwan",NowJelli
+http://sytv.xtvants.fun/mytv.php?id=nowzj&token=qq3036107507&user=fmys
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h3Ly6bg/FB-IMG-1626507629868.jpg"group-title="ShaReExT@Taiwan",Now爆谷台
+http://sytv.xtvants.fun/mytv.php?id=nowbg&token=qq3036107507&user=fmys
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h3Ly6bg/FB-IMG-1626507629868.jpg"group-title="ShaReExT@Taiwan",Now直播台
+http://sytv.xtvants.fun/mytv.php?id=nowzb&token=qq3036107507&user=fmys
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h3Ly6bg/FB-IMG-1626507629868.jpg"group-title="ShaReExT@Taiwan",Now新聞台
+http://sytv.xtvants.fun/mytv.php?id=nowxw&token=qq3036107507&user=fmys
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h3Ly6bg/FB-IMG-1626507629868.jpg"group-title="ShaReExT@Taiwan",Now財經台
+http://sytv.xtvants.fun/mytv.php?id=nowcj&token=qq3036107507&user=fmys
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h3Ly6bg/FB-IMG-1626507629868.jpg"group-title="ShaReExT@Taiwan",NowSportsPrime精選
+http://sytv.xtvants.fun/mytv.php?id=nowjx&token=qq3036107507&user=fmys
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h3Ly6bg/FB-IMG-1626507629868.jpg"group-title="ShaReExT@Taiwan",NowGolf2
+http://sytv.xtvants.fun/mytv.php?id=nowg2&token=qq3036107507&user=fmys
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h3Ly6bg/FB-IMG-1626507629868.jpg"group-title="ShaReExT@Taiwan",NowGolf3
+http://sytv.xtvants.fun/mytv.php?id=nowg3&token=qq3036107507&user=fmys
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7h3Ly6bg/FB-IMG-1626507629868.jpg"group-title="ShaReExT@Taiwan",BBC 1
 http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7h3Ly6bg/FB-IMG-1626507629868.jpg"group-title="ShaReExT@Taiwan",BBC 2
