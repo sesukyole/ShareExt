@@ -50,18 +50,8 @@ https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Ten3 hd
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",FOXSPORTS
-https://vips-livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b5000000.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",AstroGolf
 http://50.7.161.82:8278/streams/d/astrogolf_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",FoxSport1
-https://livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",FoxSport2
-https://livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",FoxSport3
-https://livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",BeinXtra
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",BeinXtra2
@@ -80,10 +70,6 @@ http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/6161655/index.m3u8
 http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/616194987/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",BeinPremium3(a)
 http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/6151278887/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",RMCsport1(b)
-https://22live00.akamaized.net/RMC_Sports_1/tracks-v1a1/mono.m3u8?token=JP9cDQmTumfCYDAB1GhETAZf3praOFYNmR%2BnveVZ3GgOUZKCkHEq%2Bw0vzgVHDh48ii7TpTeyk75tQHLRJyc1tNBKUn2hJlTJmadUzm47j0d7XRSnJpbnGF1%2BgUOKINtrqN5tzFTtw7lsoVxtXOf8jUhpJrmQDSwrd2xBc5ePUx366kpr8DeDFL5w24DEciNlol4TVI%2BDqbsgKZwrIcFYcsnw%3D%3D
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",RMCsport2(b)
-https://22live00.akamaized.net/RMC_Sports_2/index.m3u8?token=JP1ILQUhqtVW4O5DAcrh9WxP3praOFYNmR%2BnveVZ3GgOUZKCkHEq%2Bw0vzgVHDh48iiRMo%2FGRYHbSIx8h%2BhJzLEGaUn2hJlTJmadUzm47j0d7VFjuK8ud32r4aRd9oGDIFM%2BCedod3dFbDi%2FMl0m0bwk9TCJwbWmqDZEyF4BWvqBZeK%2Fom3utCG1moc8FHTzJBL4TVI%2BDqbsgKZwrIcFYcsnw%3D%3D
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",RMCsport3(b)
 http://stream.tvtap.live:8081/live/fr-sfr3.stream/playlist.m3u8
 
@@ -187,18 +173,6 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",TNT Sports5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",FoxSports Brazil
-https://content-asae1-up-1.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?pbs=23fc816fa98d4dc0bd802e1154fc5b15
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",FoxSports[Bc2]
-http://200.194.238.229:8000/udp/225.1.1.7:1234
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",FoxSports2
-http://200.194.238.229:8000/udp/225.1.1.6:1234
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",GolTV Brasil
-https://stmv5.samcast.com.br/caroline3961/caroline3961/chunklist_w2076930074.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Motorvision[Portugal]
 http://185.236.229.21:9981/play/a04z
 
@@ -224,12 +198,6 @@ http://foctv.xyz:25510/Amir5641/YY5641/149
 http://foctv.xyz:25510/Amir5641/YY5641/232
 #EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4_B" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="ShareExt@PREMIUMMSport",ASSP4
 http://foctv.xyz:25510/Amir5641/YY5641/249
-#EXTINF:-1 tvg-id="FOXSportsHD.MACAN" tvg-name="FOX Sport 1" tvg-logo="https://i.ibb.co/7KwFrKz/bhyd.png" group-title="ShareExt@PREMIUMMSport",FOX Sport 1
-http://foctv.xyz:25510/Amir5641/YY5641/152
-#EXTINF:-1 tvg-id="FOXSports2.MACAN" tvg-name="FOX Sport 2" tvg-logo="https://i.ibb.co/CvnK56X/ey.png" group-title="ShareExt@PREMIUMMSport",FOX Sport 2
-http://foctv.xyz:25510/Amir5641/YY5641/153
-#EXTINF:-1 tvg-id="FOXSports3.MACAN" tvg-name="FOX Sport 3" tvg-logo="https://i.ibb.co/tL5n9cw/sdgs.png" group-title="ShareExt@PREMIUMMSport",FOX Sport 3
-http://foctv.xyz:25510/Amir5641/YY5641/154
 #EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="beIN Sports 1 ID" tvg-logo="https://i.ibb.co/PM0qNz8/hdg.png" group-title="ShareExt@PREMIUMMSport",beINSports 1 ID
 http://foctv.xyz:25510/Amir5641/YY5641/155
 #EXTINF:-1 tvg-id="beINSports2.MACAN" tvg-name="beIN Sports 2 ID" tvg-logo="https://i.ibb.co/5vfCzNb/was.png" group-title="ShareExt@PREMIUMMSport",beINSports 2 ID
@@ -743,244 +711,6 @@ http://eurotv.vip:80/60/60/51444
 
 
 
-#EXTINF:-1 tvg-id="beINSports.us" tvg-name="...beIN SPORTS HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/032015/bein_sport_0.png" group-title="SHAREEXT@@SPORTS",beINSPORTS HD
-http://qqtv.nl:8080/michaelk/michaelk/7866
-#EXTINF:-1 tvg-id="" tvg-name="...beIN XTRA HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/bein-sports-qa.png" group-title="SHAREEXT@@SPORTS",beINXTRA HD
-http://qqtv.nl:8080/michaelk/michaelk/411411
-#EXTINF:-1 tvg-id="247Retro.us" tvg-name="...beIN SPORTS PREMIUM HD EN" tvg-logo="http://glmtv.pw/logo/prestige/United-States/be_in_mena_sports_us.png" group-title="SHAREEXT@@SPORTS",beINSPORTS PREMIUM HD EN
-http://qqtv.nl:8080/michaelk/michaelk/30238
-#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="...beIN SPORTS Global HD" tvg-logo="http://epg4you.com/logos/beinsports.png" group-title="SHAREEXT@@SPORTS",beINSPORTS Global HD
-http://qqtv.nl:8080/michaelk/michaelk/30237
-#EXTINF:-1 tvg-id="Eurosport 1 UK" tvg-name="...Eurosport 1 HD" tvg-logo="http://glmtv.pw/logo/prestige/United-Kingdom/british_eurosport_1.png" group-title="SHAREEXT@@SPORTS",Eurosport1 HD
-http://qqtv.nl:8080/michaelk/michaelk/392996
-#EXTINF:-1 tvg-id="Eurosport 2 UK" tvg-name="...Eurosport 2 HD" tvg-logo="http://glmtv.pw/logo/prestige/United-Kingdom/british_eurosport_2.png" group-title="SHAREEXT@@SPORTS",Eurosport2 HD
-http://qqtv.nl:8080/michaelk/michaelk/392997
-#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="...ESPN SEC NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/espn_sec_network_us.png" group-title="SHAREEXT@@SPORTS",ESPN SEC NETWORK HD
-http://qqtv.nl:8080/michaelk/michaelk/60414
-#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="...GOLF CHANNEL HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/golf_channel_us.png" group-title="SHAREEXT@@SPORTS",GOLF CHANNEL HD
-http://qqtv.nl:8080/michaelk/michaelk/54843
-#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="...NBC GOLF CHANNEL HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/golf_channel_us.png" group-title="SHAREEXT@@SPORTS",NBC GOLF CHANNEL HD
-http://qqtv.nl:8080/michaelk/michaelk/7962
-#EXTINF:-1 tvg-id="FOXSoccerPlus.us" tvg-name="...FOX SOCCER PLUS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_soccer_plus.png" group-title="SHAREEXT@@SPORTS",FOX SOCCER PLUS HD
-http://qqtv.nl:8080/michaelk/michaelk/57429
-#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="...FIGHT NETWORK CANADA" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fight_sports_us.png" group-title="SHAREEXT@@SPORTS",FIGHT NETWORK CANADA
-http://qqtv.nl:8080/michaelk/michaelk/5009
-#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="...BOX NATION UK" tvg-logo="http://epg4you.com/logos/boxnation.png" group-title="SHAREEXT@@SPORTS",BOX NATION UK
-http://qqtv.nl:8080/michaelk/michaelk/15537
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="...BT SPORT 1 HD UK" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png" group-title="SHAREEXT@@SPORTS",BTSPORT1 HD UK
-http://qqtv.nl:8080/michaelk/michaelk/265920
-#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="...BT SPORT 2 HD UK" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-2-uk.png" group-title="SHAREEXT@@SPORTS",BTSPORT2 HD UK
-http://qqtv.nl:8080/michaelk/michaelk/265921
-#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="...BT SPORT 3 HD UK" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-3-uk.png" group-title="SHAREEXT@@SPORTS",BTSPORT3 HD UK
-http://qqtv.nl:8080/michaelk/michaelk/265922
-#EXTINF:-1 tvg-id="UFCTV.us" tvg-name="...UFC 24/7" tvg-logo="http://38.143.137.20/logo/prestige/United-States/ufc-tv-rossiya-us-ru.png" group-title="SHAREEXT@@SPORTS",UFC
-http://qqtv.nl:8080/michaelk/michaelk/57427
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="...TSN 1 HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/tsn_1_ca.png" group-title="SHAREEXT@@SPORTS",TSN1 HD
-http://qqtv.nl:8080/michaelk/michaelk/8007
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="...TSN 2 HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/tsn_2_ca.png" group-title="SHAREEXT@@SPORTS",TSN2 HD
-http://qqtv.nl:8080/michaelk/michaelk/8006
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="...TSN 3 HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/tsn_3_ca.png" group-title="SHAREEXT@@SPORTS",TSN3 HD
-http://qqtv.nl:8080/michaelk/michaelk/8005
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="...TSN 4 HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/tsn_4_ca.png" group-title="SHAREEXT@@SPORTS",TSN4 HD
-http://qqtv.nl:8080/michaelk/michaelk/8004
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="...TSN 5 HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/tsn_5_ca.png" group-title="SHAREEXT@@SPORTS",TSN5 HD
-http://qqtv.nl:8080/michaelk/michaelk/8003
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="...ESPN 1 HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_242.png" group-title="SHAREEXT@@SPORTS",ESPN1 HD
-http://qqtv.nl:8080/michaelk/michaelk/7963
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="...ESPN 2 HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/espn_2.png" group-title="SHAREEXT@@SPORTS",ESPN2 HD
-http://qqtv.nl:8080/michaelk/michaelk/7896
-#EXTINF:-1 tvg-id="MadisonSquareGarden.us" tvg-name="...MSG NETWORKS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="SHAREEXT@@SPORTS",MSG NETWORKS HD
-http://qqtv.nl:8080/michaelk/michaelk/7964
-#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="...ESPNU HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_242.png" group-title="SHAREEXT@@SPORTS",ESPNU HD
-http://qqtv.nl:8080/michaelk/michaelk/7895
-#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="...ESPN NEWS HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_242.png" group-title="SHAREEXT@@SPORTS",ESPN NEWS HD
-http://qqtv.nl:8080/michaelk/michaelk/7898
-#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="...BT SPORT ESPN" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-espn-uk.png" group-title="SHAREEXT@@SPORTS",BTSPORT ESPN
-http://qqtv.nl:8080/michaelk/michaelk/265923
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="...RSA SUPERSPORTS TENNIS HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png" group-title="SHAREEXT@@SPORTS",RSA SUPERSPORTS TENNIS HD
-http://qqtv.nl:8080/michaelk/michaelk/311866
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="...SKY SPORT F1 HD" tvg-logo="http://38.143.137.20/logo/prestige/Italy/sky-sport-f1-it.png" group-title="SHAREEXT@@SPORTS",SKYSPORT F1 HD
-http://qqtv.nl:8080/michaelk/michaelk/12814
-#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="...SKY SPORTS GOLF HD" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-golf-uk.png" group-title="SHAREEXT@@SPORTS",SKYSPORTS GOLF HD
-http://qqtv.nl:8080/michaelk/michaelk/311867
-#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="...RSA SUPERSPORTS VARITY 01 HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png" group-title="SHAREEXT@@SPORTS",SUPERSPORTS VARITY 01 HD
-http://qqtv.nl:8080/michaelk/michaelk/311868
-#EXTINF:-1 tvg-id="10TV.in" tvg-name="...RSA SUPERSPORTS VARITY 02 HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png" group-title="SHAREEXT@@SPORTS",SUPERSPORTS VARITY 02 HD
-http://qqtv.nl:8080/michaelk/michaelk/30957
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="...RSA SUPERSPORTS VARITY 03 HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png" group-title="SHAREEXT@@SPORTS",SUPERSPORTS VARITY 03 HD
-http://qqtv.nl:8080/michaelk/michaelk/30330
-#EXTINF:-1 tvg-id="" tvg-name="...RSA SUPERSPORTS VARITY 04 HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png" group-title="SHAREEXT@@SPORTS",SUPERSPORTS VARITY 04 HD
-http://qqtv.nl:8080/michaelk/michaelk/397213
-#EXTINF:-1 tvg-id="NBCGoldRugby.us" tvg-name="...RSA SUPERSPORTS RUGBY HD AF" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png" group-title="SHAREEXT@@SPORTS",SUPERSPORTS RUGBY HD AF
-http://qqtv.nl:8080/michaelk/michaelk/395599
-#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="...RSA SUPERSPORTS PREMIER LEAGUE HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png" group-title="SHAREEXT@@SPORTS",SUPERSPORTS PREMIER LEAGUE HD
-http://qqtv.nl:8080/michaelk/michaelk/269696
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="...FOX SPORTS 1 HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox-sports-1-nederland-us-nl.png" group-title="SHAREEXT@@SPORTS",FOXSPORTS 1 HD
-http://qqtv.nl:8080/michaelk/michaelk/7894
-#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="...FOX SPORTS 2 HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox-sports-2-nederland-us-nl.png" group-title="SHAREEXT@@SPORTS",FOXSPORTS 2 HD
-http://qqtv.nl:8080/michaelk/michaelk/7893
-#EXTINF:-1 tvg-id="10TV.in" tvg-name="...ACC NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/acc-network-us.png" group-title="SHAREEXT@@SPORTS",ACC NETWORK HD
-http://qqtv.nl:8080/michaelk/michaelk/186909
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="...TENNIS CHANNEL HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/tennis_channel.png" group-title="SHAREEXT@@SPORTS",TENNIS CHANNEL HD
-http://qqtv.nl:8080/michaelk/michaelk/7988
-#EXTINF:-1 tvg-id="WWE.us" tvg-name="...WWE NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/world_wrestling_entertainment.png" group-title="SHAREEXT@@SPORTS",WWE NETWORK HD
-http://qqtv.nl:8080/michaelk/michaelk/325241
-#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="...NBCSN HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbcsn-us.png" group-title="SHAREEXT@@SPORTS",NBCSN HD
-http://qqtv.nl:8080/michaelk/michaelk/5137
-#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="...NBC SPORTS NETWORK HD" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/IsH/IsH_large.png" group-title="SHAREEXT@@SPORTS",NBC SPORTS NETWORK HD
-http://qqtv.nl:8080/michaelk/michaelk/7995
-#EXTINF:-1 tvg-id="BTSportX1.uk" tvg-name="...BIG TEN NETWORK HD" tvg-logo="http://epg4you.com/logos/btsportextra1.png" group-title="SHAREEXT@@SPORTS",BIGTEN NETWORK HD
-http://qqtv.nl:8080/michaelk/michaelk/15531
-#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="...CBS SPORTS NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs-sports-network-us.png" group-title="SHAREEXT@@SPORTS",CBS SPORTS NETWORK HD
-http://qqtv.nl:8080/michaelk/michaelk/7992
-#EXTINF:-1 tvg-id="YesTV.ca" tvg-name="...YES NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/yes_network_us.png" group-title="SHAREEXT@@SPORTS",YES NETWORK HD
-http://qqtv.nl:8080/michaelk/michaelk/4945
-#EXTINF:-1 tvg-id="10TV.in" tvg-name="...ESPN PLUS HD" tvg-logo="http://epg4you.com/logos/beinsportsmax4.png" group-title="SHAREEXT@@SPORTS",ESPN PLUS HD
-http://qqtv.nl:8080/michaelk/michaelk/31017
-#EXTINF:-1 tvg-id="" tvg-name="...Fite TV 24/7 HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/fite.png" group-title="SHAREEXT@@SPORTS",FiteTV HD
-http://qqtv.nl:8080/michaelk/michaelk/411412
-#EXTINF:-1 tvg-id="TVASports.ca" tvg-name="...TVA SPORTS 1 HD FR" tvg-logo="http://38.143.137.20/logo/prestige/Canada/tva_sports_ca.png" group-title="SHAREEXT@@SPORTS",TVA SPORTS1 HD FR
-http://qqtv.nl:8080/michaelk/michaelk/4998
-#EXTINF:-1 tvg-id="TVASports.ca" tvg-name="...TVA SPORTS 2 HD FR" tvg-logo="http://38.143.137.20/logo/prestige/Canada/tva_sports_ca.png" group-title="SHAREEXT@@SPORTS",TVA SPORTS2 HD FR
-http://qqtv.nl:8080/michaelk/michaelk/21030
-#EXTINF:-1 tvg-id="ABCKAAL.us" tvg-name="...Gol TV English" tvg-logo="http://38.143.137.20/logo/prestige/United-States/gol_tv_us.png" group-title="SHAREEXT@@SPORTS",GolTV English
-http://qqtv.nl:8080/michaelk/michaelk/319606
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="...Optus 1 HD AU" tvg-logo="http://38.143.137.20/logo/prestige/Australia/optus_sport_au.png" group-title="SHAREEXT@@SPORTS",Optus1 HD AU
-http://qqtv.nl:8080/michaelk/michaelk/319618
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="...Optus 2 HD AU" tvg-logo="http://38.143.137.20/logo/prestige/Australia/optus_sport_au.png" group-title="SHAREEXT@@SPORTS",Optus2 HD AU
-http://qqtv.nl:8080/michaelk/michaelk/319616
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="...Spark Sports Event 1 NZ" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc_spark_ca.png" group-title="SHAREEXT@@SPORTS",SparkSports Event 1 NZ
-http://qqtv.nl:8080/michaelk/michaelk/319613
-#EXTINF:-1 tvg-id="" tvg-name="...Spark Sports Event 2 NZ" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc_spark_ca.png" group-title="SHAREEXT@@SPORTS",SparkSports Event 2 NZ
-http://qqtv.nl:8080/michaelk/michaelk/319614
-#EXTINF:-1 tvg-id="10TV.in" tvg-name="ELEVEN SPORTS NETWORK [USA]" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/eleven-sports-network-uk.png" group-title="SHAREEXT@@SPORTS",ELEVENSPORTS NETWORK [USA]
-http://qqtv.nl:8080/michaelk/michaelk/148456
-#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="ELEVEN SPORTS 1 HD FR" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/eleven-sports-1-portugal-uk-pt.png" group-title="SHAREEXT@@SPORTS",ELEVENSPORTS1 HD FR
-http://qqtv.nl:8080/michaelk/michaelk/148455
-#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="ELEVEN SPORTS 2 HD FR" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/eleven-sports-2-portugal-uk-pt.png" group-title="SHAREEXT@@SPORTS",ELEVENSPORTS2 HD FR
-http://qqtv.nl:8080/michaelk/michaelk/148454
-#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="ELEVEN SPORTS 3 HD FR" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/eleven-sports-3-portugal-uk-pt.png" group-title="SHAREEXT@@SPORTS",ELEVENSPORTS3 HD FR
-http://qqtv.nl:8080/michaelk/michaelk/148453
-#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="ELEVEN SPORTS HD USA" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/eleven-sports-4-portugal-uk-pt.png" group-title="SHAREEXT@@SPORTS",ELEVENSPORTS HD USA
-http://qqtv.nl:8080/michaelk/michaelk/148452
-#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS EURO 2020 4K" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/eleven-sports-network-uk.png" group-title="SHAREEXT@@SPORTS",NOWSPORTS EURO 2020 
-http://qqtv.nl:8080/michaelk/michaelk/148451
-#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="ELEVEN SPORTS 1 HD [PT]" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/eleven-sports-1-portugal-uk-pt.png" group-title="SHAREEXT@@SPORTS",ELEVENSPORTS1 HD[PT]
-http://qqtv.nl:8080/michaelk/michaelk/148450
-#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="ELEVEN SPORTS 2 HD [PT]" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/eleven-sports-2-portugal-uk-pt.png" group-title="SHAREEXT@@SPORTS",ELEVENSPORTS2 HD[PT]
-http://qqtv.nl:8080/michaelk/michaelk/148449
-#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="ELEVEN SPORTS 3 HD [PT]" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/eleven-sports-3-portugal-uk-pt.png" group-title="SHAREEXT@@SPORTS",ELEVENSPORTS3 HD[PT]
-http://qqtv.nl:8080/michaelk/michaelk/148448
-#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="ELEVEN SPORTS 4 HD [PT]" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/eleven-sports-4-portugal-uk-pt.png" group-title="SHAREEXT@@SPORTS",ELEVENSPORTS4 HD[PT]
-http://qqtv.nl:8080/michaelk/michaelk/148447
-#EXTINF:-1 tvg-id="ElevenSports5.pt" tvg-name="ELEVEN SPORTS 5 HD [PT]" tvg-logo="http://38.143.137.20/logo/prestige/United-States/eleven-sports-network-uk.png" group-title="SHAREEXT@@SPORTS",ELEVENSPORTS5 HD[PT]
-http://qqtv.nl:8080/michaelk/michaelk/148446
-#EXTINF:-1 tvg-id="ElevenSports6.pt" tvg-name="ELEVEN SPORTS 6 HD [PT]" tvg-logo="http://38.143.137.20/logo/prestige/United-States/eleven-sports-network-uk.png" group-title="SHAREEXT@@SPORTS",ELEVENSPORTS6 HD[PT]
-http://qqtv.nl:8080/michaelk/michaelk/148445
-#EXTINF:-1 tvg-id="10TV.in" tvg-name="...ARENA SPORT 1 HR" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-1-rs.png" group-title="SHAREEXT@@SPORTS",ARENASPORT1 HR
-http://qqtv.nl:8080/michaelk/michaelk/12319
-#EXTINF:-1 tvg-id="10TV.in" tvg-name="...ARENA SPORT 2 HR" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-2-rs.png" group-title="SHAREEXT@@SPORTS",ARENASPORT2 HR
-http://qqtv.nl:8080/michaelk/michaelk/12317
-#EXTINF:-1 tvg-id="10TV.in" tvg-name="...ARENA SPORT 3 HR" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-3-rs.png" group-title="SHAREEXT@@SPORTS",ARENASPORT3 HR
-http://qqtv.nl:8080/michaelk/michaelk/12315
-#EXTINF:-1 tvg-id="10TV.in" tvg-name="...ARENA SPORT 4 HR" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-4-rs.png" group-title="SHAREEXT@@SPORTS",ARENASPORT4 HR
-http://qqtv.nl:8080/michaelk/michaelk/12313
-#EXTINF:-1 tvg-id="10TV.in" tvg-name="...ARENA SPORT 5 HR" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-5-rs.png" group-title="SHAREEXT@@SPORTS",ARENASPORT5 HR
-http://qqtv.nl:8080/michaelk/michaelk/12311
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS XTRA 1 HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/be_in_mena_sports_us.png" group-title="SHAREEXT@@SPORTS",AR:beINSPORTSXTRA1 HD
-http://qqtv.nl:8080/michaelk/michaelk/315504
-#EXTINF:-1 tvg-id="247Retro.us" tvg-name="AR: beIN SPORTS NEWS HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/be_in_mena_sports_us.png" group-title="SHAREEXT@@SPORTS",AR:beINSPORTSNEWS HD
-http://qqtv.nl:8080/michaelk/michaelk/315505
-#EXTINF:-1 tvg-id="beINSports1Ar.qa" tvg-name="AR: beIN SPORT 01 HD" tvg-logo="http://epg4you.com/logos/beinsports.png" group-title="SHAREEXT@@SPORTS",AR:beINSPORT01 HD
-http://qqtv.nl:8080/michaelk/michaelk/30248
-#EXTINF:-1 tvg-id="beINSports2Ar.qa" tvg-name="AR: beIN SPORT 02 HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/be_in_mena_sports_us.png" group-title="SHAREEXT@@SPORTS",AR:beINSPORT02 HD
-http://qqtv.nl:8080/michaelk/michaelk/265924
-#EXTINF:-1 tvg-id="beINSports3Ar.qa" tvg-name="AR: beIN SPORT 03 HD" tvg-logo="http://epg4you.com/logos/beinsports3.png" group-title="SHAREEXT@@SPORTS",AR:beINSPORT03 HD
-http://qqtv.nl:8080/michaelk/michaelk/30246
-#EXTINF:-1 tvg-id="beINSports4Ar.qa" tvg-name="AR: beIN SPORT 04 HD" tvg-logo="http://epg4you.com/logos/beinsports4.png" group-title="SHAREEXT@@SPORTS",AR:beINSPORT04 HD
-http://qqtv.nl:8080/michaelk/michaelk/30245
-#EXTINF:-1 tvg-id="beINSports5Ar.qa" tvg-name="AR: beIN SPORT 05 HD" tvg-logo="http://epg4you.com/logos/beinsports5.png" group-title="SHAREEXT@@SPORTS",AR:beINSPORT05 HD
-http://qqtv.nl:8080/michaelk/michaelk/30244
-#EXTINF:-1 tvg-id="beINSports6Ar.qa" tvg-name="AR: beIN SPORT 06 HD" tvg-logo="http://epg4you.com/logos/beinsports6.png" group-title="SHAREEXT@@SPORTS",AR:beINSPORT06 HD
-http://qqtv.nl:8080/michaelk/michaelk/30243
-#EXTINF:-1 tvg-id="beINSports7Ar.qa" tvg-name="AR: beIN SPORT 07 HD" tvg-logo="http://epg4you.com/logos/beinsports7.png" group-title="SHAREEXT@@SPORTS",AR:beINSPORT07 HD
-http://qqtv.nl:8080/michaelk/michaelk/30242
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS MAX 01 HD Match Only" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_05_hd.png" group-title="SHAREEXT@@SPORTS",AR:beINSPORTS MAX01 HD Match Only
-http://qqtv.nl:8080/michaelk/michaelk/411422
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS MAX 02 HD Match Only" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_05_hd.png" group-title="SHAREEXT@@SPORTS",AR:beINSPORTS MAX02 HD Match Only
-http://qqtv.nl:8080/michaelk/michaelk/411423
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS MAX 03 HD Match Only" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_05_hd.png" group-title="SHAREEXT@@SPORTS",AR:beINSPORTS MAX03 HD Match Only
-http://qqtv.nl:8080/michaelk/michaelk/411424
-#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="AR: beIN SPORTS MAX 04 HD Match Only" tvg-logo="http://glmtv.pw/logo/prestige/United-States/be_in_mena_sports_us.png" group-title="SHAREEXT@@SPORTS",AR:beINSPORTS MAX04 HD Match Only
-http://qqtv.nl:8080/michaelk/michaelk/15688
-#EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="AR: beIN SPORTS MAX 05 HD Match Only" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/bein-sports-2-qa-fr.png" group-title="SHAREEXT@@SPORTS",AR:beINSPORTS MAX05 HD Match Only
-http://qqtv.nl:8080/michaelk/michaelk/15714
-#EXTINF:-1 tvg-id="beINSports3.tr" tvg-name="AR: beIN SPORTS MAX 06 HD Match Only" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/bein-sports-3-qa-fr.png" group-title="SHAREEXT@@SPORTS",AR:beINSPORTS MAX06 HD Match Only
-http://qqtv.nl:8080/michaelk/michaelk/15671
-#EXTINF:-1 tvg-id="beINSports8.us" tvg-name="AR: beIN SPORTS PREMIUM 01 HD" tvg-logo="http://epg4you.com/logos/beinsports8.png" group-title="SHAREEXT@@SPORTS",AR:beINSPORTS PREMIUM01 HD
-http://qqtv.nl:8080/michaelk/michaelk/30241
-#EXTINF:-1 tvg-id="beINSports9.us" tvg-name="AR: beIN SPORTS PREMIUM 02 HD" tvg-logo="http://epg4you.com/logos/beinsports9.png" group-title="SHAREEXT@@SPORTS",AR:beINSPORTS PREMIUM02 HD
-http://qqtv.nl:8080/michaelk/michaelk/30240
-#EXTINF:-1 tvg-id="beINSports10.us" tvg-name="AR: beIN SPORTS PREMIUM 03 HD" tvg-logo="http://epg4you.com/logos/beinsports10.png" group-title="SHAREEXT@@SPORTS",AR:beINSPORTS PREMIUM03 HD
-http://qqtv.nl:8080/michaelk/michaelk/30239
-#EXTINF:-1 tvg-id="NBATV.ca" tvg-name="...NBA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nba_tv_us.png" group-title="SHAREEXT@@SPORTS",NBA HD
-http://qqtv.nl:8080/michaelk/michaelk/4997
-#EXTINF:-1 tvg-id="TraceSportStars.uk" tvg-name="...TRACE SPORTS STARS" tvg-logo="http://38.143.137.20/logo/prestige/France/trace_fr_sport_stars.png" group-title="SHAREEXT@@SPORTS",TRACESPORTS STARS
-http://qqtv.nl:8080/michaelk/michaelk/412501
-
-
-
-
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="WC. SKY SPORTS CRICKET HD" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-cricket-uk.png" group-title="SHAREEXT@@WORLD CRICKET",SKYSPORTS CRICKET HD
-http://qqtv.nl:8080/michaelk/michaelk/30326
-#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="WC. SUPERSPORT CRICKET HD" tvg-logo="http://epg4you.com/logos/willowcricket.png" group-title="SHAREEXT@@WORLD CRICKET",SUPERSPORTCRICKET HD
-http://qqtv.nl:8080/michaelk/michaelk/30621
-#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="WC. WILLOW CRICKET HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/willow_us_extra.png" group-title="SHAREEXT@@WORLD CRICKET",WILLOWCRICKET HD
-http://qqtv.nl:8080/michaelk/michaelk/7999
-#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="WC. WILLOW CRICKET USA" tvg-logo="http://38.143.137.20/logo/prestige/United-States/willow_us.png" group-title="SHAREEXT@@WORLD CRICKET",WILLOWCRICKET USA
-http://qqtv.nl:8080/michaelk/michaelk/30327
-#EXTINF:-1 tvg-id="" tvg-name="WC. WILLOW CRICKET EXTRA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/willow_us.png" group-title="SHAREEXT@@WORLD CRICKET",WILLOWCRICKET EXTRA HD
-http://qqtv.nl:8080/michaelk/michaelk/381931
-#EXTINF:-1 tvg-id="AstroCricket.my" tvg-name="WC. ASTRO CRICKET HD" tvg-logo="http://38.143.137.20/logo/prestige/Malaysia/astro-citra-my.png" group-title="SHAREEXT@@WORLD CRICKET",ASTROCRICKET HD
-http://qqtv.nl:8080/michaelk/michaelk/319604
-#EXTINF:-1 tvg-id="" tvg-name="WC. WILLOW CRICKET CANADA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/willow_us.png" group-title="SHAREEXT@@WORLD CRICKET",WILLOWCRICKET CANADA HD
-http://qqtv.nl:8080/michaelk/michaelk/30329
-#EXTINF:-1 tvg-id="10TV.in" tvg-name="WC. FLOWER SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/flow_sports_uk.png" group-title="SHAREEXT@@WORLD CRICKET",FLOWER SPORTS
-http://qqtv.nl:8080/michaelk/michaelk/275731
-#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="WC. OSN SPORTS CRICKET" tvg-logo="http://38.143.137.20/logo/prestige/United-Arab-Emirates/osn_barker_channel.png" group-title="SHAREEXT@@WORLD CRICKET",OSN SPORTSCRICKET
-http://qqtv.nl:8080/michaelk/michaelk/30599
-#EXTINF:-1 tvg-id="10TV.in" tvg-name="WC. GEO SUPER PK" tvg-logo="http://38.143.137.20/logo/prestige/India/geo-super.png" group-title="SHAREEXT@@WORLD CRICKET",GEOSUPER PK
-http://qqtv.nl:8080/michaelk/michaelk/5230
-#EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-name="WC. ATN CRICKET PLUS HD CANADA" tvg-logo="http://38.143.137.20/logo/prestige/India/atn-punjabi-in-ca.png" group-title="SHAREEXT@@WORLD CRICKET",ATN CRICKETPLUS HD CANADA
-http://qqtv.nl:8080/michaelk/michaelk/30328
-#EXTINF:-1 tvg-id="10TV.in" tvg-name="WC. PTV SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Pakistan/ptv_sports_pk.png" group-title="SHAREEXT@@WORLD CRICKET",PTV SPORTS
-http://qqtv.nl:8080/michaelk/michaelk/5216
-#EXTINF:-1 tvg-id="10TV.in" tvg-name="WC. TEN SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/India/ten_sports_in_pakistan.png" group-title="SHAREEXT@@WORLD CRICKET",TEN SPORTS
-http://qqtv.nl:8080/michaelk/michaelk/30574
-#EXTINF:-1 tvg-id="10TV.in" tvg-name="WC. TEN 1 CRICKET ." tvg-logo="http://38.143.137.20/logo/prestige/India/ten_cricket_in.png" group-title="SHAREEXT@@WORLD CRICKET",TEN1 CRICKET
-http://qqtv.nl:8080/michaelk/michaelk/30617
-#EXTINF:-1 tvg-id="10TV.in" tvg-name="WC. TEN 2 CRICKET HD" tvg-logo="http://38.143.137.20/logo/prestige/India/ten_cricket_in.png" group-title="SHAREEXT@@WORLD CRICKET",TEN2 CRICKET HD
-http://qqtv.nl:8080/michaelk/michaelk/7244
-#EXTINF:-1 tvg-id="Ten3.in" tvg-name="WC. TEN 3 CRICKET HD" tvg-logo="https://www.comparedth.com/files/upload_files/thumb/1521188137_IC-290.png" group-title="SHAREEXT@@WORLD CRICKET",TEN3 CRICKET HD
-http://qqtv.nl:8080/michaelk/michaelk/30623
-#EXTINF:-1 tvg-id="Ten3.in" tvg-name="WC. JIO CRICKET 1 HD" tvg-logo="https://www.comparedth.com/files/upload_files/thumb/1521188137_IC-290.png" group-title="SHAREEXT@@WORLD CRICKET",JIOCRICKET1 HD
-http://qqtv.nl:8080/michaelk/michaelk/7243
-#EXTINF:-1 tvg-id="10TV.in" tvg-name="WC. JIO CRICKET 2 HD" tvg-logo="http://38.143.137.20/logo/prestige/India/ten_cricket_in.png" group-title="SHAREEXT@@WORLD CRICKET",JIOCRICKET2 HD
-http://qqtv.nl:8080/michaelk/michaelk/30622
-#EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="WC. SONY ESPN HD" tvg-logo="https://i.pinimg.com/originals/bb/bc/19/bbbc19c4df468d67a3fcd39734cace3c.png" group-title="SHAREEXT@@WORLD CRICKET",SONY ESPN HD
-http://qqtv.nl:8080/michaelk/michaelk/30626
-#EXTINF:-1 tvg-id="" tvg-name="WC. STAR SPORTS FIRST" tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_in_1_tamil.png" group-title="SHAREEXT@@WORLD CRICKET",STARSPORTS FIRST
-http://qqtv.nl:8080/michaelk/michaelk/30628
-#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="WC. STAR SPORTS 1" tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_in_1.png" group-title="SHAREEXT@@WORLD CRICKET",STARSPORTS 1
-http://qqtv.nl:8080/michaelk/michaelk/30630
-#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="WC. STAR SPORTS 2" tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_in_2.png" group-title="SHAREEXT@@WORLD CRICKET",STARSPORTS 2
-http://qqtv.nl:8080/michaelk/michaelk/30629
-#EXTINF:-1 tvg-id="Star Sports Select 1 HD" tvg-name="WC. STAR SPORTS SELECT 1 HD" tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_hk_select_hd_1.png" group-title="SHAREEXT@@WORLD CRICKET",STARSPORTS SELECT 1 HD
-http://qqtv.nl:8080/michaelk/michaelk/30539
-#EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="WC. STAR SPORTS SELECT 2 HD" tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_hk_select_hd_2.png" group-title="SHAREEXT@@WORLD CRICKET",STARSPORTS SELECT 2 HD
-http://qqtv.nl:8080/michaelk/michaelk/30538
-#EXTINF:-1 tvg-id="" tvg-name="WC. RSA SUPERSPORT CRICKET HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png" group-title="SHAREEXT@@WORLD CRICKET",RSA SUPERSPORT CRICKET HD
-http://qqtv.nl:8080/michaelk/michaelk/393845
 
 
 
@@ -3014,68 +2744,7 @@ https://feed.play.mv/live/1009/QX4NI7GVOA/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",FOOD NETWORK HD
 https://feed.play.mv/live/10005200/aGu172is5o/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",StarWorldHD
-http://jupiter.bdcabletv.com/ENC-2/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",SonySix
-http://jupiter.bdcabletv.com/ENC-3/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",StarSport2HD
-http://jupiter.bdcabletv.com/ENC-4/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",NICK JR
-http://jupiter.bdcabletv.com/ENC-5/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",StarMoviesHD
-http://jupiter.bdcabletv.com/ENC-6/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",SonyTen2HD
-http://jupiter.bdcabletv.com/ENC-7/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",COLORS
-http://jupiter.bdcabletv.com/ENC-8/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",ZeeTvHD
-http://jupiter.bdcabletv.com/ENC-9/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",StarGoldHD
-http://jupiter.bdcabletv.com/ENC-10/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",SonyMaxHD
-http://jupiter.bdcabletv.com/ENC-11/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",StarStartv
-http://jupiter.bdcabletv.com/ENC-14/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",NICKhd+
-http://jupiter.bdcabletv.com/ENC-15/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",&FLIX HD
-http://jupiter.bdcabletv.com/ENC-16/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",STARmoviesHd
-http://jupiter.bdcabletv.com/ENC-17/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",H+
-http://jupiter.bdcabletv.com/ENC-18/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",SonyTen1hd
-http://jupiter.bdcabletv.com/ENC-19/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",UTVmoviesHD
-http://jupiter.bdcabletv.com/ENC-20/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",SONY TEN 1
-http://103.213.238.194:8080/SonyTen1/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",SONY TEN 2
-http://103.213.238.194:8080/SonyTen2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",SONY TEN3 
-http://103.213.238.194:8080/SonyTen3/index.m3u8 
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",SONY SIX 
-https://cdn.nowhdtime.com.bd/SonySix/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",SONY Tv
 http://173.199.120.51/hls/chs.m3u8
@@ -3110,26 +2779,8 @@ http://221.120.204.4/AXN-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Star plus
 https://t2.tvmak.com/tv/STARPLUS.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Sony Aath bangla
-https://cdn.nowhdtime.com.bd/SonyAath/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Asianet HD
-https://indo51.gcdn.co/MALYLAM-AsianetHD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Asianet Plus
-https://indo51.gcdn.co/MALYLAM-AsianetPlus/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Asianet Movies
 http://ahaohoo.com/.1/tv1/play.php?id=2324&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Surya HD
-https://indo51.gcdn.co/MALYLAM-SuryaHD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Safari
-https://indo51.gcdn.co/MALYLAM-AsianetMovies/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Surya Music
-https://indo51.gcdn.co/MALYLAM-SuryaMusic/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",We TV
 http://14.199.164.20:4001/play/a0l4/index.m3u8
@@ -5072,26 +4723,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="HBO.ca" tvg-name="**HBO 1 CANADA HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_tw.png" group-title="SHAREEXT@HBO_VIP",HBO1 CANADA HD
-http://qqtv.nl:8080/michaelk/michaelk/21084
-#EXTINF:-1 tvg-id="HBO2.ca" tvg-name="**HBO 2 CANADA HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo2_lam.png" group-title="SHAREEXT@HBO_VIP",HBO2 CANADA HD
-http://qqtv.nl:8080/michaelk/michaelk/5002
-#EXTINF:-1 tvg-id="HBO2.us" tvg-name="**HBO 2 US HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo2_lam.png" group-title="SHAREEXT@HBO_VIP",HBO2 US HD
-http://qqtv.nl:8080/michaelk/michaelk/20904
-#EXTINF:-1 tvg-id="HBO.us" tvg-name="**HBO EAST USA" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_tw.png" group-title="SHAREEXT@HBO_VIP",HBO EAST USA
-http://qqtv.nl:8080/michaelk/michaelk/148633
-#EXTINF:-1 tvg-id="" tvg-name="**HBO WEST HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_tw.png" group-title="SHAREEXT@HBO_VIP",HBO WEST HD
-http://qqtv.nl:8080/michaelk/michaelk/148634
-#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="**HBO FAMILY EAST HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_family_asia.png" group-title="SHAREEXT@HBO_VIP",HBO FAMILY EAST HD
-http://qqtv.nl:8080/michaelk/michaelk/7855
-#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="**HBO COMEDY US" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_comedy_east.png" group-title="SHAREEXT@HBO_VIP",HBO COMEDY US
-http://qqtv.nl:8080/michaelk/michaelk/7885
-#EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="**HBO SIGNATURE US" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_signature_br.png" group-title="SHAREEXT@HBO_VIP",HBO SIGNATURE US
-http://qqtv.nl:8080/michaelk/michaelk/7854
-#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="**HBO ZONE EAST HD US" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo-zone-us.png" group-title="SHAREEXT@HBO_VIP",HBO ZONE EAST HD US
-http://qqtv.nl:8080/michaelk/michaelk/7883
-#EXTINF:-1 tvg-id="HBO.us" tvg-name="**HBO ZONE WEST HD US" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo-zone-us.png" group-title="SHAREEXT@HBO_VIP",HBO ZONE WEST HD US
-http://qqtv.nl:8080/michaelk/michaelk/275730
 
 
 
