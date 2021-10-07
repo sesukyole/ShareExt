@@ -179,7 +179,103 @@ https://iptv.mwafa.net/vidio/6898/index.m3u8?token=1999
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",CCTV5體育(setAuto)
+http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",CCTV5+體育賽事(setAuto)
+http://cctvalih5ca.v.myalicdn.com:80/live/cctv5plus_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",NowSportPrime
+http://sytv.xtvants.fun/mytv.php?id=nowjx&token=qq3036107507&user=fmys
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",NowGolf2
+http://sytv.xtvants.fun/mytv.php?id=nowg2&token=qq3036107507&user=fmys
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",NowGolf3
+http://sytv.xtvants.fun/mytv.php?id=nowg3&token=qq3036107507&user=fmys
+
+#EXTINF: -1 tvg-id="1234" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png" group-title="ShareExt@PREMIUMMSport",JioFootball HD Eng 
+http://jo123.biz/jweb/m3u8.php?c=Jio_Football&q=800&e=junk.m3u8 
+
+#EXTINF: -1 tvg-id="1234" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png" group-title="ShareExt@PREMIUMMSport",JioFootball 1 HD 
+http://jo123.biz/jweb/m3u8.php?c=Jio_Football_1&q=800&e=junk.m3u8 
+
+#EXTINF: -1 tvg-id="1167" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_2.png" group-title="ShareExt@PREMIUMMSport",JioFootball 2 HD 
+http://jo123.biz/jweb/m3u8.php?c=Jio_Football_2&q=800&e=junk.m3u8 
+
+#EXTINF: -1 tvg-id="1168" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_3.png" group-title="ShareExt@PREMIUMMSport",JioFootball 3 HD 
+http://jo123.biz/jweb/m3u8.php?c=Jio_Football_3&q=800&e=junk.m3u8 
+
+#EXTINF: -1 tvg-id="155" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="ShareExt@PREMIUMMSport",SonySix HD1 http://jo123.biz/jweb/m3u8.php?c=Six_HD&q=800&e=junk.m3u8 
+
+#EXTINF: -1 tvg-id="162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="ShareExt@PREMIUMMSport",Ten4 HD http://jo123.biz/jweb/m3u8.php?c=Ten_4_HD_Tamil&q=800&e=junk.m3u8 
+
+#EXTINF: -1 tvg-id="162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" group-title="ShareExt@PREMIUMMSport",Ten4 HD TeLugu 
+http://jo123.biz/jweb/m3u8.php?c=Ten_4_HD_Telugu&q=800&e=junk.m3u8
+
+EXTINF: -1 tvg-id="162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="ShareExt@PREMIUMMSport",Ten1 HD1 
+http://jo123.biz/jweb/m3u8.php?c=Ten_HD&q=800&e=junk.m3u8 
+
+#EXTINF: -1 tvg-id="891" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="ShareExt@PREMIUMMSport",Ten2 HD2 
+http://jo123.biz/jweb/m3u8.php?c=Ten2_HD&q=800&e=junk.m3u8 
+
+#EXTINF: -1 tvg-id="892" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="ShareExt@PREMIUMMSport",Ten3 HD3 
+http://jo123.biz/jweb/m3u8.php?c=Ten3_HD&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",StarSports1 FHD+
+http://93.152.174.144:4000/play/ss1in/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",StarSports2 FHD+
+http://93.152.174.144:4000/play/ss2in/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",StarSport2 HD
+http://173.199.120.51/hls/chsp2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",BeinSport1(true)
+https://cloudserver.server-cdn-streaming.com/live-player/2/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",BTsportHD1
+https://cloudserver.server-cdn-streaming.com/live-player/3/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",BTsport2HD
+https://cloudserver.server-cdn-streaming.com/live-player/4/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",BTsport3HD
+https://cloudserver.server-cdn-streaming.com/live-player/5/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Bensport2(true)
+https://cloudserver.server-cdn-streaming.com/live-player/6/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",TrueSportHD
+https://cloudserver.server-cdn-streaming.com/live-player/7/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",TrueSport2HD
+https://cloudserver.server-cdn-streaming.com/live-player/8/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",TrueSport3HD
+https://cloudserver.server-cdn-streaming.com/live-player/9/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",SPOTV hd
+https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",F1 MOTORGP
+https://cloudserver.server-cdn-streaming.com/live-player/12/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",SPOTV2 hd
+https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",TruePremier1hd
+https://cloudserver.server-cdn-streaming.com/live-player/14/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",TruePremier2hd
+https://cloudserver.server-cdn-streaming.com/live-player/15/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",TruePremier3hd
+https://cloudserver.server-cdn-streaming.com/live-player/16/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",TruePremier4hd
+https://cloudserver.server-cdn-streaming.com/live-player/17/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",TruePremier5hd
+https://cloudserver.server-cdn-streaming.com/live-player/18/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",SPORTTV1 HD
+https://cloudserver.server-cdn-streaming.com/live-player/19/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",SPORTTV2 HD
+https://cloudserver.server-cdn-streaming.com/live-player/20/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",SPORTTV3 HD
+https://cloudserver.server-cdn-streaming.com/live-player/21/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",SPORTTV4 HD
+https://cloudserver.server-cdn-streaming.com/live-player/22/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",SPORTTV5 HD
+https://cloudserver.server-cdn-streaming.com/live-player/23/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",PPTV WorldSport
+https://cloudserver.server-cdn-streaming.com/live-player/25/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",ZQsportTv
