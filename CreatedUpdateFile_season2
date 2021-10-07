@@ -40,6 +40,80 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNLmQPkv/AFCasia-Share-Ext.jpg"group-title="SHAREEXT@AFC_CUP",AFC1
+https://livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNLmQPkv/AFCasia-Share-Ext.jpg"group-title="SHAREEXT@AFC_CUP",AFC2
+https://livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNLmQPkv/AFCasia-Share-Ext.jpg"group-title="SHAREEXT@AFC_CUP",AFC3
+https://livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNLmQPkv/AFCasia-Share-Ext.jpg"group-title="SHAREEXT@AFC_CUP",AFC4
+https://livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNLmQPkv/AFCasia-Share-Ext.jpg"group-title="SHAREEXT@AFC_CUP",AFC5
+https://livecdn.fptplay.net/afcchampion/afc05_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNLmQPkv/AFCasia-Share-Ext.jpg"group-title="SHAREEXT@AFC_CUP",AFC6
+https://livecdn.fptplay.net/afcchampion/afc06_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNLmQPkv/AFCasia-Share-Ext.jpg"group-title="SHAREEXT@AFC_CUP",AFC7
+https://livecdn.fptplay.net/afcchampion/afc07_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNLmQPkv/AFCasia-Share-Ext.jpg"group-title="SHAREEXT@AFC_CUP",AFC8
+https://livecdn.fptplay.net/afcchampion/afc08_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNLmQPkv/AFCasia-Share-Ext.jpg"group-title="SHAREEXT@AFC_CUP",AFC9
+https://livecdn.fptplay.net/afcchampion/afc09_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNLmQPkv/AFCasia-Share-Ext.jpg"group-title="SHAREEXT@AFC_CUP",AFC10
+https://livecdn.fptplay.net/afcchampion/afc10_2000.stream/chunklist.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZcgDvtF/Share-Ext-Pon-Papua.jpg"group-title="SHAREEXT@PON_PAPUAXX",PON_PapuaXX 1
+https://output3.ponpapua.my.id/edge2/smil:Channel1_source.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZcgDvtF/Share-Ext-Pon-Papua.jpg"group-title="SHAREEXT@PON_PAPUAXX",PON_PapuaXX 2
+https://output1.ponpapua.my.id/edge1/smil:Channe2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZcgDvtF/Share-Ext-Pon-Papua.jpg"group-title="SHAREEXT@PON_PAPUAXX",PON_PapuaXX 3
+https://output1.ponpapua.my.id/edge1/smil:Channe3.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZcgDvtF/Share-Ext-Pon-Papua.jpg"group-title="SHAREEXT@PON_PAPUAXX",PON_PapuaXX 4
+https://output3.ponpapua.my.id/edge2/smil:Channel4_source.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZcgDvtF/Share-Ext-Pon-Papua.jpg"group-title="SHAREEXT@PON_PAPUAXX",PON_PapuaXX 5
+https://output3.ponpapua.my.id/edge2/smil:Channel5_source.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZcgDvtF/Share-Ext-Pon-Papua.jpg"group-title="SHAREEXT@PON_PAPUAXX",PON_PapuaXX 6
+https://output3.ponpapua.my.id/edge2/smil:Channel6_source.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZcgDvtF/Share-Ext-Pon-Papua.jpg"group-title="SHAREEXT@PON_PAPUAXX",PON_PapuaXX 7
+https://output3.ponpapua.my.id/edge2/smil:Channel7_source.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZcgDvtF/Share-Ext-Pon-Papua.jpg"group-title="SHAREEXT@PON_PAPUAXX",PON_PapuaXX 8
+https://output3.ponpapua.my.id/edge2/smil:Channel8_source.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZcgDvtF/Share-Ext-Pon-Papua.jpg"group-title="SHAREEXT@PON_PAPUAXX",PON_PapuaXX 9
+https://output3.ponpapua.my.id/edge2/smil:Channel9_source.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZcgDvtF/Share-Ext-Pon-Papua.jpg"group-title="SHAREEXT@PON_PAPUAXX",PON_PapuaXX 10
+https://output3.ponpapua.my.id/edge2/smil:Channel10_source.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZcgDvtF/Share-Ext-Pon-Papua.jpg"group-title="SHAREEXT@PON_PAPUAXX",PON_PapuaXX 11
+https://output3.ponpapua.my.id/edge2/smil:Channel11_source.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZcgDvtF/Share-Ext-Pon-Papua.jpg"group-title="SHAREEXT@PON_PAPUAXX",PON_PapuaXX 12
+https://output3.ponpapua.my.id/edge2/smil:Channel12_source.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZcgDvtF/Share-Ext-Pon-Papua.jpg"group-title="SHAREEXT@PON_PAPUAXX",PON_PapuaXX 13
+https://output3.ponpapua.my.id/edge2/smil:Channel13_source.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZcgDvtF/Share-Ext-Pon-Papua.jpg"group-title="SHAREEXT@PON_PAPUAXX",PON_PapuaXX 14
+https://output3.ponpapua.my.id/edge2/smil:Channel14_source.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZcgDvtF/Share-Ext-Pon-Papua.jpg"group-title="SHAREEXT@PON_PAPUAXX",PON_PapuaXX 15
+https://output3.ponpapua.my.id/edge2/smil:Channel15_source.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZcgDvtF/Share-Ext-Pon-Papua.jpg"group-title="SHAREEXT@PON_PAPUAXX",PON_PapuaXX 16
+https://output3.ponpapua.my.id/edge2/smil:Channel16_source.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",ZQsportTv
 https://six1.zqprem.com/zqscore/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",RingOfHonor
