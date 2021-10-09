@@ -234,6 +234,34 @@ http://93.152.174.144:4000/play/ss2in/index.m3u8
 http://173.199.120.51/hls/chsp2.m3u8
 
 
+EXTINF:-1 tvg-ID="" tvg-name="AS3" tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="ShareExt@PREMIUMMSport",ARENA3
+http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/179.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AS2" tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="ShareExt@PREMIUMMSport",ARENA2
+http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/178.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AS1" tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="ShareExt@PREMIUMMSport",ARENA1
+http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/177.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTSH Sport" tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="ShareExt@PREMIUMMSport",RTSH Sport
+http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/124.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring Super" tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="ShareExt@PREMIUMMSport",Tring Super
+http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/71.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring Sport News" tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="ShareExt@PREMIUMMSport",Tring Sport News
+http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/65.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring Sport 4 HD" tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="ShareExt@PREMIUMMSport",Tring Sport 4 HD
+http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/60.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring Sport 3 HD" tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="ShareExt@PREMIUMMSport",Tring Sport 3 HD
+http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/61.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring Sport 2 HD" tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="ShareExt@PREMIUMMSport",Tring Sport 2 HD
+http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/62.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring Sport 1 HD" tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="ShareExt@PREMIUMMSport",Tring Sport 1 HD
+http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/63.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rai Sport" tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="ShareExt@PREMIUMMSport",Rai Sport
+http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/49.ts
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",BeinSport1(true)
 https://cloudserver.server-cdn-streaming.com/live-player/2/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",BTsportHD1
