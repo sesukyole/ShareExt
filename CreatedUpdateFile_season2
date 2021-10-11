@@ -454,44 +454,6 @@ http://177.71.71.83:8000/play/off
 
 
 
-#EXTINF:-1 tvg-id="RTM Sports" tvg-name="RTM Sports" tvg-logo="https://i.ibb.co/zVKhdjR/rtm.png" group-title="ShareExt@PREMIUMMSport",RTM Sports
-http://foctv.xyz:25510/Amir5641/YY5641/146
-#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="ShareExt@PREMIUMMSport",ArenaSports
-http://foctv.xyz:25510/Amir5641/YY5641/147
-#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP_A" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="ShareExt@PREMIUMMSport",ASSP1
-http://foctv.xyz:25510/Amir5641/YY5641/148
-#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2_A" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="ShareExt@PREMIUMMSport",ASSP2
-http://foctv.xyz:25510/Amir5641/YY5641/149
-#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3_B" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="ShareExt@PREMIUMMSport",ASSP3
-http://foctv.xyz:25510/Amir5641/YY5641/232
-#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4_B" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="ShareExt@PREMIUMMSport",ASSP4
-http://foctv.xyz:25510/Amir5641/YY5641/249
-#EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="beIN Sports 1 ID" tvg-logo="https://i.ibb.co/PM0qNz8/hdg.png" group-title="ShareExt@PREMIUMMSport",beINSports 1 ID
-http://foctv.xyz:25510/Amir5641/YY5641/155
-#EXTINF:-1 tvg-id="beINSports2.MACAN" tvg-name="beIN Sports 2 ID" tvg-logo="https://i.ibb.co/5vfCzNb/was.png" group-title="ShareExt@PREMIUMMSport",beINSports 2 ID
-http://foctv.xyz:25510/Amir5641/YY5641/156
-#EXTINF:-1 tvg-id="" tvg-name="Champions 1" tvg-logo="https://i.ibb.co/47f0Fvt/etwq.png" group-title="ShareExt@PREMIUMMSport",Champions 1
-http://foctv.xyz:25510/Amir5641/YY5641/157
-#EXTINF:-1 tvg-id="" tvg-name="Champions 2" tvg-logo="https://i.ibb.co/bdC18Cx/zsfr.png" group-title="ShareExt@PREMIUMMSport",Champions 2
-http://foctv.xyz:25510/Amir5641/YY5641/158
-#EXTINF:-1 tvg-id="" tvg-name="Usee Sport 1" tvg-logo="https://i.ibb.co/sJY8zst/usport.png" group-title="ShareExt@PREMIUMMSport",Usee Sport 1
-http://foctv.xyz:25510/Amir5641/YY5641/241
-#EXTINF:-1 tvg-id="" tvg-name="Usee Sport 2" tvg-logo="https://i.ibb.co/sJY8zst/usport.png" group-title="ShareExt@PREMIUMMSport",Usee Sport 2
-http://foctv.xyz:25510/Amir5641/YY5641/242
-#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://i.ibb.co/kKbY94c/wwe.png" group-title="ShareExt@PREMIUMMSport",WWE
-http://foctv.xyz:25510/Amir5641/YY5641/350
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport" tvg-logo="https://i.ibb.co/4ZNgGVx/eu.png" group-title="ShareExt@PREMIUMMSport",Eurosport
-http://foctv.xyz:25510/Amir5641/YY5641/328
-#EXTINF:-1 tvg-id="" tvg-name="Rugby TV" tvg-logo="https://i.ibb.co/XbNF7Bq/rugby.png" group-title="ShareExt@PREMIUMMSport",Rugby TV
-http://foctv.xyz:25510/Amir5641/YY5641/337
-#EXTINF:-1 tvg-id="" tvg-name="NBC Golf" tvg-logo="https://i.ibb.co/7S24MGc/adh.png" group-title="ShareExt@PREMIUMMSport",NBC Golf
-http://foctv.xyz:25510/Amir5641/YY5641/159
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://i.ibb.co/J7Hs50x/vs.png" group-title="ShareExt@PREMIUMMSport",NBA TV
-http://foctv.xyz:25510/Amir5641/YY5641/160
-#EXTINF:-1 tvg-id="" tvg-name="Fight Sport" tvg-logo="https://i.ibb.co/qRkkPwS/ewry.png" group-title="ShareExt@PREMIUMMSport",FightSport
-http://foctv.xyz:25510/Amir5641/YY5641/161
-#EXTINF:-1 tvg-id="eGG.MACAN" tvg-name="eGG TV" tvg-logo="https://i.ibb.co/vkvd2d6/swce.png" group-title="ShareExt@PREMIUMMSport",eGG TV
-http://foctv.xyz:25510/Amir5641/YY5641/162
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",CCTVsportCH4
 http://103.233.191.133/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",LaoChampa1
@@ -679,33 +641,6 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@Arabian_BEINSPORTS",beINSportsPremium1HD
-http://172.107.226.94:25461/upvckuzx/rgdfdh/1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@Arabian_BEINSPORTS",beINSportsPremium2HD
-http://172.107.226.94:25461/upvckuzx/rgdfdh/2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@Arabian_BEINSPORTS",beINSportsPremium3HD
-http://172.107.226.94:25461/upvckuzx/rgdfdh/3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@Arabian_BEINSPORTS",beINSports1HD
-http://172.107.226.94:25461/upvckuzx/rgdfdh/4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@Arabian_BEINSPORTS",beINSports2HD
-http://172.107.226.94:25461/upvckuzx/rgdfdh/5
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@Arabian_BEINSPORTS",beINSports3HD
-http://172.107.226.94:25461/upvckuzx/rgdfdh/6
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@Arabian_BEINSPORTS",beINSports4HD
-http://172.107.226.94:25461/upvckuzx/rgdfdh/7
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@Arabian_BEINSPORTS",beINSports5HD
-http://172.107.226.94:25461/upvckuzx/rgdfdh/8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@Arabian_BEINSPORTS",SPORTS-ON-TIME-1
-http://172.107.226.94:25461/upvckuzx/rgdfdh/17
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@Arabian_BEINSPORTS",SPORTS-ON-TIME-2
-http://172.107.226.94:25461/upvckuzx/rgdfdh/18
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@Arabian_BEINSPORTS",SPORTS-ON-TIME-3
-http://172.107.226.94:25461/upvckuzx/rgdfdh/19
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@Arabian_BEINSPORTS",BeinSportXtra 1 HD
-http://172.107.226.94:25461/upvckuzx/rgdfdh/20
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@Arabian_BEINSPORTS",BeinSportXtra 2 HD
-http://172.107.226.94:25461/upvckuzx/rgdfdh/21
 
 
 
@@ -1037,143 +972,6 @@ http://eurotv.vip:80/60/60/51444
 
 
 
-
-#EXTINF:-1 tvg-id="AEC" tvg-name="Astro AEC" tvg-logo="https://i.ibb.co/hHr5H0c/aec.png" group-title="SHAREEXT@FAMILY_MOVIES",AEC
-http://foctv.xyz:25510/Amir5641/YY5641/43
-#EXTINF:-1 tvg-id="AOD" tvg-name="Astro AOD" tvg-logo="https://i.ibb.co/0C0B6N1/ojp.png" group-title="SHAREEXT@FAMILY_MOVIES",AOD
-http://foctv.xyz:25510/Amir5641/YY5641/44
-#EXTINF:-1 tvg-id="" tvg-name="Wah Lai Toi" tvg-logo="https://i.ibb.co/DM8VsBC/wah.png" group-title="SHAREEXT@FAMILY_MOVIES",WahLaiToi
-http://foctv.xyz:25510/Amir5641/YY5641/45
-#EXTINF:-1 tvg-id="HUAHEITAI" tvg-name="Hua Hee Tai" tvg-logo="https://i.ibb.co/JF5Xnb3/hua.png" group-title="SHAREEXT@FAMILY_MOVIES",HuaHeeTai
-http://foctv.xyz:25510/Amir5641/YY5641/46
-#EXTINF:-1 tvg-id="QUANJIA" tvg-name="Quan Jia" tvg-logo="https://i.ibb.co/nf47yDP/quan.png" group-title="SHAREEXT@FAMILY_MOVIES",QuanJia
-http://foctv.xyz:25510/Amir5641/YY5641/47
-#EXTINF:-1 tvg-id="IQIYI" tvg-name="IQiyi" tvg-logo="https://i.ibb.co/PmF1dwz/iq.png" group-title="SHAREEXT@FAMILY_MOVIES",IQiyi
-http://foctv.xyz:25510/Amir5641/YY5641/48
-#EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="Celestial Movies" tvg-logo="https://i.ibb.co/HtFTY5p/CCMB.png" group-title="SHAREEXT@FAMILY_MOVIES",CelestialMovies
-http://foctv.xyz:25510/Amir5641/YY5641/49
-#EXTINF:-1 tvg-id="CCM.MACAN" tvg-name="Celestial Classic Movies_A" tvg-logo="https://i.ibb.co/DWBbYKb/CCM.png" group-title="SHAREEXT@FAMILY_MOVIES",CCM_A
-http://foctv.xyz:25510/Amir5641/YY5641/50
-#EXTINF:-1 tvg-id="CCM.MACAN" tvg-name="Celestial Classic Movies_B" tvg-logo="https://i.ibb.co/DWBbYKb/CCM.png" group-title="SHAREEXT@FAMILY_MOVIES",CCM_B
-http://foctv.xyz:25510/Amir5641/YY5641/51
-#EXTINF:-1 tvg-id="SCMLegend.MACAN" tvg-name="SCM Legend" tvg-logo="https://i.ibb.co/4pdggvS/SCML.png" group-title="SHAREEXT@FAMILY_MOVIES",SCM Legend
-http://foctv.xyz:25510/Amir5641/YY5641/52
-#EXTINF:-1 tvg-id="SCM.MACAN" tvg-name="Star Chinese Movies" tvg-logo="https://i.ibb.co/8ckFTS0/STAR.png" group-title="SHAREEXT@FAMILY_MOVIES",StarChineseMovies
-http://foctv.xyz:25510/Amir5641/YY5641/53
-#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBO (B)" tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="SHAREEXT@FAMILY_MOVIES",HBO_A
-http://foctv.xyz:25510/Amir5641/YY5641/235
-#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBO (M)" tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="SHAREEXT@FAMILY_MOVIES",HBO(M)
-http://foctv.xyz:25510/Amir5641/YY5641/54
-#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBO (ID)" tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="SHAREEXT@FAMILY_MOVIES",HBO(ID)
-http://foctv.xyz:25510/Amir5641/YY5641/346
-#EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="SHAREEXT@FAMILY_MOVIES",HBO Hits
-http://foctv.xyz:25510/Amir5641/YY5641/55
-#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/F8P2mxK/cccc.png" group-title="SHAREEXT@FAMILY_MOVIES",HBO Family
-http://foctv.xyz:25510/Amir5641/YY5641/56
-#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/gM7NfQ4/SS.png" group-title="SHAREEXT@FAMILY_MOVIES",HBO Signature
-http://foctv.xyz:25510/Amir5641/YY5641/57
-#EXTINF:-1 tvg-id="FOXMoviesPremiumHD.MACAN" tvg-name="FOX Movies Premium" tvg-logo="https://i.ibb.co/0jWGJw1/hjt.png" group-title="SHAREEXT@FAMILY_MOVIES",FOxMoviesPremium
-http://foctv.xyz:25510/Amir5641/YY5641/58
-#EXTINF:-1 tvg-id="FOXActionMoviesHD.MACAN" tvg-name="FOX Action Movies" tvg-logo="https://i.ibb.co/Fb5YRZG/vvvv.png" group-title="SHAREEXT@FAMILY_MOVIES",FOXactionMovies
-http://foctv.xyz:25510/Amir5641/YY5641/59
-#EXTINF:-1 tvg-id="FOXFamilyMoviesHD.MACAN" tvg-name="FOX Family Movies (EN)" tvg-logo="https://i.ibb.co/D77Kd2c/sfrsw.png" group-title="SHAREEXT@FAMILY_MOVIES",FOXfamilyMovies(EN)
-http://foctv.xyz:25510/Amir5641/YY5641/60
-#EXTINF:-1 tvg-id="FOXFamilyMoviesHD.MACAN" tvg-name="FOX Family Movies (ID)" tvg-logo="https://i.ibb.co/D77Kd2c/sfrsw.png" group-title="SHAREEXT@FAMILY_MOVIES",FOXfamilyMovies(ID)
-http://foctv.xyz:25510/Amir5641/YY5641/61
-#EXTINF:-1 tvg-id="&Flix HD" tvg-name="&Flix HD" tvg-logo="https://i.ibb.co/HGvLHCW/flix.png" group-title="SHAREEXT@FAMILY_MOVIES",&Flix HD
-http://foctv.xyz:25510/Amir5641/YY5641/141
-#EXTINF:-1 tvg-id="And prive HD" tvg-name="&Prive HD (Testing)" tvg-logo="https://i.ibb.co/pzT2R3L/prive.png" group-title="SHAREEXT@FAMILY_MOVIES",&Prive HD
-http://foctv.xyz:25510/Amir5641/YY5641/63
-#EXTINF:-1 tvg-id="STAR Movies HD" tvg-name="Star Movies (FHD)" tvg-logo="https://i.ibb.co/0r0rNmL/star2.png" group-title="SHAREEXT@FAMILY_MOVIES",StarMovies(FHD)
-http://foctv.xyz:25510/Amir5641/YY5641/220
-#EXTINF:-1 tvg-id="STAR Movies Select HD" tvg-name="Star Movie Select (Testing)" tvg-logo="https://i.ibb.co/TwQW9vw/star1.png" group-title="SHAREEXT@FAMILY_MOVIES",StarMovie Select
-http://foctv.xyz:25510/Amir5641/YY5641/221
-#EXTINF:-1 tvg-id="SONY PIX" tvg-name="SONY Pix (FHD)" tvg-logo="https://i.ibb.co/ymCPqwd/pix.png" group-title="SHAREEXT@FAMILY_MOVIES",SONYpix(FHD)
-http://foctv.xyz:25510/Amir5641/YY5641/223
-#EXTINF:-1 tvg-id="MNX HD" tvg-name="MNX HD (FHD)" tvg-logo="https://i.ibb.co/2yN1dXR/mnx.png" group-title="SHAREEXT@FAMILY_MOVIES",MNX HD(FHD)
-http://foctv.xyz:25510/Amir5641/YY5641/222
-#EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/tz61VMJ/CINE.png" group-title="SHAREEXT@FAMILY_MOVIES",Cinemax
-http://foctv.xyz:25510/Amir5641/YY5641/65
-#EXTINF:-1 tvg-id="" tvg-name="Galaxy" tvg-logo="https://i.ibb.co/y8mYp3m/KM.png" group-title="SHAREEXT@FAMILY_MOVIES",Galaxy
-http://foctv.xyz:25510/Amir5641/YY5641/66
-#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium" tvg-logo="https://i.ibb.co/KDtzx9N/GALA.png" group-title="SHAREEXT@FAMILY_MOVIES",Galaxy Premium
-http://foctv.xyz:25510/Amir5641/YY5641/67
-#EXTINF:-1 tvg-id="HITSMovies.MACAN" tvg-name="HITS Movies" tvg-logo="https://i.ibb.co/pvtZymR/HITSM.png" group-title="SHAREEXT@FAMILY_MOVIES",HITS Movies
-http://foctv.xyz:25510/Amir5641/YY5641/68
-#EXTINF:-1 tvg-id="" tvg-name="CinemaWorld" tvg-logo="https://i.ibb.co/GTwmZ6y/GD.png" group-title="SHAREEXT@FAMILY_MOVIES",CinemaWorld
-http://foctv.xyz:25510/Amir5641/YY5641/69
-#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/SsZmZyZ/THRILL.png" group-title="SHAREEXT@FAMILY_MOVIES",Thrill
-http://foctv.xyz:25510/Amir5641/YY5641/70
-#EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="https://i.ibb.co/2tLWNGj/IMC.png" group-title="SHAREEXT@FAMILY_MOVIES",IMC
-http://foctv.xyz:25510/Amir5641/YY5641/71
-#EXTINF:-1 tvg-id="" tvg-name="Flik" tvg-logo="https://i.ibb.co/dKCktbq/FLIK.png" group-title="SHAREEXT@FAMILY_MOVIES",Flik
-http://foctv.xyz:25510/Amir5641/YY5641/72
-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Indonesia" tvg-logo="https://i.ibb.co/n8RTy91/MLML.png" group-title="SHAREEXT@FAMILY_MOVIES",BioskopIndonesia
-http://foctv.xyz:25510/Amir5641/YY5641/73
-#EXTINF:-1 tvg-id="KIX.MACAN" tvg-name="KIX (C)" tvg-logo="https://i.ibb.co/JnkYkJZ/KIX.png" group-title="SHAREEXT@FAMILY_MOVIES",KIX(C)
-http://foctv.xyz:25510/Amir5641/YY5641/74
-#EXTINF:-1 tvg-id="KIX.MACAN" tvg-name="KIX (M)" tvg-logo="https://i.ibb.co/JnkYkJZ/KIX.png" group-title="SHAREEXT@FAMILY_MOVIES",KIX(M)
-http://foctv.xyz:25510/Amir5641/YY5641/75
-#EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-name="AXN" tvg-logo="https://i.ibb.co/nC2W1KT/azx.png" group-title="SHAREEXT@FAMILY_MOVIES",AXN
-http://foctv.xyz:25510/Amir5641/YY5641/76
-#EXTINF:-1 tvg-id="HGTV.MACAN" tvg-name="HGTV" tvg-logo="https://i.ibb.co/jfF9CGJ/hfgdgf.png" group-title="SHAREEXT@FAMILY_MOVIES",HGTV
-http://foctv.xyz:25510/Amir5641/YY5641/78
-#EXTINF:-1 tvg-id="WarnerTV.MACAN" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/GR4H1Tt/jjkj.png" group-title="SHAREEXT@FAMILY_MOVIES",WarnerTV
-http://foctv.xyz:25510/Amir5641/YY5641/79
-#EXTINF:-1 tvg-id="Lifetime.MACAN" tvg-name="Lifetime" tvg-logo="https://i.ibb.co/dmdgGrw/tyeer.png" group-title="SHAREEXT@FAMILY_MOVIES",Lifetime
-http://foctv.xyz:25510/Amir5641/YY5641/80
-#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment" tvg-logo="https://i.ibb.co/7jpK2DZ/khjk.png" group-title="SHAREEXT@FAMILY_MOVIES",BlueAntEntertainment
-http://foctv.xyz:25510/Amir5641/YY5641/81
-#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Extreme" tvg-logo="https://i.ibb.co/TMFZhC4/rgdf.png" group-title="SHAREEXT@FAMILY_MOVIES",BlueAntExtreme
-http://foctv.xyz:25510/Amir5641/YY5641/82
-#EXTINF:-1 tvg-id="FOX.MACAN" tvg-name="FOX" tvg-logo="https://i.ibb.co/jZ8kfkC/ryey.png" group-title="SHAREEXT@FAMILY_MOVIES",FOX
-http://foctv.xyz:25510/Amir5641/YY5641/83
-#EXTINF:-1 tvg-id="FOXCrime.MACAN" tvg-name="FOX Crime" tvg-logo="https://i.ibb.co/mJgZW9T/uuuk.png" group-title="SHAREEXT@FAMILY_MOVIES",FOX Crime
-http://foctv.xyz:25510/Amir5641/YY5641/84
-#EXTINF:-1 tvg-id="FoxLife.MACAN" tvg-name="FOX Life" tvg-logo="https://i.ibb.co/7z3Rx3j/jtth.png" group-title="SHAREEXT@FAMILY_MOVIES",FOX Life
-http://foctv.xyz:25510/Amir5641/YY5641/85
-#EXTINF:-1 tvg-id="Hits.MACAN" tvg-name="HITS" tvg-logo="https://i.ibb.co/D771crF/HITS.png" group-title="SHAREEXT@FAMILY_MOVIES",HITS
-http://foctv.xyz:25510/Amir5641/YY5641/86
-#EXTINF:-1 tvg-id="CrimeInvestigation.MACAN" tvg-name="Crime Investigation" tvg-logo="https://i.ibb.co/xMTGjYM/CRIME.png" group-title="SHAREEXT@FAMILY_MOVIES",CrimeInvestigation
-http://foctv.xyz:25510/Amir5641/YY5641/87
-#EXTINF:-1 tvg-id="Animax.MACAN" tvg-name="Animax" tvg-logo="https://i.ibb.co/k8Xw5R5/ANIMAX.png" group-title="SHAREEXT@FAMILY_MOVIES",Animax
-http://foctv.xyz:25510/Amir5641/YY5641/102
-#EXTINF:-1 tvg-id="Aniplus.id" tvg-name="Aniplus" tvg-logo="https://i.ibb.co/0KcgzHj/ANIPLUS.png" group-title="SHAREEXT@FAMILY_MOVIES",Aniplus
-http://foctv.xyz:25510/Amir5641/YY5641/103
-#EXTINF:-1 tvg-id="WAKUWAKUJAPAN.MACAN" tvg-name="Waku Waku Japan" tvg-logo="https://i.ibb.co/TcTMXwr/WAKU.png" group-title="SHAREEXT@FAMILY_MOVIES",WakuWakuJapan
-http://foctv.xyz:25510/Amir5641/YY5641/104
-#EXTINF:-1 tvg-id="GEMChannel.id" tvg-name="Sony GEM TV" tvg-logo="https://i.ibb.co/x64s18m/GEM.png" group-title="SHAREEXT@FAMILY_MOVIES",SonyGEM TV
-http://foctv.xyz:25510/Amir5641/YY5641/105
-#EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="Sony One (E)" tvg-logo="https://i.ibb.co/b6VfXKX/ONE.png" group-title="SHAREEXT@FAMILY_MOVIES",SonyOne(E)
-http://foctv.xyz:25510/Amir5641/YY5641/133
-#EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="Sony One (M)" tvg-logo="https://i.ibb.co/b6VfXKX/ONE.png" group-title="SHAREEXT@FAMILY_MOVIES",SonyOne
-http://foctv.xyz:25510/Amir5641/YY5641/134
-#EXTINF:-1 tvg-id="TVN.MACAN" tvg-name="tvN" tvg-logo="https://i.ibb.co/zxZMRh1/TVN.png" group-title="SHAREEXT@FAMILY_MOVIES",tvN
-http://foctv.xyz:25510/Amir5641/YY5641/135
-#EXTINF:-1 tvg-id="TVNMovies.MACAN" tvg-name="tvN Movies" tvg-logo="https://i.ibb.co/99hRDQH/TVNM.png" group-title="SHAREEXT@FAMILY_MOVIES",tvN Movies
-http://foctv.xyz:25510/Amir5641/YY5641/136
-#EXTINF:-1 tvg-id="Arirang.MACAN" tvg-name="Arirang" tvg-logo="https://i.ibb.co/VmHKBHZ/ARIRANG.png" group-title="SHAREEXT@FAMILY_MOVIES",Arirang
-http://foctv.xyz:25510/Amir5641/YY5641/137
-#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World_A" tvg-logo="https://i.ibb.co/2sLJBHR/KBS.png" group-title="SHAREEXT@FAMILY_MOVIES",KBS World_A
-http://foctv.xyz:25510/Amir5641/YY5641/138
-#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World_B" tvg-logo="https://i.ibb.co/2sLJBHR/KBS.png" group-title="SHAREEXT@FAMILY_MOVIES",KBS World_B
-http://foctv.xyz:25510/Amir5641/YY5641/139
-#EXTINF:-1 tvg-id="" tvg-name="K+" tvg-logo="https://i.ibb.co/xj5SPZj/KPLUS.png" group-title="SHAREEXT@FAMILY_MOVIES",K+
-http://foctv.xyz:25510/Amir5641/YY5641/140
-#EXTINF:-1 tvg-id="SONY.MAX.HD" tvg-name="Sony MAX" tvg-logo="https://i.ibb.co/CWVsM3N/sonymax.png" group-title="SHAREEXT@FAMILY_MOVIES",SonyMAX
-http://foctv.xyz:25510/Amir5641/YY5641/218
-#EXTINF:-1 tvg-id="Zee Cinema" tvg-name="ZEE Cinema" tvg-logo="https://i.ibb.co/1vrMDmM/ZEEC.png" group-title="SHAREEXT@FAMILY_MOVIES",ZEE Cinema
-http://foctv.xyz:25510/Amir5641/YY5641/212
-#EXTINF:-1 tvg-id="" tvg-name="ZEE Bioskop" tvg-logo="https://i.ibb.co/nnL6M6Z/ZEEB.png" group-title="SHAREEXT@FAMILY_MOVIES",ZEE Bioskop
-http://foctv.xyz:25510/Amir5641/YY5641/142
-#EXTINF:-1 tvg-id="BollyOne HD" tvg-name="Bollyone HD" tvg-logo="https://i.ibb.co/F0ftsHB/bollyone.png" group-title="SHAREEXT@FAMILY_MOVIES",Bollyone HD
-http://foctv.xyz:25510/Amir5641/YY5641/143
-#EXTINF:-1 tvg-id="Astro Vinmeen HD" tvg-name="Astro Vinmeen" tvg-logo="https://i.ibb.co/V9YCG5H/vinmeen.png" group-title="SHAREEXT@FAMILY_MOVIES",Vinmeen
-http://foctv.xyz:25510/Amir5641/YY5641/144
-#EXTINF:-1 tvg-id="Astro Vaanavil" tvg-name="Astro Vaanavil" tvg-logo="https://i.ibb.co/9vBBQzT/Vanavil.png" group-title="SHAREEXT@FAMILY_MOVIES",Vaanavil
-http://foctv.xyz:25510/Amir5641/YY5641/145
-#EXTINF:-1 tvg-id="BOO" tvg-name="Astro BOO (ENG)" tvg-logo="https://i.ibb.co/DLFXxsk/boo.png" group-title="SHAREEXT@FAMILY_MOVIES",BOO
-http://foctv.xyz:25510/Amir5641/YY5641/33
 
 
 
@@ -4796,6 +4594,8 @@ https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37466
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37467
 #EXTINF:-1 tvg-id="" tvg-name="MY - Astro Aura HD" tvg-logo="" group-title="Astro",MY - Astro Aura HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37468
+#EXTINF:-1 tvg-id="" tvg-name="MY_ASTRO VINMEEN_HD" tvg-logo="" group-title="Astro Stable",MY_ASTRO VINMEEN_HD
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/38806
 
 
 
