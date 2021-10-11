@@ -5437,6 +5437,97 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="NL051:HBO 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL051HBO2.png" group-title="SHAREEXT@HBO_VIP",HBO3(nederland)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31480
+#EXTINF:-1 tvg-id="" tvg-name="NL053:HBO+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL053HBO.png" group-title="SHAREEXT@HBO_VIP",HB0+(nederland)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31478
+#EXTINF:-1 tvg-id="" tvg-name="NL116:HBO 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL116HBO2HD.png" group-title="SHAREEXT@HBO_VIP",HBO2HD(nederland)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31415
+#EXTINF:-1 tvg-id="hbo2.pl" tvg-name="PL062:HBO 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL062HBO2FHD.png" group-title="SHAREEXT@HBO_VIP",HBO2(poland)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/33470
+#EXTINF:-1 tvg-id="hbo3.pl" tvg-name="PL063:HBO 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL063HBO3FHD.png" group-title="SHAREEXT@HBO_VIP",HBO3(poland)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/33469
+#EXTINF:-1 tvg-id="hbo.pl" tvg-name="PL064:HBO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL064HBOHD.png" group-title="SHAREEXT@HBO_VIP",HBO HD(poland)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/33468
+#EXTINF:-1 tvg-id="" tvg-name="AL260:X HBO Gold 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL260XGoldHD.png" group-title="SHAREEXT@HBO_VIP",XHBO Gold1(albania)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/30374
+#EXTINF:-1 tvg-id="film.aksion.al" tvg-name="X HBO Gold 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL016SkyAksion.png" group-title="SHAREEXT@HBO_VIP",XHBO Gold2(albania)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/30618
+#EXTINF:-1 tvg-id="" tvg-name="AL071:X HBO Gold 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL071TVCHFHD.png" group-title="SHAREEXT@HBO_VIP",XHBO Gold4(albania)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/30563
+#EXTINF:-1 tvg-id="" tvg-name="AL191:HBO 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL191HBO2.png" group-title="SHAREEXT@HBO_VIP",HBO2(albania)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/30443
+#EXTINF:-1 tvg-id="" tvg-name="AL192:HBO 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL192HBO3.png" group-title="SHAREEXT@HBO_VIP",HBO3(albania)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/30442
+#EXTINF:-1 tvg-id="klan.kosova.al" tvg-name="AL077:X HBO Gold 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL077KLANKOSOVAHD.png" group-title="SHAREEXT@HBO_VIP",XHBO Gold3(albania)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/30557
+#EXTINF:-1 tvg-id="" tvg-name="YU062:HBO 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL053HBO.png" group-title="SHAREEXT@HBO_VIP",HBO1(yugoslavia)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/49264
+#EXTINF:-1 tvg-id="" tvg-name="YU063:HBO 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL053HBO.png" group-title="SHAREEXT@HBO_VIP",HBO2(yugoslavia)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/49263
+#EXTINF:-1 tvg-id="" tvg-name="YU064:HBO 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL053HBO.png" group-title="SHAREEXT@HBO_VIP",HBO3(yugoslavia)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/49262
+#EXTINF:-1 tvg-id="" tvg-name="YU065:HBO Adria" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL053HBO.png" group-title="SHAREEXT@HBO_VIP",HBO Adria(yugoslavia)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/49261
+#EXTINF:-1 tvg-id="" tvg-name="SI012:HBO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL053HBO.png" group-title="SHAREEXT@HBO_VIP",HBO(slovenia)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/57916
+#EXTINF:-1 tvg-id="" tvg-name="SI013:HBO 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL053HBO.png" group-title="SHAREEXT@HBO_VIP",HBO2(slovenia)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/57915
+#EXTINF:-1 tvg-id="" tvg-name="SI014:HBO 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL053HBO.png" group-title="SHAREEXT@HBO_VIP",HBO3(slovenia)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/57914
+#EXTINF:-1 tvg-id="" tvg-name="MK001:HBO 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL053HBO.png" group-title="SHAREEXT@HBO_VIP",HBO2(macedonia)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/49642
+#EXTINF:-1 tvg-id="" tvg-name="MK002:HBO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL053HBO.png" group-title="SHAREEXT@HBO_VIP",HBO HD(macedonia)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/49641
+#EXTINF:-1 tvg-id="" tvg-name="MK003:HBO 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL053HBO.png" group-title="SHAREEXT@HBO_VIP",HBO3 HD(macedonia)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/49640
+#EXTINF:-1 tvg-id="" tvg-name="HR015:HBO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL053HBO.png" group-title="SHAREEXT@HBO_VIP",HBO(croatia)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/46243
+#EXTINF:-1 tvg-id="" tvg-name="HR016:HBO 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL053HBO.png" group-title="SHAREEXT@HBO_VIP",HBO2(croatia)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/46242
+#EXTINF:-1 tvg-id="" tvg-name="HR038:HBO 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL053HBO.png" group-title="SHAREEXT@HBO_VIP",HBO3(croatia)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/49988
+#EXTINF:-1 tvg-id="" tvg-name="BE035:HBO 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL053HBO.png" group-title="SHAREEXT@HBO_VIP",HBO1(belgia)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/30666
+#EXTINF:-1 tvg-id="" tvg-name="BG017:HBO 2 HD 1080" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL053HBO.png" group-title="SHAREEXT@HBO_VIP",HBO2(bulgaria)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/30809
+#EXTINF:-1 tvg-id="" tvg-name="BG018:HBO 3 HD 1080" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL053HBO.png" group-title="SHAREEXT@HBO_VIP",HBO3(bulgaria)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/30808
+#EXTINF:-1 tvg-id="hbo.hu" tvg-name="HU056:HBO 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL053HBO.png" group-title="SHAREEXT@HBO_VIP",HBO1(hungaria)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31295
+#EXTINF:-1 tvg-id="hbo.2.hu" tvg-name="HU057:HBO 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL053HBO.png" group-title="SHAREEXT@HBO_VIP",HBO2(hungaria)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31294
+#EXTINF:-1 tvg-id="hbo.3.hu" tvg-name="HU058:HBO 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL053HBO.png" group-title="SHAREEXT@HBO_VIP",HBO3(hungaria)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31293
+#EXTINF:-1 tvg-id="" tvg-name="RUS008:Amedia HBO 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL053HBO.png" group-title="SHAREEXT@HBO_VIP",AmediaHBO1(rusia)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/52280
+#EXTINF:-1 tvg-id="" tvg-name="RUS100:Amedia HBO 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL053HBO.png" group-title="SHAREEXT@HBO_VIP",AmediaHBO2(rusia)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/52188
+
+
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="BR054:HBO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR054HBOBR.png" group-title="SHAREEXT@HBO_VIP",HBO(brazilia)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/2478
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="BR052:HBO 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR052HBO2BR.png" group-title="SHAREEXT@HBO_VIP",HBO2HD(brazilia)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/2480
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="BR053:HBO Family HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR053HBOFamilyBR.png" group-title="SHAREEXT@HBO_VIP",HBO FamilyHD(brazilia)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/2479
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="BR055:HBO Plus HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR055HBOPlusBR.png" group-title="SHAREEXT@HBO_VIP",HBO Plus HD(brazilia)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/2477
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="BR056:HBO Signature HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR056HBOSignatureBR.png" group-title="SHAREEXT@HBO_VIP",HBO SignatureHD(brazilia)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/2476
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="BR197:Hbo Xtreme SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR197HboXtremeSD.png" group-title="SHAREEXT@HBO_VIP",HboXtreme(brazilia)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/65752
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="BR190:Hbo Mundi SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR190HboMundiSD.png" group-title="SHAREEXT@HBO_VIP",HboMundi(brazilia)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/65745
+
+#EXTINF:-1 tvg-id="" tvg-name="LA067:HBO LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA067HBOLA.png" group-title="SHAREEXT@HBO_VIP",HBO(latino)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/57990
+#EXTINF:-1 tvg-id="" tvg-name="LA068:HBO 2 LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA068HBO2LA.png" group-title="SHAREEXT@HBO_VIP",HBO2(latino)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/57989
+#EXTINF:-1 tvg-id="" tvg-name="LA069:HBO Family LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA069HBOFamilyLA.png" group-title="SHAREEXT@HBO_VIP",HBO Family(latino)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/57988
+#EXTINF:-1 tvg-id="" tvg-name="LA070:HBO Signature LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA070HBOSignatureLA.png" group-title="SHAREEXT@HBO_VIP",HBO Signature(latino)
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/57987
 
 
 
