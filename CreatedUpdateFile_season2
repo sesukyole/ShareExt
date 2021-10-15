@@ -3585,6 +3585,19 @@ https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist.m3u8
 
 
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Fashion HD
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Ptv home
+https://live.ptv.com.pk/live/stream/ptvhome/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Ptv world
+https://live.ptv.com.pk/live/ptvworld/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",DISNEP CHANNEL
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
 
