@@ -4955,22 +4955,6 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Bali TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
 
@@ -5039,6 +5023,369 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/magnatv.png" group-title="ShareExt@VIDIO",Magna TV
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_ShareExt_b3884000_sleng.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Berita Satu World
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Berita Satu English
+https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Biznet Adventure
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdyv_lWVEr0cSEOBCkIyfTS
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Biznet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Aljazeera
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=aljazeera
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Animax
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=animax
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",AniPlus
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=aniplus
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Antara TV
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=antara
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Arirang
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=arirang
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Asian Food Network
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=afc
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",AXN
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=axn
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Baby First
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=babyfirst
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Bali TV
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=balitv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",beIN Sport 1
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=bein1
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",beIN Sport 2
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=bein2
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV_BRO",Berita Satu
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=beritasatu
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Bioskop Indonesia
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=bioskopindonesia
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Bloomberg
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=bloomberg
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Blue Ant
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=blueant
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Blue Ant Extreme
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=blueantextreme
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Boomerang
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=boomerang
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Cartoon Network
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=cartoonnetwork
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",CCTV4
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=cctv4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Celestial Movies
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=celestialmovie
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",CGTN Documentary
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=cgtndocumentary
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Chinese Drama
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=chinesedrama
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Cinema World
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=cinemaworld
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Citra Dangdut
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=citradangdut
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Citra Drama
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=cdrama
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",CNBC Asia
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=cnbcasia
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",CNBC Indonesia
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=cnbcindonesia
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",CNN Indonesia
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=cnnindonesia
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",CNN International
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=cnninternational
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Crime Investigation
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=crimeinvestigation
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",CTI Asia
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=ctiasia
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Da Vinci Learning
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=davinci
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",DAAI TV
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=daaitv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Discovery
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=disco
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",DreamWorks
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=dreamworks
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",DreamWorks
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=dreamworks
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Dunia Anak
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=duniaanak
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Dunia Lain
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=dunialain
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",DW-TV
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=dwtv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Eat & Go
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=eatgo
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",EBC Asia
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=ettvasia
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",eGG Network
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=egg
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",El John TV
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=eljohn
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Euronews
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=euronews
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Fashion TV
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=fashiontv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Flik
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=flik
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Formosa
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=formosa
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",France 24
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=france24
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Galaxy
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=galaxy
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Galaxy Premium
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=galaxypremium
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",GOLF
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=golfplus
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",HGTV
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=hgtv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",History
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=history
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",History
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=history
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Horee
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=horee
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",I-Konser
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=ikonser
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",IDX
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=idx
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",IMC
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=imc
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",IndiKids
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=indikids
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Indosiar
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=indosiar
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",iNews
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=inews
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Insert
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=insert
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",JakTV
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=jaktv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",JTV
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=jtv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",KBS World
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=kbsworld
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",KIX
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=kix
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Kplus
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=kplus
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Kungfu TV
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=kungfutv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Lifetime
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=lifetime
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Lingua
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=lingua
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",MNC News
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=mncnews
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",MQTV
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=mqtv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",MShop Signature
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=mncshop
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",MTATV
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=mtatv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",MTV Live
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=mtvlive
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Muhammadiyah TV
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=muhammadiyahtv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",My Kids
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=mykids
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Nat Geo Channel
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=natgeo
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Nat Geo People
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=natgeopeople
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Nat Geo Wild
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=natgeowild
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",NBA-TV
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=nba
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",NHK World
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=nhkworld
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",NHK World Premium
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=nhkpremium
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Nick Junior
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=nickjr
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Nickelodeon
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=nickelodeon
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Nusantara TV
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=nusantaratv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Outdoor Channel
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=outdoor
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Prambors
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=pramborstv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Rodja TV
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=rodjatv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",RRI Net
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=rrinet
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",RTV
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=rtv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Ruang Trampil
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=useeinfo
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",SCTV
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=sctv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",SGEM
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=sgem
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",SONE
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=sone
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Tawaf TV
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=tawaftv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Thrill
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=thrill
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",TransTv
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=transtv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Trans7
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=trans7
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",TRT World
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=trtworld
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",TV Edukasi
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=tvedukasi
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",TV MUI
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=muitv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",TV5 Monde
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=tv5monde
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",TVN
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=tvn
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",TVN Movies
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=tvnmovies
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Usee Sports 1
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=useesport
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Usee Sports 2
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=useesports2
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Waku Waku Japan
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=wakuwaku
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",WarnerTV
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=warner
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@UseeTV",Zee Bioskop
+http://ott-navigator.my.id/USEETV-MPD/master.php?id=zbioskop
+
+
+
+
+
+
 
 
 
