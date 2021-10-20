@@ -132,6 +132,33 @@ https://iptv.mwafa.net/vidio/6898/index.m3u8?token=1999
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",FoxSport
+http://38.131.11.34:1080/play/a02k
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",BTsport1
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",BTspot2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",BTsport3
+http://93.152.174.144:4000/play/btsport3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",AduAyam
+https://z0gdu9jmgu.rtmp-now.com/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Champion1
+http://golive.cf/stream/champion1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Champion2
+http://golive.cf/stream/champion2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Champion3
+http://golive.cf/stream/champion3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",BeinSport5
+http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",Bein1(Usee)
+https://home-tv.web.id/RHS/juraganlelempd.m3u8?channel=bein1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",Bein2(Usee)
+https://home-tv.web.id/RHS/juraganlelempd.m3u8?channel=bein2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",UseeSport1
+https://home-tv.web.id/RHS/juraganlelempd.m3u8?channel=useesport
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",UseeSport2
+https://home-tv.web.id/RHS/juraganlelempd.m3u8?channel=useesports2
+
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro Cricket HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/edc8a9c38c820781eb4785f4e5ee89ca.png" group-title="ShareExt@PREMIUMMSport",Astro Cricket HD
 http://iptvtree.net:8080/Ainamanja/6a4fef36/157565
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="ShareExt@PREMIUMMSport",Astro SuperSport 1 HD
