@@ -122,6 +122,211 @@ https://iptv.mwafa.net/vidio/6898/index.m3u8?token=1999
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",MetroTv(Mncnow)
+https://liveanevia.mncnow.id/live/eds/MetroTV-RTX/sa_hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Tv One(Mncnow)
+https://liveanevia.mncnow.id/live/eds/TVONE-Decepticon/sa_hls/index.m3u8
+https://akamai.mncnow.id/live/eds/TVONE-Decepticon/sa_dash/TVONE-Decepticon.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",ANtv(Mncnow)
+https://liveanevia.mncnow.id/live/eds/ANTV-radeon/sa_hls/index.m3u8
+#https://liveanevia.mncnow.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
+#https://akamai.mncnow.id/live/eds/ANTV-radeon/sa_dash/ANTV-radeon.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",NET.(Mncnow)
+https://liveanevia.mncnow.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
+#https://akamai.mncnow.id/live/eds/NetTV-M1/sa_dash/NetTV-M1.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",TransTv(Mncnow)
+https://liveanevia.mncnow.id/live/eds/TRANSTV-autobot/sa_hls/index.m3u8
+https://akamai.mncnow.id/live/eds/TRANSTV-autobot/sa_dash/TRANSTV-autobot.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Trans7(Mncnow)
+https://liveanevia.mncnow.id/live/eds/TRANS7-transformer/sa_hls/index.m3u8
+https://akamai.mncnow.id/live/eds/TRANS7-transformer/sa_dash/TRANS7-transformer.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Indosiar(Mncnow)
+https://liveanevia.mncnow.id/live/eds/INDOSIAR-ryzen/sa_hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Sctv(Mncnow)
+https://liveanevia.mncnow.id/live/eds/SCTV-intel/sa_hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Gtv(Mncnow)
+https://liveanevia.mncnow.id/live/eds/GTV-Perjuangan/sa_hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Rcti(Mncnow)
+https://liveanevia.mncnow.id/live/eds/RCTI-Indonesia/sa_hls/index.m3u8
+#https://livetv01.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
+#https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",MncTv(Mncnow)
+https://liveanevia.mncnow.id/live/eds/MNCTV-Merdeka/sa_hls/index.m3u8
+#https://livetv01.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",I News(Mncnow)
+https://liveanevia.mncnow.id/live/eds/InewsTV-Agustus/sa_hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Idx(Mncnow)
+https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_499968=8-mp4a_66000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Mnc Life(Mncnow)
+https://anevia114.mncnow.id/live/eds/Life/sa_hls/Life-avc1_1000000=8-mp4a_66000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Bali TV(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Channel 4U(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Digione Maxstream(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Dunia Games TV(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",JakTV(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",JTV(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Kompas TV(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Kplus(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Magna Channel(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",MAX2U(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a7dd6824-bdac-4db9-af88-7adc5fb674b4)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Maxstream Music(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Metro TV(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",MTATV(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Rodja TV(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",RTV(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Ruang Trampil(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",SEA Today(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",The Indonesia Channel(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",TV Edukasi(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Usee Photo(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Usee Prime(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mta.png" group-title="ShareExt@MAXStream", MTA TV (MPD)(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mta.png" group-title="ShareExt@MAXStream", MTA TV(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rodjatv.png" group-title="ShareExt@MAXStream",RODJA TV (MPD)(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rodjatv.png" group-title="ShareExt@MAXStream",RODJA TV(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/useeprime.png" group-title="ShareExt@MAXStream", UseePrime (MPD(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/useeprime.png" group-title="ShareExt@MAXStream", UseePrime(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/ruangterampil.png" group-title="ShareExt@MAXStream", Ruang Trampil (MPD)(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/ruangterampil.png" group-title="ShareExt@MAXStream", Ruang Trampil(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/jaktv.png" group-title="ShareExt@MAXStream",JAK TV (MPD)(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/jaktv.png" group-title="ShareExt@MAXStream",JAK TV(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/jtv.png" group-title="ShareExt@MAXStream", JTV (MPD)(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/jtv.png" group-title="ShareExt@MAXStream", JTV(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/.png" group-title="ShareExt@MAXStream",MAXstream Music (MPD)(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/.png" group-title="ShareExt@MAXStream",MAXstream Music(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/.png" group-title="ShareExt@MAXStream",DIGIONE MAXstream (MPD)(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/.png" group-title="ShareExt@MAXStream",DIGIONE MAXstream(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/magnatv.png" group-title="ShareExt@MAXStream",Magna TV (MPD)(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/magnatv.png" group-title="ShareExt@MAXStream",Magna TV(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rtv.png" group-title="ShareExt@MAXStream",RTV (MPD)(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rtv.png" group-title="ShareExt@MAXStream",RTV(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/.png" group-title="ShareExt@MAXStream",Channel 4U (MPD)(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/.png" group-title="ShareExt@MAXStream",Channel 4U(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tic.png" group-title="ShareExt@MAXStream",The Indonesia Channel (MPD)(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tic.png" group-title="ShareExt@MAXStream",The Indonesia Channel(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/useephoto.png" group-title="ShareExt@MAXStream", Usee Photo (MPD)(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/useephoto.png" group-title="ShareExt@MAXStream", Usee Photo(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/balitv.png" group-title="ShareExt@MAXStream", Bali TV (MPD)(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/balitv.png" group-title="ShareExt@MAXStream", Bali TV(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/duniagames.png" group-title="ShareExt@MAXStream",Dunia Games TV (MPD(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/duniagames.png" group-title="ShareExt@MAXStream",Dunia Games TV(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvedukasi.png" group-title="ShareExt@MAXStream",TV Edukasi (MPD)(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvedukasi.png" group-title="ShareExt@MAXStream",TV Edukasi(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/metrotv.png" group-title="ShareExt@MAXStream",METRO TV (MPD)(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/metrotv.png" group-title="ShareExt@MAXStream",METRO TV(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/seatoday.png" group-title="ShareExt@MAXStream", SEA TODAY (MPD)(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/seatoday.png" group-title="ShareExt@MAXStream", SEA TODAY(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/kompastv.png" group-title="ShareExt@MAXStream",KOMPAS TV (MPD)(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/kompastv.png" group-title="ShareExt@MAXStream",KOMPAS TV(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/ls1.png" group-title="ShareExt@DENS_LOKAL_StreamTV",LiveStreaming1(dens)
+http://rr3.dens.tv/s/s100/live.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/ls2.png" group-title="ShareExt@DENS_LOKAL_StreamTV",LiveStreaming2(dens)
+http://210.210.155.35/session/6b5c7076-2ec7-11eb-9219-c81f66f89318/uq2663/h/h998/live.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/metrotv.png" group-title="ShareExt@DENS_LOKAL_StreamTV",METRO TV(dens)
+http://210.210.155.35:80/session/ee7383c6-2ece-11eb-a769-b82a72d63267/uq2663/h/h12/01.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvone.png" group-title="ShareExt@DENS_LOKAL_StreamTV",TV ONE(dens)
+http://210.210.155.35:80/session/46b1ce9e-2ecf-11eb-a83f-b82a72d63267/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/sctv.png" group-title="ShareExt@DENS_LOKAL_StreamTV",SCTV(dens)
+http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/indosiar.png" group-title="ShareExt@DENS_LOKAL_StreamTV",INDOSIAR(dens)
+http://210.210.155.35:80/session/91daacce-2ecf-11eb-8016-b82a72d63267/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/transtv.png" group-title="ShareExt@DENS_LOKAL_StreamTV",TRANS TV(dens)
+http://210.210.155.35:80/session/c6016ff6-2ecf-11eb-9242-b82a72d63267/x6bnqe/s/s252/01.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/antv.png" group-title="ShareExt@DENS_LOKAL_StreamTV",ANTV(dens)
+http://210.210.155.35:80/session/74698288-2ed3-11eb-82e0-c81f66f89318/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/denslifestyle.png" group-title="ShareExt@DENS_LOKAL_StreamTV",DENS Lifestyle(dens)
+http://210.210.155.35:80/session/c688c904-2ed6-11eb-9c1c-c81f66f89318/uq2663/h/h28/01.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/denslearning.png" group-title="ShareExt@DENS_LOKAL_StreamTV",DENS Learning Knowlegde(dens)
+http://210.210.155.35:80/session/e1e5a064-2ed6-11eb-a769-b82a72d63267/x6bnqe/s/s36/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/densshowbiz.png" group-title="ShareExt@DENS_LOKAL_StreamTV",DENS Showbiz(dens)
+http://210.210.155.35:80/session/25b72b82-2ed7-11eb-8e17-b82a72d63267/x6bnqe/s/s35/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/net.png" group-title="ShareExt@DENS_LOKAL_StreamTV",NET TV(dens)
+http://210.210.155.35:80/session/09d8ec3e-2ed7-11eb-a7c0-c81f66f89318/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/kompastv.png" group-title="ShareExt@DENS_LOKAL_StreamTV",KOMPAS TV(dens)
+http://210.210.155.35:80/session/7ed45662-2ed8-11eb-9063-b82a72d63267/qwr9ew/s/s104/01.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/elshinta.png" group-title="ShareExt@DENS_LOKAL_StreamTV",Elshinta TV(dens)
+http://210.210.155.35:80/session/9064e496-2ed8-11eb-9242-b82a72d63267/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvri.png" group-title="ShareExt@DENS_LOKAL_StreamTV",TVRI NASIONAL(dens)
+http://210.210.155.35:80/session/8468fbd6-2ed9-11eb-81ff-b82a72d63267/qwr9ew/s/s11/01.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rtv.png" group-title="ShareExt@DENS_LOKAL_StreamTV",RTV(dens)
+http://210.210.155.35:80/session/9d1b640c-2ed9-11eb-a7a0-c81f66f89318/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rodjatv.png" group-title="ShareExt@DENS_LOKAL_StreamTV",RODJA TV(dens)
+http://210.210.155.35:80/session/c8a56596-2ed9-11eb-a769-b82a72d63267/qwr9ew/s/s14/01.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/bs.png" group-title="ShareExt@DENS_LOKAL_StreamTV",BERITA SATU 
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/daaitv.png" group-title="ShareExt@DENS_LOKAL_StreamTV",DAAI INDONESIA(dens)
+http://210.210.155.35:80/session/07b13610-2edb-11eb-ae09-c81f66f89318/qwr9ew/s/s13/01.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" tvg-id=".SHINTA" tvg-name"SCTV _VIDIO" group-title="ShareExt@CODAY_VIDIO",SCTV _VIDIO
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a46a41c2a2a7270517f5ce8dd2f48fc68d
 
