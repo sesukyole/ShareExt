@@ -51,12 +51,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Citra drama
-http://golive.cf/stream/cdrama.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Citra bioskop
-http://golive.cf/stream/cbioskop.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Citra entertaind
-http://golive.cf/stream/cent.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Rcti
 https://iptv.mwafa.net/vidio/665/index.m3u8?token=1999
@@ -141,6 +135,16 @@ https://iptv.mwafa.net/vidio/6853/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",U Channel
 https://iptv.mwafa.net/vidio/6898/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Citra drama
+http://golive.cf/stream/cdrama.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Citra bioskop
+http://golive.cf/stream/cbioskop.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Citra entertaind
+http://golive.cf/stream/cent.m3u8
+
+
+
 
 
 
@@ -541,27 +545,27 @@ http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52860.m3u8
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52861.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5rscC42/Share-Ext-Supersport.jpg"group-title="ShareExt@SUKAN_AntaraBANGSA",AstroSport4
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52862.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@ShareExt@SUKAN_AntaraBANGSA",Beinsport news
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@SUKAN_AntaraBANGSA",Beinsport news
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/2296.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@ShareExt@SUKAN_AntaraBANGSA",BeinPremium1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@SUKAN_AntaraBANGSA",BeinPremium1
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/3244.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@ShareExt@SUKAN_AntaraBANGSA",Beinsport2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@SUKAN_AntaraBANGSA",Beinsport2
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/3245.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@ShareExt@SUKAN_AntaraBANGSA",Beinsport3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@SUKAN_AntaraBANGSA",Beinsport3
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/3246.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@ShareExt@SUKAN_AntaraBANGSA",Beinsport4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@SUKAN_AntaraBANGSA",Beinsport4
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/3247.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@ShareExt@SUKAN_AntaraBANGSA",Beinsport5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@SUKAN_AntaraBANGSA",Beinsport5
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/49383.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@ShareExt@SUKAN_AntaraBANGSA",Beinsport6
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@SUKAN_AntaraBANGSA",Beinsport6
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/49384.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@ShareExt@SUKAN_AntaraBANGSA",Beinsport7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@SUKAN_AntaraBANGSA",Beinsport7
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/49385.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@ShareExt@SUKAN_AntaraBANGSA",BeinPremium1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@SUKAN_AntaraBANGSA",BeinPremium1
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/49685.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@ShareExt@SUKAN_AntaraBANGSA",BeinPremium2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@SUKAN_AntaraBANGSA",BeinPremium2
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/49686.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@ShareExt@SUKAN_AntaraBANGSA",Beinsport max(mly)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@SUKAN_AntaraBANGSA",Beinsport max(mly)
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54193.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SUKAN_AntaraBANGSA",Eurosport(mly)
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54188.ts
