@@ -857,8 +857,16 @@ http://93.157.62.180/Supersport7/tracks-v1a1/mono.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpGjVM3r/Astro-SHAREEXTgroup.jpg"group-title="ShareExt@PREMIUMMSport",ASTRO CRICKET HD
+http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/139270
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpGjVM3r/Astro-SHAREEXTgroup.jpg"group-title="ShareExt@PREMIUMMSport",ASTRO SUPERSPORTS 1 FHD
+http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/139276
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpGjVM3r/Astro-SHAREEXTgroup.jpg"group-title="ShareExt@PREMIUMMSport",ASTRO SUPERSPORTS 2 FHD
+http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/139277
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpGjVM3r/Astro-SHAREEXTgroup.jpg"group-title="ShareExt@PREMIUMMSport",ASTRO SUPERSPORTS 3 FHD
+http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/139278
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpGjVM3r/Astro-SHAREEXTgroup.jpg"group-title="ShareExt@PREMIUMMSport",ASTRO SUPERSPORTS 4 FHD
+http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/139279
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",FoxSport
 http://38.131.11.34:1080/play/a02k
