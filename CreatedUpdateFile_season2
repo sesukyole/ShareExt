@@ -941,6 +941,13 @@ http://93.152.174.144:4000/play/btsport2/index.m3u8
 http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",AduAyam
 https://z0gdu9jmgu.rtmp-now.com/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",UseeSport1
+https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334856
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",UseeSport2
+https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334857
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Champion1
 http://golive.cf/stream/champion1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Champion2
