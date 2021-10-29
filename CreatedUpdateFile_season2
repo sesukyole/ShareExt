@@ -1220,14 +1220,14 @@ https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334856
 https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334857
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Champion1
+http://golive.cf/vidio/live-champion1.m3u8
 https://tsptv.my.id/Nding/vidionyet/champions1.m3u8
-http://golive.cf/stream/champion1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Champion2
+http://golive.cf/vidio/live-champion2.m3u8
 https://tsptv.my.id/Nding/vidionyet/champions2.m3u8
-http://golive.cf/stream/champion2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Champion3
+http://golive.cf/vidio/live-champion3.m3u8
 https://tsptv.my.id/Nding/vidionyet/champions3.m3u8
-http://golive.cf/stream/champion3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",BeinSport5
 http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
 
@@ -1360,11 +1360,6 @@ http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/49.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png"group-title="ShareExt@PREMIUMMSport",Setanta+
 http://portal.ott.pink/watch/49/video.m3u8?geo=auto&token=REGEN5F3F5B490BBA621768D06241D6D
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png"group-title="ShareExt@PREMIUMMSport",Beinsport1 Asia
-http://203.159.95.172:8081/live/bein01/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png"group-title="ShareExt@PREMIUMMSport",Beinsport2 Asia
-http://203.159.95.172:8081/live/bein02/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png"group-title="ShareExt@PREMIUMMSport",StarSports1 FHD+
 http://93.152.174.144:4000/play/ss1in/index.m3u8
@@ -1580,28 +1575,6 @@ https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",LaoChampa3
 https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Bein1
-http://31.220.41.88:8081/live/bein1.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Bein2
-http://31.220.41.88:8081/live/bein2.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Bein3
-http://31.220.41.88:8081/live/bein3.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Bein4
-http://31.220.41.88:8081/live/bein4.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Bein5
-http://31.220.41.88:8081/live/bein5.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Bein6
-http://31.220.41.88:8081/live/bein6.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Bein7
-http://31.220.41.88:8081/live/bein7.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Bein8
-http://31.220.41.88:8081/live/bein8.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Bein9
-http://31.220.41.88:8081/live/bein9.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Bein10
-http://31.220.41.88:8081/live/bein10.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Bein12
-http://31.220.41.88:8081/live/bein12.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",RTMsport
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",TNT SPORTS 5
@@ -1618,26 +1591,10 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",BeinSport1 prem
 http://tbo.lourlkour.xyz/live/6161655/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",SkysportCricket
-http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",DAZN1
-http://stream.tvtap.live:8081/live/it-dazn1.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",DAZN2
-http://stream.tvtap.live:8081/live/it-dazn2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Sony6HD
 http://103.153.39.34:8000/play/a043/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",StarSport3
 http://103.153.39.34:8000/play/a04a/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",SK2
-http://31.220.41.88:8081/live/klub2.stream/chunks.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",SK3
-http://31.220.41.88:8081/live/klub3.stream/chunks.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",BeinSport1fr
-http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",BeinSport2Fr
-http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",BeinSport3Fr
-http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",Ten1(setAuto)
 http://103.153.39.34:8000/play/a042/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",Ten2(setAuto)
@@ -1648,10 +1605,6 @@ http://103.153.39.34:8000/play/a049/index.m3u8
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",AstroArena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",TNT Sport
-http://31.220.41.87:8081/live/us-tnt.stream/chunks.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",NBCSN
-http://31.220.41.87:8081/live/nbcsn.stream/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",ElevenSport1 Poland
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",ElevenSport2 Poland
