@@ -1422,9 +1422,18 @@ https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 http://50.7.161.82:8278/streams/d/astrogolf_pye/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",ClaroSport
-http://201.168.205.12:8000/play/a0cm/index.m3u8
+#EXTINF:-1 group-title="ShareExt@PREMIUMMSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH__eUbK8rQsVg5cLjJqgKN_vbJvgcrXZlOA&usqp=CAU ",MatchTV
+http://pyramidsiptv.com:8080/mohamed/mohamed123/82236
+#EXTINF:-1 group-title="ShareExt@PREMIUMMSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH__eUbK8rQsVg5cLjJqgKN_vbJvgcrXZlOA&usqp=CAU ",Match!Planeta
+http://pyramidsiptv.com:8080/mohamed/mohamed123/82235
+#EXTINF:-1 group-title="ShareExt@PREMIUMMSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH__eUbK8rQsVg5cLjJqgKN_vbJvgcrXZlOA&usqp=CAU ",MatchPremier
+http://pyramidsiptv.com:8080/mohamed/mohamed123/82234
+#EXTINF:-1 group-title="ShareExt@PREMIUMMSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH__eUbK8rQsVg5cLjJqgKN_vbJvgcrXZlOA&usqp=CAU ",MatchFootball 3
+http://pyramidsiptv.com:8080/mohamed/mohamed123/82233
+#EXTINF:-1 group-title="ShareExt@PREMIUMMSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH__eUbK8rQsVg5cLjJqgKN_vbJvgcrXZlOA&usqp=CAU ",MatchFootball 2
+http://pyramidsiptv.com:8080/mohamed/mohamed123/82232
+#EXTINF:-1 group-title="ShareExt@PREMIUMMSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH__eUbK8rQsVg5cLjJqgKN_vbJvgcrXZlOA&usqp=CAU ",MatchFootball 1
+http://pyramidsiptv.com:8080/mohamed/mohamed123/82231
 
 
 #EXTINF:-1 group-title="ShareExt@PREMIUMMSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH__eUbK8rQsVg5cLjJqgKN_vbJvgcrXZlOA&usqp=CAU ", Матч!FOOTBALL1 HD 
