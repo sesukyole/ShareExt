@@ -93,8 +93,6 @@ https://nonton.site:8443/papa123/papa123/34
 https://nonton.site:8443/papa123/papa123/929
 #EXTINF:-1 tvg-id="" tvg-name="U Channel" tvg-logo="https://u-channel.tv/wp-content/uploads/2017/07/Logo-UChannel-400-72dpi-300x125.png" group-title="Lokal",U Channel
 https://nonton.site:8443/papa123/papa123/1208
-#EXTINF:-1 tvg-id="" tvg-name="Kontes Nyanyi" tvg-logo="" group-title="Lokal",Kontes Nyanyi
-https://nonton.site:8443/papa123/papa123/36958
 
 
 
@@ -209,8 +207,6 @@ https://nonton.site:8443/papa123/papa123/29602
 https://nonton.site:8443/papa123/papa123/29601
 #EXTINF:-1 tvg-id="" tvg-name="Kungfu TV" tvg-logo="" group-title="China",Kungfu TV
 https://nonton.site:8443/papa123/papa123/29598
-#EXTINF:-1 tvg-id="" tvg-name="Reserved." tvg-logo="https://www.tvchinese.net/uploads/tv/shenzhentv.jpg" group-title="China",Reserved.
-https://nonton.site:8443/papa123/papa123/29596
 #EXTINF:-1 tvg-id="" tvg-name="TVBS News" tvg-logo="" group-title="China",TVBS News
 https://nonton.site:8443/papa123/papa123/29600
 #EXTINF:-1 tvg-id="" tvg-name="Zhejiang International" tvg-logo="https://www.tvchinese.net/uploads/tv/zjgj.jpg" group-title="China",Zhejiang International
@@ -689,8 +685,6 @@ https://nonton.site:8443/papa123/papa123/37466
 https://nonton.site:8443/papa123/papa123/37467
 #EXTINF:-1 tvg-id="" tvg-name="MY - Astro Aura HD" tvg-logo="" group-title="Astro",MY - Astro Aura HD
 https://nonton.site:8443/papa123/papa123/37468
-#EXTINF:-1 tvg-id="" tvg-name="MY_ASTRO VINMEEN_HD" tvg-logo="" group-title="Astro Stable",MY_ASTRO VINMEEN_HD
-https://nonton.site:8443/papa123/papa123/38806
 
 
 
@@ -1771,11 +1765,6 @@ http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",AduAyam
 https://z0gdu9jmgu.rtmp-now.com/hls/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",UseeSport1
-https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334856
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",UseeSport2
-https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334857
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Champion1
 http://golive.cf/vidio/live-champion1.m3u8
