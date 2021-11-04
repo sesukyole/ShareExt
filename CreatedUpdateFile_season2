@@ -5622,6 +5622,36 @@ https://cdn.rjdigilink.in/jeysontv/livetv/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK HD : Sky Cinema Action" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Sky_Cinema_Action_2020.svg/revision/latest/scale-to-width-down/300?cb=20210118213113" group-title="SHAREEXT@SKY_Movies",SkyCinema Action
+http://163.172.5.94:8080/d/d/2604
+#EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="UK HD : Sky Cinema Animation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sky_Cinema_-_Logo_2020.svg/330px-Sky_Cinema_-_Logo_2020.svg.png" group-title="SHAREEXT@SKY_Movies",SkyCinema Animation
+http://163.172.5.94:8080/d/d/2605
+#EXTINF:-1 tvg-id="skycinemacomedy.uk" tvg-name="UK HD : Sky Cinema Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sky_Cinema_-_Logo_2020.svg/330px-Sky_Cinema_-_Logo_2020.svg.png" group-title="SHAREEXT@SKY_Movies",SkyCinema Comedy
+http://163.172.5.94:8080/d/d/2606
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="UK HD : Sky Cinema Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sky_Cinema_-_Logo_2020.svg/330px-Sky_Cinema_-_Logo_2020.svg.png" group-title="SHAREEXT@SKY_Movies",SkyCinema Drama
+http://163.172.5.94:8080/d/d/2607
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="UK HD : Sky Cinema Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sky_Cinema_-_Logo_2020.svg/330px-Sky_Cinema_-_Logo_2020.svg.png" group-title="SHAREEXT@SKY_Movies",SkyCinema Family
+http://163.172.5.94:8080/d/d/2608
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="UK HD : Sky Cinema Greats" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sky_Cinema_-_Logo_2020.svg/330px-Sky_Cinema_-_Logo_2020.svg.png" group-title="SHAREEXT@SKY_Movies",SkyCinema Greats
+http://163.172.5.94:8080/d/d/2609
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="UK HD : Sky Cinema Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sky_Cinema_-_Logo_2020.svg/330px-Sky_Cinema_-_Logo_2020.svg.png" group-title="SHAREEXT@SKY_Movies",SkyCinema Hits
+http://163.172.5.94:8080/d/d/2610
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK HD : Sky Cinema Premiere" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sky_Cinema_-_Logo_2020.svg/330px-Sky_Cinema_-_Logo_2020.svg.png" group-title="SHAREEXT@SKY_Movies",SkyCinema Premiere
+http://163.172.5.94:8080/d/d/2611
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="UK HD : Sky Cinema ScFi/Horror" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sky_Cinema_-_Logo_2020.svg/330px-Sky_Cinema_-_Logo_2020.svg.png" group-title="SHAREEXT@SKY_Movies",SkyCinema ScFi/Horror
+http://163.172.5.94:8080/d/d/2612
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-name="UK HD : Sky Cinema Select" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sky_Cinema_-_Logo_2020.svg/330px-Sky_Cinema_-_Logo_2020.svg.png" group-title="SHAREEXT@SKY_Movies",SkyCinema Select
+http://163.172.5.94:8080/d/d/2613
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="UK HD : Sky Cinema Thriller" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sky_Cinema_-_Logo_2020.svg/330px-Sky_Cinema_-_Logo_2020.svg.png" group-title="SHAREEXT@SKY_Movies",SkyCinema Thriller
+http://163.172.5.94:8080/d/d/2614
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Arabic Asianet_Movies" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@CINEMA_ARABIC",Asianet_Movies
 http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/2180882
 #EXTINF:-1 tvg-id="" tvg-name="Arabic Asianet_Plus" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@CINEMA_ARABIC",Asianet_Plus
