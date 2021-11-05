@@ -2326,7 +2326,7 @@ https://master.server-cdn-streaming.com/api/live-player/38/live.m3u8
 https://master.server-cdn-streaming.com/api/live-player/39/live.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SUKAN_BANGKOK",TRUeEpl1
-htt"ps://master.server-cdn-streaming.com/api/live-player/45/live.m3u8
+https://master.server-cdn-streaming.com/api/live-player/45/live.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SUKAN_BANGKOK",TrueEpl2
 https://master.server-cdn-streaming.com/api/live-player/46/live.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SUKAN_BANGKOK",TruEepl3
@@ -2658,6 +2658,7 @@ http://golive.cf/vidio/live-champion1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Champion2
 http://golive.cf/vidio/live-champion2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",Champion3
+https://uc7b4b42a41ee5daed6dd5d0cdee.dl.dropboxusercontent.com/cd/0/get/BZaugjKqKgLcshM_I6lpqqCk37QzfvzQYeNop5cJLr1NLMEOCa8uUbwlo0Njoft1KQUCXDL4VZqrikc85a5FDODyHWTsqlmwuF4rHYtvAXkvPSQWkAIOtnUtrscj3euqrJs_MrqIS7ZmZegOy-2QQjW_/file?dl=1
 http://golive.cf/vidio/live-champion3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",BeinSport5
 http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
