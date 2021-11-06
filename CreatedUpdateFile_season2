@@ -2664,14 +2664,6 @@ http://golive.cf/vidio/live-champion2.m3u8
 https://www.dropbox.com/s/dl/8ms7e91p7apoa95/champion3.m3u8
 http://golive.cf/vidio/live-champion3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",USEESPORTS1
-http://194.233.78.92:8080/live/esto/juraganlele/397.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",USEESPORTS2
-http://194.233.78.92:8080/live/esto/juraganlele/398.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",BEIN1(USEE)
-http://194.233.78.92:8080/live/esto/juraganlele/399.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@PREMIUMMSport",BEIN2(USEE)
-http://194.233.78.92:8080/live/esto/juraganlele/400.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",BeinSport5
 http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
 
