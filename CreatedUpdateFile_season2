@@ -405,8 +405,12 @@ http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid=
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",ChampionTv1(decoder=Native)
+https://dik.si/SEchamp1?ShareExt.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",ChampionTv2(decoder=Native)
+https://dik.si/SEchamp2?ShareExt.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",ChampionTv3(decoder=Native)
+https://dik.si/SEchamp3?ShareExt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Rcti
 https://iptv.mwafa.net/vidio/665/index.m3u8?token=1999
