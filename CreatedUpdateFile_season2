@@ -500,10 +500,9 @@ https://iptv.mwafa.net/vidio/6898/index.m3u8?token=1999
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Bein1.id(decoder=Native)
-
+https://dik.si/SEbein1?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Bein2.id(decoder=Native)
-
-
+https://dik.si/SEbein2?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Galaxy(decoder=Native)
 https://dik.si/ShareExtglx?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",RockXtream(decoder=Native)
