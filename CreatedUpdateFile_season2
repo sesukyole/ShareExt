@@ -944,31 +944,57 @@ http://210.210.155.35:80/session/07b13610-2edb-11eb-ae09-c81f66f89318/qwr9ew/s/s
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" tvg-id=".SHINTA" tvg-name"SCTV _VIDIO" group-title="ShareExt@CODAY_VIDIO",SCTV _VIDIO
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",MNCTV_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=22fb0cee7e1f3bde58293de7438714176a41c2a2a7270517f5ce8dd2f48fc68d
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",SCTV_VIDIO
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a46a41c2a2a7270517f5ce8dd2f48fc68d
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/1gl_OViRhInfE1_Scn6ve40g7FY=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" tvg-id=".SHINTA" tvg-name"Indosiar _VIDIO" group-title="ShareExt@CODAY_VIDIO"",Indosiar _VIDIO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",Indosiar_VIDIO
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vPH3-sSUFyo6QWZlH88woToH714=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/da497a.png" tvg-id=".SHINTA" tvg-name"RCTI _VIDIO" group-title="ShareExt@CODAY_VIDIO"",RCTI _VIDIO
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f966a41c2a2a7270517f5ce8dd2f48fc68d
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ksy91mCjoKvOD2anneLgskaBLRA=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" tvg-id=".SHINTA" tvg-name"Trans7 _VIDIO" group-title="ShareExt@CODAY_VIDIO"",Trans7 _VIDIO
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",Trans7_VIDIO
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f16a41c2a2a7270517f5ce8dd2f48fc68d
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",MNC Shop_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=3891b14b5d8cce2fdd8dcdb4ded28f6d6a41c2a2a7270517f5ce8dd2f48fc68d
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/U_BIqNV8hQ2TfIYisZ-60hA_w4s=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7619/379f71.png" tvg-id=".SHINTA" tvg-name"MUSICA _VIDIO" group-title="ShareExt@CODAY_VIDIO"",MUSICA _VIDIO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",MUSICA_VIDIO
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc8266a41c2a2a7270517f5ce8dd2f48fc68d
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",RTV_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a6a41c2a2a7270517f5ce8dd2f48fc68d
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/eUmI_Rr1Sg_bvtG3eu1ite-oW1U=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg" tvg-id=".SHINTA" tvg-name"iNews Sore _VIDIO" group-title="ShareExt@CODAY_VIDIO"",iNews Sore _VIDIO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",iNews _VIDIO
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=e17a886efc21fa45b9dc49a17c29dcf16a41c2a2a7270517f5ce8dd2f48fc68d
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="ShareExt@CODAY_VIDIO"",ANTV _DENS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",OShop_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=4249a84bdaf63c34332d1988244fb0896a41c2a2a7270517f5ce8dd2f48fc68d
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",MYTV_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=50982fb2f2cfa186d335310461dfa2be6a41c2a2a7270517f5ce8dd2f48fc68d
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",ANTV_DENS
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="ShareExt@CODAY_VIDIO"",TVONE _DENS
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",TVONE_DENS
 http://210.210.155.35/session/f5cd353c-0131-11ec-b286-abca8519aa62/qwr9ew/s/s105/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",DAAITV_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=889091ff744069cab08dc605d162a8d36a41c2a2a7270517f5ce8dd2f48fc68d
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",NUSANTARA TV_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e446a41c2a2a7270517f5ce8dd2f48fc68d
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",SEATODAY_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=89db09d856d45d361982edc10ce738a26a41c2a2a7270517f5ce8dd2f48fc68d
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",AlQuran AlKareem TV_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=6e96be832cf8bc6b35a956e8fb66c76a6a41c2a2a7270517f5ce8dd2f48fc68d
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc31vg/CODAYTV-shareext.png"group-title="ShareExt@CODAY_VIDEO",REFORMED 21_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=f26ecc6e3bc7f5e9c8cf23a7c7a315dd6a41c2a2a7270517f5ce8dd2f48fc68d
 
 
 
