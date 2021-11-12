@@ -492,8 +492,8 @@ https://iptv.mwafa.net/vidio/6898/index.m3u8?token=1999
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8z7z5LCr/IPTV-ID-shareext.png"group-title="ShareExt@USEE_IPTV_ID",wakuwaku
+http://iptvid.my.id/ch/waku2.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8z7z5LCr/IPTV-ID-shareext.png"group-title="ShareExt@USEE_IPTV_ID",ALQURAN
 http://iptvid.my.id/ch/alquran.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8z7z5LCr/IPTV-ID-shareext.png"group-title="ShareExt@USEE_IPTV_ID",NET.
