@@ -506,6 +506,9 @@ https://dik.si/SEbein2?SHAREEXT.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",Galaxy
 https://dik.si/ShareExtglx?shareext.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",GalaxyPREMIUM
+https://dik.si/SEgprem?SHAREEXT.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",RockXtream
 https://dik.si/ShareExtRx?shareext.m3u8
 
