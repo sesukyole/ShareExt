@@ -3358,6 +3358,37 @@ https://z0gdu9jmgu.rtmp-now.com/hls/index.m3u8
 https://freelive.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3u8
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",BeinPremium1
+http://88.barouhn.xyz.global.prod.fastly.net/live/616165500/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",BeinPremium2
+http://88.barouhn.xyz.global.prod.fastly.net/live/61619498700/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",BeinPremium3
+http://88.barouhn.xyz.global.prod.fastly.net/live/615127888700/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",BeinsportFrenc1
+http://88.barouhn.xyz.global.prod.fastly.net/live/14066007/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",BeinsportFrenc2
+http://88.barouhn.xyz.global.prod.fastly.net/live/68525202/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",BeinsportFrenc3
+http://88.barouhn.xyz.global.prod.fastly.net/live/32842140/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",Beinsport1AR
+http://88.barouhn.xyz.global.prod.fastly.net/live/91845457800/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",Beinsport2AR
+http://88.barouhn.xyz.global.prod.fastly.net/live/10011244/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",Beinsport3AR
+http://88.barouhn.xyz.global.prod.fastly.net/live/645587700/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",Beinsport4AR
+http://88.barouhn.xyz.global.prod.fastly.net/live/0103088447/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",Beinsport5AR
+http://88.barouhn.xyz.global.prod.fastly.net/live/115451004/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",Beinsport6AR
+http://88.barouhn.xyz.global.prod.fastly.net/live/788550011/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",Beinsport7AR
+http://88.barouhn.xyz.global.prod.fastly.net/live/100666696/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",BeinSport5
 http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
 
