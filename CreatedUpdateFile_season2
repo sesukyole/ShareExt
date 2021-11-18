@@ -492,8 +492,14 @@ https://iptv.mwafa.net/vidio/6898/index.m3u8?token=1999
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",ASSP1
+https://dik.si/SEassp1?SHAREEXT.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",ASSP2
+https://dik.si/SEassp2SHAREEXT.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",ASSP3
+https://dik.si/SEassp3SHAREEXT.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",ASSP4
+https://dik.si/SEassp4SHAREEXT.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",Bein1(id)
 https://dik.si/SEbein1?shareext.m3u8
