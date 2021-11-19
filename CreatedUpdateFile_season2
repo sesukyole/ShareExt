@@ -513,6 +513,10 @@ https://dik.si/SEbein1?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",Bein2(id)
 https://dik.si/SEbein2?SHAREEXT.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",USEESPORT1(dec=native)
+https://dik.si/SEuseesports?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",USEESPORT2(dec=native)
+https://dik.si/SEuseesport2?SHAREEXT.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",BeinLiga1
 http://203.159.95.172:8081/live/bein01/chunks.m3u8
