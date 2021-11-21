@@ -1407,6 +1407,253 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 
 
 
+
+#EXTINF:-1 tvg-id="SonySIX.in" tvg-name="IN: SONY SIX HD" tvg-logo="http://dmtn.tv:8080/images/c92d25eb04fb037875c1326eefa7656e.png" group-title="ShareExt@INDIA | LIVE",SONYSIX HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/153766.ts
+#EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="IN: SONY TEN 1 HD" tvg-logo="http://dmtn.tv:8080/images/1d00da51d550349286c2b2fbd72bc0b5.png" group-title="ShareExt@INDIA | LIVE",SONYTEN 1 HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/153768.ts
+#EXTINF:-1 tvg-id="SonyTEN2.in" tvg-name="IN: SONY TEN 2 HD" tvg-logo="http://dmtn.tv:8080/images/ecf8b9dcbb072a0e4bbd8d1262775e5c.png" group-title="ShareExt@INDIA | LIVE",SONYTEN 2 HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/153770.ts
+#EXTINF:-1 tvg-id="SonyTEN3.in" tvg-name="IN: SONY TEN 3 HD" tvg-logo="http://dmtn.tv:8080/images/13945e8c32692fcb6c3ae1967055c901.png" group-title="ShareExt@INDIA | LIVE",SONYTEN 3 HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/153772.ts
+#EXTINF:-1 tvg-id="DDSports.in" tvg-name="IN: DD SPORTS" tvg-logo="http://dmtn.tv:8080/images/071f23c177b999f56e3d663e7ca701a1.png" group-title="ShareExt@INDIA | LIVE",DD SPORTS
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/153776.ts
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN: STAR SPORTS 1 FHD" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoOascArkZFOACwsbS3auIZMjRaSzA-5vJM3hlrDJUX2a0JV2wiKMgAjPtgDkVqWjkQ.png" group-title="ShareExt@INDIA | LIVE",STARSPORTS 1 FHD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/153777.ts
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IN: STAR SPORTS 2 FHD" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoCzVQQeeP13FcZ7Bzu8ntoQs4U-qYv0OqXhJQiBLbumHah3CfQSHlPUKqpH-XH2Big.png" group-title="ShareExt@INDIA | LIVE",STARSPORTS 2 FHD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/153778.ts
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 HINDI FHD" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoB1g_9fBebeG-pwZJMaPMPndmh7fQ4IL4SWgwxNJMoM1QKVSTsDOLzz59iB6lJxyMg.png" group-title="ShareExt@INDIA | LIVE",STARSPORTS1 HINDI FHD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/153779.ts
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="IN: STAR SPORTS 1 FHD Airtel" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoMCpd1F53V2nMcuQ-vr9DXA7eRDusgxpd_VDsTQLtPqui-jJpRWjo_7kKudLqnJGQg.png" group-title="ShareExt@INDIA | LIVE",STARSPORTS1 FHD Airtel
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/153780.ts
+#EXTINF:-1 tvg-id="starsports3.in" tvg-name="IN: STAR SPORTS 3" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoPbrshzsm6z1MjJbqbz8a-DgmHOd4mSPjRFmv1iQweqqS1QIY4E2M-noGlDH-I-bNg.png" group-title="ShareExt@INDIA | LIVE",STARSPORTS 3
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/153781.ts
+
+
+
+
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK| Sky Sports News HD" tvg-logo="http://dmtn.tv:8080/images/5567cf69f59bd8d01b621fc132fe8f77.png" group-title="ShareExt@UK Sport | LIVE",SkySports News HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158236.ts
+#EXTINF:-1 timeshift="4" tvg-id="skysportsmainevent.uk" tvg-name="UK| Sky Sports Main Event HD" tvg-logo="http://dmtn.tv:8080/images/e8c6acd36a15b8aa889de1f3da6e36c8.png" group-title="ShareExt@UK Sport | LIVE",SkySports Main Event HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158238.ts
+#EXTINF:-1 timeshift="4" tvg-id="skysportsfootball.uk" tvg-name="UK| Sky Sports Football HD" tvg-logo="http://dmtn.tv:8080/images/fd51b0d5734ed42ada8e1c9a7a6b6adf.png" group-title="ShareExt@UK Sport | LIVE",SkySports Football HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158240.ts
+#EXTINF:-1 timeshift="4" tvg-id="skysportspremiereleague.uk" tvg-name="UK| Sky Sports Premier League HD" tvg-logo="http://dmtn.tv:8080/images/43057af675aedb5f8d8ffdd143a81485.png" group-title="ShareExt@UK Sport | LIVE",SkySports Premier League HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158242.ts
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK| Sky Sports Mix HD" tvg-logo="http://dmtn.tv:8080/images/6ee7388dd4ea2d7095c34643e3b3fee4.png" group-title="ShareExt@UK Sport | LIVE",SkySports Mix HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158244.ts
+#EXTINF:-1 timeshift="4" tvg-id="skysportsarena.uk" tvg-name="UK| Sky Sports Arena HD" tvg-logo="http://dmtn.tv:8080/images/b4afc33a6f028fd87581757b5f6f9ce1.png" group-title="ShareExt@UK Sport | LIVE",SkySports Arena HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158246.ts
+#EXTINF:-1 timeshift="2" tvg-id="skysportsnfl.uk" tvg-name="UK| Sky Sports NFL/ACTION HD" tvg-logo="http://dmtn.tv:8080/images/7187c24aaa0dd78e2f9ed579fe10bd19.png" group-title="ShareExt@UK Sport | LIVE",SkySports NFL/ACTION HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158248.ts
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK| Sky Sports Golf HD" tvg-logo="http://dmtn.tv:8080/images/306a15a2285e03103301f801cb7e31c8.png" group-title="ShareExt@UK Sport | LIVE",SkySports Golf HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158250.ts
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK| Sky Sports Cricket HD" tvg-logo="http://dmtn.tv:8080/images/c8272269211a327f6aac24349c51d0d7.png" group-title="ShareExt@UK Sport | LIVE",SkySports Cricket HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158252.ts
+#EXTINF:-1 timeshift="4" tvg-id="skysportsf1.uk" tvg-name="UK| Sky Sports F1 HD" tvg-logo="http://dmtn.tv:8080/images/59184d67b55da1309fe2743f2efe5e3a.png" group-title="ShareExt@UK Sport | LIVE",SkySports F1 HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158254.ts
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="UK| Sky Sports Racing HD" tvg-logo="http://dmtn.tv:8080/images/8b9e0e962159f1e78ec827345178c573.png" group-title="ShareExt@UK Sport | LIVE",SkySports Racing HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158256.ts
+#EXTINF:-1 timeshift="4" tvg-id="btsport1.uk" tvg-name="UK| BT Sport 1 HD" tvg-logo="http://dmtn.tv:8080/images/9ef8795afe12b3d613096922055812bf.png" group-title="ShareExt@UK Sport | LIVE",BTSport1 HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158259.ts
+#EXTINF:-1 timeshift="4" tvg-id="btsport2.uk" tvg-name="UK| BT Sport 2 HD" tvg-logo="http://dmtn.tv:8080/images/d99a8bda841dc2a446e0fd11453a7fe4.png" group-title="ShareExt@UK Sport | LIVE",BTSport2 HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158262.ts
+#EXTINF:-1 timeshift="4" tvg-id="btsport3.uk" tvg-name="UK| BT Sport 3 HD" tvg-logo="http://dmtn.tv:8080/images/0c83122f12df4a207def349b94ad7d9d.png" group-title="ShareExt@UK Sport | LIVE",BTSport3 HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158265.ts
+#EXTINF:-1 timeshift="4" tvg-id="btsportespn.uk" tvg-name="UK| BT Sport ESPN HD" tvg-logo="http://dmtn.tv:8080/images/7a7c7dc3a9a5acbe269e56328998e2ad.png" group-title="ShareExt@UK Sport | LIVE",BTSport ESPN HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158268.ts
+#EXTINF:-1 tvg-id="laligatv.uk" tvg-name="UK| LaLigaTV FHD" tvg-logo="http://dmtn.tv:8080/images/a168c8030ac2aa0f50496bcaac5b73bc.png" group-title="ShareExt@UK Sport | LIVE",LaLigaTV FHD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158269.ts
+#EXTINF:-1 tvg-id="freesports.uk" tvg-name="UK| Free Sports HD" tvg-logo="http://mydmtn.tv:8080/images/c7aa48b2a757e80cbf524b9193f3f5b3.png" group-title="ShareExt@UK Sport | LIVE",FreeSports HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158270.ts
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="UK| Premier Sports 1 HD" tvg-logo="http://mydmtn.tv:8080/images/05330aa5dc82737c59e2282d79b9fdaa.png" group-title="ShareExt@UK Sport | LIVE",PremierSports 1 HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158272.ts
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="UK| Premier Sports 2 HD" tvg-logo="http://mydmtn.tv:8080/images/5cf82160303cad65efad95d0af630e26.png" group-title="ShareExt@UK Sport | LIVE",PremierSports 2 HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158274.ts
+#EXTINF:-1 tvg-id="eirsport1.ie" tvg-name="IE: eir Sports 1 HD" tvg-logo="http://dmtn.tv:8080/images/72c0c90928cbdeb4d73f745545609bb3.png" group-title="ShareExt@UK Sport | LIVE",eirSports 1 HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158276.ts
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK| Eurosport 1 FHD" tvg-logo="http://dmtn.tv:8080/images/a56b375decdf31dd9bdb340f4bbba879.png" group-title="ShareExt@UK Sport | LIVE",Eurosport1 FHD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158277.ts
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK| Eurosport 2 FHD" tvg-logo="http://dmtn.tv:8080/images/f0b8d4b2a731f246c1df91961ced7b02.png" group-title="ShareExt@UK Sport | LIVE",Eurosport2 FHD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158278.ts
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="UK| Racing FHD" tvg-logo="http://dmtn.tv:8080/images/f5492af507d2a970eaa98548a4cc092f.png" group-title="ShareExt@UK Sport | LIVE",Racing FHD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158279.ts
+#EXTINF:-1 tvg-id="boxnation.uk" tvg-name="UK| BoxNation FHD" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoPaRZk06ZcNmUHAgd6W9UrSGjEwUisQ2pVPUGNFB0pkXfYD_CP9JmpxLjo17uPeXcA.png" group-title="ShareExt@UK Sport | LIVE",BoxNation FHD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158282.ts
+#EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-name="UK| LFC TV FHD" tvg-logo="http://dmtn.tv:8080/images/ac703c73f323f60d59a116afe6815549.png" group-title="ShareExt@UK Sport | LIVE",LFC TV FHD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158283.ts
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK| MUTV FHD" tvg-logo="http://dmtn.tv:8080/images/8d051eead9711a2d64b10a069eae98ef.png" group-title="ShareExt@UK Sport | LIVE",MUTV FHD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158284.ts
+#EXTINF:-1 tvg-id="btsportx1.uk" tvg-name="UK| BT Sport Extra 1" tvg-logo="https://i.ibb.co/KD9fmHS/BT-extra-1.png" group-title="ShareExt@UK Sport | LIVE",BTSportExtra 1
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158286.ts
+#EXTINF:-1 tvg-id="btsportx2.uk" tvg-name="UK| BT Sport Extra 2" tvg-logo="https://i.ibb.co/744nHxS/BT-Extra-2.png" group-title="ShareExt@UK Sport | LIVE",BTSportExtra 2
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158287.ts
+#EXTINF:-1 tvg-id="btsportx3.uk" tvg-name="UK| BT Sport Extra 3" tvg-logo="https://i.ibb.co/qy3VCh5/BT-extra-3.png" group-title="ShareExt@UK Sport | LIVE",BTSportExtra 3
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158288.ts
+#EXTINF:-1 tvg-id="btsportx4.uk" tvg-name="UK| BT Sport Extra 4" tvg-logo="https://i.ibb.co/2qhxJtc/bt-extra-4.png" group-title="ShareExt@UK Sport | LIVE",BTSportExtra 4
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158289.ts
+#EXTINF:-1 tvg-id="btsportx5.uk" tvg-name="UK| BT Sport Extra 5" tvg-logo="http://dmtn.tv:8080/images/e42dddd683f68d6939c023472480d8f7.png" group-title="ShareExt@UK Sport | LIVE",BTSportExtra 5
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158290.ts
+#EXTINF:-1 tvg-id="btsportx6.uk" tvg-name="UK| BT Sport Extra 6" tvg-logo="https://i.ibb.co/yRdBt8d/bt-extra-6.png" group-title="ShareExt@UK Sport | LIVE",BTSportExtra 6
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/158291.ts
+
+
+
+
+#EXTINF:-1 tvg-id="TrueSport1.th" tvg-name="TH: True Sports EPL 1 HD" tvg-logo="" group-title="ShareExt@THAILAND - TRUE PACKAGE | LIVE",TrueSports EPL 1 HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/204632.ts
+#EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TH: True Sports EPL 2 HD" tvg-logo="" group-title="ShareExt@QTHAILAND - TRUE PACKAGE | LIVE",TrueSports EPL 2 HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/204633.ts
+#EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="TH: True Sports EPL 3 HD" tvg-logo="" group-title="ShareExt@THAILAND - TRUE PACKAGE | LIVE",TrueSports EPL 3 HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/204634.ts
+#EXTINF:-1 tvg-id="TrueSport4.th" tvg-name="TH: True Sports EPL 4 HD" tvg-logo="" group-title="ShareExt@THAILAND - TRUE PACKAGE | LIVE",TrueSports EPL 4 HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/204635.ts
+#EXTINF:-1 tvg-id="TrueSport5.th" tvg-name="TH: True Sports EPL 5 HD" tvg-logo="" group-title="ShareExt@THAILAND - TRUE PACKAGE | LIVE",TrueSports EPL 5 HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/204636.ts
+#EXTINF:-1 tvg-id="TrueSport1.th" tvg-name="TH: True Sport 1 HD" tvg-logo="" group-title="ShareExt@THAILAND - TRUE PACKAGE | LIVE",TrueSport1 HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/204641.ts
+#EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TH: True Sport 2 HD" tvg-logo="" group-title="ShareExt@THAILAND - TRUE PACKAGE | LIVE",TrueSport2 HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/204642.ts
+#EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="TH: True Sport 3 HD" tvg-logo="" group-title="ShareExt@THAILAND - TRUE PACKAGE | LIVE",TrueSport3 HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/204643.ts
+#EXTINF:-1 tvg-id="TrueSport4.th" tvg-name="TH: True Sport 4 HD" tvg-logo="" group-title="ShareExt@THAILAND - TRUE PACKAGE | LIVE",TrueSport4 HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/204644.ts
+#EXTINF:-1 tvg-id="TrueSport5.th" tvg-name="TH: True Sport 5 SD" tvg-logo="" group-title="ShareExt@THAILAND - TRUE PACKAGE | LIVE",TrueSport5 SD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/204648.ts
+#EXTINF:-1 tvg-id="TrueSport6.th" tvg-name="TH: True Sport 6 SD" tvg-logo="" group-title="ShareExt@THAILAND - TRUE PACKAGE | LIVE",TrueSport6 SD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/204649.ts
+#EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="TH: True Sport 7 SD" tvg-logo="" group-title="ShareExt@THAILAND - TRUE PACKAGE | LIVE",TrueSport7 SD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/204650.ts
+#EXTINF:-1 tvg-id="beINSports1.th" tvg-name="TH: BeinSport 1 HD" tvg-logo="" group-title="ShareExt@THAILAND - TRUE PACKAGE | LIVE",BeinSport1 HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/204654.ts
+#EXTINF:-1 tvg-id="beINSports2.th" tvg-name="TH: BeinSport 2" tvg-logo="" group-title="ShareExt@THAILAND - TRUE PACKAGE | LIVE",BeinSport2
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/204655.ts
+#EXTINF:-1 tvg-id="NBN.au" tvg-name="TH: NBA HD" tvg-logo="" group-title="ShareExt@THAILAND - TRUE PACKAGE | LIVE",NBA HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/272369.ts
+#EXTINF:-1 tvg-id="" tvg-name="TH: NFL HD" tvg-logo="" group-title="ShareExt@THAILAND - TRUE PACKAGE | LIVE",NFL HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/272370.ts
+#EXTINF:-1 tvg-id="TeenNick.us" tvg-name="TH: Tennis HD" tvg-logo="" group-title="ShareExt@THAILAND - TRUE PACKAGE | LIVE",Tennis HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/272371.ts
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="TH: Astro SUPERSPORTS 1 HD" tvg-logo="" group-title="ShareExt@THAILAND - TRUE PACKAGE | LIVE",AstroSUPERSPORTS 1 HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/272372.ts
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="TH: Astro SUPERSPORTS 2 HD" tvg-logo="" group-title="ShareExt@THAILAND - TRUE PACKAGE | LIVE",AstroSUPERSPORTS 2 HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/272373.ts
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="TH: Astro SUPERSPORTS 3 HD" tvg-logo="" group-title="ShareExt@THAILAND - TRUE PACKAGE | LIVE",AstroSUPERSPORTS 3 HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/272374.ts
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="TH: Astro SUPERSPORTS 4 HD" tvg-logo="" group-title="ShareExt@THAILAND - TRUE PACKAGE | LIVE",AstroSUPERSPORTS 4 HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/272375.ts
+#EXTINF:-1 tvg-id="AstroCricket.my" tvg-name="TH: Astro Cricket HD" tvg-logo="" group-title="ShareExt@THAILAND - TRUE PACKAGE | LIVE",AstroCricket HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/272376.ts
+#EXTINF:-1 tvg-id="GolfChannel.th" tvg-name="TH: Golf Channel 1 HD" tvg-logo="" group-title="ShareExt@THAILAND - TRUE PACKAGE | LIVE",Golf Channel 1 HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/272377.ts
+#EXTINF:-1 tvg-id="GolfChannel.th" tvg-name="TH: Golf Channel 2 HD" tvg-logo="" group-title="ShareExt@THAILAND - TRUE PACKAGE | LIVE",Golf Channel2 HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/272378.ts
+#EXTINF:-1 tvg-id="GolfChannel.th" tvg-name="TH: Golf Channel HD" tvg-logo="" group-title="ShareExt@THAILAND - TRUE PACKAGE | LIVE",Golf Channel HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/272379.ts
+#EXTINF:-1 tvg-id="History2.th" tvg-name="TH: Hi Sport HD" tvg-logo="" group-title="ShareExt@THAILAND - TRUE PACKAGE | LIVE",Hi Sport HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/272380.ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="SuperSportGrandstand.za" tvg-name="DSTV: SuperSport Grandstand FHD (ZW)" tvg-logo="https://i.ibb.co/Ky5gdCV/supersport-grandstand.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Grandstand FHD (ZW)
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/183102.ts
+#EXTINF:-1 tvg-id="supersporttennis.za" tvg-name="DSTV: SuperSport Tennis HD" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoO_nz1SAvydKhVpTIWRbWEJY8jS9aLwoArUGMd1GWOPDZeUaG-X-04rKxZUwxppEBQ.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Tennis HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/183103.ts
+#EXTINF:-1 tvg-id="supersportaction.za" tvg-name="DSTV: SuperSport Action (NG)" tvg-logo="http://dmtn.tv:8080/images/04f8e0679ed7cbc138d4ac177080b0be.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Action (NG)
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/183104.ts
+#EXTINF:-1 tvg-id="supersportaction.za" tvg-name="DSTV: SuperSport Action HD" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoMVihJ_47kn19NwtbJzwjssCpnuicdHnkKhd_b113kM_Vysa3X5pAxO7BtdtZmNeXA.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Action HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/183106.ts
+#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="DSTV: SuperSport Cricket HD" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoH5oI0fiuasiHlj54jk1A9tqtPuvF-AkmfGbBpGHT6FATjDAmNn7lH7V8l3tk7c24g.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Cricket HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/183110.ts
+#EXTINF:-1 tvg-id="supersporttennis.za" tvg-name="DSTV: SuperSport Tennis FHD" tvg-logo="http://dmtn.tv:8080/images/410b173025e30bc51d6b42b8081c7c22.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Tennis FHD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/183114.ts
+#EXTINF:-1 tvg-id="supersportpsl.za" tvg-name="DSTV: SuperSport PSL FHD (AZ)" tvg-logo="https://i.ibb.co/CBFMH2F/supersport-psl.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport PSL FHD (AZ)
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/183117.ts
+#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name="DSTV: SuperSport Variety 3" tvg-logo="http://dmtn.tv:8080/images/b96ef5e6b20e0da37eacfa28de03f42c.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Variety 3
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/183119.ts
+#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-name="DSTV: SuperSport Variety 1 FHD (UG)" tvg-logo="http://dmtn.tv:8080/images/dfdbd7c30609c79bd06b5859efdb94ef.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Variety 1 FHD (UG)
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/183121.ts
+#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-name="DSTV: SuperSport Variety 4 HD (UG)" tvg-logo="https://i.ibb.co/Khcjyt4/supersport-variety-4.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Variety 4 HD (UG)
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/183126.ts
+#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-name="DSTV: SuperSport Variety 4 FHD (AZ)" tvg-logo="http://dmtn.tv:8080/images/46444ad845a9c8218b1b89bdacb94db5.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Variety 4 FHD (AZ)
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/183127.ts
+#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="DSTV: SuperSport Rugby FHD (ZA)" tvg-logo="http://dmtn.tv:8080/images/a2843624bcdb705b82d97a13d862e238.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Rugby FHD (ZA)
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/183175.ts
+#EXTINF:-1 tvg-id="supersportgolf.za" tvg-name="DSTV: SuperSport Golf HD" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoEpHQV3EyyT5Eq6AXde8OQaeuvzUIZBqVSgfMe9wl_qYMwEqYQEti7-o4QFzHj-CFw.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Golf HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/183177.ts
+#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-name="DSTV: SuperSport MáXimo 1 (UG)" tvg-logo="http://dmtn.tv:8080/images/fd365a27b324066b9ae28557e06b2536.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport MáXimo 1 (UG)
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/199225.ts
+#EXTINF:-1 tvg-id="supersportmotorsport.za" tvg-name="DSTV: SuperSport Motorsport HD (ZA)" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoOobE95GJtPeFTQbfiOTaloJnSSjQmJKTTigBw_-6z1Q8UhK7_u_lBDhltx5xO_CPg.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Motorsport HD (ZA)
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/199226.ts
+#EXTINF:-1 tvg-id="supersportwwe.za" tvg-name="DSTV: SuperSport WWE HD" tvg-logo="http://mydmtn.tv:80/images/aJTvUHXjYJJv4ccPZ0fcoJSB025nbDxBpDYJQRNs6IDnmioWL7SZPS8881u1f4HSHifTtBAdgH43kDgrCKPIBg.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport WWE HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/199229.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Events FHD" tvg-logo="http://dmtn.tv:8080/images/893e95afcdf6b9ae131b43f5e3ed025d.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Events FHD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/199233.ts
+#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-name="DSTV: SuperSport MaXimo 1 FHD" tvg-logo="" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport MaXimo 1 FHD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/245152.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport MaXimo 2 FHD" tvg-logo="" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport MaXimo 2 FHD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/245153.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Play 1 HD" tvg-logo="" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Play 1 HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/245154.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Play 2 HD" tvg-logo="" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Play 2 HD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/245155.ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="matchtv.ru" tvg-name="RUS: MATCH! TV FHD" tvg-logo="" group-title="SHAREEXT@RUSSIA | LIVE",MATCH! TV FHD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/262543.ts
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH! TV" tvg-logo="" group-title="SHAREEXT@RUSSIA | LIVE",MATCH! TV
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/262544.ts
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH! FUTBALL 1 FHD" tvg-logo="" group-title="SHAREEXT@RUSSIA | LIVE",MATCH!FUTBALL1 FHD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/262545.ts
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH! FUTBALL 2 FHD" tvg-logo="" group-title="SHAREEXT@RUSSIA | LIVE",MATCH!FUTBALL2 FHD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/262546.ts
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH! FUTBALL 3 FHD" tvg-logo="" group-title="SHAREEXT@RUSSIA | LIVE",MATCH!FUTBALL3 FHD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/262547.ts
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH! ARENA FHD" tvg-logo="" group-title="SHAREEXT@RUSSIA | LIVE",MATCH!ARENA FHD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/262548.ts
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH! PREMIER FHD" tvg-logo="" group-title="SHAREEXT@RUSSIA | LIVE",MATCH!PREMIER FHD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/262549.ts
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH! PREMIER" tvg-logo="" group-title="SHAREEXT@RUSSIA | LIVE",MATCH!PREMIER
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/262550.ts
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MECTH! IGRA FHD" tvg-logo="" group-title="SHAREEXT@RUSSIA | LIVE",MECTH!IGRA FHD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/262551.ts
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH! STRANA" tvg-logo="" group-title="SHAREEXT@RUSSIA | LIVE",MATCH!STRANA
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/262552.ts
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH! BOETZ" tvg-logo="" group-title="SHAREEXT@RUSSIA | LIVE",MATCH!BOETZ
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/262553.ts
+#EXTINF:-1 tvg-id="" tvg-name="RUS: FUTBALL CHANNEL FHD" tvg-logo="" group-title="SHAREEXT@RUSSIA | LIVE",FUTBALL CHANNEL FHD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/262554.ts
+#EXTINF:-1 tvg-id="" tvg-name="RUS: KHL TV" tvg-logo="" group-title="SHAREEXT@RUSSIA | LIVE",KHL TV
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/262555.ts
+#EXTINF:-1 tvg-id="ViasatSport.ru" tvg-name="RUS: VIASAT SPORT FHD" tvg-logo="" group-title="SHAREEXT@RUSSIA | LIVE",VIASAT SPORT FHD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/262556.ts
+#EXTINF:-1 tvg-id="ViasatSport.ru" tvg-name="RUS: VIASAT SPORT" tvg-logo="" group-title="SHAREEXT@RUSSIA | LIVE",VIASAT SPORT
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/262557.ts
+#EXTINF:-1 tvg-id="TrueSport1.th" tvg-name="RUS: SETANTA SPORT 1 FHD" tvg-logo="" group-title="SHAREEXT@RUSSIA | LIVE",SETANTA SPORT1 FHD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/262558.ts
+#EXTINF:-1 tvg-id="ExtremeSports.ru" tvg-name="RUS: EXTREME SPORTS FHD" tvg-logo="" group-title="SHAREEXT@RUSSIA | LIVE",EXTREME SPORTS FHD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/262559.ts
+#EXTINF:-1 tvg-id="" tvg-name="RUS: EUROSPORT 2 FHD" tvg-logo="" group-title="SHAREEXT@RUSSIA | LIVE",EUROSPORT2 FHD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/262561.ts
+#EXTINF:-1 tvg-id="" tvg-name="RUS: EUROSPORT 1 FHD" tvg-logo="" group-title="SHAREEXT@RUSSIA | LIVE",EUROSPORT1 FHD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/262562.ts
+#EXTINF:-1 tvg-id="" tvg-name="RUS: EUROSPORT" tvg-logo="" group-title="SHAREEXT@RUSSIA | LIVE",EUROSPORT
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/262563.ts
+#EXTINF:-1 tvg-id="" tvg-name="RUS: TRACE SPORT STARS FHD" tvg-logo="" group-title="SHAREEXT@RUSSIA | LIVE",RUS: TRACE SPORT STARS FHD
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/262564.ts
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5rscC42/Share-Ext-Supersport.jpg"group-title="ShareExt@SUPERSPORTS",AstroSuperSport1 HD
 http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/146068
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5rscC42/Share-Ext-Supersport.jpg"group-title="ShareExt@SUPERSPORTS",AstroSuperSport2 HD
