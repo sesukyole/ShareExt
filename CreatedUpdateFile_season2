@@ -1478,7 +1478,12 @@ http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/279059
 
 
 
-
+#EXTINF:-1 tvg-id="beinsports1hd.id" tvg-name="IND: beIN Sports 1" tvg-logo="https://i.ibb.co/Gpn7K3V/350-cb-20200107203607.png" group-title="ShareExt@SPORTS_CHANNELS",IND:beINSports1
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/160560.ts
+#EXTINF:-1 tvg-id="beinsports2.id" tvg-name="IND: beIN Sports 2" tvg-logo="https://i.ibb.co/3kWXjLZ/350-cb-20200107203903.png" group-title="ShareExt@SPORTS_CHANNELS",IND:beINSports2
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/160562.ts
+#EXTINF:-1 tvg-id="mncsports.id" tvg-name="IND: MNC Sports" tvg-logo="https://i.ibb.co/yNN8Ydd/New-mnc-sports-logo-2020.png" group-title="ShareExt@SPORTS_CHANNELS",IND:MNCSports
+http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/160641.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",BARCA TV
