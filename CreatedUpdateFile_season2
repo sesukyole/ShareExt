@@ -514,10 +514,8 @@ https://dik.si/SEbein1?shareext.m3u8
 https://dik.si/SEbein2?SHAREEXT.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",USEESPORT1
-http://103.226.232.199:8004/play/a04l/index.m3u8?token=shareext
 https://dik.si/SEuseesports?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",USEESPORT2
-http://103.226.232.199:8004/play/a04m/index.m3u8?token=shareext
 https://dik.si/SEuseesport2?SHAREEXT.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",BeinLiga1
@@ -1052,34 +1050,6 @@ http://iptvid.my.id/usee/horisonsport.m3u8?by=iptv_id
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",CHINESE_DRAMA
-http://103.226.232.199:8004/play/a04h/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",TVN_MOVIE
-http://103.226.232.199:8004/play/a04g/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",IMC
-http://103.226.232.199:8004/play/a03h/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",I_KONSER
-http://103.226.232.199:8004/play/a03x/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",HITS
-http://103.226.232.199:8004/play/a04i/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",DUNIA_LAIN
-http://103.226.232.199:8004/play/a04a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",BIOSKOP_INDO
-http://103.226.232.199:8004/play/a04b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",CITRA_DANGDUT
-http://103.226.232.199:8004/play/a03v/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",RUANG_TRAMPIL
-http://103.226.232.199:8004/play/a04j/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",LINGUA
-http://103.226.232.199:8004/play/a049/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",NBA
-http://103.226.232.199:8004/play/a042/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",GALAXY_PREMIUM
-http://103.226.232.199:8004/play/a04k/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",USPORT
-http://103.226.232.199:8004/play/a04l/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",USPORT_2
-http://103.226.232.199:8004/play/a04m/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",MetroTv(Mncnow)
@@ -1634,23 +1604,6 @@ http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 http://93.152.174.144:4000/play/WWE/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",Beijing Beikong vs Zhejiang Hangzhou
-https://events.nontonbola.my.id/tvindomobile-427.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",Shandong Ticai vs Henan Jianye
-https://events.nontonbola.my.id/tvindomobile-4314.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",Ha Noi vs Phong Phu Ha Nam
-https://events.nontonbola.my.id/tvindomobile-3096.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",Persipura vs Persikabo
-http://events.nontonbola.my.id/tvindomobile-6935.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",Persekat vs Perserang
-https://events.nontonbola.my.id/tvindomobile-5202.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",PSMS Medan vs PSPS Riau
-https://events.nontonbola.my.id/tvindomobile-6763.m3u8
 
 
 
