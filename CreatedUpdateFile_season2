@@ -497,6 +497,14 @@ https://iptv.mwafa.net/vidio/6898/index.m3u8?token=1999
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",ASSP HD
+https://dik.si/SEastrosportHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",ASSP2 HD
+https://dik.si/SEastroSport2HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",ASSP3 HD
+https://dik.si/SEastroSport3HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",ASSP4 HD
+https://dik.si/SEastroSport4HD
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",ASSP1
 https://dik.si/SEassp1?SHAREEXT.m3u8
