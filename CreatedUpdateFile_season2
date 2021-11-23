@@ -498,13 +498,13 @@ https://iptv.mwafa.net/vidio/6898/index.m3u8?token=1999
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",ASSP HD
-https://dik.si/SEastrosportHD
+https://dik.si/SEastrosportHD?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",ASSP2 HD
-https://dik.si/SEastroSport2HD
+https://dik.si/SEastroSport2HD?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",ASSP3 HD
-https://dik.si/SEastroSport3HD
+https://dik.si/SEastroSport3HD?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",ASSP4 HD
-https://dik.si/SEastroSport4HD
+https://dik.si/SEastroSport4HD?shareext.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",ASSP1
 https://dik.si/SEassp1?SHAREEXT.m3u8
@@ -1566,6 +1566,34 @@ http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/279059
 
 
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",ASTRO_ARENA1
+https://dik.si/ShareExtArena1?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",ASTRO_ARENA2
+https://dik.si/SEarena2?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",MY_BEINMAX
+https://dik.si/SEbinMaxMY?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",MY_BEINSPORTS
+https://dik.si/SEbinspotMY?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",ID_BEINSPORTS1
+https://dik.si/SEbinspotID?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",ID_BEINSPORTS2
+https://dik.si/SEbinspotID2?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",SPO_TV
+https://dik.si/SEspotv?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",MY_ASSP1
+https://dik.si/SEMY_astroS1?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",MY_ASSP2
+https://dik.si/SEMY_astroS2?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",MY_ASSP3
+https://dik.si/SEMY_astroS3?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",MY_ASSP4
+https://dik.si/SEMY_astroS4?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",MY_ASSP5
+https://dik.si/SEassp5MY?shareext.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",BARCA TV
