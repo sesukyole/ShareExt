@@ -525,6 +525,19 @@ https://dik.si/SEbein1?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",Bein2(id)
 https://dik.si/SEbein2?SHAREEXT.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",TVRI SPORTS
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",ZQ SPORTS
+https://six1.zqprem.com/zqscore/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CHAMPIONTV1
+https://dik.si/SEchampiontv1?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CHAMPIONTV2
+https://dik.si/SEchampiontv2?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CHAMPIONTV3
+https://dik.si/SEchampiontv3?shareext.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",USEESPORT1(dec=native)
 https://dik.si/SEuseesports?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",USEESPORT2(dec=native)
