@@ -535,8 +535,10 @@ https://dik.si/SEchampiontv1?shareext.m3u8
 https://dik.si/SEchampiontv2?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CHAMPIONTV3(dec=native)
 https://dik.si/SEchampiontv3?shareext.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",USEESPORT1(lalalisa)
+https://lalalisa221.000webhostapp.com/sumber/cg/ussesport.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",USEESPORT2(lalalisa)
+https://lalalisa221.000webhostapp.com/sumber/cg/ussesport2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",USEESPORT1(dec=native)
 https://dik.si/SEuseesports?shareext.m3u8
