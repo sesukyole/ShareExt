@@ -619,6 +619,8 @@ https://dik.si/SEstrwrd
 https://dik.si/SEschmlegend
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",StarChinaMovie
 https://dik.si/SEStchmovie
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CCM
+https://bit.ly/shareextCCM
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",Galaxy
 https://dik.si/ShareExtglx?shareext.m3u8
