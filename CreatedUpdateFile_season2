@@ -412,6 +412,17 @@ https://dik.si/SEmnctv?SHAREEXT.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",INEWS+(dec=native)
 https://dik.si/SEinewstv?SHAREEXT.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",SOCCER_BOLA1
+https://lnk.ec/SoccerTv1?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",SOCCER_BOLA2
+https://lnk.ec/SoccerTv2?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",TV_JUARA1
+https://lnk.ec/JuaraTV1?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",TV_JUARA2
+https://lnk.ec/JuaraTV2?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",TV_JUARA3
+https://lnk.ec/JuaraTV3?shareext.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",SCTV
 https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
