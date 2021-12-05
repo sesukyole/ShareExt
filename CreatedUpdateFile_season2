@@ -412,6 +412,14 @@ https://dik.si/SEmnctv?SHAREEXT.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",INEWS+(dec=native)
 https://dik.si/SEinewstv?SHAREEXT.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",champ1=roll(dec=native)
+https://etus.link/champ1roll?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",champ2=roll(dec=native)
+https://etus.link/champ2roll?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",champ3=roll(dec=native)
+https://etus.link/champ3roll?shareext.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",BOLA1(dec=native)
 https://lnk.ec/SoccerTv1?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",BOLA2(dec=native)
