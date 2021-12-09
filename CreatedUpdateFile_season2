@@ -175,19 +175,19 @@ https://iptv.mwafa.net/vidio/6898/index.m3u8?token=1999
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",MNC SPORTS
 https://etus.link/izzatmncsport?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CHAMPIONTV1
-http://www.daygun.online/Live/ru/v.m3u8?id=championstv1
+http://golive.cf/vidio/live-champion1.m3u8
+#http://www.daygun.online/Live/ru/v.m3u8?id=championstv1
 #https://dik.si/champion1?shareext.m3u8
-#http://golive.cf/vidio/live-champion1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CHAMPIONTV2
-http://www.daygun.online/Live/ru/v.m3u8?id=championstv2
+http://golive.cf/vidio/live-champion2.m3u8
+#http://www.daygun.online/Live/ru/v.m3u8?id=championstv2
 #https://dik.si/champion2?shareext.m3u8
-#http://golive.cf/vidio/live-champion2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CHAMPIONTV3
-http://www.daygun.online/Live/ru/v.m3u8?id=championstv3
+http://golive.cf/vidio/live-champion3.m3u8
+#http://www.daygun.online/Live/ru/v.m3u8?id=championstv3
 #https://dik.si/champion3?shareext.m3u8
-#http://golive.cf/vidio/live-champion3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",UseeSukan1
 https://lnk.ec/sportUsee1?shareext.m3u8
@@ -225,7 +225,7 @@ https://lnk.ec/ASSP2?shareext.m3u8
 https://lnk.ec/ASSP3?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASSP4(dec=native)
 https://lnk.ec/ASSP4?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASSP5(dec=native)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASSP5
 https://lnk.ec/astroSport5?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASTRO ARENA(dec=native) 
 https://lnk.ec/astroArena?shareext.m3u8
@@ -245,9 +245,9 @@ https://lnk.ec/BOO?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",XIAOTAIYANG
 https://lnk.ec/xiaotaiyang?shareext.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASTRO ARENA2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASTRO ARENA2(dec=native)
 https://lnk.ec/astroArena2?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",SPOTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",SPOTV(dec=native)
 https://lnk.ec/SPOTV?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",RTM SPORTS
 https://lnk.ec/RTMsports?shareext.m3u8
