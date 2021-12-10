@@ -481,6 +481,42 @@ https://dik.si/SEuseeSPorts_2?shareext.m3u8
 
 
 
+#EXTINF:-1 tvg-id="NetTV.tecy" tvg-name="NetTV.tecy" group-title="ShareExt@USEETV" tvg-logo="http://cdn.roll.my.id:80/img/net.png",NET.
+http://jkt2.roll.my.id:80/manifest/uss/index.m3u8?id=net 
+
+#EXTINF:-1 tvg-id="Trans7.tecy" tvg-name="Trans7.tecy" group-title="ShareExt@USEETV" tvg-logo="http://cdn.roll.my.id:80/img/trans7.png",TRANS 7
+http://jkt2.roll.my.id:80/manifest/uss/index.m3u8?id=trans7
+
+#EXTINF:-1 tvg-id="TransTV.tecy" tvg-name="TransTV.tecy" group-title="ShareExt@USEETV" tvg-logo="http://cdn.roll.my.id:80/img/transtv.png",TRANS TV
+http://jkt2.roll.my.id:80/manifest/uss/index.m3u8?id=transtv
+
+#EXTINF:-1 tvg-id="JTV.tecy" tvg-name="JTV.tecy" group-title="ShareExt@USEETV" tvg-logo="http://cdn.roll.my.id:80/img/jtv.png",JTV
+http://jkt2.roll.my.id:80/manifest/uss/index.m3u8?id=jtv
+
+#EXTINF:-1 tvg-id="JAKTV.tecy" tvg-name="JAKTV.tecy" group-title="ShareExt@USEETV" tvg-logo="http://cdn.roll.my.id:80/img/jaktv.png",JAK TV
+http://jkt2.roll.my.id:80/manifest/uss/index.m3u8?id=jaktv
+
+#EXTINF:-1 tvg-id="KompasTv.tecy" tvg-name="KompasTv.tecy" group-title="ShareExt@USEETV" tvg-logo="http://cdn.roll.my.id:80/img/kompastv.png",KOMPAS TV
+http://jkt2.roll.my.id:80/manifest/uss/index.m3u8?id=kompastv
+
+#EXTINF:-1 tvg-ID="INews.tecy" tvg-name="iNews" group-title="ShareExt@USEETV" tvg-logo="http://cdn.roll.my.id:80/img/inews.png",iNEWS
+http://jkt2.roll.my.id:80/manifest/uss/index.m3u8?id=inews
+
+#EXTINF:-1 group-title="ShareExt@USEETV" tvg-logo="http://cdn.roll.my.id:80/img/metrotv.png",METRO TV
+http://jkt2.roll.my.id:80/manifest/uss/index.m3u8?id=metrotv
+
+#EXTINF:-1 tvg-id="DaaiTv.tecy" tvg-name="DaaiTv.tecy" group-title="ShareExt@USEETV" tvg-logo="http://cdn.roll.my.id:80/img/daaitv.png", DAAI TV
+http://jkt2.roll.my.id:80/manifest/uss/index.m3u8?id=daaitv
+
+#EXTINF:-1 tvg-id="BeritaSatu.tecy" tvg-name="BeritaSatu.tecy" group-title="ShareExt@USEETV" tvg-logo="http://cdn.roll.my.id:80/img/beritasatu.png",BERITA SATU
+http://jkt2.roll.my.id:80/manifest/uss/index.m3u8?id=beritasatu
+
+#EXTINF:-1 group-title="ShareExt@USEETV" tvg-logo="http://cdn.roll.my.id:80/img/rtv.png",RTV
+http://jkt2.roll.my.id:80/manifest/uss/index.m3u8?id=rtv
+
+#EXTINF:-1 tvg-id="TVRI.tecy" tvg-name="TVRI.tecy" group-title="ShareExt@USEETV" tvg-logo="http://cdn.roll.my.id:80/img/tvri.png",TVRI
+http://jkt2.roll.my.id:80/manifest/uss/index.m3u8?id=tvri
+
 
 
 
