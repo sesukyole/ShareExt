@@ -174,19 +174,19 @@ https://iptv.mwafa.net/vidio/6898/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",MNC SPORTS
 https://etus.link/izzatmncsport?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CHAMPIONTV1(dec=native)
-https://dik.si/champion1?shareext.m3u8
-#http://golive.cf/vidio/live-champion1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CHAMPIONTV1
+http://golive.cf/vidio/live-champion1.m3u8
+#https://dik.si/champion1?shareext.m3u8
 #http://www.daygun.online/Live/ru/v.m3u8?id=championstv1
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CHAMPIONTV2(dec=native)
-https://dik.si/champion2?shareext.m3u8
-#http://golive.cf/vidio/live-champion2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CHAMPIONTV2
+http://golive.cf/vidio/live-champion2.m3u8
+#https://dik.si/champion2?shareext.m3u8
 #http://www.daygun.online/Live/ru/v.m3u8?id=championstv2
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CHAMPIONTV3(dec=native)
-https://dik.si/champion3?shareext.m3u8
-#http://golive.cf/vidio/live-champion3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CHAMPIONTV3
+http://golive.cf/vidio/live-champion3.m3u8
+#https://dik.si/champion3?shareext.m3u8
 #http://www.daygun.online/Live/ru/v.m3u8?id=championstv3
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",UseeSukan1
