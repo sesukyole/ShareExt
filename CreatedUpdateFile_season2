@@ -839,6 +839,26 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFz5HXLC/SKYNETSPORTSshareext.jpg"group-title="ShareExt@SPORTS_CHANNELS",SKYNETSPORTS1(dec=native)
+https://dik.si/SEskynetsport1?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFz5HXLC/SKYNETSPORTSshareext.jpg"group-title="ShareExt@SPORTS_CHANNELS",SKYNETSPORTS2(dec=native)
+https://dik.si/SEskynetsport2?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFz5HXLC/SKYNETSPORTSshareext.jpg"group-title="ShareExt@SPORTS_CHANNELS",TENNIS TV(dec=native)
+https://dik.si/SEskynetsport3?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFz5HXLC/SKYNETSPORTSshareext.jpg"group-title="ShareExt@SPORTS_CHANNELS",TOP FIGHT(dec=native)
+https://dik.si/SEskynetsport4?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFz5HXLC/SKYNETSPORTSshareext.jpg"group-title="ShareExt@SPORTS_CHANNELS",ONE SHOOT(dec=native)
+https://dik.si/SEskynetsport5?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFz5HXLC/SKYNETSPORTSshareext.jpg"group-title="ShareExt@SPORTS_CHANNELS",ASTROSPORTS4(dec=native)
+https://dik.si/SEskynetsport6?shareext.m3u8
+
+
+
+
+
+
+
+
 
 
 
