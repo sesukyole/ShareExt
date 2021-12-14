@@ -1321,6 +1321,25 @@ https://www.wopep.com/02_PremierHD5_720p/chunklist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",DiemaSport HD
+http://31.41.21.44:8002/play/a009/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",DiemaSport2 HD
+http://31.41.21.44:8002/play/a00a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",MAXSport1 HD
+http://31.41.21.44:8002/play/a00b/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",MAXSport2 HD
+http://31.41.21.44:8002/play/a00c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",MAXSport3 HD
+http://31.41.21.44:8002/play/a00d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",MAXSport4 HD
+http://31.41.21.44:8002/play/a00p/index.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",THAIRATH TV
 https://smart-tv.livedoomovie.com/02_THAIRATH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",SPOTV
