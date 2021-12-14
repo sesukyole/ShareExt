@@ -687,6 +687,48 @@ http://nontonbola.my.id/hustv/galaxy.m3u8?punyanya=gasss
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",UseeSport1_gold
+https://goldenlivektv.com/mumet-mpd/Khoerul_Television.m3u8?id=useesport&Khoerul=default&Television=0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",UseeSport2_gold
+https://goldenlivektv.com/mumet-mpd/Khoerul_Television.m3u8?id=useesports2&Khoerul=default&Television=0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",RockEntertainment_gold
+https://goldenlivektv.com/mumet-mpd/Khoerul_Television.m3u8?id=blueant&Khoerul=default&Television=0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",DuniaLain_gold
+https://goldenlivektv.com/mumet-mpd/Khoerul_Television.m3u8?id=dunialain&Khoerul=default&Television=0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",WakuWaku_gold
+https://goldenlivektv.com/mumet-mpd/Khoerul_Television.m3u8?id=wakuwaku&Khoerul=default&Television=0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Galaxy_gold
+https://goldenlivektv.com/mumet-mpd/Khoerul_Television.m3u8?id=galaxy&Khoerul=default&Television=0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",GalaxyPremium_gold
+https://goldenlivektv.com/mumet-mpd/Khoerul_Television.m3u8?id=galaxypremium&Khoerul=default&Television=0
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",SCC_gal
+http://usee.galleryiptv.my.id/starchinese/channel.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",SCM_gal
+http://usee.galleryiptv.my.id/starchinese/movies.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Thrill_iptv_id
+https://iptvid.cgflix.xyz/us/thrill.m3u8?by=iptv_id&exp=1639458000
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Warner_iptv_id
+https://iptvid.cgflix.xyz/us/warner.m3u8?by=iptv_id&exp=1639458000
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",DreamWork_iptv_id
+https://iptvid.cgflix.xyz/us/drmwrk.m3u8?by=iptv_id&exp=1639458000
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",DiscoveryCh_iptv_id
+https://iptvid.cgflix.xyz/us/dsc.m3u8?by=iptv_id&exp=1639458000
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",CinemaWorld_iptv_id
+https://iptvid.cgflix.xyz/us/cnmwrld.m3u8?by=iptv_id&exp=1639458000
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Utami_iptv_id
+https://iptvid.cgflix.xyz/us/utami.m3u8?by=iptv_id&exp=1639458000
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",GalaxyPremium
 http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=galaxypremium&gumisasakTV=default&sync=0
