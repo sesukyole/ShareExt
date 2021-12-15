@@ -277,12 +277,15 @@ https://iptv.mwafa.net/vidio/6898/index.m3u8?token=1999
 https://etus.link/izzatmncsport?shareext.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CHAMPIONTV1
+http://tvnasional.mobie.in/M3U8/Champions1.m3u8
 http://golive.cf/vidio/live-champion1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CHAMPIONTV2
+http://tvnasional.mobie.in/M3U8/Champions2.m3u8
 http://golive.cf/vidio/live-champion2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CHAMPIONTV3
+http://tvnasional.mobie.in/M3U8/Champions3.m3u8
 http://golive.cf/vidio/live-champion3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CHAMPIONTV1(b)
