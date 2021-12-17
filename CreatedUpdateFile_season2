@@ -353,9 +353,9 @@ https://goldenlivektv.com/Live_TV/Channel_Transtv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASSP1
-https://lnk.ec/ASSP1?shareext.m3u8
+http://lnk.ec/ASSP1?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASSP2(dec=native)
-https://lnk.ec/ASSP2?shareext.m3u8
+http://lnk.ec/ASSP2?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASSP3
 https://lnk.ec/ASSP3?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASSP4
