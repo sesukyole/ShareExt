@@ -274,7 +274,6 @@ https://iptv.mwafa.net/vidio/6898/index.m3u8?token=1999
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",MNC SPORTS
-https://etus.link/izzatmncsport?shareext.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CHAMPIONTV1(Dec=native)
 https://dik.si/champion1?shareext.m3u8
@@ -333,60 +332,6 @@ https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
 https://goldenlivektv.com/Live_TV/Channel_Trans7.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",TRANSTV
 https://goldenlivektv.com/Live_TV/Channel_Transtv.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-id="CNBCIndonesia.MACAN" tvg-name="CNBC Indonesia" tvg-logo="https://i.ibb.co/hyWjnZ7/cnbc-indonesia-home-tv.png" group-title="ShareExt@ID_CHANNELS",CNBC Indonesia
-http://103.30.87.238:443/shareextreborn/trial321/92
-#EXTINF:-1 tvg-id="TVRI.MACAN" tvg-name="TVRI" tvg-logo="https://i.ibb.co/d5tmxwX/tvri-home-tv.png" group-title="ShareExt@ID_CHANNELS",TVRI
-http://103.30.87.238:443/shareextreborn/trial321/102
-#EXTINF:-1 tvg-id="BeritaSatu.MACAN" tvg-name="Berita Satu" tvg-logo="https://i.ibb.co/FxD8rj8/beritasatu-home-tv.png" group-title="ShareExt@ID_CHANNELS",Berita Satu
-http://103.30.87.238:443/shareextreborn/trial321/570
-#EXTINF:-1 tvg-id="CNNIndonesia.MACAN" tvg-name="CNN Indonesia" tvg-logo="https://i.ibb.co/GVqKN0m/cnn-indonesia-home-tv.png" group-title="ShareExt@ID_CHANNELS",CNN Indonesia
-http://103.30.87.238:443/shareextreborn/trial321/581
-#EXTINF:-1 tvg-id="MetroTV.MACAN" tvg-name="METROTV" tvg-logo="https://i.ibb.co/M9c0sy2/metrotv-home-tv.png" group-title="ShareExt@ID_CHANNELS",METROTV
-http://103.30.87.238:443/shareextreborn/trial321/32
-#EXTINF:-1 tvg-id="KompasTv.MACAN" tvg-name="KompasTV" tvg-logo="https://i.ibb.co/R3Hyxc1/kompastv-home-tv.png" group-title="ShareExt@ID_CHANNELS",KompasTV
-http://103.30.87.238:443/shareextreborn/trial321/809
-#EXTINF:-1 tvg-id="horee.MACAN" tvg-name="Horee" tvg-logo="https://i.ibb.co/R9G0FBW/horee-home-tv.png" group-title="ShareExt@ID_CHANNELS",Horee
-http://103.30.87.238:443/shareextreborn/trial321/1199
-#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://i.ibb.co/MsFDnMV/kbs-world-home-tv.png" group-title="ShareExt@ID_CHANNELS",KBS World
-http://103.30.87.238:443/shareextreborn/trial321/601
-#EXTINF:-1 tvg-id="" tvg-name="Movie+" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg8Cs2GLpMbKG7-CQmEN3FR9X_jaJwglbGSeg2126XyR12rw4uNlzwAbGX58tBMeQKA5CkTeTNpRT2xMBEsmrNIrdWhr19F6kGSAIhAOFcLAwm_G4EpajE0GSk0mSlSfR8ozQ8pjiQ6kFNX7d1APlqHa-5hn7REz-U1-dHys-FYg0oWTtFalnpLc_df1Q=s320" group-title="ShareExt@ID_CHANNELS",Movie+
-http://103.30.87.238:443/shareextreborn/trial321/1144
-#EXTINF:-1 tvg-id="" tvg-name="Anime+" tvg-logo="https://i.ibb.co/r2S2r6Y/anime-plus-home-tv.png" group-title="ShareExt@ID_CHANNELS",Anime+
-http://103.30.87.238:443/shareextreborn/trial321/1151
-#EXTINF:-1 tvg-id="" tvg-name="Drama+" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh6gl2erE9qmrRuP2oKEWcI20dp1rcQ6vdkpjG7QCbg2Ya4MkpajlOd_kBGt8uzZM0TzXcQ_42oLC1to756td1EXzqcrpOq6HYM6rHRSLqWg8_KR8yfOb0g8lP8akCsfKEKSugFxiSACletR5ZXDDj2EMQFfyb8aM9ypYioVuMj2cW-IfjpynAuKcARdA=s320" group-title="ShareExt@ID_CHANNELS",Drama+
-http://103.30.87.238:443/shareextreborn/trial321/1152
-#EXTINF:-1 tvg-id="RodjaTV.id" tvg-name="Rodja TV" tvg-logo="https://i.ibb.co/m5TzKYB/rodjatv-home-tv.png" group-title="ShareExt@ID_CHANNELS",Rodja TV
-http://103.30.87.238:443/shareextreborn/trial321/180
-#EXTINF:-1 tvg-id="Reformed21TV.id" tvg-name="Reformed 21" tvg-logo="https://i.ibb.co/yWyyXPB/reformed-home-tv.png" group-title="ShareExt@ID_CHANNELS",Reformed 21
-http://103.30.87.238:443/shareextreborn/trial321/571
-#EXTINF:-1 tvg-id="" tvg-name="Al Bahjah TV" tvg-logo="https://i.ibb.co/SvZRKmg/al-bahjah-home-tv.png" group-title="ShareExt@ID_CHANNELS",Al Bahjah TV
-http://103.30.87.238:443/shareextreborn/trial321/615
-#EXTINF:-1 tvg-id="MQTV.id" tvg-name="MQTV" tvg-logo="https://i.ibb.co/XWP6xdz/mqtv-home-tv.png" group-title="ShareExt@ID_CHANNELS",MQTV
-http://103.30.87.238:443/shareextreborn/trial321/1140
-#EXTINF:-1 tvg-id="" tvg-name="Maleo" tvg-logo="https://i.ibb.co/KWMr8jt/maleo-home-tv.png" group-title="ShareExt@ID_CHANNELS",Maleo
-http://103.30.87.238:443/shareextreborn/trial321/1200
-#EXTINF:-1 tvg-id="" tvg-name="Musica" tvg-logo="https://i.ibb.co/S0yfSy5/musica-home-tv.png" group-title="ShareExt@ID_CHANNELS",Musica
-http://103.30.87.238:443/shareextreborn/trial321/1201
-#EXTINF:-1 tvg-id="" tvg-name="Music TV" tvg-logo="https://i.ibb.co/ZcYj6Tw/musictv-home-tv.png" group-title="ShareExt@ID_CHANNELS",Music TV
-http://103.30.87.238:443/shareextreborn/trial321/1202
-#EXTINF:-1 tvg-id="" tvg-name="Music+" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgSC6bGQDOYdX3gjNS-k68s7FxiMbbrMthIlhZXXU_q5t3PPR3dxAN8QjM1eontbpXn5Qh6WdXhlEyd13eIE_1Pm2kUmFqHY6BKmzTY-u2qk47_Av7TtN9Dgr0A6sQYeq5kgFZx05q55utQKnRc2njgEgoTuyyyNasPHhMuUOP24iNxO2NfcjzXqRgkzA=s320" group-title="ShareExt@ID_CHANNELS",Music+
-http://103.30.87.238:443/shareextreborn/trial321/1362
-#EXTINF:-1 tvg-id="" tvg-name="The Indonesian Chanel" tvg-logo="https://i.postimg.cc/cJdp2Wnw/the-indonesia-channel.png" group-title="ShareExt@ID_CHANNELS",The Indonesian Chanel
-http://103.30.87.238:443/shareextreborn/trial321/1559
-#EXTINF:-1 tvg-id="Mykidz.MACAN" tvg-name="My Kids" tvg-logo="https://i.ibb.co/MNGcDxm/mkidz-home-tv.png" group-title="ShareExt@ID_CHANNELS",My Kids
-http://103.30.87.238:443/shareextreborn/trial321/1382
-#EXTINF:-1 tvg-id="Zoomoo.id" tvg-name="Zoomoo" tvg-logo="https://i.ibb.co/n3Bdy69/zoomoo-home-tv.png" group-title="ShareExt@ID_CHANNELS",Zoomoo
-http://103.30.87.238:443/shareextreborn/trial321/1387
-#EXTINF:-1 tvg-id="" tvg-name="Phoenix" tvg-logo="https://www.lyngsat.com/logo/tv/pp/phoenix_infonews.png" group-title="ShareExt@ID_CHANNELS",Phoenix
-http://103.30.87.238:443/shareextreborn/trial321/1466
-#EXTINF:-1 tvg-id="TRTWorld.id" tvg-name="TRT World" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trtworld_small.png" group-title="ShareExt@ID_CHANNELS",TRT World
-http://103.30.87.238:443/shareextreborn/trial321/1467
-#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/220px-CGTN.png" group-title="ShareExt@ID_CHANNELS",CGTN
-http://103.30.87.238:443/shareextreborn/trial321/1553
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="ShareExt@ID_CHANNELS",Travel XP
-http://103.30.87.238:443/shareextreborn/trial321/1576
 
 
 
