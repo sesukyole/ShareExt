@@ -2055,15 +2055,6 @@ http://cro.hockeynews.club/live/2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",SS variety3
 http://cro.hockeynews.club/live/3/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",SonyTen1(dec=native)
-http://x1.broiptv.com/play/godzillazila7@gmail.com/66488244/phIAh02i/norvegicus/sony_ten1_norvegicus/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",SonyTen2(dec=native)
-http://x1.broiptv.com/play/godzillazila7@gmail.com/66488244/phIAh02i/norvegicus/sony_ten2_norvegicus/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",SonySix(dec=native)
-http://x1.broiptv.com/play/godzillazila7@gmail.com/66488244/phIAh02i/norvegicus/sony_six_norvegicus/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",BEINSPORT1 ID(dec=native)
 https://etus.link/beinsport1id?shareext/ts
 
@@ -4642,34 +4633,6 @@ https://cdn.rjdigilink.in/deepamtv/livetv/playlist.m3u8
 https://cdn.rjdigilink.in/deepamtv/livetv/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",JEYSON TV
 https://cdn.rjdigilink.in/jeysontv/livetv/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fR8jbQt/Netflix-Share-Ext-Group.png"group-title="ShareExt@NETFLIX_ArabLive",NetflixComedy FHD
-http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/43836
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fR8jbQt/Netflix-Share-Ext-Group.png"group-title="ShareExt@NETFLIX_ArabLive",NetflixEnglish
-http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/158539
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fR8jbQt/Netflix-Share-Ext-Group.png"group-title="ShareExt@NETFLIX_ArabLive",NetflixHorror FHD
-http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/77713
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fR8jbQt/Netflix-Share-Ext-Group.png"group-title="ShareExt@NETFLIX_ArabLive",NetflixKids2 HD
-http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/225315
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fR8jbQt/Netflix-Share-Ext-Group.png"group-title="ShareExt@NETFLIX_ArabLive",NetflixKids FHD
-http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/43838
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fR8jbQt/Netflix-Share-Ext-Group.png"group-title="ShareExt@NETFLIX_ArabLive",NetflixMovies FHD
-http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/85566
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fR8jbQt/Netflix-Share-Ext-Group.png"group-title="ShareExt@NETFLIX_ArabLive",NetflixThriller FHD
-http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/85552
-
-
-
-
-
-
-
-
-
 
 
 
