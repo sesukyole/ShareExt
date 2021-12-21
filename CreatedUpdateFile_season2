@@ -313,6 +313,16 @@ https://lnk.ec/sportUsee1?shareext.m3u8
 https://lnk.ec/sportUsee2?shareext.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",HBO
+https://lnk.ec/hboID?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",HBO FAMILY
+https://lnk.ec/hboFamID?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",HBO HITS
+https://lnk.ec/hboHitsID?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",HBO SIG
+https://lnk.ec/hboSigID?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CINEMAX
+https://lnk.ec/cinemaxID?shareext.ts
 
 
 
