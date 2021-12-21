@@ -471,13 +471,15 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1575
 http://iptv.tvmalaysia.cc:80/boy1/boy1/9026
 https://lnk.ec/ASSP4?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASSP5
-http://iptv.tvmalaysia.cc:80/boy1/boy1/9029
 https://lnk.ec/astroSport5?shareext.m3u8
+http://iptv.tvmalaysia.cc:80/boy1/boy1/9029
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASTRO ARENA
 https://lnk.ec/astroArena?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASTRO ARENA2
-http://iptv.tvmalaysia.cc:80/boy1/boy1/9028
 https://lnk.ec/astroArena2?shareext.m3u8
+http://iptv.tvmalaysia.cc:80/boy1/boy1/9028
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",SPOTV
 http://13.76.192.14:19410/SpoTv_Live/index.m3u8
 https://lnk.ec/SPOTV?shareext.m3u8
