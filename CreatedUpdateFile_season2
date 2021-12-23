@@ -275,6 +275,20 @@ https://iptv.mwafa.net/vidio/6898/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",MNC SPORTS
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",[PH]beINSports1
+http://starshare.live:8080/live/1234512345/1234512345/19211.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",[PH]beINSports2
+http://starshare.live:8080/live/1234512345/1234512345/19212.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",[ID]BeiNSport1
+http://starshare.live:8080/live/1234512345/1234512345/19481.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",[ID]BeiNSport2
+http://starshare.live:8080/live/1234512345/1234512345/19482.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",soccerChannel
+http://starshare.live:8080/live/1234512345/1234512345/19483.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",SoccerChannel2
+http://starshare.live:8080/live/1234512345/1234512345/19485.ts
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CHAMPIONTV1(dec=native)
 https://dik.si/champion1?shareext.m3u8
 http://tvnasional.mobie.in/M3U8/Champions1.m3u8
