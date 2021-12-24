@@ -2328,6 +2328,44 @@ http://starshare.live:8080/live/1234512345/1234512345/4742.ts
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@AR_BEINSOCCER",BeinSportsPremium1 HD
+http://starshare.live:8080/live/1234512345/1234512345/30800.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@AR_BEINSOCCER",BeinSportsPremium2 HD
+http://starshare.live:8080/live/1234512345/1234512345/30801.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@AR_BEINSOCCER",BeinSportsPremium3 HD
+http://starshare.live:8080/live/1234512345/1234512345/30802.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@AR_BEINSOCCER",BeinSport News
+http://starshare.live:8080/live/1234512345/1234512345/355.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@AR_BEINSOCCER",FR:BEINSPORT1 HD
+http://starshare.live:8080/live/1234512345/1234512345/356.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@AR_BEINSOCCER",FR:BEINSPORT2 HD
+http://starshare.live:8080/live/1234512345/1234512345/357.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@AR_BEINSOCCER",FR:BEINSPORT3 HD
+http://starshare.live:8080/live/1234512345/1234512345/358.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@AR_BEINSOCCER",BEINSPORTS1 HD
+http://starshare.live:8080/live/1234512345/1234512345/359.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@AR_BEINSOCCER",BEINSPORT2 HD
+http://starshare.live:8080/live/1234512345/1234512345/360.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@AR_BEINSOCCER",BEINSPORT3 HD
+http://starshare.live:8080/live/1234512345/1234512345/361.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@AR_BEINSOCCER",BEINSPORT4 HD
+http://starshare.live:8080/live/1234512345/1234512345/362.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@AR_BEINSOCCER",BEINSPORT5 HD
+http://starshare.live:8080/live/1234512345/1234512345/363.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@AR_BEINSOCCER",BeINSport6 HD
+http://starshare.live:8080/live/1234512345/1234512345/364.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@AR_BEINSOCCER",BEINSPORT7 HD
+http://starshare.live:8080/live/1234512345/1234512345/365.ts
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Ptv Sports*" tvg-logo="http://sonyiptv.net:8080/images/dcfdda6c35f8880bc8f1d526e20bddbb.png" group-title="SHAREEXT@CRICKET",PtvSports*
 http://tigeriptv.vip:8080/556677/556677/81319
 #EXTINF:-1 tvg-id="" tvg-name="Geo Super Hd*" tvg-logo="http://sonyiptv.net:8080/images/fdaeb489423064706cbb8d466ad9bef1.png" group-title="SHAREEXT@CRICKET",GeoSuper Hd*
