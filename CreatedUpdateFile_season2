@@ -328,20 +328,20 @@ https://lnk.ec/sportUsee2?shareext.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",HBO
-http://starshare.live:8080/live/1234512345/1234512345/19500.ts
 https://lnk.ec/hboID?shareext.ts
+http://starshare.live:8080/live/1234512345/1234512345/19500.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",HBO FAMILY
-http://starshare.live:8080/live/1234512345/1234512345/19502.ts
 https://lnk.ec/hboFamID?shareext.ts
+http://starshare.live:8080/live/1234512345/1234512345/19502.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",HBO HITS
-http://starshare.live:8080/live/1234512345/1234512345/19504.ts
 https://lnk.ec/hboHitsID?shareext.ts
+http://starshare.live:8080/live/1234512345/1234512345/19504.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",HBO SIG
-http://starshare.live:8080/live/1234512345/1234512345/19508.ts
 https://lnk.ec/hboSigID?shareext.ts
+http://starshare.live:8080/live/1234512345/1234512345/19508.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CINEMAX
-http://starshare.live:8080/live/1234512345/1234512345/19510.ts
 https://lnk.ec/cinemaxID?shareext.ts
+http://starshare.live:8080/live/1234512345/1234512345/19510.ts
 
 
 
