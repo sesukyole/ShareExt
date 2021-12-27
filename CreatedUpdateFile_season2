@@ -174,16 +174,6 @@ https://etus.link/champ2roll?shareext.m3u8
 https://etus.link/champ3roll?shareext.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",BOLA1(dec=native)
-https://lnk.ec/SoccerTv1?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",BOLA2(dec=native)
-https://lnk.ec/SoccerTv2?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",TV_JUARA1(dec=native)
-https://lnk.ec/JuaraTV1?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",TV_JUARA2(dec=native)
-https://lnk.ec/JuaraTV2?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",TV_JUARA3(dec=native)
-https://lnk.ec/JuaraTV3?shareext.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",RCTI_HD
 http://www.daygun.online/Live/ru/v.m3u8?id=rcti
@@ -303,17 +293,14 @@ http://starshare.live:8080/live/1234512345/1234512345/19485.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CHAMPIONTV1(dec=native)
 https://dik.si/champion1?shareext.m3u8
-http://tvnasional.mobie.in/M3U8/Champions1.m3u8
 http://golive.cf/vidio/live-champion1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CHAMPIONTV2(dec=native)
 https://dik.si/champion2?shareext.m3u8
-http://tvnasional.mobie.in/M3U8/Champions2.m3u8
 http://golive.cf/vidio/live-champion2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CHAMPIONTV3(dec=native)
 https://dik.si/champion3?shareext.m3u8
-http://tvnasional.mobie.in/M3U8/Champions3.m3u8
 http://golive.cf/vidio/live-champion3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CHAMPIONTV1(b)
