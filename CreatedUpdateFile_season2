@@ -1223,10 +1223,6 @@ https://dik.si/SEuseeSport1?shareext.m3u8
 https://dik.si/SEuseeSPorts_2?shareext.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",UseeSport1(gass)
-http://nontonbola.my.id/hustv/useesport1.m3u8?punyanya=gasss
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",UseeSport2(gass)
-https://nontonbola.my.id/hustv/useesport2.m3u8?punyanya=gasss
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",GalaxyPrem(gass)
 http://nontonbola.my.id/hustv/galaxypremi.m3u8?punyanya=gasss
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Galaxy(gass)
