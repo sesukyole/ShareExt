@@ -584,11 +584,11 @@ http://starshare.live:8080/live/1234512345/1234512345/19483.ts
 http://starshare.live:8080/live/1234512345/1234512345/19485.ts
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CHAMPIONTV1(dec=native)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CHAMPIONTV1
 https://dik.si/champion1?shareext.m3u8
 http://golive.cf/vidio/live-champion1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CHAMPIONTV2(dec=native)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CHAMPIONTV2
 https://dik.si/champion2?shareext.m3u8
 http://golive.cf/vidio/live-champion2.m3u8
 
@@ -609,9 +609,9 @@ http://www.daygun.online/Live/ru/v.m3u8?id=championstv3
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",USEESPORT_1(dec=native)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",USEESPORT_1
 https://lnk.ec/sportUsee1?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",USEESPORT_2(dec=native)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",USEESPORT_2
 https://lnk.ec/sportUsee2?shareext.m3u8
 
 
