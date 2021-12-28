@@ -148,22 +148,6 @@ http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Champions1 
-http://tvnasional.mobie.in/PREMIER_VIDIO/Champions1.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Champions2
-http://tvnasional.mobie.in/PREMIER_VIDIO/Champions2.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Champions3
-http://tvnasional.mobie.in/PREMIER_VIDIO/Champions3.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",IndosiarLiga1&2 
-http://tvnasional.mobie.in/M3U8/205.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",CitraBioskop 
-http://tvnasional.mobie.in/M3U8/bioskop.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",CitraDrama 
-http://tvnasional.mobie.in/PREMIER_VIDIO/cdrama.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Hip-hip horeee kids
-http://tvnasional.mobie.in/PREMIER_VIDIO/hiphiphoree.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Horee kids 
-http://tvnasional.mobie.in/PREMIER_VIDIO/horee.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",champ1=roll(dec=native)
@@ -172,8 +156,8 @@ https://etus.link/champ1roll?shareext.m3u8
 https://etus.link/champ2roll?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",champ3=roll(dec=native)
 https://etus.link/champ3roll?shareext.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",INDOSIAR_HDv
+https://etus.link/indosiarliga1?shareext.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",RCTI_HD
 http://www.daygun.online/Live/ru/v.m3u8?id=rcti
