@@ -156,15 +156,35 @@ https://etus.link/champ1roll?shareext.m3u8
 https://etus.link/champ2roll?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",champ3=roll(dec=native)
 https://etus.link/champ3roll?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",INDOSIAR_HDv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",INDOSIAR_HD(dec=native)
 https://etus.link/indosiarliga1?shareext.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",RCTI_HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",HBO
+http://4rr0w.my.id/wolftv/go.m3u8?ch=hbo
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",HBO_SIG
+http://4rr0w.my.id/wolftv/go.m3u8?ch=sig
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",HBO_HITS
+http://4rr0w.my.id/wolftv/go.m3u8?ch=hits
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",HBO_FAMILY
+http://4rr0w.my.id/wolftv/go.m3u8?ch=fam
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",CINEMAX
+http://4rr0w.my.id/wolftv/go.m3u8?ch=max
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",RCTI_+HD
+http://4rr0w.my.id/wolftv/rpl.m3u8?ch=rcti
 http://www.daygun.online/Live/ru/v.m3u8?id=rcti
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",MNCTV_HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",MNCTV_+HD
+http://4rr0w.my.id/wolftv/rpl.m3u8?ch=mnctv
 http://www.daygun.online/Live/ru/v.m3u8?id=mnctv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",GTV_HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",GTV_+HD
+http://4rr0w.my.id/wolftv/rpl.m3u8?ch=gtv
 http://www.daygun.online/Live/ru/v.m3u8?id=gtv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",INEWS_+HD
+http://4rr0w.my.id/wolftv/rpl.m3u8?ch=inews
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",INDOSIAR_HD
 http://www.daygun.online/Live/ru/v.m3u8?id=indosiar
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",SCTV_HD
