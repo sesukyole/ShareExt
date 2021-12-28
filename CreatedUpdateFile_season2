@@ -804,7 +804,7 @@ http://lnk.ec/ASSP2?shareext.m3u8
 https://lnk.ec/ASSP3?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASSP4
 https://lnk.ec/ASSP4?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASSP5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASSP5(dec=native)
 https://lnk.ec/astroSport5?shareext.m3u8
 http://iptv.tvmalaysia.cc:80/boy1/boy1/9029
 
@@ -837,9 +837,9 @@ https://lnk.ec/BOO?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",XIAOTAIYANG
 https://lnk.ec/xiaotaiyang?shareext.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",OKEY_TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",OKEY_TV(dec=native)
 https://lnk.ec/tvOkey?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",RTM SPORTS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",RTM SPORTS(dec=native)
 https://lnk.ec/RTMsports?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",AOD
 https://lnk.ec/AOD?shareext.m3u8
