@@ -2875,9 +2875,10 @@ https://dik.si/SEskynetsport5?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFz5HXLC/SKYNETSPORTSshareext.jpg"group-title="ShareExt@SPORTS_CHANNELS",ASTROSPORTS4(dec=native)
 https://dik.si/SEskynetsport6?shareext.m3u8
 
-
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",BEINSPORT_PREM1
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/m3u8/hls_m3u8_Bein-Prem-1-HEVC.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",BEINSPORT_PREM2
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/m3u8/hls_m3u8_Bein-Prem-2-HEVC.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",ASSP2
 http://13.76.192.14:19410/Gonj3r/live/ASSP2_dyos_ygpkaitelevizozonk/index.m3u8
