@@ -2104,6 +2104,32 @@ http://starshare.live:8080/live/1234512345/1234512345/29361.ts
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@BEINMovies_ARAB",BEINMOVIES1 HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/3198
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@BEINMovies_ARAB",BEINMOVIES2 HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/3200
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@BEINMovies_ARAB",BEINMOVIES3 HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/3202
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@BEINMovies_ARAB",BEINMOVIES4 HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/3204
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@BEINMovies_ARAB",BEINSERIES1 HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/3206
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@BEINMovies_ARAB",BEINSERIES2 HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/3210
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@BEINMovies_ARAB",BEINDRAMA HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/3208
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@BEINMovies_ARAB",beIN JEEM
+http://tv1.live:25461/star7arab/WtnJQObFQO/3211
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@BEINMovies_ARAB",beIN BARAEM
+http://tv1.live:25461/star7arab/WtnJQObFQO/3212
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@BEINMovies_ARAB",beIN JUNIOR
+http://tv1.live:25461/star7arab/WtnJQObFQO/3213
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@BEINMovies_ARAB",beIN Fatafeat
+http://tv1.live:25461/star7arab/WtnJQObFQO/3214
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@BEINMovies_ARAB",BEIN CARTOON FHD
+http://tv1.live:25461/star7arab/WtnJQObFQO/3215
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@BEINMovies_ARAB",beINMovies HD1Premiere
