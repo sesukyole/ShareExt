@@ -159,11 +159,19 @@ https://etus.link/champ3roll?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",INDOSIAR_HD(dec=native)
 https://etus.link/indosiarliga1?shareext.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",HBO
+http://202.83.123.80/Gegonjer-TV/Master/INI_HBO/HBO.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",HBO_SIGNATURE
+http://202.83.123.80/Gegonjer-TV/Master/INI_HBO/SIG.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",HBO_FAMILY
+http://202.83.123.80/Gegonjer-TV/Master/INI_HBO/FAM.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",CINEMAX
+http://202.83.123.80/Gegonjer-TV/Master/INI_HBO/MAX.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",INDOSIAR_HD
 http://www.daygun.online/Live/ru/v.m3u8?id=indosiar
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",SCTV_HD
 http://www.daygun.online/Live/ru/v.m3u8?id=sctv
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",SCTV
 https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
@@ -332,7 +340,26 @@ https://goldenlivektv.com/Live_TV/Channel_Trans7.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",TRANSTV(GOLD)
 https://goldenlivektv.com/Live_TV/Channel_Transtv.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",TRANSTV(nmd)
+https://cubmu.nomaden.tv:8279/TRANSTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",TRANS7(nmd)
+https://cubmu.nomaden.tv:8279/TRANS7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",SCTV(nmd)
+https://cubmu.nomaden.tv:8279/SCTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",INDOSIAR(nmd)
+https://cubmu.nomaden.tv:8279/INDOSIAR/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",NET.(nmd)
+https://cubmu.nomaden.tv:8279/NET/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",GTV(nmd)
+https://cubmu.nomaden.tv:8279/GTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",ANTV(nmd)
+https://cubmu.nomaden.tv:8279/ANTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",MNCTV(nmd)
+https://cubmu.nomaden.tv:8279/MNCTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",TVONE(nmd)
+https://cubmu.nomaden.tv:8279/TVONE/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",TVRI(nmd)
+https://cubmu.nomaden.tv:8279/TVRI/playlist.m3u8
 
 
 
