@@ -360,6 +360,10 @@ https://cubmu.nomaden.tv:8279/MNCTV/playlist.m3u8
 https://cubmu.nomaden.tv:8279/TVONE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",TVRI(nmd)
 https://cubmu.nomaden.tv:8279/TVRI/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",RCTI(nmd)
+https://cubmu.nomaden.tv:8279/RCTI/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",DUNIA_LAIN(nmd)
+https://cubmu.nomaden.tv:8279/DUNIALAIN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",WAKUWAKU(nmd)
 https://cubmu.nomaden.tv:8279/WAKUWAKU/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",PARAMOUNT(nmd)
