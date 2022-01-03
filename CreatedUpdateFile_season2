@@ -163,6 +163,8 @@ https://etus.link/indosiarliga1?shareext.m3u8
 http://202.83.123.80/Gegonjer-TV/Master/INI_HBO/HBO.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",HBO_SIGNATURE
 http://202.83.123.80/Gegonjer-TV/Master/INI_HBO/SIG.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",HBO_HITS
+http://202.83.123.80/Gegonjer-TV/Master/INI_HBO/HIT.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",HBO_FAMILY
 http://202.83.123.80/Gegonjer-TV/Master/INI_HBO/FAM.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",CINEMAX
