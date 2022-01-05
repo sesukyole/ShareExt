@@ -1245,6 +1245,52 @@ http://176.9.17.76:7080/live/stream/8dl627dwai/49.ts
 
 
 
+
+
+#EXTINF:-1 tvg-name="Bein Star World" tvg-logo="http://62.182.85.43/poster/StarWorld.png" group-title="SHAREEXT@ARABIC BEIN ENTERTAINMENT",BeinStar World
+http://bestsave.ltd:2052/55667788/88776655/2067
+#EXTINF:-1 tvg-name="Bein Star Movies" tvg-logo="http://62.182.85.43/poster/StarMovies.png" group-title="SHAREEXT@ARABIC BEIN ENTERTAINMENT",BeinStar Movies
+http://bestsave.ltd:2052/55667788/88776655/2068
+#EXTINF:-1 tvg-name="Bein Fox Life" tvg-logo="http://62.182.85.43/poster/FoxLife.png" group-title="SHAREEXT@ARABIC BEIN ENTERTAINMENT",FoxLife
+http://bestsave.ltd:2052/55667788/88776655/12977
+#EXTINF:-1 tvg-name="Bein Fox Crime" tvg-logo="http://62.182.85.43/poster/FoxCrime.png" group-title="SHAREEXT@ARABIC BEIN ENTERTAINMENT",FoxCrime
+http://bestsave.ltd:2052/55667788/88776655/12980
+#EXTINF:-1 tvg-name="Bein Fox Rewayat" tvg-logo="http://62.182.85.43/poster/FoxRewayat.png" group-title="SHAREEXT@ARABIC BEIN ENTERTAINMENT",FoxRewayat
+http://bestsave.ltd:2052/55667788/88776655/12981
+#EXTINF:-1 tvg-name="Bein Fox Action Movies" tvg-logo="http://62.182.85.43/poster/FoxActionMovies.png" group-title="SHAREEXT@ARABIC BEIN ENTERTAINMENT",FoxActionMovies
+http://bestsave.ltd:2052/55667788/88776655/32097
+#EXTINF:-1 tvg-name="Bein Baraem" tvg-logo="http://62.182.85.43/poster/BeinBaraem.png" group-title="SHAREEXT@ARABIC BEIN ENTERTAINMENT",Baraem
+http://bestsave.ltd:2052/55667788/88776655/28275
+#EXTINF:-1 tvg-name="Bein Boomerang HD" tvg-logo="http://62.182.85.43/poster/BEINBoomerang.png" group-title="SHAREEXT@ARABIC BEIN ENTERTAINMENT",Boomerang HD
+http://bestsave.ltd:2052/55667788/88776655/32103
+#EXTINF:-1 tvg-name="BEIN Cartoon Network Arabic" tvg-logo="http://62.182.85.43/poster/BEINCartoonNetworkArabic.png" group-title="SHAREEXT@ARABIC BEIN ENTERTAINMENT",Cartoon Network Arabic
+http://bestsave.ltd:2052/55667788/88776655/32104
+#EXTINF:-1 tvg-name="BEIN BABY TV" tvg-logo="http://62.182.85.43/poster/BABYTV.png" group-title="SHAREEXT@ARABIC BEIN ENTERTAINMENT",BABY TV
+http://bestsave.ltd:2052/55667788/88776655/32105
+#EXTINF:-1 tvg-name="Bein HGTV" tvg-logo="http://62.182.85.43/poster/HGTV.png" group-title="SHAREEXT@ARABIC BEIN ENTERTAINMENT",HGTV
+http://bestsave.ltd:2052/55667788/88776655/12988
+#EXTINF:-1 tvg-name="Bein BBC Earth" tvg-logo="http://62.182.85.43/poster/BBCEarth.png" group-title="SHAREEXT@ARABIC BEIN ENTERTAINMENT",BBC Earth
+http://bestsave.ltd:2052/55667788/88776655/12976
+#EXTINF:-1 tvg-name="Bein AMC Networks" tvg-logo="http://62.182.85.43/poster/BeinAMCNetworks.png" group-title="SHAREEXT@ARABIC BEIN ENTERTAINMENT",AMC Networks
+http://bestsave.ltd:2052/55667788/88776655/32098
+#EXTINF:-1 tvg-name="Bein Fine Living" tvg-logo="http://62.182.85.43/poster/BeinFineLiving.png" group-title="SHAREEXT@ARABIC BEIN ENTERTAINMENT",Fine Living
+http://bestsave.ltd:2052/55667788/88776655/32102
+#EXTINF:-1 tvg-name="Bein OutDoor" tvg-logo="http://62.182.85.43/poster/Outdoor.png" group-title="SHAREEXT@ARABIC BEIN ENTERTAINMENT",OutDoor
+http://bestsave.ltd:2052/55667788/88776655/12982
+#EXTINF:-1 tvg-name="Bein Travel" tvg-logo="http://62.182.85.43/poster/BeinTravel.png" group-title="SHAREEXT@ARABIC BEIN ENTERTAINMENT",Travel
+http://bestsave.ltd:2052/55667788/88776655/32101
+#EXTINF:-1 tvg-name="Bein Animal Planet" tvg-logo="http://62.182.85.43/poster/AnimalPlanet.png" group-title="SHAREEXT@ARABIC BEIN ENTERTAINMENT",AnimalPlanet
+http://bestsave.ltd:2052/55667788/88776655/12987
+#EXTINF:-1 tvg-name="BeIN Nat Geographic" tvg-logo="http://62.182.85.43/poster/NationalGeographic.png" group-title="SHAREEXT@ARABIC BEIN ENTERTAINMENT",NatGeographic
+http://bestsave.ltd:2052/55667788/88776655/12984
+#EXTINF:-1 tvg-name="BeIN Nat Geo People" tvg-logo="http://62.182.85.43/poster/NatGeoPeople.png" group-title="SHAREEXT@ARABIC BEIN ENTERTAINMENT",NatGeoPeople
+http://bestsave.ltd:2052/55667788/88776655/12985
+#EXTINF:-1 tvg-name="Bein National Geographic Wild" tvg-logo="http://62.182.85.43/poster/NationalGeographicWild.png" group-title="SHAREEXT@ARABIC BEIN ENTERTAINMENT",National GeographicWild
+http://bestsave.ltd:2052/55667788/88776655/12986
+
+
+
+
 #EXTINF:-1 tvg-id="beINMovies1.qa" tvg-name="|.AR.| MOVIES HD 1 PREMIERE" tvg-logo="http://one-iptv.com/imageslogo/beINMovies1.qa.png" group-title="SHAREEXT@ARABIC BEIN ENTERTAINMENT",MOVIES HD 1 PREMIERE
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/48031
 #EXTINF:-1 tvg-id="beINMovies2.qa" tvg-name="|.AR.| MOVIES HD 2 ACTION" tvg-logo="http://one-iptv.com/imageslogo/beINMovies2.qa.png" group-title="SHAREEXT@ARABIC BEIN ENTERTAINMENT",MOVIES HD 2 ACTION
