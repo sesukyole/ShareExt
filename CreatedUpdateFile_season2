@@ -445,18 +445,47 @@ https://lnk.ec/ASSP3?shareext.m3u8
 https://lnk.ec/ASSP4?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASSP5
 https://lnk.ec/astroSport5?shareext.m3u8
-http://iptv.tvmalaysia.cc:80/boy1/boy1/9029
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASTRO ARENA
 https://lnk.ec/astroArena?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASTRO ARENA2
 https://lnk.ec/astroArena2?shareext.m3u8
-http://iptv.tvmalaysia.cc:80/boy1/boy1/9028
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",SPOTV
 https://lnk.ec/SPOTV?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",SPOTV2
 https://wopep.com/02_FoxSport3_TH_720p/chunklist.m3u8?shareext/ts
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",Cetv1
+http://iptv.tvfix.org/hls/cetv1hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",CelestialClassicMovie(HK)
+http://iptv.tvfix.org/hls/tyjd2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",Nhk premium
+http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",TVB AsiaAction Channel
+http://iptv.tvfix.org/hls/tvbkf.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",PhoenixMovies
+http://iptv.tvfix.org/hls/fhdy.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",AnimalPlanet English
+http://iptv.tvfix.org/hls/animal2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",NationalGeographic English
+http://iptv.tvfix.org/hls/natlgeo.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",LoveNature4K
+http://iptv.tvfix.org/hls/lovenature4k.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",TVB XinHe
+http://iptv.tvfix.org/hls/tvbxh.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",Mytv super
+http://iptv.tvfix.org/hls/tvbws.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",LOTUS_MACAU
+http://149.129.100.78:88/lotus.php?id=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",BeinSport1(true)
+https://www.wopep.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",BeinSport2(true)
+https://www.wopep.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",SPOTV(true)
+https://wopep.com/02_foxsport_720p/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",AstroBOO(Malay)
 http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m02000000000014511515&ct=17957&tsum=fca94086b6283f0f50ed86710f79b55a
