@@ -458,8 +458,8 @@ https://lnk.ec/SPOTV?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",SPOTV2
 https://wopep.com/02_FoxSport3_TH_720p/chunklist.m3u8?shareext/ts
 
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",AstroBOO(Malay)
+http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m02000000000014511515&ct=17957&tsum=fca94086b6283f0f50ed86710f79b55a
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",Astro BOO
 https://lnk.ec/BOO?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",XIAOTAIYANG
