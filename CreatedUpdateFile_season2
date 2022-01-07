@@ -487,7 +487,7 @@ https://www.wopep.com/02_epl2_720p/chunklist.m3u8
 https://wopep.com/02_foxsport_720p/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",AstroBOO(Malay)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",AstroBOO(dec=auto)
 http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m02000000000014511515&ct=17957&tsum=fca94086b6283f0f50ed86710f79b55a
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",Astro BOO
 https://lnk.ec/BOO?shareext.m3u8
@@ -653,237 +653,303 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",ZEE TV HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",ZEE TV HD(dec=auto)
 http://58.27.219.166:8000/play/a06u/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",&PRIVE HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",&PRIVE HD(dec=auto)
 http://58.27.219.166:8000/play/a054/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",&flix HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",&flix HD(dec=auto)
 http://58.27.219.166:8000/play/a0b1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",&pictures(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",&pictures(dec=auto)
 http://58.27.219.166:8000/play/a04u/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",&pictures HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",&pictures HD(dec=auto)
 http://58.27.219.166:8000/play/a0dc/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",&tv HD(dec=auto) 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",&tv HD(dec=auto) 
 http://58.27.219.166:8000/play/a09c/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",ADITHYA TV(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",ADITHYA TV(dec=auto)
 http://58.27.219.166:8000/play/a0fy/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",ANIMAL_PLANET(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",ANIMAL_PLANET(dec=auto)
 http://58.27.219.166:8000/play/a04o/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",ASIANET_MO(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",ASIANET_MO(dec=auto)
 http://58.27.219.166:8000/play/a0ff/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",ASIANET_PLU(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",ASIANET_PLU(dec=auto)
 http://58.27.219.166:8000/play/a0fd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Asianet(dec=auto) 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",Asianet(dec=auto) 
 http://58.27.219.166:8000/play/a0fc/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Asianet HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",Asianet HD(dec=auto)
 http://58.27.219.166:8000/play/a0dt/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",BBC WORLD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",BBC WORLD(dec=auto)
 http://58.27.219.166:8000/play/a065/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",CARTOON(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",CARTOON(dec=auto)
 http://58.27.219.166:8000/play/a06e/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",CHUTTI TV(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",CHUTTI TV(dec=auto)
 http://58.27.219.166:8000/play/a0fj/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",CNN INTL(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",CNN INTL(dec=auto)
 http://58.27.219.166:8000/play/a064/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",COMEDY_CEN(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",COMEDY_CEN(dec=auto)
 http://58.27.219.166:8000/play/a066/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Colors HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",Colors HD(dec=auto)
 http://58.27.219.166:8000/play/a06v/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Colors rishtey(dec=auto) 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",Colors rishtey(dec=auto) 
 http://58.27.219.166:8000/play/a06z/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",D Tamil(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",D Tamil(dec=auto)
 http://58.27.219.166:8000/play/a0e3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",DD SPORTS(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",DD SPORTS(dec=auto)
 http://58.27.219.166:8000/play/a0cl/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",DISCOVERY K(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",DISCOVERY K(dec=auto)
 http://58.27.219.166:8000/play/a06o/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Discovery H(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",Discovery H(dec=auto)
 http://58.27.219.166:8000/play/a05x/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Discovery S(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",Discovery S(dec=auto)
 http://58.27.219.166:8000/play/a076/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Discovery T(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",Discovery T(dec=auto)
 http://58.27.219.166:8000/play/a077/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Disney Chan(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",Disney Chan(dec=auto)
 http://58.27.219.166:8000/play/a06g/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Disney Jr(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",Disney Jr(dec=auto)
 http://58.27.219.166:8000/play/a06i/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",ETV Telugu(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",ETV Telugu(dec=auto)
 http://58.27.219.166:8000/play/a0ft/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",EUROSPORT(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",EUROSPORT(dec=auto)
 http://58.27.219.166:8000/play/a05l/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",GEMINI COME(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",GEMINI COME(dec=auto)
 http://58.27.219.166:8000/play/a0fn/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",GEMINI MOV(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",GEMINI MOV(dec=auto)
 http://58.27.219.166:8000/play/a0fv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",GEMINI MUSI(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",GEMINI MUSI(dec=auto)
 http://58.27.219.166:8000/play/a0fo/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",GEMINI TV HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",GEMINI TV HD(dec=auto)
 http://58.27.219.166:8000/play/a0e0/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Gemini TV(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",Gemini TV(dec=auto)
 http://58.27.219.166:8000/play/a0fm/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",HISTORY TV1(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",HISTORY TV1(dec=auto)
 http://58.27.219.166:8000/play/a04q/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Investigation Discovery(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",Investigation Discovery(dec=auto)
 http://58.27.219.166:8000/play/a0ga/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",JAYA TV(dec=auto) 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",JAYA TV(dec=auto) 
 http://58.27.219.166:8000/play/a0fq/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Jalsha Mov HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",Jalsha Mov HD(dec=auto)
 http://58.27.219.166:8000/play/a0dw/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",KTV(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",KTV(dec=auto)
 http://58.27.219.166:8000/play/a0fe/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",KTV HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",KTV HD(dec=auto)
 http://58.27.219.166:8000/play/a0et/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",MAX HD(dec=auto) 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",MAX HD(dec=auto) 
 http://58.27.219.166:8000/play/a05j/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",MN+ HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",MN+ HD(dec=auto)
 http://58.27.219.166:8000/play/a05t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",MOVIES NOW(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",MOVIES NOW(dec=auto)
 http://58.27.219.166:8000/play/a069/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",MTV Beats(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",MTV Beats(dec=auto)
 http://58.27.219.166:8000/play/a06p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Mazhavil M HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",Mazhavil M HD(dec=auto)
 http://58.27.219.166:8000/play/a0dy/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",NATGeoWild HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",NATGeoWild HD(dec=auto)
 http://58.27.219.166:8000/play/a05k/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",National GEO(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",National GEO(dec=auto)
 http://58.27.219.166:8000/play/a05w/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Nick Jr.(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",Nick Jr.(dec=auto)
 http://58.27.219.166:8000/play/a06m/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",PIX HD(dec=auto) 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",PIX HD(dec=auto) 
 http://58.27.219.166:8000/play/a04t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Pogo(dec=auto) 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",Pogo(dec=auto) 
 http://58.27.219.166:8000/play/a06k/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Romedy NOW(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",Romedy NOW(dec=auto)
 http://58.27.219.166:8000/play/a06a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",SAB HD(dec=auto) 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",SAB HD(dec=auto) 
 http://58.27.219.166:8000/play/a09e/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",SET HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",SET HD(dec=auto)
 http://58.27.219.166:8000/play/a06x/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",SIX HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",SIX HD(dec=auto)
 http://58.27.219.166:8000/play/a05h/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",SONIC(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",SONIC(dec=auto)
 http://58.27.219.166:8000/play/a06j/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",SONYMAX 2(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",SONYMAX 2(dec=auto)
 http://58.27.219.166:8000/play/a07c/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",SONY PAL(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",SONY PAL(dec=auto)
 http://58.27.219.166:8000/play/a071/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",SONY SAB(dec=auto) 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",SONY SAB(dec=auto) 
 http://58.27.219.166:8000/play/a0f1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",STAR BHARA(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",STAR BHARA(dec=auto)
 http://58.27.219.166:8000/play/a04n/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",STAR BHARAT(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",STAR BHARAT(dec=auto)
 http://58.27.219.166:8000/play/a0gz/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",STAR JAL HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",STAR JAL HD(dec=auto)
 http://58.27.219.166:8000/play/a0dv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",STAR MOVI(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",STAR MOVI(dec=auto)
 http://58.27.219.166:8000/play/a05u/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",STAR Maa(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",STAR Maa(dec=auto)
 http://58.27.219.166:8000/play/a0fu/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",STAR WORLD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",STAR WORLD(dec=auto)
 http://58.27.219.166:8000/play/a05d/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",STAR WORLD(dec=auto) 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",STAR WORLD(dec=auto) 
 http://58.27.219.166:8000/play/a05c/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",SUN TV(dec=auto) 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",SUN TV(dec=auto) 
 http://58.27.219.166:8000/play/a0fa/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",SUN TV HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",SUN TV HD(dec=auto)
 http://58.27.219.166:8000/play/a0es/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",SURYA MOVI(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",SURYA MOVI(dec=auto)
 http://58.27.219.166:8000/play/a0fb/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Sony BBC EarHD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",Sony BBC EarHD(dec=auto)
 http://58.27.219.166:8000/play/a04s/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",SonyTen1 HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",SonyTen1 HD(dec=auto)
 http://58.27.219.166:8000/play/a05g/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",SonyTen2 HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",SonyTen2 HD(dec=auto)
 http://58.27.219.166:8000/play/a04x/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",SonyTen3 HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",SonyTen3 HD(dec=auto)
 http://58.27.219.166:8000/play/a05m/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",SonyYay(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",SonyYay(dec=auto)
 http://58.27.219.166:8000/play/a0g0/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",StarGOLD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",StarGOLD(dec=auto)
 http://58.27.219.166:8000/play/a04p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",StarGold(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",StarGold(dec=auto)
 http://58.27.219.166:8000/play/a07b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",StarGold SelHD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",StarGold SelHD(dec=auto)
 http://58.27.219.166:8000/play/a04r/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",StarMovi(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",StarMovi(dec=auto)
 http://58.27.219.166:8000/play/a05v/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",StarPlus HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",StarPlus HD(dec=auto)
 http://58.27.219.166:8000/play/a06t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",StarPlus(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",StarPlus(dec=auto)
 http://58.27.219.166:8000/play/a0ez/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",StarSelect1 HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",StarSelect1 HD(dec=auto)
 http://58.27.219.166:8000/play/a04v/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",StarSelect2 HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",StarSelect2 HD(dec=auto)
 http://58.27.219.166:8000/play/a04w/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",StarSpoRT 1 HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",StarSpoRT 1 HD(dec=auto)
 http://58.27.219.166:8000/play/a0ee/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",StarSport1 HD Hindi(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",StarSport1 HD Hindi(dec=auto)
 http://58.27.219.166:8000/play/a05i/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",StarSport2 HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",StarSport2 HD(dec=auto)
 http://58.27.219.166:8000/play/a05f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",StarSports3(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",StarSports3(dec=auto)
 http://58.27.219.166:8000/play/a05n/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",StarUtsav(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",StarUtsav(dec=auto)
 http://58.27.219.166:8000/play/a070/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",SuryaTV(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",SuryaTV(dec=auto)
 http://58.27.219.166:8000/play/a0f9/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",TLC HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",TLC HD(dec=auto)
 http://58.27.219.166:8000/play/a05r/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",UDAYA COMED(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",UDAYA COMED(dec=auto)
 http://58.27.219.166:8000/play/a0fk/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",UDAYA MOVI(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",UDAYA MOVI(dec=auto)
 http://58.27.219.166:8000/play/a0fh/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",UDAYA MUSIC(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",UDAYA MUSIC(dec=auto)
 http://58.27.219.166:8000/play/a0fi/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",UTV ACTION(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",UTV ACTION(dec=auto)
 http://58.27.219.166:8000/play/a07a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",UTV MOVIES(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",UTV MOVIES(dec=auto)
 http://58.27.219.166:8000/play/a079/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",VIJAY HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",VIJAY HD(dec=auto)
 http://58.27.219.166:8000/play/a0ds/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Vijay TV(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",Vijay TV(dec=auto)
 http://58.27.219.166:8000/play/a0fl/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",ZEEANMOL(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",ZEEANMOL(dec=auto)
 http://58.27.219.166:8000/play/a072/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",ZEEBANGLA HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",ZEEBANGLA HD(dec=auto)
 http://58.27.219.166:8000/play/a0dq/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",ZEEBOLLYWO(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",ZEEBOLLYWO(dec=auto)
 http://58.27.219.166:8000/play/a0b5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",ZEECINEMA(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",ZEECINEMA(dec=auto)
 http://58.27.219.166:8000/play/a04m/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",ZEECINEMA(clone)(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",ZEECINEMA(clone)(dec=auto)
 http://58.27.219.166:8000/play/a0d5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",ZEECafe H(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",ZEECafe H(dec=auto)
 http://58.27.219.166:8000/play/a05s/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",ZEEMARATHI HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",ZEEMARATHI HD(dec=auto)
 http://58.27.219.166:8000/play/a0dr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",ZEETALKIE HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",ZEETALKIE HD(dec=auto)
 http://58.27.219.166:8000/play/a0dp/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",ZEETAMIL HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",ZEETAMIL HD(dec=auto)
 http://58.27.219.166:8000/play/a0du/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",ZEETV(dec=auto) 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",ZEETV(dec=auto) 
 http://58.27.219.166:8000/play/a0gx/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",ZEETV HD(clone)(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",ZEETV HD(clone)(dec=auto)
 http://58.27.219.166:8000/play/a0d7/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",Zoom(dec=auto) 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",Zoom(dec=auto) 
 http://58.27.219.166:8000/play/a06q/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",colors Ban HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",colors Ban HD(dec=auto)
 http://58.27.219.166:8000/play/a0eu/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",colorsCINEPLEX(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",colorsCINEPLEX(dec=auto)
 http://58.27.219.166:8000/play/a0fz/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",colorsINFIN(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",colorsINFIN(dec=auto)
 http://58.27.219.166:8000/play/a04y/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",colorsMar HD(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",colorsMar HD(dec=auto)
 http://58.27.219.166:8000/play/a0ev/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",colorsTAMIL(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",colorsTAMIL(dec=auto)
 http://58.27.219.166:8000/play/a0fx/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",hungama tv(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",hungama tv(dec=auto)
 http://58.27.219.166:8000/play/a06f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",nick(dec=auto) 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",nick(dec=auto) 
 http://58.27.219.166:8000/play/a06h/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@INDIEHE",nick HD+(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="ShareExt@INDIEHE",nick HD+(dec=auto)
 http://58.27.219.166:8000/play/a04z/index.m3u8
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Ptv Sports*" tvg-logo="http://sonyiptv.net:8080/images/dcfdda6c35f8880bc8f1d526e20bddbb.png" group-title="SHAREEXT@CRICKET",PtvSports
+http://tigeriptv.vip:8080/556677/556677/81319
+#EXTINF:-1 tvg-id="" tvg-name="Geo Super Hd*" tvg-logo="http://sonyiptv.net:8080/images/fdaeb489423064706cbb8d466ad9bef1.png" group-title="SHAREEXT@CRICKET",GeoSuper Hd
+http://tigeriptv.vip:8080/556677/556677/81322
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Cricket-4K" tvg-logo="http://sonyiptv.net:8080/images/c906b175d8cd14f95d016aca9d2ad191.png" group-title="SHAREEXT@CRICKET",BeinSportsCricket-4K
+http://tigeriptv.vip:8080/556677/556677/81325
+#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket Hd" tvg-logo="http://sonyiptv.net:8080/images/fd3de0efa8580058e544cc3fb4df9997.png" group-title="SHAREEXT@CRICKET",AstroCricket Hd
+http://tigeriptv.vip:8080/556677/556677/81327
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 3 UHD" tvg-logo="http://sonyiptv.net:8080/images/e6ccecf90548bec03d0e42202e675fa4.png" group-title="SHAREEXT@CRICKET",SONYTEN3 UHD
+http://tigeriptv.vip:8080/556677/556677/77765
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 2 UHD" tvg-logo="http://sonyiptv.net:8080/images/e4d2aa0838986d12f78e48284cd5abda.png" group-title="SHAREEXT@CRICKET",SONYTEN2 UHD
+http://tigeriptv.vip:8080/556677/556677/77766
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 1 UHD" tvg-logo="http://sonyiptv.net:8080/images/1dfe60147466fba4c505b1bf44bd18a1.png" group-title="SHAREEXT@CRICKET",SONYTEN1 UHD
+http://tigeriptv.vip:8080/556677/556677/77767
+#EXTINF:-1 tvg-id="" tvg-name=" Stars Sports 2 HD*" tvg-logo="http://sonyiptv.net:8080/images/2bb793ff412a6b38f9d32c912ae6dc6d.png" group-title="SHAREEXT@CRICKET",StarsSports2 HD
+http://tigeriptv.vip:8080/556677/556677/77770
+#EXTINF:-1 tvg-id="" tvg-name="IN | Star Sports 1 HD" tvg-logo="http://sonyiptv.net:8080/images/49262566acaa5b4680908ee4c851d6ff.png" group-title="SHAREEXT@CRICKET",StarSports1 HD
+http://tigeriptv.vip:8080/556677/556677/77773
+#EXTINF:-1 tvg-id="" tvg-name=" Star Sports Select 2 HD" tvg-logo="http://sonyiptv.net:8080/images/6231d7d5331ba15d3bcf20ce38f79f55.png" group-title="SHAREEXT@CRICKET",StarSports Select2 HD
+http://tigeriptv.vip:8080/556677/556677/77774
+#EXTINF:-1 tvg-id="" tvg-name="IN | Star Sports Select 1 HD" tvg-logo="http://sonyiptv.net:8080/images/c94fcbb1366e0e89dd6b62368edf23a0.png" group-title="SHAREEXT@CRICKET",StarSports Select1 HD
+http://tigeriptv.vip:8080/556677/556677/77775
+#EXTINF:-1 tvg-id="" tvg-name="SONY SIX HD*" tvg-logo="http://sonyiptv.net:8080/images/175fd1848a4a4b13a95a8deadf38f2d3.png" group-title="SHAREEXT@CRICKET",SONYSIX HD
+http://tigeriptv.vip:8080/556677/556677/77796
+#EXTINF:-1 tvg-id="" tvg-name=" DD Sports" tvg-logo="http://sonyiptv.net:8080/images/cea36c4bb8a68faeda467fcd271508bd.png" group-title="SHAREEXT@CRICKET",DD Sports
+http://tigeriptv.vip:8080/556677/556677/77811
+#EXTINF:-1 tvg-id="" tvg-name=" Willow Cricket HD" tvg-logo="http://sonyiptv.net:8080/images/b47b2270c7c4339edf5f84a3de8c9366.png" group-title="SHAREEXT@CRICKET",WillowCricket HD
+http://tigeriptv.vip:8080/556677/556677/77845
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 3" tvg-logo="http://sonyiptv.net:8080/images/0f381441eecdbf9a826bd3d147e6dde1.png" group-title="SHAREEXT@CRICKET",STARSPORTS3
+http://tigeriptv.vip:8080/556677/556677/81345
+#EXTINF:-1 tvg-id="" tvg-name="TEN SPORTS HD" tvg-logo="http://sonyiptv.net:8080/images/3ed8328e6ed37c71a2d15480d93b5fab.png" group-title="SHAREEXT@CRICKET",TENSPORTS HD
+http://tigeriptv.vip:8080/556677/556677/22297
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS CRICKET HD*" tvg-logo="http://sonyiptv.net:8080/images/8999893a5e7eeab9a87c5eaea28d5179.png" group-title="SHAREEXT@CRICKET",SKYSPORTSCRICKET HD
+http://tigeriptv.vip:8080/556677/556677/85927
+#EXTINF:-1 tvg-id="" tvg-name="SUPER SPORTS CRICKET UHD*" tvg-logo="http://sonyiptv.net:8080/images/35311ec66e8ba08d52f3ef260b9b565d.png" group-title="SHAREEXT@CRICKET",SUPERSPORTSCRICKET UHD
+http://tigeriptv.vip:8080/556677/556677/86091
+#EXTINF:-1 tvg-id="" tvg-name="RT SPORTS" tvg-logo="http://sonyiptv.net:8080/images/085cd7b634f82c02e429f158d225db6f.png" group-title="SHAREEXT@CRICKET",RT SPORTS
+http://tigeriptv.vip:8080/556677/556677/97621
+#EXTINF:-1 tvg-id="" tvg-name="WILLOW XTRA" tvg-logo="http://sonyiptv.net:8080/images/06945d7fd2eb6e3e78a064a091166dec.png" group-title="SHAREEXT@CRICKET",WILLOW XTRA
+http://tigeriptv.vip:8080/556677/556677/97629
+#EXTINF:-1 tvg-id="" tvg-name="FOX CRICKET" tvg-logo="http://sonyiptv.net:8080/images/c0b758a66e6ec1a501426691de3e837c.png" group-title="SHAREEXT@CRICKET",FOX CRICKET
+http://tigeriptv.vip:8080/556677/556677/120192
+#EXTINF:-1 tvg-id="" tvg-name="PK:ARY SPORTS HD" tvg-logo="http://sonyiptv.net:8080/images/83edb09ff31e7366cb623731b679376e.png" group-title="SHAREEXT@CRICKET",PK:ARY SPORTS HD
+http://tigeriptv.vip:8080/556677/556677/120193
+#EXTINF:-1 tvg-id="" tvg-name="PK:ARY SPORTS FHD" tvg-logo="http://sonyiptv.net:8080/images/c554501089b10a39f83aa6e6dbc1b677.png" group-title="SHAREEXT@CRICKET",ARYSPORTS FHD
+http://tigeriptv.vip:8080/556677/556677/147052
+#EXTINF:-1 tvg-id="" tvg-name="T SPORTS-" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@CRICKET",T SPORTS-
+http://tigeriptv.vip:8080/556677/556677/171420
+#EXTINF:-1 tvg-id="" tvg-name="PK:MEGA SPORTS" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@CRICKET",PK:MEGA SPORTS
+http://tigeriptv.vip:8080/556677/556677/176383
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS HINDI" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@CRICKET",STARSPORTS HINDI
+http://tigeriptv.vip:8080/556677/556677/176385
+#EXTINF:-1 tvg-id="" tvg-name="JIO CRICKET" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@CRICKET",JIO CRICKET
+http://tigeriptv.vip:8080/556677/556677/229709
+#EXTINF:-1 tvg-id="" tvg-name="PK SPORTS" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@CRICKET",PK SPORTS
+http://tigeriptv.vip:8080/556677/556677/232512
+#EXTINF:-1 tvg-id="" tvg-name="NZ:SKY SPORTS 3" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@CRICKET",NZ:SKYSPORTS3
+http://tigeriptv.vip:8080/556677/556677/232622
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 Low" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@CRICKET",StarSports2Low
+http://tigeriptv.vip:8080/556677/556677/232746
 
 
 
@@ -1625,14 +1691,6 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(01)/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",USport1(dec=native)
-https://etus.link/useesport?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",USport2(dec=native)
-https://etus.link/useesports2?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Bein1(dec=native)
-https://etus.link/bein1?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Bein2(dec=native)
-https://etus.link/bein2?shareext.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",UseeSport1(dec=native)
 https://dik.si/SEuseeSport1?shareext.m3u8
