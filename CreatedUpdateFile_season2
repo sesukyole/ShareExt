@@ -445,7 +445,7 @@ http://iptv.tvfix.org/hls/lovenature4k.m3u8
 http://iptv.tvfix.org/hls/tvbxh.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",Mytv super
 http://iptv.tvfix.org/hls/tvbws.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",LOTUS_MACAU
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",LOTUS_MACAU(dec=auto)
 http://149.129.100.78:88/lotus.php?id=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",BeinSport1(true)
 https://www.wopep.com/02_epl1_720p/chunklist.m3u8
@@ -455,7 +455,7 @@ https://www.wopep.com/02_epl2_720p/chunklist.m3u8
 https://wopep.com/02_foxsport_720p/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",AstroBOO(dec=auto)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",AstroBOO(my)
 http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m02000000000014511515&ct=17957&tsum=fca94086b6283f0f50ed86710f79b55a
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",Astro BOO
 https://lnk.ec/BOO?shareext.m3u8
