@@ -322,38 +322,6 @@ https://goldenlivektv.com/Live_TV/Channel_Trans7.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",TRANSTV(GOLD)
 https://goldenlivektv.com/Live_TV/Channel_Transtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",TRANSTV(nmd)
-https://cubmu.nomaden.tv:8279/TRANSTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",TRANS7(nmd)
-https://cubmu.nomaden.tv:8279/TRANS7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",SCTV(nmd)
-https://cubmu.nomaden.tv:8279/SCTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",INDOSIAR(nmd)
-https://cubmu.nomaden.tv:8279/INDOSIAR/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",NET.(nmd)
-https://cubmu.nomaden.tv:8279/NET/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",GTV(nmd)
-https://cubmu.nomaden.tv:8279/GTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",ANTV(nmd)
-https://cubmu.nomaden.tv:8279/ANTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",MNCTV(nmd)
-https://cubmu.nomaden.tv:8279/MNCTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",TVONE(nmd)
-https://cubmu.nomaden.tv:8279/TVONE/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",TVRI(nmd)
-https://cubmu.nomaden.tv:8279/TVRI/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",RCTI(nmd)
-https://cubmu.nomaden.tv:8279/RCTI/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",DUNIA_LAIN(nmd)
-https://cubmu.nomaden.tv:8279/DUNIALAIN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",WAKUWAKU(nmd)
-https://cubmu.nomaden.tv:8279/WAKUWAKU/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",PARAMOUNT(nmd)
-https://cubmu.nomaden.tv:8279/PARAMOUNT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",HIT_MOVIES(nmd)
-https://cubmu.nomaden.tv:8279/HITMOVIES/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",EAT&GO(nmd)
-https://cubmu.nomaden.tv:8279/EATNGO/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",ROCK EXTREME
 https://lnk.ec/RockExtreme?shareext.ts
