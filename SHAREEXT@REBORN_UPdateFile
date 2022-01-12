@@ -49,6 +49,49 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@BEINSUKAN_ARB",beINSportsPremium1 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/13
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@BEINSUKAN_ARB",beINSportsPremium2 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/14
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@BEINSUKAN_ARB",beINSportsPremium3 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/15
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@BEINSUKAN_ARB",beINSports 1 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/16
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@BEINSUKAN_ARB",beINSports 2 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/17
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@BEINSUKAN_ARB",beINSports 3 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/18
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@BEINSUKAN_ARB",beINSports 4 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/19
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@BEINSUKAN_ARB",beINSports 5 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/20
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@BEINSUKAN_ARB",ON-TIME-1
+http://174.138.184.166:25461/livesport_ios/livesport_android/53
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@BEINSUKAN_ARB",ON-TIME-2
+http://174.138.184.166:25461/livesport_ios/livesport_android/54
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@BEINSUKAN_ARB",ON-TIME-3
+http://174.138.184.166:25461/livesport_ios/livesport_android/55
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@BEINSUKAN_ARB",beINSportXTRA 1 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/56
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@BEINSUKAN_ARB",beINSportXTRA 2 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/57
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@BEINSUKAN_ARB",Beinmax2 Hd
+http://174.138.184.166:25461/livesport_ios/livesport_android/94
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg"group-title="ShareExt@BEINSUKAN_ARB",Beinmax1 Hd
+http://174.138.184.166:25461/livesport_ios/livesport_android/95
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",HBO
 https://lnk.ec/hboID?shareext.ts
