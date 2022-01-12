@@ -1062,6 +1062,98 @@ http://176.9.17.76:7080/live/stream/8dl627dwai/49.ts
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",1綜合
+https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv1_2_hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",2財經
+https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv2_2_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",3綜藝
+https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv3_2_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",4亞洲
+http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",4美
+http://cctvalih5ca.v.myalicdn.com:80/live/cctvamerica_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",4歐洲
+http://cctvalih5ca.v.myalicdn.com:80/live/cctveurope_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",5體育
+http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",5+體育賽事
+http://cctvalih5ca.v.myalicdn.com:80/live/cctv5plus_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",6電影
+http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",7國防軍
+http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",8電視劇
+http://cctvalih5ca.v.myalicdn.com/live/cctv8_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",9紀錄
+http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",10科教
+http://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",11戲曲
+http://cctvalih5ca.v.myalicdn.com/live/cctv11_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",12社會與法
+http://cctvalih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",13新聞
+http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",14少兒
+http://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",15音樂
+http://cctvalih5ca.v.myalicdn.com:80/live/cctv15_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",17農業農村
+http://cctvalih5ca.v.myalicdn.com/live/cctv17_2/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",CCTV1綜合(dec=Auto)
+http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",CCTV2財經(dec=Auto)
+http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",CCTV3綜藝(dec=Auto)
+http://cctvalih5ca.v.myalicdn.com/live/cctv3_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",CCTV4亞洲(dec=Auto)
+http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",CCTV5體育(dec=Auto)
+http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",CCTV5+體育賽事(dec=Auto)
+http://cctvalih5ca.v.myalicdn.com:80/live/cctv5plus_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",CCTV6電影(dec=Auto)
+http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",CCTV7國防軍事(dec=Auto)
+http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",CCTV10科教(dec=Auto)
+http://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",CCTV11戲曲(dec=Auto)
+http://cctvalih5ca.v.myalicdn.com/live/cctv11_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",CCTV12社會與法(dec=Auto)
+http://cctvalih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",CCTV13新聞(dec=Auto)
+http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",CCTV14少兒(dec=Auto)
+http://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",CCTV15音樂(dec=Auto)
+http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",CCTV17農業農村(dec=Auto)
+http://cctvalih5ca.v.myalicdn.com/live/cctv17_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",Live movies Hd
+https://vod6.wenshibaowenbei.com/20210917/4G6FsgR7/1000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",ChineseNkoreanChannels
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",NecKorea
+http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",여수MBC(MBC Yeosu)
+https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",Gtv movie china HD
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv1(setAuto)
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 
