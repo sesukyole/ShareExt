@@ -359,6 +359,32 @@ https://lnk.ec/INEWSplus?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",GTV_plus(dec=native)
 https://lnk.ec/GTVplus?shareext.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",CitraBioskop(tvnasional.mobie) 
+http://tvnasional.mobie.in/M3U8/bioskop.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",CitraDrama(tvnasional.mobie)
+http://tvnasional.mobie.in/PREMIER_VIDIO/cdrama.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",LiperPool(tvnasional.mobie)
+http://tvnasional.mobie.in/PREMIER_VIDIO/liperpool.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",HipHip Horee(tvnasional.mobie)
+http://tvnasional.mobie.in/PREMIER_VIDIO/hiphiphoree.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Horee(tvnasional.mobie)
+http://tvnasional.mobie.in/PREMIER_VIDIO/horee.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Champions1(tvnasional.mobie)
+http://tvnasional.mobie.in/PREMIER_VIDIO/Champions1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Champions2(tvnasional.mobie) 
+http://tvnasional.mobie.in/PREMIER_VIDIO/Champions2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Champions3(tvnasional.mobie) 
+http://tvnasional.mobie.in/PREMIER_VIDIO/Champions3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Davinci(tvnasional.mobie)
+http://tvnasional.mobie.in/PREMIER_VIDIO/Davici.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Citra Dangdut(tvnasional.mobie)
+http://tvnasional.mobie.in/PREMIER_VIDIO/citdangdut.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Citra Entertainment(tvnasional.mobie)
+http://tvnasional.mobie.in/PREMIER_VIDIO/citraenter.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",SCTV
 https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
