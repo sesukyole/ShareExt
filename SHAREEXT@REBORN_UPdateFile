@@ -157,35 +157,14 @@ https://cubmu.superzap.xyz:8279/tvone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",ANTV(cubmu)
 https://cubmu.superzap.xyz:8279/antv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",rcti(Basir)
-https://m.telkomsel.com.basir.fgh1.xyz:8279/rcti/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",mnctv(Basir)
-https://m.telkomsel.com.basir.fgh1.xyz:8279/mnctv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",globaltv(Basir)
-https://m.telkomsel.com.basir.fgh1.xyz:8279/gtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",transtv(Basir)
-https://m.telkomsel.com.basir.fgh1.xyz:8279/transtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",trans7(Basir)
-https://m.telkomsel.com.basir.fgh1.xyz:8279/trans7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",indosiar(Basir)
-https://m.telkomsel.com.basir.fgh1.xyz:8279/indosiar/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",sctv(Basir)
-https://m.telkomsel.com.basir.fgh1.xyz:8279/sctv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",kompastv(Basir)
-https://m.telkomsel.com.basir.fgh1.xyz:8279/kompas/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",metrotv(Basir)
-https://m.telkomsel.com.basir.fgh1.xyz:8279/metrotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",dunialain(Basir)
-https://m.telkomsel.com.basir.fgh1.xyz:8279/dunialain/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",duniaanak(Basir)
-https://m.telkomsel.com.basir.fgh1.xyz:8279/duniaanak/playlist.m3u8
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",RCTI+(sharing-iptv)
+http://sharing-iptv.se.ke/fta/aura.m3u8?id=rcti
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",MNCTV+(sharing-iptv)
+http://sharing-iptv.se.ke/fta/aura.m3u8?id=mnctv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",GTV+(sharing-iptv)
+http://sharing-iptv.se.ke/fta/aura.m3u8?id=gtv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",INEWS+(sharing-iptv)
+http://sharing-iptv.se.ke/fta/aura.m3u8?id=inews
 
 
 
