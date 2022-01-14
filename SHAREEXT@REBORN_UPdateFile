@@ -229,10 +229,6 @@ https://cubmu.superzap.xyz:8279/paramount/playlist.m3u8
 https://cubmu.superzap.xyz:8279/mnctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",MetroTv(cubmu)
 https://cubmu.superzap.xyz:8279/metrotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",TVOne(cubmu)
-https://cubmu.superzap.xyz:8279/tvone/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",ANTV(cubmu)
-https://cubmu.superzap.xyz:8279/antv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",RCTI+(sharing-iptv)
 http://sharing-iptv.se.ke/fta/aura.m3u8?id=rcti
@@ -678,6 +674,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",TVRI SPORTS
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 http://eroz84.wap.sh/local/tvri_sport.m3u8
 #EXTINF:-1 tvg-country="ID" tvg-logo="https://pbs.twimg.com/profile_images/1252514203799220224/FY5oXfOm_400x400.jpg" group-title="ShareExt@Television_INDONESIAN",TRANS 7(detik)
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
@@ -1550,7 +1547,7 @@ http://qqtv.nl:8080/kevinp/kevinp/88335
 http://qqtv.nl:8080/kevinp/kevinp/148951
 #EXTINF:-1 tvg-id="Two.tz" tvg-name="CH: WOW TV HD" tvg-logo="http://glmtv.pw/logo/prestige/China/chongqing-tv-cn.png" group-title="SHAREEXT@MALAY_CHINESE",WOW TV HD
 http://qqtv.nl:8080/kevinp/kevinp/59221
-#EXTINF:-1 tvg-id="SCM.id" tvg-name="CH: SCM" tvg-logo="http://glmtv.pw/logo/prestige/Hong-Kong/now_hk_international.png" group-title="SHAREEXT@MALAY_CHINESE",SCM
+#EXTINF:-1 tvg-id="SCM.id" tvg-name="CH: SCM" tvg-logo="http://glmtv.pw/logo/prestige/Hong-Kong/now_hk_international.png" group-title="SHAREEXT@MALAY_CHINESE",SPOTV
 http://qqtv.nl:8080/kevinp/kevinp/148949
 #EXTINF:-1 tvg-id="VasanthTV.in" tvg-name="CH: ASIAN ACTION " tvg-logo="http://glmtv.pw/logo/prestige/China/chc-action-cn.png" group-title="SHAREEXT@MALAY_CHINESE",ASIAN ACTION 
 http://qqtv.nl:8080/kevinp/kevinp/87279
@@ -1558,8 +1555,6 @@ http://qqtv.nl:8080/kevinp/kevinp/87279
 http://qqtv.nl:8080/kevinp/kevinp/87507
 #EXTINF:-1 tvg-id="" tvg-name="CH: GUANGDONG SOUTHERN TV" tvg-logo="http://glmtv.pw/logo/prestige/China/guangdong_cn_satellite.png" group-title="SHAREEXT@MALAY_CHINESE",GUANGDONG SOUTHERN TV
 http://qqtv.nl:8080/kevinp/kevinp/87281
-#EXTINF:-1 tvg-id="SCMLegend.id" tvg-name="CH: SCM LEGEND" tvg-logo="http://glmtv.pw/logo/prestige/Hong-Kong/now_hk_international.png" group-title="SHAREEXT@MALAY_CHINESE",SCM LEGEND
-http://qqtv.nl:8080/kevinp/kevinp/87282
 
 
 
