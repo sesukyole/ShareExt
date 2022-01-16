@@ -581,229 +581,229 @@ http://93.152.174.144:4000/play/WWE/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Super Sports ARENA HD" tvg-logo="" group-title="SHAREEXT@ASTRO_SUPERSPORTS",AstroARENA HD
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Super Sports ARENA HD" tvg-logo="" group-title="SHAREEXT@ASTRO_SUPERSPORTS",AstroARENA(dec=auto)
 http://opplex.tv:8080/dawood/dawood/168067
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Super Sports 1 HD" tvg-logo="" group-title="SHAREEXT@ASTRO_SUPERSPORTS",AstroSuperSports1 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Super Sports 1 HD" tvg-logo="" group-title="SHAREEXT@ASTRO_SUPERSPORTS",AstroSuperSports1 HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/168068
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Super Sports 2 HD" tvg-logo="" group-title="SHAREEXT@ASTRO_SUPERSPORTS",AstroSuperSports2 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Super Sports 2 HD" tvg-logo="" group-title="SHAREEXT@ASTRO_SUPERSPORTS",AstroSuperSports2 HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/168069
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Super Sports 3 HD" tvg-logo="" group-title="SHAREEXT@ASTRO_SUPERSPORTS",AstroSuperSports3 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Super Sports 3 HD" tvg-logo="" group-title="SHAREEXT@ASTRO_SUPERSPORTS",AstroSuperSports3 HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/168070
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Super Sports 4 HD" tvg-logo="" group-title="SHAREEXT@ASTRO_SUPERSPORTS",AstroSuperSports4 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Super Sports 4 HD" tvg-logo="" group-title="SHAREEXT@ASTRO_SUPERSPORTS",AstroSuperSports4 HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/168071
-#EXTINF:-1 tvg-id="" tvg-name="My: Astro Cricket HD" tvg-logo="" group-title="SHAREEXT@ASTRO_SUPERSPORTS",AstroCricket HD
+#EXTINF:-1 tvg-id="" tvg-name="My: Astro Cricket HD" tvg-logo="" group-title="SHAREEXT@ASTRO_SUPERSPORTS",AstroCricket HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/168072
-#EXTINF:-1 tvg-id="" tvg-name="My: WWE Network HD" tvg-logo="" group-title="SHAREEXT@ASTRO_SUPERSPORTS",WWE Network HD
+#EXTINF:-1 tvg-id="" tvg-name="My: WWE Network HD" tvg-logo="" group-title="SHAREEXT@ASTRO_SUPERSPORTS",WWE Network HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/168073
-#EXTINF:-1 tvg-id="" tvg-name="My: Golf Channel HD*" tvg-logo="" group-title="SHAREEXT@ASTRO_SUPERSPORTS",Golf Channel HD*
+#EXTINF:-1 tvg-id="" tvg-name="My: Golf Channel HD*" tvg-logo="" group-title="SHAREEXT@ASTRO_SUPERSPORTS",Golf Channel(dec=auto)
 http://opplex.tv:8080/dawood/dawood/168076
-#EXTINF:-1 tvg-id="" tvg-name="My: BeIN MAX" tvg-logo="" group-title="SHAREEXT@ASTRO_SUPERSPORTS",BeIN MAX
+#EXTINF:-1 tvg-id="" tvg-name="My: BeIN MAX" tvg-logo="" group-title="SHAREEXT@ASTRO_SUPERSPORTS",BeIN MAX(dec=auto)
 http://opplex.tv:8080/dawood/dawood/168077
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Action HD" tvg-logo="http://myportal.live:8080/images/3f20b404d607668b1d86bec3823a3562.png" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Action HD
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Action HD" tvg-logo="http://myportal.live:8080/images/3f20b404d607668b1d86bec3823a3562.png" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Action HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167917
-#EXTINF:-1 tvg-id="" tvg-name="DStv | SuperSport Cricket" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Cricket
+#EXTINF:-1 tvg-id="" tvg-name="DStv | SuperSport Cricket" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Cricket(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167918
-#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="ZA: SuperSport Premier League HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Premier League HD
+#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="ZA: SuperSport Premier League HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport PremierLeague HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167919
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport LaLiga HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport LaLiga HD
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport LaLiga HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport LaLiga HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167920
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Football HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Football HD
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Football HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Football HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167921
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Football Plus HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Football Plus HD
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Football Plus HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Football Plus HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167922
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport PSL HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport PSL HD
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport PSL HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport PSL HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167923
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Tennis HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Tennis HD
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Tennis HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Tennis HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167924
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Golf HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Golf HD
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Golf HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Golf HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167925
-#EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-name="ZA: SuperSport Grandstand HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Grandstand HD
+#EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-name="ZA: SuperSport Grandstand HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Grandstand HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167926
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 1 HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Variety 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 1 HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Variety 1 HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167927
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 2 HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Variety 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 2 HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Variety 2 HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167928
-#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name="ZA: SuperSport Variety 3 HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Variety 3 HD
+#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name="ZA: SuperSport Variety 3 HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Variety 3 HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167929
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 4 HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Variety 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 4 HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Variety 4 HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167930
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Motorsport HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Motorsport HD
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Motorsport HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Motorsport HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167931
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Blitz HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Blitz HD
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Blitz HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Blitz HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167932
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Rugby HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Rugby HD
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Rugby HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Rugby HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167933
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Tellytrack HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Tellytrack HD
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Tellytrack HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Tellytrack HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167934
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Maximo HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Maximo HD
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Maximo HD" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Maximo HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167935
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Play" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Play
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Play" tvg-logo="" group-title="SHAREEXT@DSTV SUPERSPORTS",SuperSport Play(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167936
-#EXTINF:-1 tvg-id="" tvg-name="ZA: M-Net" tvg-logo="http://myportal.live:8080/images/eca80f5bee63f5b6d5ce074206ab5559.png" group-title="SHAREEXT@DSTV SUPERSPORTS",M-Net
+#EXTINF:-1 tvg-id="" tvg-name="ZA: M-Net" tvg-logo="http://myportal.live:8080/images/eca80f5bee63f5b6d5ce074206ab5559.png" group-title="SHAREEXT@DSTV SUPERSPORTS",M-Net(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167943
-#EXTINF:-1 tvg-id="" tvg-name="ZA: M-Net +1" tvg-logo="http://myportal.live:8080/images/eca80f5bee63f5b6d5ce074206ab5559.png" group-title="SHAREEXT@DSTV SUPERSPORTS",M-Net +1
+#EXTINF:-1 tvg-id="" tvg-name="ZA: M-Net +1" tvg-logo="http://myportal.live:8080/images/eca80f5bee63f5b6d5ce074206ab5559.png" group-title="SHAREEXT@DSTV SUPERSPORTS",M-Net +1(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167944
-#EXTINF:-1 tvg-id="" tvg-name="ZA: M-Net Movies 1 HD" tvg-logo="http://myportal.live:8080/images/eca80f5bee63f5b6d5ce074206ab5559.png" group-title="SHAREEXT@DSTV SUPERSPORTS",M-Net Movies1 HD
+#EXTINF:-1 tvg-id="" tvg-name="ZA: M-Net Movies 1 HD" tvg-logo="http://myportal.live:8080/images/eca80f5bee63f5b6d5ce074206ab5559.png" group-title="SHAREEXT@DSTV SUPERSPORTS",M-Net Movies1 HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167945
-#EXTINF:-1 tvg-id="" tvg-name="ZA: M-Net Movies 2 HD" tvg-logo="http://myportal.live:8080/images/eca80f5bee63f5b6d5ce074206ab5559.png" group-title="SHAREEXT@DSTV SUPERSPORTS",M-Net Movies2 HD
+#EXTINF:-1 tvg-id="" tvg-name="ZA: M-Net Movies 2 HD" tvg-logo="http://myportal.live:8080/images/eca80f5bee63f5b6d5ce074206ab5559.png" group-title="SHAREEXT@DSTV SUPERSPORTS",M-Net Movies2 HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167946
-#EXTINF:-1 tvg-id="" tvg-name="ZA: M-Net Movies 3 HD" tvg-logo="http://myportal.live:8080/images/eca80f5bee63f5b6d5ce074206ab5559.png" group-title="SHAREEXT@DSTV SUPERSPORTS",M-Net Movies3 HD
+#EXTINF:-1 tvg-id="" tvg-name="ZA: M-Net Movies 3 HD" tvg-logo="http://myportal.live:8080/images/eca80f5bee63f5b6d5ce074206ab5559.png" group-title="SHAREEXT@DSTV SUPERSPORTS",M-Net Movies3 HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167947
-#EXTINF:-1 tvg-id="" tvg-name="ZA: M-Net Movies 4 HD" tvg-logo="http://myportal.live:8080/images/ef59212894d679df811d12f83884acd8.png" group-title="SHAREEXT@DSTV SUPERSPORTS",M-Net Movies4 HD
+#EXTINF:-1 tvg-id="" tvg-name="ZA: M-Net Movies 4 HD" tvg-logo="http://myportal.live:8080/images/ef59212894d679df811d12f83884acd8.png" group-title="SHAREEXT@DSTV SUPERSPORTS",M-Net Movies4 HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167948
-#EXTINF:-1 tvg-id="" tvg-name="ZA: M-Net City" tvg-logo="http://myportal.live:8080/images/fd9363744fa5ce4d317156f41dce4ba4.png" group-title="SHAREEXT@DSTV SUPERSPORTS",M-Net City
+#EXTINF:-1 tvg-id="" tvg-name="ZA: M-Net City" tvg-logo="http://myportal.live:8080/images/fd9363744fa5ce4d317156f41dce4ba4.png" group-title="SHAREEXT@DSTV SUPERSPORTS",M-Net City(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167949
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Main Event | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/SkySportsMainEvent_201708.jpg" group-title="SHAREEXT@UK|SKYSPORTS(VIP)",SkySports MainEvent | HD
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Main Event | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/SkySportsMainEvent_201708.jpg" group-title="SHAREEXT@UK|SKYSPORTS(VIP)",SkySports MainEvent | HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/216263
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Football HD" tvg-logo="" group-title="SHAREEXT@UK|SKYSPORTS(VIP)",SkySports Football HD
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Football HD" tvg-logo="" group-title="SHAREEXT@UK|SKYSPORTS(VIP)",SkySports Football HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/216264
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Golf | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/skySPORTS-GOLF.png" group-title="SHAREEXT@UK|SKYSPORTS(VIP)",SkySportsGolf | HD
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Golf | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/skySPORTS-GOLF.png" group-title="SHAREEXT@UK|SKYSPORTS(VIP)",SkySportsGolf | HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/216265
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports F1 | HD*" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/Sky-Sports-PL.jpg" group-title="SHAREEXT@UK|SKYSPORTS(VIP)",SkySports F1 | HD*
 http://opplex.tv:8080/dawood/dawood/216266
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Action | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/skySPORTS-ACTION.png" group-title="SHAREEXT@UK|SKYSPORTS(VIP)",SkySports Action | HD
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Action | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/skySPORTS-ACTION.png" group-title="SHAREEXT@UK|SKYSPORTS(VIP)",SkySports Action | HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/216267
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Arena | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/390722_preview.png" group-title="SHAREEXT@UK|SKYSPORTS(VIP)",SkySports Arena | HD
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Arena | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/390722_preview.png" group-title="SHAREEXT@UK|SKYSPORTS(VIP)",SkySports Arena | HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/216268
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Mix | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/skySPORTS-MIX.png" group-title="SHAREEXT@UK|SKYSPORTS(VIP)",SkySports Mix | HD
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Mix | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/skySPORTS-MIX.png" group-title="SHAREEXT@UK|SKYSPORTS(VIP)",SkySports Mix | HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/216269
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Racing | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/03/SkySportsRacing.jpg" group-title="SHAREEXT@UK|SKYSPORTS(VIP)",SkySports Racing | HD
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Racing | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/03/SkySportsRacing.jpg" group-title="SHAREEXT@UK|SKYSPORTS(VIP)",SkySports Racing | HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/216270
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/SkySportsPremierLeague_201708.jpg" group-title="SHAREEXT@UK|SKYSPORTS(VIP)",SkySports PremierLeague | HD
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/SkySportsPremierLeague_201708.jpg" group-title="SHAREEXT@UK|SKYSPORTS(VIP)",SkySports PremierLeague | HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/216271
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News" tvg-logo="" group-title="SHAREEXT@UK|SKYSPORTS(VIP)",SkySports News
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News" tvg-logo="" group-title="SHAREEXT@UK|SKYSPORTS(VIP)",SkySports News(dec=auto)
 http://opplex.tv:8080/dawood/dawood/216277
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky SPORTS CRICKET FHD" tvg-logo="" group-title="SHAREEXT@UK|SKYSPORTS(VIP)",SkySPORTS CRICKET FHD
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky SPORTS CRICKET FHD" tvg-logo="" group-title="SHAREEXT@UK|SKYSPORTS(VIP)",SkySPORTS CRICKET FHD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/216280
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports English 1 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="SHAREEXT@BEIN SPORTS",BeINSportsEnglish1 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports English 1 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="SHAREEXT@BEIN SPORTS",BeINSportsEnglish1 HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/206840
-#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports English 2 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="SHAREEXT@BEIN SPORTS",BeINSportsEnglish2 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports English 2 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="SHAREEXT@BEIN SPORTS",BeINSportsEnglish2 HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/206841
-#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports English 3 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" group-title="SHAREEXT@BEIN SPORTS",BeINSportsEnglish3 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports English 3 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" group-title="SHAREEXT@BEIN SPORTS",BeINSportsEnglish3 HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/206842
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 1 (4K)*" tvg-logo="http://starsat123.com:8080/images/e5dfe186dadd27aa4c662fca82522092.png" group-title="SHAREEXT@BEIN SPORTS",BEINSPORTSPREMIUM1(4K)*
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 1 (4K)*" tvg-logo="http://starsat123.com:8080/images/e5dfe186dadd27aa4c662fca82522092.png" group-title="SHAREEXT@BEIN SPORTS",BEINSPORTSPREMIUM1(4K)*(dec=auto)
 http://opplex.tv:8080/dawood/dawood/207345
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 2 HD*" tvg-logo="http://starsat123.com:8080/images/e5dfe186dadd27aa4c662fca82522092.png" group-title="SHAREEXT@BEIN SPORTS",BEINSPORTSPREMIUM2 HD*
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 2 HD*" tvg-logo="http://starsat123.com:8080/images/e5dfe186dadd27aa4c662fca82522092.png" group-title="SHAREEXT@BEIN SPORTS",BEINSPORTSPREMIUM2 HD*(dec=auto)
 http://opplex.tv:8080/dawood/dawood/207346
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 3 HD*" tvg-logo="http://starsat123.com:8080/images/e5dfe186dadd27aa4c662fca82522092.png" group-title="SHAREEXT@BEIN SPORTS",BEINSPORTSPREMIUM3 HD*
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 3 HD*" tvg-logo="http://starsat123.com:8080/images/e5dfe186dadd27aa4c662fca82522092.png" group-title="SHAREEXT@BEIN SPORTS",BEINSPORTSPREMIUM3 HD*(dec=auto)
 http://opplex.tv:8080/dawood/dawood/207347
-#EXTINF:-1 tvg-id="" tvg-name="AR:BEIN SPORTS 1 HD*" tvg-logo="http://starsat123.com:8080/images/e5dfe186dadd27aa4c662fca82522092.png" group-title="SHAREEXT@BEIN SPORTS",BEINSPORTS1 HD*
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEIN SPORTS 1 HD*" tvg-logo="http://starsat123.com:8080/images/e5dfe186dadd27aa4c662fca82522092.png" group-title="SHAREEXT@BEIN SPORTS",BEINSPORTS1 HD*(dec=auto)
 http://opplex.tv:8080/dawood/dawood/207348
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 HD*" tvg-logo="http://starsat123.com:8080/images/e5dfe186dadd27aa4c662fca82522092.png" group-title="SHAREEXT@BEIN SPORTS",BEINSPORTS2 HD*
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 HD*" tvg-logo="http://starsat123.com:8080/images/e5dfe186dadd27aa4c662fca82522092.png" group-title="SHAREEXT@BEIN SPORTS",BEINSPORTS2 HD*(dec=auto)
 http://opplex.tv:8080/dawood/dawood/207349
-#EXTINF:-1 tvg-id="" tvg-name="AR:BEIN SPORTS 3  HD*" tvg-logo="http://starsat123.com:8080/images/e5dfe186dadd27aa4c662fca82522092.png" group-title="SHAREEXT@BEIN SPORTS",BEINSPORTS3 HD*
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEIN SPORTS 3  HD*" tvg-logo="http://starsat123.com:8080/images/e5dfe186dadd27aa4c662fca82522092.png" group-title="SHAREEXT@BEIN SPORTS",BEINSPORTS3 HD*(dec=auto)
 http://opplex.tv:8080/dawood/dawood/207350
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 4 HD*" tvg-logo="http://starsat123.com:8080/images/e5dfe186dadd27aa4c662fca82522092.png" group-title="SHAREEXT@BEIN SPORTS",BEINSPORTS4 HD*
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 4 HD*" tvg-logo="http://starsat123.com:8080/images/e5dfe186dadd27aa4c662fca82522092.png" group-title="SHAREEXT@BEIN SPORTS",BEINSPORTS4 HD*(dec=auto)
 http://opplex.tv:8080/dawood/dawood/207351
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 5 HD*" tvg-logo="http://starsat123.com:8080/images/e5dfe186dadd27aa4c662fca82522092.png" group-title="SHAREEXT@BEIN SPORTS",BEINSPORTS5 HD*
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 5 HD*" tvg-logo="http://starsat123.com:8080/images/e5dfe186dadd27aa4c662fca82522092.png" group-title="SHAREEXT@BEIN SPORTS",BEINSPORTS5 HD*(dec=auto)
 http://opplex.tv:8080/dawood/dawood/207352
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 6 HD*" tvg-logo="http://starsat123.com:8080/images/e5dfe186dadd27aa4c662fca82522092.png" group-title="SHAREEXT@BEIN SPORTS",BEINSPORTS6 HD*
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 6 HD*" tvg-logo="http://starsat123.com:8080/images/e5dfe186dadd27aa4c662fca82522092.png" group-title="SHAREEXT@BEIN SPORTS",BEINSPORTS6 HD*(dec=auto)
 http://opplex.tv:8080/dawood/dawood/207353
-#EXTINF:-1 tvg-id="" tvg-name="AR:BEIN SPORTS 7 HD*" tvg-logo="http://starsat123.com:8080/images/e5dfe186dadd27aa4c662fca82522092.png" group-title="SHAREEXT@BEIN SPORTS",BEINSPORTS7 HD*
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEIN SPORTS 7 HD*" tvg-logo="http://starsat123.com:8080/images/e5dfe186dadd27aa4c662fca82522092.png" group-title="SHAREEXT@BEIN SPORTS",BEINSPORTS7 HD*(dec=auto)
 http://opplex.tv:8080/dawood/dawood/207354
-#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport News" tvg-logo="http://starsat123.com:8080/images/1864f0b284e8f69b08d70170f2ce4503.png" group-title="SHAREEXT@BEIN SPORTS",BeinSport News
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport News" tvg-logo="http://starsat123.com:8080/images/1864f0b284e8f69b08d70170f2ce4503.png" group-title="SHAREEXT@BEIN SPORTS",BeinSport News(dec=auto)
 http://opplex.tv:8080/dawood/dawood/207344
-#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports NBA" tvg-logo="http://163.172.38.193:25461/logo/tv/bb/Bein_NbA.png" group-title="SHAREEXT@BEIN SPORTS",BeINSports NBA
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports NBA" tvg-logo="http://163.172.38.193:25461/logo/tv/bb/Bein_NbA.png" group-title="SHAREEXT@BEIN SPORTS",BeINSports NBA(dec=auto)
 http://opplex.tv:8080/dawood/dawood/206843
-#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Xtra 1 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="SHAREEXT@BEIN SPORTS",BeINSports Xtra1 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Xtra 1 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="SHAREEXT@BEIN SPORTS",BeINSports Xtra1 HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/206838
-#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Xtra 2 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="SHAREEXT@BEIN SPORTS",BeINSports Xtra2 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Xtra 2 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="SHAREEXT@BEIN SPORTS",BeINSports Xtra2 HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/206839
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SHAREEXT@CRICKET",PTV SPORTS HD
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SHAREEXT@CRICKET",PTV SPORTS HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/217968
-#EXTINF:-1 tvg-id="" tvg-name="PK | Geo Super HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png" group-title="SHAREEXT@CRICKET",GeoSuper HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | Geo Super HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png" group-title="SHAREEXT@CRICKET",GeoSuper HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167568
-#EXTINF:-1 tvg-id="" tvg-name="PK: TEN SPORTS" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="SHAREEXT@CRICKET",TEN SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="PK: TEN SPORTS" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="SHAREEXT@CRICKET",TEN SPORTS(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167569
-#EXTINF:-1 tvg-id="" tvg-name="World Cup T20 Live" tvg-logo="https://www.t20worldcup2020live.com/wp-content/uploads/2021/07/2021-ICC-Mens-T20-World-Cup.jpg" group-title="SHAREEXT@CRICKET",WorldCup T20 Live
+#EXTINF:-1 tvg-id="" tvg-name="World Cup T20 Live" tvg-logo="https://www.t20worldcup2020live.com/wp-content/uploads/2021/07/2021-ICC-Mens-T20-World-Cup.jpg" group-title="SHAREEXT@CRICKET",WorldCup T20 Live(dec=auto)
 http://opplex.tv:8080/dawood/dawood/219643
-#EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 1)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="SHAREEXT@CRICKET",A Sports HD(Server1)
+#EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 1)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="SHAREEXT@CRICKET",A Sports HD(Server1)(dec=auto)
 http://opplex.tv:8080/dawood/dawood/219689
-#EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 2)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="SHAREEXT@CRICKET",A Sports HD (Server2)
+#EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 2)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="SHAREEXT@CRICKET",A Sports HD (Server2)(dec=auto)
 http://opplex.tv:8080/dawood/dawood/219754
-#EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 3)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="SHAREEXT@CRICKET",A Sports HD (Server3)
+#EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 3)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="SHAREEXT@CRICKET",A Sports HD (Server3)(dec=auto)
 http://opplex.tv:8080/dawood/dawood/219762
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN | Ten 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="SHAREEXT@CRICKET",Ten1 HD
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN | Ten 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="SHAREEXT@CRICKET",Ten1 HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167570
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN | Ten 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="SHAREEXT@CRICKET",Ten2 HD
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN | Ten 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="SHAREEXT@CRICKET",Ten2 HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167571
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN | Ten 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="SHAREEXT@CRICKET",Ten3 HD
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN | Ten 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="SHAREEXT@CRICKET",Ten3 HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167572
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 4" tvg-logo="" group-title="SHAREEXT@CRICKET",SonyTen4
 http://opplex.tv:8080/dawood/dawood/167595
-#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 Hindi" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="SHAREEXT@CRICKET",STARSPORTS1 Hindi
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 Hindi" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="SHAREEXT@CRICKET",STARSPORTS1 Hindi(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167573
-#EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="IN: Star Sports tamil 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@CRICKET",StarSports tamil 1
+#EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="IN: Star Sports tamil 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@CRICKET",StarSports tamil 1(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167574
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN | Star Sports 1 HD" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="SHAREEXT@CRICKET",StarSports1 HD
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN | Star Sports 1 HD" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="SHAREEXT@CRICKET",StarSports1 HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167575
-#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IN | Star Sports 2 HD" tvg-logo="https://static.epg.best/in/StarSports2.in.png" group-title="SHAREEXT@CRICKET",StarSports2 HD
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IN | Star Sports 2 HD" tvg-logo="https://static.epg.best/in/StarSports2.in.png" group-title="SHAREEXT@CRICKET",StarSports2 HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167576
-#EXTINF:-1 tvg-id="starsports3.in" tvg-name="IN | Star Sports 3 HD" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="SHAREEXT@CRICKET",StarSports3 HD
+#EXTINF:-1 tvg-id="starsports3.in" tvg-name="IN | Star Sports 3 HD" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="SHAREEXT@CRICKET",StarSports3 HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167577
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN | STAR SPORTS SELECT 1" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="SHAREEXT@CRICKET",STARSPORTS SELECT1
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN | STAR SPORTS SELECT 1" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="SHAREEXT@CRICKET",STARSPORTS SELECT1(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167578
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN | STAR SPORTS SELECT 2" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="SHAREEXT@CRICKET",STARSPORTS SELECT2
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN | STAR SPORTS SELECT 2" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="SHAREEXT@CRICKET",STARSPORTS SELECT2(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167579
-#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="IN | SONY SIX HD" tvg-logo="https://static.epg.best/in/SonySIX.in.png" group-title="SHAREEXT@CRICKET",SONYSIX HD
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="IN | SONY SIX HD" tvg-logo="https://static.epg.best/in/SonySIX.in.png" group-title="SHAREEXT@CRICKET",SONYSIX HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167580
-#EXTINF:-1 tvg-id="" tvg-name="IN | Astro Cricket HD*" tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png" group-title="SHAREEXT@CRICKET",AstroCricket HD*
+#EXTINF:-1 tvg-id="" tvg-name="IN | Astro Cricket HD*" tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png" group-title="SHAREEXT@CRICKET",AstroCricket HD*(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167581
-#EXTINF:-1 tvg-id="" tvg-name="IN | Willow Xtra" tvg-logo="https://5gtv.online:2053/logo/willowxtra1.png" group-title="SHAREEXT@CRICKET",Willow Xtra
+#EXTINF:-1 tvg-id="" tvg-name="IN | Willow Xtra" tvg-logo="https://5gtv.online:2053/logo/willowxtra1.png" group-title="SHAREEXT@CRICKET",Willow Xtra(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167582
-#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="IN: Willow Cricket HD" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="SHAREEXT@CRICKET",Willow Cricket HD
+#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="IN: Willow Cricket HD" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="SHAREEXT@CRICKET",Willow Cricket HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167583
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN SPORT CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/13-HD.png/120px-13-HD.png" group-title="SHAREEXT@CRICKET",beINSPORT CRICKET
+#EXTINF:-1 tvg-id="" tvg-name="BS | beIN SPORT CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/13-HD.png/120px-13-HD.png" group-title="SHAREEXT@CRICKET",beINSPORT CRICKET(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167584
-#EXTINF:-1 tvg-id="dsport.in" tvg-name="IN: EUROPSPORT HD" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" group-title="SHAREEXT@CRICKET",EUROPSPORT HD
+#EXTINF:-1 tvg-id="dsport.in" tvg-name="IN: EUROPSPORT HD" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" group-title="SHAREEXT@CRICKET",EUROPSPORT HD(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167585
-#EXTINF:-1 tvg-id="" tvg-name="IN: 1SPORTS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@CRICKET",1SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="IN: 1SPORTS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@CRICKET",1SPORTS(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167586
-#EXTINF:-1 tvg-id="" tvg-name="IN: DD SPORTS*" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Watch-DD-Sports-TV-Live-Online.jpeg/revision/latest/scale-to-width-down/340?cb=20160805130411.png" group-title="SHAREEXT@CRICKET",DD SPORTS*
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD SPORTS*" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Watch-DD-Sports-TV-Live-Online.jpeg/revision/latest/scale-to-width-down/340?cb=20160805130411.png" group-title="SHAREEXT@CRICKET",DD SPORTS*(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167587
-#EXTINF:-1 tvg-id="" tvg-name="IN: Dsports HD **" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@CRICKET",Dsports HD **
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dsports HD **" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@CRICKET",Dsports HD **(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167588
-#EXTINF:-1 tvg-id="" tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SHAREEXT@CRICKET",T-SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SHAREEXT@CRICKET",T-SPORTS(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167590
-#EXTINF:-1 tvg-id="" tvg-name="AFG: RTA SPORTS" tvg-logo="https://rtasportswear.com/wp-content/uploads/2020/03/logo-copy-300x123.png" group-title="SHAREEXT@CRICKET",RTA SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="AFG: RTA SPORTS" tvg-logo="https://rtasportswear.com/wp-content/uploads/2020/03/logo-copy-300x123.png" group-title="SHAREEXT@CRICKET",RTA SPORTS(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167591
-#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="SuperSport Cricket*" tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png" group-title="SHAREEXT@CRICKET",SuperSport Cricket*
+#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="SuperSport Cricket*" tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png" group-title="SHAREEXT@CRICKET",SuperSport Cricket*(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167592
-#EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="AU: FOX CRICKET 501*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SHAREEXT@CRICKET",FOX CRICKET 501*
+#EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="AU: FOX CRICKET 501*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SHAREEXT@CRICKET",FOX CRICKET 501*(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167593
-#EXTINF:-1 tvg-id="" tvg-name="IND: jio Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Reliance_Jio_Logo_%28October_2015%29.svg/1200px-Reliance_Jio_Logo_%28October_2015%29.svg.png" group-title="SHAREEXT@CRICKET",jio Cricket
+#EXTINF:-1 tvg-id="" tvg-name="IND: jio Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Reliance_Jio_Logo_%28October_2015%29.svg/1200px-Reliance_Jio_Logo_%28October_2015%29.svg.png" group-title="SHAREEXT@CRICKET",jio Cricket(dec=auto)
 http://opplex.tv:8080/dawood/dawood/206297
-#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="UK: BT Sport 2 CRICKET" tvg-logo="https://cdn6.aptoide.com/imgs/0/4/2/042b850e2b3895e1e4dc4728a87cd185_icon.png" group-title="SHAREEXT@CRICKET",BT Sport2
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="UK: BT Sport 2 CRICKET" tvg-logo="https://cdn6.aptoide.com/imgs/0/4/2/042b850e2b3895e1e4dc4728a87cd185_icon.png" group-title="SHAREEXT@CRICKET",BT Sport2(dec=auto)
 http://opplex.tv:8080/dawood/dawood/206566
-#EXTINF:-1 tvg-id="" tvg-name="PK: MAQ TV CRICKET" tvg-logo="" group-title="SHAREEXT@CRICKET",MAQ TV CRICKET
+#EXTINF:-1 tvg-id="" tvg-name="PK: MAQ TV CRICKET" tvg-logo="" group-title="SHAREEXT@CRICKET",MAQ TV CRICKET(dec=auto)
 http://opplex.tv:8080/dawood/dawood/207190
-#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport Cricket 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Sky_Sport_NZ_2019.svg/600px-Sky_Sport_NZ_2019.svg.png" group-title="SHAREEXT@CRICKET",SKYSport Cricket 3
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport Cricket 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Sky_Sport_NZ_2019.svg/600px-Sky_Sport_NZ_2019.svg.png" group-title="SHAREEXT@CRICKET",SKYSport Cricket 3(dec=auto)
 http://opplex.tv:8080/dawood/dawood/217530
-#EXTINF:-1 tvg-id="" tvg-name="CA: Flow Sport 1*" tvg-logo="https://discoverflow.co/sites/discoverflow.co/files/Flow_Sports_1_Logo_Primary_RGB.png" group-title="SHAREEXT@CRICKET",Flow Sport 1*
+#EXTINF:-1 tvg-id="" tvg-name="CA: Flow Sport 1*" tvg-logo="https://discoverflow.co/sites/discoverflow.co/files/Flow_Sports_1_Logo_Primary_RGB.png" group-title="SHAREEXT@CRICKET",Flow Sport 1*(dec=auto)
 http://opplex.tv:8080/dawood/dawood/219598
-#EXTINF:-1 tvg-id="" tvg-name="UK: Free Sports Cric" tvg-logo="https://cdn6.aptoide.com/imgs/0/4/2/042b850e2b3895e1e4dc4728a87cd185_icon.png" group-title="SHAREEXT@CRICKET",FreeSports Cric
+#EXTINF:-1 tvg-id="" tvg-name="UK: Free Sports Cric" tvg-logo="https://cdn6.aptoide.com/imgs/0/4/2/042b850e2b3895e1e4dc4728a87cd185_icon.png" group-title="SHAREEXT@CRICKET",FreeSports Cric(dec=auto)
 http://opplex.tv:8080/dawood/dawood/219599
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Cricket" tvg-logo="https://cpng.pikpng.com/pngl/s/345-3458751_sky-sports-cricket-hd-live-online-sky-sports.png" group-title="SHAREEXT@CRICKET",SkySports Cricket
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Cricket" tvg-logo="https://cpng.pikpng.com/pngl/s/345-3458751_sky-sports-cricket-hd-live-online-sky-sports.png" group-title="SHAREEXT@CRICKET",SkySports Cricket(dec=auto)
 http://opplex.tv:8080/dawood/dawood/167594
 
 
