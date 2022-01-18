@@ -4637,6 +4637,84 @@ http://bestsave.ltd:2052/55667788/88776655/126936
 
 
 
+#EXTINF:-1 tvg-ID="FOX" tvg-name="FOX HD" tvg-logo="http://img.miptv.ws/FOX_HD.png" group-title="SHAREEXT@Latino_Filmes",FOX HD
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/841
+#EXTINF:-1 tvg-ID="FO1" tvg-name="FOX Premium HD" tvg-logo="http://img.miptv.ws/FOX_Premium_1_HD.png" group-title="SHAREEXT@Latino_Filmes",FOXPremium HD
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/843
+#EXTINF:-1 tvg-ID="FOA" tvg-name="FOX Premium 2 HD" tvg-logo="http://img.miptv.ws/FOX_Premium_2_HD.png" group-title="SHAREEXT@Latino_Filmes",FOXPremium 2 HD
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/842
+#EXTINF:-1 tvg-ID="FLI" tvg-name="FOX Life HD" tvg-logo="http://img.miptv.ws/FOX_Life.png" group-title="SHAREEXT@Latino_Filmes",FOX Life HD
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/839
+#EXTINF:-1 tvg-ID="Fx.br" tvg-name="FX HD" tvg-logo="http://img.miptv.ws/FX.png" group-title="SHAREEXT@Latino_Filmes",FX HD
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/832
+#EXTINF:-1 tvg-ID="Hbo.br" tvg-name="HBO HD" tvg-logo="http://img.miptv.ws/HBO.png" group-title="SHAREEXT@Latino_Filmes",HBO HD
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/816
+#EXTINF:-1 tvg-ID="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://img.miptv.ws/HBO_2_HD.png" group-title="SHAREEXT@Latino_Filmes",HBO2 HD
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/819
+#EXTINF:-1 tvg-ID="Hbofamily.br" tvg-name="HBO Family HD" tvg-logo="http://img.miptv.ws/HBO_Family.png" group-title="SHAREEXT@Latino_Filmes",HBO Family HD
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/817
+#EXTINF:-1 tvg-ID="Hboplus.br" tvg-name="HBO Plus HD" tvg-logo="http://img.miptv.ws/HBO_Plus.png" group-title="SHAREEXT@Latino_Filmes",HBO Plus HD
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/813
+#EXTINF:-1 tvg-ID="Hbosignature.br" tvg-name="HBO Signature HD" tvg-logo="http://img.miptv.ws/HBO_Signature_HD.png" group-title="SHAREEXT@Latino_Filmes",HBO Signature HD
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/811
+#EXTINF:-1 tvg-ID="MHD" tvg-name="HBO MUNDI HD" tvg-logo="http://img.miptv.ws/Max_HD.png" group-title="SHAREEXT@Latino_Filmes",HBO MUNDI HD
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/1497
+#EXTINF:-1 tvg-ID="MAP" tvg-name="HBO Xtreme HD" tvg-logo="http://img.miptv.ws/Max_Prime.png" group-title="SHAREEXT@Latino_Filmes",HBO Xtreme HD
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/1487
+#EXTINF:-1 tvg-ID="Sony.br" tvg-name="Sony HD" tvg-logo="http://img.miptv.ws/Canal_Sony.png" group-title="SHAREEXT@Latino_Filmes",Sony HD
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/880
+#EXTINF:-1 tvg-ID="Megapix.br" tvg-name="Megapix HD" tvg-logo="http://img.miptv.ws/Megapix_HD.png" group-title="SHAREEXT@Latino_Filmes",Megapix HD
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/798
+#EXTINF:-1 tvg-ID="PAQ" tvg-name="Paramount Channel HD" tvg-logo="http://img.miptv.ws/Paramount.png" group-title="SHAREEXT@Latino_Filmes",Paramount Channel HD
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/782
+#EXTINF:-1 tvg-ID="Tcaction.br" tvg-name="Telecine Action HD" tvg-logo="http://img.miptv.ws/Telecine_Action_HD.png" group-title="SHAREEXT@Latino_Filmes",Telecine Action HD
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/739
+#EXTINF:-1 tvg-ID="Telecine Cult HD" tvg-name="Telecine Cult HD" tvg-logo="http://img.miptv.ws/Telecine_Cult.png" group-title="SHAREEXT@Latino_Filmes",Telecine Cult HD
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/1482
+#EXTINF:-1 tvg-ID="Tcfun.br" tvg-name="Telecine Fun HD" tvg-logo="http://img.miptv.ws/Telecine_Fun_HD.png" group-title="SHAREEXT@Latino_Filmes",Telecine Fun HD
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/738
+#EXTINF:-1 tvg-ID="Tcpipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="http://img.miptv.ws/Telecine_Pipoca_HD.png" group-title="SHAREEXT@Latino_Filmes",Telecine Pipoca HD
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/737
+#EXTINF:-1 tvg-ID="Tcpremium.br" tvg-name="Telecine Premium HD" tvg-logo="http://img.miptv.ws/Telecine_Premium_HD.png" group-title="SHAREEXT@Latino_Filmes",Telecine Premium HD
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/736
+#EXTINF:-1 tvg-ID="Tctouch.br" tvg-name="Telecine Touch HD" tvg-logo="http://img.miptv.ws/Telecine_Touch_HD.png" group-title="SHAREEXT@Latino_Filmes",Telecine Touch HD
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/735
+#EXTINF:-1 tvg-ID="USA" tvg-name="Universal Channel HD" tvg-logo="http://img.miptv.ws/Universal_Channel.png" group-title="SHAREEXT@Latino_Filmes",Universal Channel HD
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/710
+#EXTINF:-1 tvg-ID="Warnerchannel.br" tvg-name="Warner Channel HD" tvg-logo="http://img.miptv.ws/Warner_Channel.png" group-title="SHAREEXT@Latino_Filmes",Warner Channel HD
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/705
+#EXTINF:-1 tvg-ID="MDH" tvg-name="A&E HD" tvg-logo="http://img.miptv.ws/A&E.png" group-title="SHAREEXT@Latino_Filmes",A&E HD
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/4203
+#EXTINF:-1 tvg-ID="MGM" tvg-name="AMC HD" tvg-logo="http://img.miptv.ws/AMC_HD.png" group-title="SHAREEXT@Latino_Filmes",AMC HD
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/5076
+#EXTINF:-1 tvg-ID="Axn.br" tvg-name="AXN HD" tvg-logo="http://img.miptv.ws/AXN_HD.png" group-title="SHAREEXT@Latino_Filmes",AXN HD
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/892
+#EXTINF:-1 tvg-ID="MNX" tvg-name="Cinemax HD" tvg-logo="http://img.miptv.ws/Cinemax.png" group-title="SHAREEXT@Latino_Filmes",Cinemax HD
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/1495
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="CINE SKY PLAY 9" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cine_sky_br.jpg" group-title="SHAREEXT@CINESKY_PLAY",CINESKY PLAY9
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/13747
+#EXTINF:-1 tvg-ID="" tvg-name="CINE SKY PLAY 8" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cine_sky_br.jpg" group-title="SHAREEXT@CINESKY_PLAY",CINESKY PLAY8
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/13746
+#EXTINF:-1 tvg-ID="" tvg-name="CINE SKY PLAY 7" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cine_sky_br.jpg" group-title="SHAREEXT@CINESKY_PLAY",CINESKY PLAY7
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/13745
+#EXTINF:-1 tvg-ID="" tvg-name="CINE SKY PLAY 6" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cine_sky_br.jpg" group-title="SHAREEXT@CINESKY_PLAY",CINESKY PLAY6
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/13744
+#EXTINF:-1 tvg-ID="" tvg-name="CINE SKY PLAY 5" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cine_sky_br.jpg" group-title="SHAREEXT@CINESKY_PLAY",CINESKY PLAY5
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/13743
+#EXTINF:-1 tvg-ID="" tvg-name="CINE SKY PLAY 4" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cine_sky_br.jpg" group-title="SHAREEXT@CINESKY_PLAY",CINESKY PLAY4
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/13742
+#EXTINF:-1 tvg-ID="" tvg-name="CINE SKY PLAY 3" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cine_sky_br.jpg" group-title="SHAREEXT@CINESKY_PLAY",CINESKY PLAY3
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/13741
+#EXTINF:-1 tvg-ID="" tvg-name="CINE SKY PLAY 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cine_sky_br.jpg" group-title="SHAREEXT@CINESKY_PLAY",CINESKY PLAY2
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/13740
+#EXTINF:-1 tvg-ID="" tvg-name="CINE SKY PLAY 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cine_sky_br.jpg" group-title="SHAREEXT@CINESKY_PLAY",CINESKY PLAY1
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/13739
 
 
 
