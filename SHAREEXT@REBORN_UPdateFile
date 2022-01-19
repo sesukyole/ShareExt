@@ -2200,9 +2200,61 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 
 
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",Tv1
+http://rtmlive02tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",Tv2
+http://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",TV3
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbVAYIN6fICnA1ixb28ljfE)/dm/3/x6qp375/d/live-1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",Tv6
+http://rtmlive02tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",NTV7
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHaBHCARCWjUkMTynkT4HA2U)/dm/3/x6qp6ou/s/live-1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",Tv8
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVaH4OdgrWTwcNHNgv-s_ug)/dm/3/x6qud17/s/live-1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",TV9
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdNVCo520jvXnZrNwrD5jEk)/dm/3/x6qqja6/s/live-1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",Okey_TV
+http://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",RTM_SUKAN
+http://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",Berita_RTM
+http://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",RTM_parlenen
+http://rtmlive02tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",STARSPORT(HK)
+http://iptv.tvfix.org/hls/starsports.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",MeiyaFilm_Cantonese
+http://iptv.tvfix.org/hls/mydy.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",Tvb classic
+http://iptv.tvfix.org/hls/tvbjdnhk.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",Tvb AsiaAction ChannelCantonese
+http://iptv.tvfix.org/hls/tvbkf.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",CelesialMoviesCantonese
+http://iptv.tvfix.org/hls/typd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",Cctv6_Movies
+http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",HBO(Thai)
+http://4digital.ddns.net:11222/ts/0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",UNIFI_SPORT1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",UNIFI_SPORT2
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",NowSportPrime
+http://livetv.dnsfor.me/channel.12.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",SPORT_TONIGHT
+https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",TrueChineseMovie
 https://www.wopep.com/02_FoxMoviesHD_720p/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASSP1
 http://lnk.ec/ASSP1?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASSP2
