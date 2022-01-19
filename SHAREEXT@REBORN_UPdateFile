@@ -2520,9 +2520,14 @@ https://iptv.mwafa.net/vidio/6898/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",UseeSport1
 https://dik.si/SEuseeSport1?shareext.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",UseeSport2
 https://dik.si/SEuseeSPorts_2?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",MNC_NEWS
+https://goldenlivektv.com/usee-fta/Khoerul_Television.m3u8?id=mncnews&goodbye=Khoerul_Television=0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",MNC_SHOP
+https://goldenlivektv.com/usee-fta/Khoerul_Television.m3u8?id=mncshop&goodbye=Khoerul_Television=0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",METRO_GLOBE_NETWORK
+https://goldenlivektv.com/Live_TV/Channel_Mgn.m3u8?by=Khoerul_Television
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Bali TV(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
