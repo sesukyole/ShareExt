@@ -2479,7 +2479,12 @@ https://goldenlivektv.com/bulle-hbo-hits.m3u8
 https://goldenlivektv.com/bulle-hbo-signature.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",CINEMAX
 https://goldenlivektv.com/bulle-hbo-cinemax.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",INDIKIDS(tvnasional.mobie)
+http://tvnasional.mobie.in/M3U8/indikids.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",RANStv
+https://iptv.mwafa.net/vidio/8241/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",INDOSIAR_video
+http://goldenlivektv.com/vidio/Khoerul_Television.m3u8?id=indosiar&goodbye=Khoerul_Television=0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",CitraBioskop(tvnasional.mobie) 
 http://tvnasional.mobie.in/M3U8/bioskop.m3u8
