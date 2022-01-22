@@ -3526,6 +3526,33 @@ http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
 
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-id="tv1.my" tvg-name="TV 1" tvg-logo="http://tvmalaysia.cc:80/images/ccfa5d3bbed199dbac92b5beb81b98b7.png" group-title="ShareExt@Television_MALAYSIAN",TV1
+http://urtv.cc:80/kl570/kl570/7177
+#EXTINF:-1 tvg-id="tv2.my" tvg-name="TV 2" tvg-logo="http://tvmalaysia.cc:80/images/884a3720c93a65943ca3d37aea5cd686.png" group-title="ShareExt@Television_MALAYSIAN",TV2
+http://urtv.cc:80/kl570/kl570/7178
+#EXTINF:-1 tvg-id="tv3.my" tvg-name="TV 3" tvg-logo="http://tvmalaysia.cc:80/images/2d597f2f1c13083021c04f1937a09f40.png" group-title="ShareExt@Television_MALAYSIAN",TV3
+http://urtv.cc:80/kl570/kl570/7266
+#EXTINF:-1 tvg-id="tv3.my" tvg-name="TV 3 HD" tvg-logo="http://tvmalaysia.cc:80/images/87a07a960f50ae26eaa74f96bfe1628d.png" group-title="ShareExt@Television_MALAYSIAN",TV3_HD
+http://urtv.cc:80/kl570/kl570/8750
+#EXTINF:-1 tvg-id="tv9.my" tvg-name="TV 9" tvg-logo="http://tvmalaysia.cc:80/images/001d2025b7bb5a0d0f180adff62ec4b7.png" group-title="ShareExt@Television_MALAYSIAN",TV9
+http://urtv.cc:80/kl570/kl570/7185
+#EXTINF:-1 tvg-id="" tvg-name="RTM Sports" tvg-logo="http://tvmalaysia.cc:80/images/8ea5fad488df48902e34c566ac1fc8ec.png" group-title="ShareExt@Television_MALAYSIAN",RTM_Sports
+http://urtv.cc:80/kl570/kl570/7186
+#EXTINF:-1 tvg-id="animalplanet.my" tvg-name="TV IKIM" tvg-logo="http://tvmalaysia.cc:80/images/31a651c00450427d27fca4ef7c465b89.jpg" group-title="ShareExt@Television_MALAYSIAN",TV_IKIM
+http://urtv.cc:80/kl570/kl570/7192
+#EXTINF:-1 tvg-id="beritartm.my" tvg-name="Berita RTM" tvg-logo="http://tvmalaysia.cc:80/images/47e157d2927a350f7881bfe6a377da74.jpg" group-title="ShareExt@Television_MALAYSIAN",Berita_RTM
+http://urtv.cc:80/kl570/kl570/7191
+#EXTINF:-1 tvg-id="bernamatv.my" tvg-name="BERNAMA" tvg-logo="http://tvmalaysia.cc:80/images/34b4aab4d257e7d335f410bf3decafe2.png" group-title="ShareExt@Television_MALAYSIAN",BERNAMA
+http://urtv.cc:80/kl570/kl570/7190
+#EXTINF:-1 tvg-id="ID: !NSERT" tvg-name="RTB MALAYSIA" tvg-logo="https://i.postimg.cc/wjjd9YH7/RTB-Sukmaindera.png" group-title="ShareExt@Television_MALAYSIAN",RTB_MALAYSIA
+http://urtv.cc:80/kl570/kl570/7188
+
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",Cartoon Club
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/eroz_brebes.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",BOOLYWOOD HD
