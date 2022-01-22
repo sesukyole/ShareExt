@@ -2229,54 +2229,36 @@ http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/59373
 
 
 
-#EXTINF:-1 tvg-id="galaxypremium.id" tvg-name="Galaxy Premium" tvg-logo="http://tvmalaysia.cc:80/images/bc5b56c663e4476badfe70faae1ee75f.png" group-title="SHAREEXT@LIVE|MOVIE",GalaxyPremium
+
+#EXTINF:-1 tvg-id="galaxypremium.id" tvg-name="Galaxy Premium" tvg-logo="http://tvmalaysia.cc:80/images/bc5b56c663e4476badfe70faae1ee75f.png" group-title="SHAREEXT@LIVE|MOVIE",Galaxy Premium
 http://urtv.cc:80/kl570/kl570/8838
-#EXTINF:-1 tvg-id="galaxy.id" tvg-name="Galaxy" tvg-logo="http://tvmalaysia.cc:80/images/342a0f0cacfbb2cdb3a0aa994784d887.png" group-title="SHAREEXT@LIVE|MOVIE",Galaxy
-http://urtv.cc:80/kl570/kl570/8839
-#EXTINF:-1 tvg-id="cinemax.id" tvg-name="Cinemax FHD" tvg-logo="http://tvmalaysia.cc:80/images/95fbdf7f24f8c7ec61c468a2034e5623.png" group-title="SHAREEXT@LIVE|MOVIE",Cinemax FHD
+#EXTINF:-1 tvg-id="cinemax.id" tvg-name="Cinemax FHD" tvg-logo="http://tvmalaysia.cc:80/images/95fbdf7f24f8c7ec61c468a2034e5623.png" group-title="SHAREEXT@LIVE|MOVIE",Cinemax_FHD
 http://urtv.cc:80/kl570/kl570/7062
-#EXTINF:-1 tvg-id="hbohd.id" tvg-name="HBO FHD" tvg-logo="http://tvmalaysia.cc:80/images/597d58c4634acfa46ffd7ec56cebc923.png" group-title="SHAREEXT@LIVE|MOVIE",HBO FHD
+#EXTINF:-1 tvg-id="hbohd.id" tvg-name="HBO FHD" tvg-logo="http://tvmalaysia.cc:80/images/597d58c4634acfa46ffd7ec56cebc923.png" group-title="SHAREEXT@LIVE|MOVIE",HBO_FHD
 http://urtv.cc:80/kl570/kl570/7067
 #EXTINF:-1 tvg-id="hbohitshd.id" tvg-name="HBO Hits FHD" tvg-logo="http://tvmalaysia.cc:80/images/f5a402f969d6cbf259b9523e35427024.png" group-title="SHAREEXT@LIVE|MOVIE",HBO Hits FHD
 http://urtv.cc:80/kl570/kl570/7068
-#EXTINF:-1 tvg-id="hbosignaturehd.id" tvg-name="HBO Signature FHD" tvg-logo="http://tvmalaysia.cc:80/images/8877fb6ba2801969210b41d20f8439ef.png" group-title="SHAREEXT@LIVE|MOVIE",HBO Signature FHD
-http://urtv.cc:80/kl570/kl570/7069
 #EXTINF:-1 tvg-id="hbofamilyhd.id" tvg-name="HBO Family FHD" tvg-logo="http://tvmalaysia.cc:80/images/36e39cc071447ddbf7abf40add2dd3b8.png" group-title="SHAREEXT@LIVE|MOVIE",HBO Family FHD
 http://urtv.cc:80/kl570/kl570/7070
-#EXTINF:-1 tvg-id="hitsmovies.id" tvg-name="Hits Movies" tvg-logo="http://tvmalaysia.cc:80/images/c55c0ef62eadb4283880cb9b90eb16e0.png" group-title="SHAREEXT@LIVE|MOVIE",Hits Movies
-http://urtv.cc:80/kl570/kl570/7066
-#EXTINF:-1 tvg-id="" tvg-name="Red By HBO HD" tvg-logo="http://tvmalaysia.cc:80/images/30b3db0865e095679afe6d133e395059.jpg" group-title="SHAREEXT@LIVE|MOVIE",Red By HBO HD
-http://urtv.cc:80/kl570/kl570/7071
-#EXTINF:-1 tvg-id="warnertv.id" tvg-name="Warner TV HD" tvg-logo="http://tvmalaysia.cc:80/images/8195cade8b105a8fd74f7dd2821d749b.png" group-title="SHAREEXT@LIVE|MOVIE",Warner TV HD
-http://urtv.cc:80/kl570/kl570/7072
 #EXTINF:-1 tvg-id="tvnmovies.id" tvg-name="tVN movies HD" tvg-logo="http://tvmalaysia.cc:80/images/9c1fc3e276c62f1d6a63d517f91316aa.png" group-title="SHAREEXT@LIVE|MOVIE",tVN movies HD
 http://urtv.cc:80/kl570/kl570/7074
-#EXTINF:-1 tvg-id="ID: CINEMA WORLD HD" tvg-name="Cinema World" tvg-logo="http://tvmalaysia.cc:80/images/3334f26adcff7a4fa6270dad0e092123.png" group-title="SHAREEXT@LIVE|MOVIE",Cinema World
-http://urtv.cc:80/kl570/kl570/7219
 #EXTINF:-1 tvg-id="thrill.id" tvg-name="Thrill" tvg-logo="http://tvmalaysia.cc:80/images/45668db83a545b41934b1bebc992f56b.png" group-title="SHAREEXT@LIVE|MOVIE",Thrill
 http://urtv.cc:80/kl570/kl570/7220
-#EXTINF:-1 tvg-id="axnhd.id" tvg-name="AXN" tvg-logo="http://tvmalaysia.cc:80/images/64c7ada3247a508ceff64537eb31a5c4.png" group-title="SHAREEXT@LIVE|MOVIE",AXN
-http://urtv.cc:80/kl570/kl570/7223
-#EXTINF:-1 tvg-id="foxcrime.id" tvg-name="Fox Crime" tvg-logo="http://tvmalaysia.cc:80/images/b735a95be9e3259a1af53ebae3a3b7a9.png" group-title="SHAREEXT@LIVE|MOVIE",Fox Crime
-http://urtv.cc:80/kl570/kl570/7225
 #EXTINF:-1 tvg-id="foxhd.id" tvg-name="FOX" tvg-logo="http://tvmalaysia.cc:80/images/22f6bf7562a214da6986407de0aa7bf2.jpeg" group-title="SHAREEXT@LIVE|MOVIE",FOX
 http://urtv.cc:80/kl570/kl570/7227
-#EXTINF:-1 tvg-id="foxlife.id" tvg-name="Fox Life" tvg-logo="http://tvmalaysia.cc:80/images/77610f7ce4c929dc8b97da8cd60bb617.png" group-title="SHAREEXT@LIVE|MOVIE",Fox Life
-http://urtv.cc:80/kl570/kl570/7228
 #EXTINF:-1 tvg-id="kix.id" tvg-name="KiX" tvg-logo="http://tvmalaysia.cc:80/images/2137a2ac79600bd512bbe7f6c9010dd4.png" group-title="SHAREEXT@LIVE|MOVIE",KiX
 http://urtv.cc:80/kl570/kl570/7229
-#EXTINF:-1 tvg-id="ccm.id" tvg-name="Celestial Classic Movies." tvg-logo="http://tvmalaysia.cc:80/images/6ed0057ffb7e6ee1f54c71b54a3fc8d1.png" group-title="SHAREEXT@LIVE|MOVIE",CelestialClassicMovies.
-http://urtv.cc:80/kl570/kl570/7222
 #EXTINF:-1 tvg-id="celestialmovies.id" tvg-name="Celestial Movies" tvg-logo="http://tvmalaysia.cc:80/images/6c3c862edbc0724bcd330e81fdb92237.png" group-title="SHAREEXT@LIVE|MOVIE",Celestial Movies
 http://urtv.cc:80/kl570/kl570/7235
 #EXTINF:-1 tvg-id="" tvg-name="Star Movies HD" tvg-logo="http://tvmalaysia.cc:80/images/ea6cd61a60135de63c734fd6803db813.jpg" group-title="SHAREEXT@LIVE|MOVIE",StarMovies HD
 http://urtv.cc:80/kl570/kl570/8997
-#EXTINF:-1 tvg-id="" tvg-name="MNX" tvg-logo="http://tvmalaysia.cc:80/images/5487315b1286f907165907aa8fc96619.png" group-title="SHAREEXT@LIVE|MOVIE",MNX
-http://urtv.cc:80/kl570/kl570/8998
-#EXTINF:-1 tvg-id="" tvg-name="Movies Now" tvg-logo="http://tvmalaysia.cc:80/images/2ff46df0979b4464c685782588b1d986.jpg" group-title="SHAREEXT@LIVE|MOVIE",Movies Now
-http://urtv.cc:80/kl570/kl570/8999
-#EXTINF:-1 tvg-id="foxfamilymovies.id" tvg-name="Fox Family Movie" tvg-logo="http://tvmalaysia.cc:80/images/cbf50fdf2186c7a0a8cef8fd2ae9f2d3.png" group-title="SHAREEXT@LIVE|MOVIE",Fox Family Movie
+#EXTINF:-1 tvg-id="" tvg-name="Movies Now" tvg-logo="http://tvmalaysia.cc:80/images/2ff46df0979b4464c685782588b1d986.jpg" group-title="SHAREEXT@LIVE|MOVIE",MoviesNow
+http://urtv.cc:80/kl570/kl570/9001
+#EXTINF:-1 tvg-id="foxfamilymovies.id" tvg-name="Fox Family Movie" tvg-logo="http://tvmalaysia.cc:80/images/cbf50fdf2186c7a0a8cef8fd2ae9f2d3.png" group-title="SHAREEXT@LIVE|MOVIE",FoxFamilyMovie
 http://urtv.cc:80/kl570/kl570/9027
+
+
+
 
 
 
