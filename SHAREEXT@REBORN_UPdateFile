@@ -59,9 +59,11 @@ https://goldenlivektv.com/championstv1.m3u8
 https://goldenlivektv.com/championstv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",ChampionTv3(gold)
 https://goldenlivektv.com/championstv3.m3u8
-#EXTINF:-1 tvg-ID="FSP" tvg-name="Fox Sports" tvg-logo="http://img.miptv.ws/Fox_Sports_HD.png" group-title="SHAREEXT@LIVE|SPORTS",SPOTV(dec=native)
-https://dik.si/SPOTV?shareext.m3u8
+#EXTINF:-1 tvg-ID="FSP" tvg-name="Fox Sports" tvg-logo="http://img.miptv.ws/Fox_Sports_HD.png" group-title="SHAREEXT@LIVE|SPORTS",SPOTV
 http://desun.se.ke/bersyukur_masih_bisa_nonton/usee_id=spotv.m3u8
+https://dik.si/SPOTV?shareext.m3u8
+#EXTINF:-1 tvg-ID="FSP" tvg-name="Fox Sports" tvg-logo="http://img.miptv.ws/Fox_Sports_HD.png" group-title="SHAREEXT@LIVE|SPORTS",SPOTV2
+http://desun.se.ke/bersyukur_masih_bisa_nonton/usee_id=spo2tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",UseeSport1(dec=native)
 https://dik.si/SEuseeSport1?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",UseeSport2(dec=native)
