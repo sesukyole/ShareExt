@@ -53,19 +53,21 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",ChampionTv1(dec=native)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",ChampionTv1
+http://tvnid.wapgem.com/vidio/7.m3u8
 https://dik.si/champion1?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",ChampionTv2(dec=native)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",ChampionTv2
+http://tvnid.wapgem.com/vidio/8.m3u8
 https://dik.si/champion2?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",ChampionTv3(dec=native)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",ChampionTv3
+http://tvnid.wapgem.com/vidio/9.m3u8
 https://dik.si/champion3?shareext.m3u8
 
 #EXTINF:-1 tvg-ID="FSP" tvg-name="Fox Sports" tvg-logo="http://img.miptv.ws/Fox_Sports_HD.png" group-title="SHAREEXT@LIVE|SPORTS",SPOTV
+https://wopep.com/02_foxsport_720p/chunklist.m3u8
 https://dik.si/SPOTV?shareext.m3u8
-http://desun.se.ke/bersyukur_masih_bisa_nonton/usee_id=spotv.m3u8
 #EXTINF:-1 tvg-ID="FSP" tvg-name="Fox Sports" tvg-logo="http://img.miptv.ws/Fox_Sports_HD.png" group-title="SHAREEXT@LIVE|SPORTS",SPOTV2
 https://wopep.com/02_FoxSport3_TH_720p/chunklist.m3u8?shareext/ts
-http://desun.se.ke/bersyukur_masih_bisa_nonton/usee_id=spo2tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",UseeSport1(dec=native)
 https://dik.si/SEuseeSport1?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",UseeSport2(dec=native)
