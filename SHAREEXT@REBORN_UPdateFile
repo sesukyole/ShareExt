@@ -2839,6 +2839,31 @@ https://etus.link/champ3roll?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",INDOSIAR_HD(dec=native)
 https://etus.link/indosiarliga1?shareext.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",INDOSIAR LIGA1&2(tvn_id)
+http://tvnid.wapgem.com/vidio/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",CitraBioskop(tvn_id)
+http://tvnid.wapgem.com/vidio/2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",CitraDrama(tvn_id)
+http://tvnid.wapgem.com/vidio/3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Liverpool(tvn_id)
+http://tvnid.wapgem.com/vidio/4.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",hiphip horee(tvn_id) 
+http://tvnid.wapgem.com/vidio/5.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",horee(tvn_id) 
+http://tvnid.wapgem.com/vidio/6.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Champions1(tvn_id)
+http://tvnid.wapgem.com/vidio/7.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Champions2(tvn_id)
+http://tvnid.wapgem.com/vidio/8.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Champions3(tvn_id)
+http://tvnid.wapgem.com/vidio/9.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",CitraMuslim(tvn_id)
+http://tvnid.wapgem.com/vidio/10.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",CitraDangdut(tvn_id)
+http://tvnid.wapgem.com/vidio/11.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",CitraEntertainment(tvn_id)
+http://tvnid.wapgem.com/vidio/12.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",RCTI_plus(dec=native)
 https://lnk.ec/RCTIplus?shareext.m3u8
