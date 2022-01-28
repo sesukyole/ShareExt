@@ -2928,8 +2928,6 @@ https://etus.link/champ1roll?shareext.m3u8
 https://etus.link/champ2roll?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",champ3=roll(dec=native)
 https://etus.link/champ3roll?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",INDOSIAR_HD(dec=native)
-https://etus.link/indosiarliga1?shareext.m3u8
 
 
 
@@ -2944,14 +2942,6 @@ https://lnk.ec/GTVplus?shareext.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",RANStv
 https://iptv.mwafa.net/vidio/8241/index.m3u8?token=1999
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",INDOSIAR_video
-http://goldenlivektv.com/vidio/Khoerul_Television.m3u8?id=indosiar&goodbye=Khoerul_Television=0
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",SCTV
 https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Kompastv
@@ -3040,21 +3030,6 @@ https://etus.link/spotvv2?shareext.m3u8
 https://etus.link/bein1?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",BEIN2
 https://etus.link/bein2?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",ROCK_HIBURAN
-https://etus.link/rockenter?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",ROCK_DANGER
-http://goldenlivektv.com/useetv/Khoerul_Television.m3u8?id=blueantextreme
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",DUNIA_HANTU
-http://goldenlivektv.com/useetv/Khoerul_Television.m3u8?id=dunialain
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",WAKA_WAKA
-https://etus.link/waku2?shareext.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",MNC_NEWS
-https://goldenlivektv.com/usee-fta/Khoerul_Television.m3u8?id=mncnews&goodbye=Khoerul_Television=0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",MNC_SHOP
-https://goldenlivektv.com/usee-fta/Khoerul_Television.m3u8?id=mncshop&goodbye=Khoerul_Television=0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",METRO_GLOBE_NETWORK
-https://goldenlivektv.com/Live_TV/Channel_Mgn.m3u8?by=Khoerul_Television
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Bali TV(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
