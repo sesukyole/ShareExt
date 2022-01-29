@@ -143,6 +143,8 @@ http://23.101.22.105:19440/play/ASSP5/index.m3u8
 http://23.101.22.105:19440/play/Bein_6_AR/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@LIVE|SPORTS",SonyTen 1
 http://23.101.22.105:19440/play/STen_1/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@LIVE|SPORTS",Bein_Premium1
+http://23.101.22.105:19440/play/Prem1/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@LIVE|SPORTS",WWE
 http://23.101.22.105:19440/play/WWE/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@LIVE|SPORTS",SONY_TEN1
