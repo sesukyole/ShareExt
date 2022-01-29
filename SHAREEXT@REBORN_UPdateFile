@@ -118,14 +118,6 @@ http://belfast.dyndns.tv:5808/BEINHD12/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-njzryHonc1_GkbcnN91heHKALaCkm1vFw&usqp=CAU" group-title="SHAREEXT@LIVE|SPORTS",BeinSports3(English)
 http://belfast.dyndns.tv:5808/BEINHD13/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@LIVE|SPORTS",KujetsaSport1
-http://93.157.62.180/KSport1/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@LIVE|SPORTS",KujetsaSport2
-http://93.157.62.180/KSport2/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@LIVE|SPORTS",KujetsaSport3
-http://93.157.62.180/KSport3/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@LIVE|SPORTS",KujetsaSport4
-http://93.157.62.180/KSport4/index.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@LIVE|SPORTS",ARENA
 http://23.101.22.105:19440/play/ARENAHD/index.m3u8
