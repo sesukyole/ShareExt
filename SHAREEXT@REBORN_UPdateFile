@@ -989,6 +989,15 @@ http://qqtv.nl:8080/kevinp/kevinp/30239
 
 
 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AR| SSC1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="SHAREEXT@SPORTS_CH",AR|SSC1 HD
+http://2022tv.co:80/123456789/12345678/140882
+#EXTINF:-1 tvg-id="" tvg-name="AR| SSC2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="SHAREEXT@SPORTS_CH",AR|SSC2 FHD
+http://2022tv.co:80/123456789/12345678/140883
+#EXTINF:-1 tvg-id="" tvg-name="AR| SSC3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="SHAREEXT@SPORTS_CH",AR|SSC3 FHD
+http://2022tv.co:80/123456789/12345678/140884
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD" tvg-logo="http://176.9.70.149/logo1/BEIN_SPORTS_NEWS_ES.png" group-title="SHAREEXT@SPORTS_CH",beINSPORTS HD
 http://2022tv.co:80/123456789/12345678/10067
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS NEWS" tvg-logo="http://176.9.70.149/logo1/BEIN_SPORTS_NEWS_ES.png" group-title="SHAREEXT@SPORTS_CH",beINSPORTS NEWS
