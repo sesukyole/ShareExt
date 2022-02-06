@@ -73,51 +73,6 @@ https://wopep.com/02_FoxSport3_TH_720p/chunklist.m3u8?shareext/ts
 https://dik.si/SEuseeSport1?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",UseeSport2(dec=native)
 https://dik.si/SEuseeSPorts_2?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",USEE_SUKAN1
-https://goldenlivektv.com/sport/Khoerul_Television.m3u8?id=useesport&goodbye=Khoerul_Television=0
-https://etus.link/useesport?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",USEE_SUKAN2
-https://goldenlivektv.com/sport/Khoerul_Television.m3u8?id=useesports2&goodbye=Khoerul_Television=0
-https://etus.link/useesports2?shareext.ts
-
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScVIchK2eAq0HD_lMjld16YYmyQ7F3zxTEmw&usqp=CAU" group-title="SHAREEXT@LIVE|SPORTS",BeinSports Premium1
-http://belfast.dyndns.tv:5808/BEINHD8/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzB97GTt-J8qQ-IGpWkapZE8UwjF0MdcHbAA&usqp=CAU" group-title="SHAREEXT@LIVE|SPORTS",BeinSports Premium2
-http://belfast.dyndns.tv:5808/BEINHD9/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNDqSpu9cYBhujfm_vRAUtEDTMVFMTafVGRQ&usqp=CAU" group-title="SHAREEXT@LIVE|SPORTS",BeinSports Premium3
-http://belfast.dyndns.tv:5808/BEINHD10/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-njzryHonc1_GkbcnN91heHKALaCkm1vFw&usqp=CAU" group-title="SHAREEXT@LIVE|SPORTS",BeinSports 1
-http://belfast.dyndns.tv:5808/BEINHD1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-njzryHonc1_GkbcnN91heHKALaCkm1vFw&usqp=CAU" group-title="SHAREEXT@LIVE|SPORTS",BeinSports 2
-http://belfast.dyndns.tv:5808/BEINHD2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-njzryHonc1_GkbcnN91heHKALaCkm1vFw&usqp=CAU" group-title="SHAREEXT@LIVE|SPORTS",BeinSports 3
-http://belfast.dyndns.tv:5808/BEINHD3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-njzryHonc1_GkbcnN91heHKALaCkm1vFw&usqp=CAU" group-title="SHAREEXT@LIVE|SPORTS",BeinSports 4
-http://belfast.dyndns.tv:5808/BEINHD4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-njzryHonc1_GkbcnN91heHKALaCkm1vFw&usqp=CAU" group-title="SHAREEXT@LIVE|SPORTS",BeinSports 5
-http://belfast.dyndns.tv:5808/BEINHD5/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-njzryHonc1_GkbcnN91heHKALaCkm1vFw&usqp=CAU" group-title="SHAREEXT@LIVE|SPORTS",BeinSports 6
-http://belfast.dyndns.tv:5808/BEINHD6/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-njzryHonc1_GkbcnN91heHKALaCkm1vFw&usqp=CAU" group-title="SHAREEXT@LIVE|SPORTS",BeinSports 7
-http://belfast.dyndns.tv:5808/BEINHD7/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-njzryHonc1_GkbcnN91heHKALaCkm1vFw&usqp=CAU" group-title="SHAREEXT@LIVE|SPORTS",BeinSports1(English)
-http://belfast.dyndns.tv:5808/BEINHD11/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-njzryHonc1_GkbcnN91heHKALaCkm1vFw&usqp=CAU" group-title="SHAREEXT@LIVE|SPORTS",BeinSports2(English)
-http://belfast.dyndns.tv:5808/BEINHD12/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-njzryHonc1_GkbcnN91heHKALaCkm1vFw&usqp=CAU" group-title="SHAREEXT@LIVE|SPORTS",BeinSports3(English)
-http://belfast.dyndns.tv:5808/BEINHD13/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@LIVE|SPORTS",SONY_TEN1
@@ -128,7 +83,6 @@ http://live.flixhub.net/hls/sonyten2.m3u8
 http://live.flixhub.net/hls/sonyten3.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@LIVE|SPORTS",SONY_SIX
 http://live.flixhub.net/hls/sonysix.m3u8
-
 
 
 
@@ -171,181 +125,6 @@ https://www.wopep.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRys4Mt1eo1wyiEVcK4gDyL3rpS2JGKHhjBNQ&usqp=CAU" group-title="SHAREEXT@LIVE|SPORTS", TVRI SPORT HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="AR| SSC1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="SHAREEXT@SPORTS_CH",AR|SSC1 HD
-http://2022tv.co:80/123456789/12345678/140882
-#EXTINF:-1 tvg-id="" tvg-name="AR| SSC2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="SHAREEXT@SPORTS_CH",AR|SSC2 FHD
-http://2022tv.co:80/123456789/12345678/140883
-#EXTINF:-1 tvg-id="" tvg-name="AR| SSC3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="SHAREEXT@SPORTS_CH",AR|SSC3 FHD
-http://2022tv.co:80/123456789/12345678/140884
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD" tvg-logo="http://176.9.70.149/logo1/BEIN_SPORTS_NEWS_ES.png" group-title="SHAREEXT@SPORTS_CH",beINSPORTS HD
-http://2022tv.co:80/123456789/12345678/10067
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS NEWS" tvg-logo="http://176.9.70.149/logo1/BEIN_SPORTS_NEWS_ES.png" group-title="SHAREEXT@SPORTS_CH",beINSPORTS NEWS
-http://2022tv.co:80/123456789/12345678/4387
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS premium 1HD" tvg-logo="http://176.9.70.149/logo1/BEIN_SPORTS_NEWS_ES.png" group-title="SHAREEXT@SPORTS_CH",beINSPORTSpremium 1HD
-http://2022tv.co:80/123456789/12345678/1694
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS premium 2HD" tvg-logo="http://176.9.70.149/logo1/BEIN_SPORTS_NEWS_ES.png" group-title="SHAREEXT@SPORTS_CH",beINSPORTSpremium 2HD
-http://2022tv.co:80/123456789/12345678/1693
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS premium 3HD" tvg-logo="http://176.9.70.149/logo1/BEIN_SPORTS_NEWS_ES.png" group-title="SHAREEXT@SPORTS_CH",beINSPORTSpremium 3HD
-http://2022tv.co:80/123456789/12345678/1692
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1HD" tvg-logo="http://176.9.70.149/logo1/BEIN_SPORTS_NEWS_ES.png" group-title="SHAREEXT@SPORTS_CH",beINSPORTS 1HD
-http://2022tv.co:80/123456789/12345678/20998
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2HD" tvg-logo="http://176.9.70.149/logo1/BEIN_SPORTS_NEWS_ES.png" group-title="SHAREEXT@SPORTS_CH",beINSPORTS 2HD
-http://2022tv.co:80/123456789/12345678/20999
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3HD" tvg-logo="http://176.9.70.149/logo1/BEIN_SPORTS_NEWS_ES.png" group-title="SHAREEXT@SPORTS_CH",beINSPORTS 3HD
-http://2022tv.co:80/123456789/12345678/21000
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4HD" tvg-logo="http://176.9.70.149/logo1/BEIN_SPORTS_NEWS_ES.png" group-title="SHAREEXT@SPORTS_CH",beINSPORTS 4HD
-http://2022tv.co:80/123456789/12345678/19143
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5HD" tvg-logo="http://176.9.70.149/logo1/BEIN_SPORTS_NEWS_ES.png" group-title="SHAREEXT@SPORTS_CH",beINSPORTS 5HD
-http://2022tv.co:80/123456789/12345678/7881
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6HD" tvg-logo="http://176.9.70.149/logo1/BEIN_SPORTS_NEWS_ES.png" group-title="SHAREEXT@SPORTS_CH",beINSPORTS 6HD
-http://2022tv.co:80/123456789/12345678/8796
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7HD" tvg-logo="http://176.9.70.149/logo1/BEIN_SPORTS_NEWS_ES.png" group-title="SHAREEXT@SPORTS_CH",beINSPORTS 7HD
-http://2022tv.co:80/123456789/12345678/1695
-#EXTINF:-1 tvg-id="alkassone.qa" tvg-name="AL Kass 1HD" tvg-logo="http://176.9.70.149/logo1/kass11.jpg" group-title="SHAREEXT@SPORTS_CH",AL_Kass 1HD
-http://2022tv.co:80/123456789/12345678/1469
-#EXTINF:-1 tvg-id="alkasstwo.qa" tvg-name="AL Kass 2HD" tvg-logo="http://176.9.70.149/logo1/kass11.jpg" group-title="SHAREEXT@SPORTS_CH",AL_Kass 2HD
-http://2022tv.co:80/123456789/12345678/1468
-#EXTINF:-1 tvg-id="alkassthree.qa" tvg-name="AL Kass 3HD" tvg-logo="http://176.9.70.149/logo1/kass11.jpg" group-title="SHAREEXT@SPORTS_CH",AL_Kass 3HD
-http://2022tv.co:80/123456789/12345678/4040
-#EXTINF:-1 tvg-id="alkassfour.qa" tvg-name="AL Kass 4HD" tvg-logo="http://176.9.70.149/logo1/kass11.jpg" group-title="SHAREEXT@SPORTS_CH",AL_Kass 4HD
-http://2022tv.co:80/123456789/12345678/1466
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 1 HD" tvg-logo="http://x12tv.co/uploads/channels/ad11111111111.jpeg" group-title="SHAREEXT@SPORTS_CH",AbuDhabi Sports 1 HD
-http://2022tv.co:80/123456789/12345678/1720
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 2 HD" tvg-logo="http://x12tv.co/uploads/channels/ad22222222.jpeg" group-title="SHAREEXT@SPORTS_CH",AbuDhabi Sports 2 HD
-http://2022tv.co:80/123456789/12345678/1721
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 3 HD" tvg-logo="http://x12tv.co/uploads/channels/ad33333.jpeg" group-title="SHAREEXT@SPORTS_CH",AbuDhabi Sports 3 HD
-http://2022tv.co:80/123456789/12345678/10052
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 4  HD" tvg-logo="http://176.9.70.149/logo2/Abu_Dhabi_Sport_4.jpg" group-title="SHAREEXT@SPORTS_CH",AbuDhabi Sports 4  HD
-http://2022tv.co:80/123456789/12345678/31887
-#EXTINF:-1 tvg-id="" tvg-name="KSA SPORT1 HD" tvg-logo="http://x12tv.co/uploads/channels/ksa111111111.jpeg" group-title="SHAREEXT@SPORTS_CH",KSA SPORT1 HD
-http://2022tv.co:80/123456789/12345678/12821
-#EXTINF:-1 tvg-id="" tvg-name="KSA SPORT2 HD" tvg-logo="http://x12tv.co/uploads/channels/ksa111111111.jpeg" group-title="SHAREEXT@SPORTS_CH",KSA SPORT2 HD
-http://2022tv.co:80/123456789/12345678/8883
-#EXTINF:-1 tvg-id="" tvg-name="KSA SPORT 3 HD" tvg-logo="http://x12tv.co/uploads/channels/2+.jpeg" group-title="SHAREEXT@SPORTS_CH",KSA SPORT 3 HD
-http://2022tv.co:80/123456789/12345678/12822
-#EXTINF:-1 tvg-id="" tvg-name="Sharjah Sport HD" tvg-logo="http://176.9.70.149/logo1/sharjah.jpeg" group-title="SHAREEXT@SPORTS_CH",Sharjah Sport HD
-http://2022tv.co:80/123456789/12345678/34734
-#EXTINF:-1 tvg-id="" tvg-name="Kuwait Sports HD" tvg-logo="http://www.ass-media.de/pic/upload/2016/06/05/20160605163256-6cc7c1ff.png" group-title="SHAREEXT@SPORTS_CH",Kuwait Sports HD
-http://2022tv.co:80/123456789/12345678/117728
-#EXTINF:-1 tvg-id="" tvg-name="Al Ahly Sports" tvg-logo="https://e7.pngegg.com/pngimages/228/80/png-clipart-al-ahly-sc-egyptian-premier-league-cairo-zamalek-sc-egypt-national-football-team-football-emblem-egypt.png" group-title="SHAREEXT@SPORTS_CH",Al Ahly Sports
-http://2022tv.co:80/123456789/12345678/117724
-#EXTINF:-1 tvg-id="" tvg-name="Zamalek Sports" tvg-logo="https://e7.pngegg.com/pngimages/265/175/png-clipart-zamalek-sc-al-ahly-sc-egypt-cup-association-football-manager-egypt.png" group-title="SHAREEXT@SPORTS_CH",Zamalek Sports
-http://2022tv.co:80/123456789/12345678/117725
-#EXTINF:-1 tvg-id="" tvg-name="ON TIME Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/On_Time_Sports_Logo.png" group-title="SHAREEXT@SPORTS_CH",ON TIME Sport 1
-http://2022tv.co:80/123456789/12345678/7215
-#EXTINF:-1 tvg-id="" tvg-name="ON TIME  Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/On_Time_Sports_Logo.png" group-title="SHAREEXT@SPORTS_CH",ON TIME Sport 2
-http://2022tv.co:80/123456789/12345678/80863
-#EXTINF:-1 tvg-id="" tvg-name="DUBAI SPORT 1" tvg-logo="http://x12tv.co/A/DB.png" group-title="SHAREEXT@SPORTS_CH",DUBAI SPORT 1
-http://2022tv.co:80/123456789/12345678/1585
-#EXTINF:-1 tvg-id="" tvg-name="DUBAI SPORT 2" tvg-logo="http://x12tv.co/A/DB.png" group-title="SHAREEXT@SPORTS_CH",DUBAI SPORT 2
-http://2022tv.co:80/123456789/12345678/1584
-#EXTINF:-1 tvg-id="" tvg-name="DUBAI SPORT 3" tvg-logo="https://television-live.com/uploads/ectheheyther.png" group-title="SHAREEXT@SPORTS_CH",DUBAI SPORT 3
-http://2022tv.co:80/123456789/12345678/117726
-#EXTINF:-1 tvg-id="" tvg-name="YAS Sports HD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/YasSports-e1600094421460.png" group-title="SHAREEXT@SPORTS_CH",YAS Sports HD
-http://2022tv.co:80/123456789/12345678/117727
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORTS 1 HD" tvg-logo="http://176.9.70.149/logo1/RMC_SPORT_LIVE_9.png" group-title="SHAREEXT@SPORTS_CH",RMC SPORTS1 HD
-http://2022tv.co:80/123456789/12345678/2863
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORTS 2 HD" tvg-logo="http://176.9.70.149/logo1/RMC_SPORT_LIVE_9.png" group-title="SHAREEXT@SPORTS_CH",RMC SPORTS2 HD
-http://2022tv.co:80/123456789/12345678/2864
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORTS 3 HD" tvg-logo="http://176.9.70.149/logo1/RMC_SPORT_LIVE_9.png" group-title="SHAREEXT@SPORTS_CH",RMC SPORTS3 HD
-http://2022tv.co:80/123456789/12345678/2865
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORTS 4 HD" tvg-logo="http://176.9.70.149/logo1/RMC_SPORT_LIVE_9.png" group-title="SHAREEXT@SPORTS_CH",RMC SPORTS4 HD
-http://2022tv.co:80/123456789/12345678/52053
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORTS 5 HD" tvg-logo="http://176.9.70.149/logo1/RMC_SPORT_LIVE_9.png" group-title="SHAREEXT@SPORTS_CH",RMC SPORTS5 HD
-http://2022tv.co:80/123456789/12345678/52054
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORTS 6 HD" tvg-logo="http://176.9.70.149/logo1/RMC_SPORT_LIVE_9.png" group-title="SHAREEXT@SPORTS_CH",RMC SPORTS6 HD
-http://2022tv.co:80/123456789/12345678/52055
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORTS 7 HD" tvg-logo="http://176.9.70.149/logo1/RMC_SPORT_LIVE_9.png" group-title="SHAREEXT@SPORTS_CH",RMC SPORTS7 HD
-http://2022tv.co:80/123456789/12345678/52056
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORTS 8 HD" tvg-logo="http://176.9.70.149/logo1/RMC_SPORT_LIVE_9.png" group-title="SHAREEXT@SPORTS_CH",RMC SPORTS8 HD
-http://2022tv.co:80/123456789/12345678/52057
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORTS 9 HD" tvg-logo="http://176.9.70.149/logo1/RMC_SPORT_LIVE_9.png" group-title="SHAREEXT@SPORTS_CH",RMC SPORTS9 HD
-http://2022tv.co:80/123456789/12345678/52058
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORTS 10 HD" tvg-logo="http://176.9.70.149/logo1/RMC_SPORT_LIVE_9.png" group-title="SHAREEXT@SPORTS_CH",RMC SPORTS10 HD
-http://2022tv.co:80/123456789/12345678/52059
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Arena_sport.png" group-title="SHAREEXT@SPORTS_CH",ArenaSport 1 HD
-http://2022tv.co:80/123456789/12345678/72481
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Arena_sport.png" group-title="SHAREEXT@SPORTS_CH",ArenaSport 2 HD
-http://2022tv.co:80/123456789/12345678/72483
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 BIH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Arena_sport.png" group-title="SHAREEXT@SPORTS_CH",ArenaSport 2 BIH
-http://2022tv.co:80/123456789/12345678/72482
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Arena_sport.png" group-title="SHAREEXT@SPORTS_CH",ArenaSport 3 HD
-http://2022tv.co:80/123456789/12345678/72484
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Arena_sport.png" group-title="SHAREEXT@SPORTS_CH",ArenaSport 4 HD
-http://2022tv.co:80/123456789/12345678/72485
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Arena_sport.png" group-title="SHAREEXT@SPORTS_CH",ArenaSport 5 HD
-http://2022tv.co:80/123456789/12345678/72486
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Action FHD" tvg-logo="http://176.9.70.149/logo1/Supersport-HD.png" group-title="SHAREEXT@SPORTS_CH",SuperSport Action FHD
-http://2022tv.co:80/123456789/12345678/50741
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Golf FHD" tvg-logo="http://176.9.70.149/logo1/Supersport-HD.png" group-title="SHAREEXT@SPORTS_CH",SuperSport Golf FHD
-http://2022tv.co:80/123456789/12345678/50742
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Grandstand FHD" tvg-logo="http://176.9.70.149/logo1/Supersport-HD.png" group-title="SHAREEXT@SPORTS_CH",SuperSport Grandstand FHD
-http://2022tv.co:80/123456789/12345678/50743
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Maximo HD" tvg-logo="http://176.9.70.149/logo1/Supersport-HD.png" group-title="SHAREEXT@SPORTS_CH",SuperSport Maximo HD
-http://2022tv.co:80/123456789/12345678/50744
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport | HD 5" tvg-logo="http://176.9.70.149/logo1/Supersport-HD.png" group-title="SHAREEXT@SPORTS_CH",SuperSport HD5
-http://2022tv.co:80/123456789/12345678/50745
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport | HD 6" tvg-logo="http://176.9.70.149/logo1/Supersport-HD.png" group-title="SHAREEXT@SPORTS_CH",SuperSport HD6
-http://2022tv.co:80/123456789/12345678/50746
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport MotorSport HD" tvg-logo="http://176.9.70.149/logo1/Supersport-HD.png" group-title="SHAREEXT@SPORTS_CH",SuperSport MotorSport HD
-http://2022tv.co:80/123456789/12345678/50753
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 FHD" tvg-logo="http://176.9.70.149/logo1/Supersport-HD.png" group-title="SHAREEXT@SPORTS_CH",SuperSport1 FHD
-http://2022tv.co:80/123456789/12345678/50754
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD1 F" tvg-logo="http://x12tv.co/A/f1.png" group-title="SHAREEXT@SPORTS_CH",beINSPORT HD1 FRANCE
-http://2022tv.co:80/123456789/12345678/2080
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD2 F" tvg-logo="http://x12tv.co/A/f2.png" group-title="SHAREEXT@SPORTS_CH",beINSPORT HD2 FRANCE
-http://2022tv.co:80/123456789/12345678/2079
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD3 F" tvg-logo="http://x12tv.co/A/f3.png" group-title="SHAREEXT@SPORTS_CH",beINSPORT HD3 FRANCE
-http://2022tv.co:80/123456789/12345678/2078
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT MAX4 HD" tvg-logo="http://x12tv.co/A/max.png" group-title="SHAREEXT@SPORTS_CH",beINSPORT MAX4 HD
-http://2022tv.co:80/123456789/12345678/4043
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT MAX5 HD" tvg-logo="http://x12tv.co/A/max.png" group-title="SHAREEXT@SPORTS_CH",beINSPORT MAX5 HD
-http://2022tv.co:80/123456789/12345678/4044
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT MAX6 HD" tvg-logo="http://x12tv.co/A/max.png" group-title="SHAREEXT@SPORTS_CH",beINSPORT MAX6 HD
-http://2022tv.co:80/123456789/12345678/4045
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT MAX7 HD" tvg-logo="http://x12tv.co/A/max.png" group-title="SHAREEXT@SPORTS_CH",beINSPORT MAX7 HD
-http://2022tv.co:80/123456789/12345678/4046
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT MAX8 HD" tvg-logo="http://x12tv.co/A/max.png" group-title="SHAREEXT@SPORTS_CH",beINSPORT MAX8 HD
-http://2022tv.co:80/123456789/12345678/4047
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT MAX9 HD" tvg-logo="http://x12tv.co/A/max.png" group-title="SHAREEXT@SPORTS_CH",beINSPORT MAX9 HD
-http://2022tv.co:80/123456789/12345678/4048
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT MAX10 HD" tvg-logo="http://x12tv.co/A/max.png" group-title="SHAREEXT@SPORTS_CH",beINSPORT MAX10 HD
-http://2022tv.co:80/123456789/12345678/4049
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1" tvg-logo="http://x12tv.co/uploads/channels/skyf1.png" group-title="SHAREEXT@SPORTS_CH",SkySports F1
-http://2022tv.co:80/123456789/12345678/6804
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS HD ARENA" tvg-logo="http://x12tv.co/uploads/channels/arenaaaa.png" group-title="SHAREEXT@SPORTS_CH",SKYSPORTS HD ARENA
-http://2022tv.co:80/123456789/12345678/6808
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket" tvg-logo="http://176.9.70.149/logo2/Sky_Sports_Premier_League.jpg" group-title="SHAREEXT@SPORTS_CH",SkySports Cricket
-http://2022tv.co:80/123456789/12345678/6806
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football" tvg-logo="http://x12tv.co/uploads/channels/football.png" group-title="SHAREEXT@SPORTS_CH",SkySports Football
-http://2022tv.co:80/123456789/12345678/6812
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Main Events" tvg-logo="http://x12tv.co/uploads/channels/evvvvvv.jpeg" group-title="SHAREEXT@SPORTS_CH",SkySports MainEvents
-http://2022tv.co:80/123456789/12345678/6819
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Mix" tvg-logo="http://x12tv.co/uploads/channels/mmmmix.jpeg" group-title="SHAREEXT@SPORTS_CH",SkySports Mix
-http://2022tv.co:80/123456789/12345678/6817
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports News" tvg-logo="http://x12tv.co/uploads/channels/news111.png" group-title="SHAREEXT@SPORTS_CH",SkySports News
-http://2022tv.co:80/123456789/12345678/6821
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League" tvg-logo="http://176.9.70.149/logo2/Sky_Sports_Premier_League.jpg" group-title="SHAREEXT@SPORTS_CH",SkySports PremierLeague
-http://2022tv.co:80/123456789/12345678/6814
-#EXTINF:-1 tvg-id="" tvg-name="KUWAIT Sport hd" tvg-logo="http://x12tv.co/uploads/channels/124.jpg" group-title="SHAREEXT@SPORTS_CH",KUWAITSport hd
-http://2022tv.co:80/123456789/12345678/8938
-#EXTINF:-1 tvg-id="" tvg-name="Kuwait Sport Plus" tvg-logo="http://x12tv.co/uploads/channels/120.jpg" group-title="SHAREEXT@SPORTS_CH",KuwaitSport Plus
-http://2022tv.co:80/123456789/12345678/8944
-#EXTINF:-1 tvg-id="" tvg-name="Jordan Sports" tvg-logo="http://x12tv.co/uploads/channels/Jordan Sports.jpeg" group-title="SHAREEXT@SPORTS_CH",JordanSports
-http://2022tv.co:80/123456789/12345678/24585
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Jordan Sports" tvg-logo="http://x12tv.co/uploads/channels/Jordan Sports.jpeg" group-title="SHAREEXT@SPORTS_CH",|AR|Jordan Sports
-http://2022tv.co:80/123456789/12345678/61601
-#EXTINF:-1 tvg-id="" tvg-name="|AR| KUWAIT Sport hd" tvg-logo="http://x12tv.co/uploads/channels/120.jpg" group-title="SHAREEXT@SPORTS_CH",|AR|KUWAIT Sport hd
-http://2022tv.co:80/123456789/12345678/61627
-
 
 
 
@@ -790,16 +569,10 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 https://bal.varcdn1.ru/lb/setanta1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",SETANTASPORT2
 https://bal.varcdn1.ru/lb/setanta2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",BTsport1
-http://93.152.174.144:4000/play/btsport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",BTspot2
-http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",AduAyam
 https://z0gdu9jmgu.rtmp-now.com/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",AduKerbau
 https://freelive.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",BeinSport5
-http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",CCTV5體育(setAuto)
 http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@PREMIUMMSport",CCTV5+體育賽事(setAuto)
@@ -940,14 +713,6 @@ https://stream.mmsiptv.com/droid/rmc2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",RMC SPORT3(dec=native)
 https://stream.mmsiptv.com/droid/rmc3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",SS PSL
-http://cro.hockeynews.club/live/2/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",SS variety3
-http://cro.hockeynews.club/live/3/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",SPOTV/true
-http://13.76.192.14:19410/SpoTv_Live/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",TruePremier1/true
 https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
 
@@ -962,55 +727,6 @@ https://www.wopep.com/02_PremierHD4_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",TruePremier5/
 https://www.wopep.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",BARCA TV
-http://93.152.174.144:4000/play/barcatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",BEINSPORTAR
-http://93.152.174.144:4000/play/BEINSPORTAR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",BTSPORT 1
-http://93.152.174.144:4000/play/btsport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",BTSPORT 2
-http://93.152.174.144:4000/play/btsport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",BTSPORT ESPN
-http://93.152.174.144:4000/play/btsportespn/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",BeinLaLiga
-http://93.152.174.144:4000/play/beinlaliga/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",BeinSport1 AR
-http://93.152.174.144:4000/play/bein1ar/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",BeinSport1 FR
-http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",BeinSport4 ar
-http://93.152.174.144:4000/play/bein4ar/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",BeinSports2 FR
-http://93.152.174.144:4000/play/bein2fr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",BeinSports3 AR
-http://93.152.174.144:4000/play/bein3ar/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",BeinSports3 FR
-http://93.152.174.144:4000/play/bein3fr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",BeinSports5 AR
-http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",BeinSports7 AR
-http://93.152.174.144:4000/play/bein7/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",SPORTTV1 PT
-http://93.152.174.144:4000/play/sporttv1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",SkySports1
-http://93.152.174.144:4000/play/ssports1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",SkySports2
-http://93.152.174.144:4000/play/skysports2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",SkySports3
-http://93.152.174.144:4000/play/skysports3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",SkySports4 
-http://93.152.174.144:4000/play/skysports4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",SkySports5 
-http://93.152.174.144:4000/play/skysports5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",SkySportsNews
-http://93.152.174.144:4000/play/skysportsnews/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",SkySportsf1
-http://93.152.174.144:4000/play/ssportsf1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",WWE NETWORK
-http://93.152.174.144:4000/play/WWE/index.m3u8
-
-
-
 
 
 
@@ -1637,15 +1353,15 @@ https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-sportst
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",TrueChineseMovie
 https://www.wopep.com/02_FoxMoviesHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASSP1(dec=native)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASSP1
 http://lnk.ec/ASSP1?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASSP2(dec=native)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASSP2
 http://lnk.ec/ASSP2?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASSP3(dec=native)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASSP3
 https://lnk.ec/ASSP3?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASSP4(dec=native)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASSP4
 https://lnk.ec/ASSP4?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASSP5(dec=native)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASSP5
 https://lnk.ec/astroSport5?shareext.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASTRO ARENA
@@ -1690,7 +1406,6 @@ https://wopep.com/02_foxsport_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",Astro BOO
-http://urtv.cc:80/kl570/kl570/8872
 https://lnk.ec/BOO?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",XIAOTAIYANG
 https://lnk.ec/xiaotaiyang?shareext.m3u8
@@ -1729,110 +1444,6 @@ https://lnk.ec/HBOfamHD?shareext.m3u8
 https://lnk.ec/HBOhitsHD?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",HBO SIGNATURE(dec=native)
 https://lnk.ec/HBOsigHD?shareext.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",ANTV DIGITAL T2
-http://202.150.172.34:4000/play/antvdigitalt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",BADAR TV T2
-http://202.150.172.34:4000/play/badartvt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",BBSTV JAKARTA T2
-http://202.150.172.34:4000/play/bbstvjktt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",BNTV T2
-http://202.150.172.34:4000/play/bntvt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",CNBC INDONESIA HD T2
-http://202.150.172.34:4000/play/cnbcindonesiahdt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",CNN INDONESIA HD T2
-http://202.150.172.34:4000/play/cnnindonesiahdt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",DAAITV T2
-http://202.150.172.34:4000/play/daaitvt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",ELSHINTA TV T2
-http://202.150.172.34:4000/play/elshintatvt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",GRAMEDIA TV T2
-http://202.150.172.34:4000/play/gramediatvt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",GTV T2
-http://202.150.172.34:4000/play/gtvt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",INDOSIAR HD T2
-http://202.150.172.34:4000/play/indosiarhdt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",INSPIRA TV T2
-http://202.150.172.34:4000/play/inspiratvt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",JAKTV T2
-http://202.150.172.34:4000/play/jaktvt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",JPMTV T2
-http://202.150.172.34:4000/play/jpmtvt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",KOMPAS TV T2
-http://202.150.172.34:4000/play/kompastvt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",KTV T2
-http://202.150.172.34:4000/play/ktvt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",MAGNA CHANNEL T2
-http://202.150.172.34:4000/play/magnachannelt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",MENTARITV HD T2
-http://202.150.172.34:4000/play/mentaritvhdt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",METRO TV T2
-http://202.150.172.34:4000/play/metrotvt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",METROTV HD T2
-http://202.150.172.34:4000/play/metrotvhdt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",MNCTV T2
-http://202.150.172.34:4000/play/mnctvt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",MYTV T2
-http://202.150.172.34:4000/play/mytvt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",NET. T2
-http://202.150.172.34:4000/play/nett2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",NUSANTARATV T2
-http://202.150.172.34:4000/play/nusantaratvt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",OCHANNEL HD T2
-http://202.150.172.34:4000/play/ochannelhdt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",RCTI T2
-http://202.150.172.34:4000/play/rctit2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",RTV 1
-http://202.150.172.34:4000/play/rtv1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",RTV 2
-http://202.150.172.34:4000/play/rtv2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",SCTV HD T2
-http://202.150.172.34:4000/play/sctvhdt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",SPORT ONE T2
-http://202.150.172.34:4000/play/sportonet2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",Smile TV T2
-http://202.150.172.34:4000/play/smiletv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",TEMPO TV T2
-http://202.150.172.34:4000/play/tempotvt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",TRANS 7 HD T2
-http://202.150.172.34:4000/play/trans7hdt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",TRANS TV HD T2
-http://202.150.172.34:4000/play/transtvhdt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",TVMU T2
-http://202.150.172.34:4000/play/tvmut2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",TVONE DIGITAL T2
-http://202.150.172.34:4000/play/tvonedigitalt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",TVRI 3 T2
-http://202.150.172.34:4000/play/tvri3t2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",TVRI DKI T2
-http://202.150.172.34:4000/play/tvridkit2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",TVRI NASIONAL T2
-http://202.150.172.34:4000/play/tvrinasionalt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",TVRI SPORT HD T2
-http://202.150.172.34:4000/play/tvrisporthdt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",UGTV T2
-http://202.150.172.34:4000/play/ugtvt2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="ShareExt@TVdigital_INDONESIA",iNEWS T2
-http://202.150.172.34:4000/play/inewst2
-
-
-
 
 
 
@@ -3535,257 +3146,6 @@ https://cdn.rjdigilink.in/deepamtv/livetv/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",JEYSON TV
 https://cdn.rjdigilink.in/jeysontv/livetv/playlist.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="NetFilx Action UHD" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",NetFilx Action UHD
-http://2022tv.co:80/123456789/12345678/164265
-#EXTINF:-1 tvg-id="" tvg-name="NetFilx Arabic UHD" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",NetFilx Arabic UHD
-http://2022tv.co:80/123456789/12345678/164266
-#EXTINF:-1 tvg-id="" tvg-name="NetFilx Bollywood UHD" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",NetFilx Bollywood UHD
-http://2022tv.co:80/123456789/12345678/164267
-#EXTINF:-1 tvg-id="" tvg-name="NetFilx Box Office UHD" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",NetFilx Box Office UHD
-http://2022tv.co:80/123456789/12345678/164268
-#EXTINF:-1 tvg-id="" tvg-name="NetFilx Classics UHD" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",NetFilx Classics UHD
-http://2022tv.co:80/123456789/12345678/164269
-#EXTINF:-1 tvg-id="" tvg-name="NetFilx Comedy UHD" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",NetFilx Comedy UHD
-http://2022tv.co:80/123456789/12345678/164270
-#EXTINF:-1 tvg-id="" tvg-name="NetFilx Drama UHD" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",NetFilx Drama UHD
-http://2022tv.co:80/123456789/12345678/164271
-#EXTINF:-1 tvg-id="" tvg-name="NetFilx Horror UHD" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",NetFilx Horror UHD
-http://2022tv.co:80/123456789/12345678/164272
-#EXTINF:-1 tvg-id="" tvg-name="NetFilx Kids UHD" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",NetFilx Kids UHD
-http://2022tv.co:80/123456789/12345678/164273
-#EXTINF:-1 tvg-id="" tvg-name="NetFilx Movies UHD" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",NetFilx Movies UHD
-http://2022tv.co:80/123456789/12345678/164274
-#EXTINF:-1 tvg-id="" tvg-name="NetFilx Plays UHD" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",NetFilx Plays UHD
-http://2022tv.co:80/123456789/12345678/164275
-#EXTINF:-1 tvg-id="" tvg-name="NetFilx Thriller UHD" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",NetFilx Thriller UHD
-http://2022tv.co:80/123456789/12345678/164276
-#EXTINF:-1 tvg-id="" tvg-name="NetFlix Series 01 Ar UHD" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",NetFlix Series 01 Ar UHD
-http://2022tv.co:80/123456789/12345678/164277
-#EXTINF:-1 tvg-id="" tvg-name="NetFlix Series 02 Ar UHD" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",NetFlix Series 02 Ar UHD
-http://2022tv.co:80/123456789/12345678/164278
-#EXTINF:-1 tvg-id="" tvg-name="NetFlix Series 03 Ar UHD" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",NetFlix Series 03 Ar UHD
-http://2022tv.co:80/123456789/12345678/164279
-#EXTINF:-1 tvg-id="" tvg-name="NetFlix Series 04 Ar UHD" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",NetFlix Series 04 Ar UHD
-http://2022tv.co:80/123456789/12345678/164280
-#EXTINF:-1 tvg-id="" tvg-name="NetFlix Series 05 Ar UHD" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",NetFlix Series 05 Ar UHD
-http://2022tv.co:80/123456789/12345678/164281
-#EXTINF:-1 tvg-id="" tvg-name="NetFlix Series 06 Ar UHD" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",NetFlix Series 06 Ar UHD
-http://2022tv.co:80/123456789/12345678/164282
-#EXTINF:-1 tvg-id="" tvg-name="NetFilx Series FHD" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",NetFilx Series FHD
-http://2022tv.co:80/123456789/12345678/164283
-#EXTINF:-1 tvg-id="" tvg-name="NetFlix Series 07 Ar UHD" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",NetFlix Series 07 Ar UHD
-http://2022tv.co:80/123456789/12345678/164285
-#EXTINF:-1 tvg-id="" tvg-name="NetFlix Series 08 Ar UHD" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",NetFlix Series 08 Ar UHD
-http://2022tv.co:80/123456789/12345678/164286
-#EXTINF:-1 tvg-id="" tvg-name="NetFlix Series 09 Ar UHD" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",NetFlix Series 09 Ar UHD
-http://2022tv.co:80/123456789/12345678/164287
-#EXTINF:-1 tvg-id="" tvg-name="NetFlix Series 10 Ar UHD" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",NetFlix Series 10 Ar UHD
-http://2022tv.co:80/123456789/12345678/164288
-#EXTINF:-1 tvg-id="" tvg-name="NetFlix Series 11 Ar UHD" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",NetFlix Series 11 Ar UHD
-http://2022tv.co:80/123456789/12345678/164289
-#EXTINF:-1 tvg-id="" tvg-name="NetFlix Series 12 Ar UHD" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",NetFlix Series 12 Ar UHD
-http://2022tv.co:80/123456789/12345678/164290
-#EXTINF:-1 tvg-id="" tvg-name="NetFlix WWE FHD" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",NetFlix WWE FHD
-http://2022tv.co:80/123456789/12345678/164291
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD1 Ar" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",Netflix HD1 Ar
-http://2022tv.co:80/123456789/12345678/117918
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD2 Ar" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",Netflix HD2 Ar
-http://2022tv.co:80/123456789/12345678/117919
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD3 Ar" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",Netflix HD3 Ar
-http://2022tv.co:80/123456789/12345678/117920
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD4 Ar" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",Netflix HD4 Ar
-http://2022tv.co:80/123456789/12345678/117921
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD5 Ar" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",Netflix HD5 Ar
-http://2022tv.co:80/123456789/12345678/117922
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD6 Ar" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",Netflix HD6 Ar
-http://2022tv.co:80/123456789/12345678/117923
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD7 Ar" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",Netflix HD7 Ar
-http://2022tv.co:80/123456789/12345678/117924
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD10 Ar" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",Netflix HD10 Ar
-http://2022tv.co:80/123456789/12345678/117927
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD14 Ar" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",Netflix HD14 Ar
-http://2022tv.co:80/123456789/12345678/117931
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Family HD" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",Netflix Family HD
-http://2022tv.co:80/123456789/12345678/117944
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Fast And Furious HD" tvg-logo="http://176.9.70.149/logo1/Netflix.png" group-title="SHAREEXT@BOX_Netflix",Netflix Fast And Furious HD
-http://2022tv.co:80/123456789/12345678/117945
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="GULLI ARABI" tvg-logo="http://x12tv.co/uploads/channels/gelli.jpg" group-title="SHAREEXT@KIDS_CH",GULLI ARABI
-http://2022tv.co:80/123456789/12345678/10054
-#EXTINF:-1 tvg-id="baraem.qa" tvg-name="BARAEM" tvg-logo="http://176.9.70.149/logo2/Baraem.jpg" group-title="SHAREEXT@KIDS_CH",BARAEM
-http://2022tv.co:80/123456789/12345678/2870
-#EXTINF:-1 tvg-id="jeemtvar.qa" tvg-name="JEEM" tvg-logo="http://176.9.70.149/logo2/Jeem_TV.jpg" group-title="SHAREEXT@KIDS_CH",JEEM
-http://2022tv.co:80/123456789/12345678/1550
-#EXTINF:-1 tvg-id="babytvar.qa" tvg-name="BABY CHANNEL" tvg-logo="http://x12tv.co/uploads/channels/beby.jpg" group-title="SHAREEXT@KIDS_CH",BABY CHANNEL
-http://2022tv.co:80/123456789/12345678/11548
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Kids_Logo.png" group-title="SHAREEXT@KIDS_CH",Rotana Kids
-http://2022tv.co:80/123456789/12345678/54476
-#EXTINF:-1 tvg-id="" tvg-name="Koogi KIDS" tvg-logo="http://176.9.70.149/logo1/mody.jpeg" group-title="SHAREEXT@KIDS_CH",Koogi KIDS
-http://2022tv.co:80/123456789/12345678/54477
-#EXTINF:-1 tvg-id="" tvg-name="CN Arabia" tvg-logo="http://176.9.70.149/logo2/CARTOON_NETWORK_AR.jpg" group-title="SHAREEXT@KIDS_CH",CN Arabia
-http://2022tv.co:80/123456789/12345678/4771
-#EXTINF:-1 tvg-id="" tvg-name="BATTOUT TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcToUjOC6EU1E2LTLN2_eoEKLBQvbUIRR8Tx6wnIPegjajv_K-qx" group-title="SHAREEXT@KIDS_CH",BATTOUT TV
-http://2022tv.co:80/123456789/12345678/5320
-#EXTINF:-1 tvg-id="" tvg-name="Atfal & Mawaheb" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQD1vff8MWK1dirrnyqNh2GlnWJHG49SHNcnwo6iYfT-_grOrm-" group-title="SHAREEXT@KIDS_CH",Atfal & Mawaheb
-http://2022tv.co:80/123456789/12345678/4767
-#EXTINF:-1 tvg-id="" tvg-name="SPACE TOON" tvg-logo="http://x12tv.co/uploads/channels/space.png" group-title="SHAREEXT@KIDS_CH",SPACE TOON
-http://2022tv.co:80/123456789/12345678/1548
-#EXTINF:-1 tvg-id="" tvg-name="TOYOR BABY" tvg-logo="http://x12tv.co/uploads/channels/bebe.jpg" group-title="SHAREEXT@KIDS_CH",TOYOR BABY
-http://2022tv.co:80/123456789/12345678/4955
-#EXTINF:-1 tvg-id="" tvg-name="HODHOD TV" tvg-logo="http://x12tv.co/uploads/channels/sem.jpg" group-title="SHAREEXT@KIDS_CH",HODHOD TV
-http://2022tv.co:80/123456789/12345678/7389
-#EXTINF:-1 tvg-id="" tvg-name="KARAMEESH" tvg-logo="http://x12tv.co/uploads/channels/caram.jpg" group-title="SHAREEXT@KIDS_CH",KARAMEESH
-http://2022tv.co:80/123456789/12345678/11458
-#EXTINF:-1 tvg-id="" tvg-name="Majed" tvg-logo="http://x12tv.co/uploads/channels/majed.png" group-title="SHAREEXT@KIDS_CH",Majed
-http://2022tv.co:80/123456789/12345678/1545
-#EXTINF:-1 tvg-id="" tvg-name="TAHA" tvg-logo="http://x12tv.co/uploads/channels/taha.jpg" group-title="SHAREEXT@KIDS_CH",TAHA
-http://2022tv.co:80/123456789/12345678/4561
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="http://x12tv.co/uploads/channels/disnjnnnn.png" group-title="SHAREEXT@KIDS_CH",DISNEY JUNIOR
-http://2022tv.co:80/123456789/12345678/1191
-#EXTINF:-1 tvg-id="" tvg-name="TELETOON+  HD" tvg-logo="http://x12tv.co/uploads/channels/teleyoon+.jpeg" group-title="SHAREEXT@KIDS_CH",TELETOON+HD
-http://2022tv.co:80/123456789/12345678/2013
-#EXTINF:-1 tvg-id="" tvg-name="PIWI +  HD" tvg-logo="http://x12tv.co/uploads/channels/piwi.jpeg" group-title="SHAREEXT@KIDS_CH",PIWI+HD
-http://2022tv.co:80/123456789/12345678/5056
-#EXTINF:-1 tvg-id="" tvg-name="TiJI" tvg-logo="http://x12tv.co/uploads/channels/tiji.jpeg" group-title="SHAREEXT@KIDS_CH",TiJI
-http://2022tv.co:80/123456789/12345678/2305
-#EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="http://x12tv.co/uploads/channels/gulli.jpeg" group-title="SHAREEXT@KIDS_CH",Gulli
-http://2022tv.co:80/123456789/12345678/1201
-#EXTINF:-1 tvg-id="" tvg-name="Nicklodeon" tvg-logo="http://x12tv.co/uploads/channels/nickollllll.jpeg" group-title="SHAREEXT@KIDS_CH",Nicklodeon
-http://2022tv.co:80/123456789/12345678/1206
-#EXTINF:-1 tvg-id="" tvg-name="Nicklodeon Junior" tvg-logo="http://x12tv.co/uploads/channels/nickejunnnior.png" group-title="SHAREEXT@KIDS_CH",Nicklodeon Junior
-http://2022tv.co:80/123456789/12345678/1207
-#EXTINF:-1 tvg-id="" tvg-name="FIX-FOXI" tvg-logo="http://x12tv.co/uploads/channels/fix-foxi.jpeg" group-title="SHAREEXT@KIDS_CH",FIX-FOXI
-http://2022tv.co:80/123456789/12345678/4721
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON EN" tvg-logo="http://x12tv.co/uploads/channels/Nickelodeon.jpeg" group-title="SHAREEXT@KIDS_CH",NICKELODEON EN
-http://2022tv.co:80/123456789/12345678/31400
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CH-ENG" tvg-logo="http://x12tv.co/uploads/channels/disney.png" group-title="SHAREEXT@KIDS_CH",DISNEY CH-ENG
-http://2022tv.co:80/123456789/12345678/7998
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD-ENG" tvg-logo="http://x12tv.co/uploads/channels/disxs.png" group-title="SHAREEXT@KIDS_CH",DISNEY XD-ENG
-http://2022tv.co:80/123456789/12345678/7996
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR-ENG" tvg-logo="http://x12tv.co/uploads/channels/disnjnnnn.png" group-title="SHAREEXT@KIDS_CH",DISNEY JUNIOR-ENG
-http://2022tv.co:80/123456789/12345678/7999
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel (Pacific) | HD" tvg-logo="http://176.9.70.149/logo2/disneychannel.jpg" group-title="SHAREEXT@KIDS_CH",Disney Channel(Pacific) HD
-http://2022tv.co:80/123456789/12345678/29999
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL WEST | HD" tvg-logo="http://176.9.70.149/logo2/disneychannel.jpg" group-title="SHAREEXT@KIDS_CH",DISNEY CHANNEL WESTHD
-http://2022tv.co:80/123456789/12345678/29998
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NET HD US" tvg-logo="http://176.9.70.149/logo2/CartoonNetworkFR.jpg" group-title="SHAREEXT@KIDS_CH",CARTOON NET HD US
-http://2022tv.co:80/123456789/12345678/30001
-#EXTINF:-1 tvg-id="" tvg-name="BABY HD US" tvg-logo="http://176.9.70.149/logo2/BabyTV.jpg" group-title="SHAREEXT@KIDS_CH",BABY_TVHD US
-http://2022tv.co:80/123456789/12345678/30000
-
-
-
-
-
-#EXTINF:-1 tvg-id="beinmovies1.qa" tvg-name="beIN Movies 1 FHD" tvg-logo="http://176.9.70.149/logo1/BEINMOVIES-1.png" group-title="SHAREEXT@beINEntertainment",beINMovies1 FHD
-http://2022tv.co:80/123456789/12345678/123106
-#EXTINF:-1 tvg-id="beinmovies2ar.qa" tvg-name="beIN Movies 2 FHD" tvg-logo="http://176.9.70.149/logo1/BEINMOVIES-1.png" group-title="SHAREEXT@beINEntertainment",beINMovies2 FHD
-http://2022tv.co:80/123456789/12345678/123107
-#EXTINF:-1 tvg-id="beinmovies3ar.qa" tvg-name="beIN Movies 3 FHD" tvg-logo="http://176.9.70.149/logo1/BEINMOVIES-1.png" group-title="SHAREEXT@beINEntertainment",beINMovies3 FHD
-http://2022tv.co:80/123456789/12345678/123108
-#EXTINF:-1 tvg-id="beinmovies4ar.qa" tvg-name="beIN Movies 4 FHD" tvg-logo="http://176.9.70.149/logo1/BEINMOVIES-1.png" group-title="SHAREEXT@beINEntertainment",beINMovies4 FHD
-http://2022tv.co:80/123456789/12345678/123109
-#EXTINF:-1 tvg-id="beindramaar.qa" tvg-name="beIN Drama 1 FHD" tvg-logo="https://cne-eg.com/uploads/logos/2021123714253.png" group-title="SHAREEXT@beINEntertainment",beINDrama1 FHD
-http://2022tv.co:80/123456789/12345678/123110
-#EXTINF:-1 tvg-id="beinseries1ar.qa" tvg-name="beIN Series 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Bein-series.png" group-title="SHAREEXT@beINEntertainment",beINSeries1 FHD
-http://2022tv.co:80/123456789/12345678/123111
-#EXTINF:-1 tvg-id="beinseries2ar.qa" tvg-name="beIN Series 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Bein-series.png" group-title="SHAREEXT@beINEntertainment",beINSeries2 FHD
-http://2022tv.co:80/123456789/12345678/123112
-#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Life FHD" tvg-logo="https://static.epg.best/us/FOXLife.us.png" group-title="SHAREEXT@beINEntertainment",FoxLife FHD
-http://2022tv.co:80/123456789/12345678/123113
-#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Crime FHD" tvg-logo="https://static.epg.best/pt/FoxCrime.pt.png" group-title="SHAREEXT@beINEntertainment",FoxCrime FHD
-http://2022tv.co:80/123456789/12345678/123114
-#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Rewayat FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/FOX_REWAYAT.svg/1200px-FOX_REWAYAT.svg.png" group-title="SHAREEXT@beINEntertainment",FoxRewayat FHD
-http://2022tv.co:80/123456789/12345678/123115
-#EXTINF:-1 tvg-id="foxar.qa" tvg-name="beIN Fox Movies FHD" tvg-logo="http://logo.smart-iptvpro.info/139.hr.png" group-title="SHAREEXT@beINEntertainment",FoxMovies FHD
-http://2022tv.co:80/123456789/12345678/123116
-#EXTINF:-1 tvg-id="foxmoviesactionar.qa" tvg-name="beIN Fox Action Movies FHD" tvg-logo="https://iconape.com/wp-content/png_logo_vector/fox-action-movies-logo.png" group-title="SHAREEXT@beINEntertainment",FoxAction Movies FHD
-http://2022tv.co:80/123456789/12345678/123117
-#EXTINF:-1 tvg-id="" tvg-name="beIN Star World FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Star_World_2016_logo.png/200px-Star_World_2016_logo.png" group-title="SHAREEXT@beINEntertainment",StarWorld FHD
-http://2022tv.co:80/123456789/12345678/123118
-#EXTINF:-1 tvg-id="" tvg-name="beIN Star Movies FHD" tvg-logo="https://www.vhv.rs/dpng/d/435-4354313_star-movies-logo-star-movies-logo-png-transparent.png" group-title="SHAREEXT@beINEntertainment",StarMovies FHD
-http://2022tv.co:80/123456789/12345678/123119
-#EXTINF:-1 tvg-id="gourmetar.qa" tvg-name="beIN Gourmet FHD" tvg-logo="https://cne-eg.com/uploads/logos/2021123736269.png" group-title="SHAREEXT@beINEntertainment",Gourmet FHD
-http://2022tv.co:80/123456789/12345678/123122
-#EXTINF:-1 tvg-id="fatafeatar.qa" tvg-name="beIN Fatafeat FHD" tvg-logo="https://i.pinimg.com/originals/61/64/78/616478fa02e8e023221d6e9269b4e99c.png" group-title="SHAREEXT@beINEntertainment",Fatafeat FHD
-http://2022tv.co:80/123456789/12345678/123123
-#EXTINF:-1 tvg-id="bbcearthenglishar.qa" tvg-name="beIN BBC Earth HD" tvg-logo="https://dsmart-internet.com/i/dsmart/75/0x0/58ff2baa8f17ed321c1704b5.png" group-title="SHAREEXT@beINEntertainment",BBC Earth HD
-http://2022tv.co:80/123456789/12345678/123127
-#EXTINF:-1 tvg-id="jeemtvar.qa" tvg-name="beIN Jeem" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/The_logo_of_be_junior_TV_Channel.png" group-title="SHAREEXT@beINEntertainment",Jeem
-http://2022tv.co:80/123456789/12345678/123128
-#EXTINF:-1 tvg-id="" tvg-name="beIN  FILM BOX" tvg-logo="https://e7.pngegg.com/pngimages/576/977/png-clipart-filmbox-family-filmbox-live-actor-ginie-television-burning-thumbnail.png" group-title="SHAREEXT@beINEntertainment",FILM BOX
-http://2022tv.co:80/123456789/12345678/123129
-
-
-
-
-
-#EXTINF:-1 tvg-id="mbc1en.ae" tvg-name="MBC 1 HD" tvg-logo="http://x12tv.co/mbc/ MY MBC1.png" group-title="SHAREEXT@MBC_OSN",MBC1 HD
-http://2022tv.co:80/123456789/12345678/1287
-#EXTINF:-1 tvg-id="mbc2en.ae" tvg-name="MBC 2 HD" tvg-logo="http://x12tv.co/mbc/ MY MBC2 .png" group-title="SHAREEXT@MBC_OSN",MBC2 HD
-http://2022tv.co:80/123456789/12345678/1286
-#EXTINF:-1 tvg-id="mbc4en.ae" tvg-name="MBC 4 HD" tvg-logo="http://x12tv.co/mbc/ MY MBC4 .png" group-title="SHAREEXT@MBC_OSN",MBC4 HD
-http://2022tv.co:80/123456789/12345678/1284
-#EXTINF:-1 tvg-id="mbc5en.ae" tvg-name="MBC 5" tvg-logo="http://x12tv.co/mbc/mbc5.png" group-title="SHAREEXT@MBC_OSN",MBC5
-http://2022tv.co:80/123456789/12345678/43661
-#EXTINF:-1 tvg-id="mbcactionen.ae" tvg-name="MBC ACTION HD" tvg-logo="http://x12tv.co/mbc/MY MBC ACTION .png" group-title="SHAREEXT@MBC_OSN",MBC ACTION HD
-http://2022tv.co:80/123456789/12345678/1283
-#EXTINF:-1 tvg-id="mbcmaxen.ae" tvg-name="MBC MAX HD" tvg-logo="http://x12tv.co/mbc/ MY MBC MAX .png" group-title="SHAREEXT@MBC_OSN",MBC MAX HD
-http://2022tv.co:80/123456789/12345678/1280
-#EXTINF:-1 tvg-id="mbcdramaen.ae" tvg-name="MBC DRAMA HD" tvg-logo="http://x12tv.co/mbc/ MY MBC DRAMA .png" group-title="SHAREEXT@MBC_OSN",MBC DRAMA HD
-http://2022tv.co:80/123456789/12345678/1282
-#EXTINF:-1 tvg-id="osncinema.ae" tvg-name="CINEMA 1 HD" tvg-logo="http://176.9.70.149/logo1/CM1.png" group-title="SHAREEXT@MBC_OSN",CINEMA1 HD
-http://2022tv.co:80/123456789/12345678/4471
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA 2 HD" tvg-logo="http://176.9.70.149/logo1/CM2.png" group-title="SHAREEXT@MBC_OSN",CINEMA2 HD
-http://2022tv.co:80/123456789/12345678/6964
-#EXTINF:-1 tvg-id="OSNSeries.ae" tvg-name="Osn Series 1" tvg-logo="http://176.9.70.149/logo1/SER.png" group-title="SHAREEXT@MBC_OSN",Osn Series 1
-http://2022tv.co:80/123456789/12345678/60681
-#EXTINF:-1 tvg-id="mbcplusdramaen.ae" tvg-name="MBC DRAMA PLUS HD" tvg-logo="http://x12tv.co/mbc/MBCDRAMAPLUSHD.png" group-title="SHAREEXT@MBC_OSN",MBC DRAMA PLUS HD
-http://2022tv.co:80/123456789/12345678/1281
-#EXTINF:-1 tvg-id="" tvg-name="Osn TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="SHAREEXT@MBC_OSN",TLC
-http://2022tv.co:80/123456789/12345678/60680
-#EXTINF:-1 tvg-id="osncomedy.ae" tvg-name="Osn MOVIES COMEDY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="SHAREEXT@MBC_OSN",MOVIES COMEDY
-http://2022tv.co:80/123456789/12345678/4162
-#EXTINF:-1 tvg-id="" tvg-name="Osn Discovery Sc hd" tvg-logo="http://176.9.70.149/logo1/S333CI.png" group-title="SHAREEXT@MBC_OSN",Discovery Sc hd
-http://2022tv.co:80/123456789/12345678/23721
-#EXTINF:-1 tvg-id="osnmoviesdisney.ae" tvg-name="Osn MOVIES DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="SHAREEXT@MBC_OSN",MOVIES DISNEY HD
-http://2022tv.co:80/123456789/12345678/4171
-#EXTINF:-1 tvg-id="" tvg-name="Osn E! HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="SHAREEXT@MBC_OSN",E! HD
-http://2022tv.co:80/123456789/12345678/23722
-#EXTINF:-1 tvg-id="discovery.ae" tvg-name="Osn DISCOVERY" tvg-logo="http://176.9.70.149/logo1/DSC.png" group-title="SHAREEXT@MBC_OSN",DISCOVERY
-http://2022tv.co:80/123456789/12345678/4167
-#EXTINF:-1 tvg-id="StarMoviesMiddleEast.hk" tvg-name="STAR MOVIES.HD" tvg-logo="http://176.9.70.149/logo1/STM.png" group-title="SHAREEXT@MBC_OSN",STAR MOVIES.HD
-http://2022tv.co:80/123456789/12345678/20882
-#EXTINF:-1 tvg-id="osnnews.ae" tvg-name="Osn NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="SHAREEXT@MBC_OSN",NEWS
-http://2022tv.co:80/123456789/12345678/12824
-#EXTINF:-1 tvg-id="" tvg-name="FOX ACTION MOVIES" tvg-logo="http://176.9.70.149/logo1/445566.png" group-title="SHAREEXT@MBC_OSN",FOXACTION MOVIES
-http://2022tv.co:80/123456789/12345678/7399
-#EXTINF:-1 tvg-id="" tvg-name="Osn FOX CRIME" tvg-logo="https://www.pikpng.com/pngl/b/342-3425115_ffm-livetv-fox-family-movies-logo-white-clipart.png" group-title="SHAREEXT@MBC_OSN",FOX CRIME
-http://2022tv.co:80/123456789/12345678/7400
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="http://176.9.70.149/logo1/FOXLIFE.png" group-title="SHAREEXT@MBC_OSN",FOX LIFE HD
-http://2022tv.co:80/123456789/12345678/10050
-#EXTINF:-1 tvg-id="osnmezze.ae" tvg-name="Osn MEZZE HD" tvg-logo="http://176.9.70.149/logo1/WEWEWE.png" group-title="SHAREEXT@MBC_OSN",MEZZE HD
-http://2022tv.co:80/123456789/12345678/12825
-#EXTINF:-1 tvg-id="" tvg-name="FOX REWAYAT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/FOX_REWAYAT.svg/1200px-FOX_REWAYAT.svg.png" group-title="SHAREEXT@MBC_OSN",FOX REWAYAT HD
-http://2022tv.co:80/123456789/12345678/12823
-#EXTINF:-1 tvg-id="StarWorldMiddleEast.hk" tvg-name="STAR. WORLD HD" tvg-logo="http://176.9.70.149/logo2/Star_World.jpg" group-title="SHAREEXT@MBC_OSN",STAR.WORLD HD
-http://2022tv.co:80/123456789/12345678/10048
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="http://176.9.70.149/logo1/NGO.png" group-title="SHAREEXT@MBC_OSN",NATGEO HD
-http://2022tv.co:80/123456789/12345678/4177
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="http://176.9.70.149/logo1/NHD.png" group-title="SHAREEXT@MBC_OSN",NATGEOWILD
-http://2022tv.co:80/123456789/12345678/12234
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET -HD" tvg-logo="http://x12tv.co/uploads/channels/anumal.png" group-title="SHAREEXT@MBC_OSN",ANIMALPLANET-HD
-http://2022tv.co:80/123456789/12345678/4405
-#EXTINF:-1 tvg-id="discoveryid.ae" tvg-name="OSN Discovry ID" tvg-logo="https://e7.pngegg.com/pngimages/754/466/png-clipart-investigation-discovery-television-channel-id-xtra-discovery-channel-others-miscellaneous-television.png" group-title="SHAREEXT@MBC_OSN",Discovry ID
-http://2022tv.co:80/123456789/12345678/25900
 
 
 
