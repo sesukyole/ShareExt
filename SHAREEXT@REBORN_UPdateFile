@@ -1160,6 +1160,10 @@ https://lnk.ec/hboHitsID?shareext.ts
 https://lnk.ec/hboSigID?shareext.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CINEMAX
 https://lnk.ec/cinemaxID?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",USPORT(dec=native)
+https://dik.si/Useesports?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",USPORT2(dec=native)
+https://dik.si/Useesports2?shareext.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",Champ1(shareext)
 https://m3u-editor.com/live/serve/fhjhddfnmh/409160916.m3u8
