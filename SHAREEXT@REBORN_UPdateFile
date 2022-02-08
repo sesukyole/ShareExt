@@ -72,14 +72,6 @@ https://dik.si/SEuseeSport1?shareext.m3u8
 https://dik.si/SEuseeSPorts_2?shareext.m3u8
 
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@LIVE|SPORTS",SONY_TEN1
-http://live.flixhub.net/hls/sonyten1.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@LIVE|SPORTS",SONY_TEN2
-http://live.flixhub.net/hls/sonyten2.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@LIVE|SPORTS",SONY_TEN3
-http://live.flixhub.net/hls/sonyten3.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@LIVE|SPORTS",SONY_SIX
-http://live.flixhub.net/hls/sonysix.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",beINSportPremium01(480P)
