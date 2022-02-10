@@ -311,6 +311,162 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 
 
 
+#EXTINF:-1 tvg-id="galaxypremium.id" tvg-name="Galaxy Premium" tvg-logo="http://tvmalaysia.cc:80/images/bc5b56c663e4476badfe70faae1ee75f.png" group-title="SHAREEXT@LIVE|MOVIE",Galaxy Premium
+http://shareext@urtv.cc:80/live/186867/186867/8838.ts?shareext.ts
+#EXTINF:-1 tvg-id="galaxy.id" tvg-name="Galaxy" tvg-logo="http://tvmalaysia.cc:80/images/342a0f0cacfbb2cdb3a0aa994784d887.png" group-title="SHAREEXT@LIVE|MOVIE",Galaxy
+http://shareext@urtv.cc:80/live/186867/186867/8839.ts?shareext.ts
+#EXTINF:-1 tvg-id="hbohd.id" tvg-name="HBO FHD" tvg-logo="http://tvmalaysia.cc:80/images/597d58c4634acfa46ffd7ec56cebc923.png" group-title="SHAREEXT@LIVE|MOVIE",HBO FHD
+http://shareext@urtv.cc:80/live/186867/186867/7067.ts?shareext.ts
+#EXTINF:-1 tvg-id="hbohitshd.id" tvg-name="HBO Hits FHD" tvg-logo="http://tvmalaysia.cc:80/images/f5a402f969d6cbf259b9523e35427024.png" group-title="SHAREEXT@LIVE|MOVIE",HBO Hits FHD
+http://shareext@urtv.cc:80/live/186867/186867/7068.ts?shareext.ts
+#EXTINF:-1 tvg-id="hbosignaturehd.id" tvg-name="HBO Signature FHD" tvg-logo="http://tvmalaysia.cc:80/images/8877fb6ba2801969210b41d20f8439ef.png" group-title="SHAREEXT@LIVE|MOVIE",HBO Signature FHD
+http://shareext@urtv.cc:80/live/186867/186867/7069.ts?shareext.ts
+#EXTINF:-1 tvg-id="hbofamilyhd.id" tvg-name="HBO Family FHD" tvg-logo="http://tvmalaysia.cc:80/images/36e39cc071447ddbf7abf40add2dd3b8.png" group-title="SHAREEXT@LIVE|MOVIE",HBO Family FHD
+http://shareext@urtv.cc:80/live/186867/186867/7070.ts?shareext.ts
+#EXTINF:-1 tvg-id="hitsmovies.id" tvg-name="Hits Movies" tvg-logo="http://tvmalaysia.cc:80/images/c55c0ef62eadb4283880cb9b90eb16e0.png" group-title="SHAREEXT@LIVE|MOVIE",Hits Movies
+http://shareext@urtv.cc:80/live/186867/186867/7066.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="Red By HBO HD" tvg-logo="http://tvmalaysia.cc:80/images/30b3db0865e095679afe6d133e395059.jpg" group-title="SHAREEXT@LIVE|MOVIE",Red By HBO HD
+http://shareext@urtv.cc:80/live/186867/186867/7071.ts?shareext.ts
+#EXTINF:-1 tvg-id="warnertv.id" tvg-name="Warner TV HD" tvg-logo="http://tvmalaysia.cc:80/images/8195cade8b105a8fd74f7dd2821d749b.png" group-title="SHAREEXT@LIVE|MOVIE",Warner TV HD
+http://shareext@urtv.cc:80/live/186867/186867/7072.ts?shareext.ts
+#EXTINF:-1 tvg-id="tvnmovies.id" tvg-name="tVN movies HD" tvg-logo="http://tvmalaysia.cc:80/images/9c1fc3e276c62f1d6a63d517f91316aa.png" group-title="SHAREEXT@LIVE|MOVIE",tVN movies HD
+http://shareext@urtv.cc:80/live/186867/186867/7074.ts?shareext.ts
+#EXTINF:-1 tvg-id="ID: CINEMA WORLD HD" tvg-name="Cinema World" tvg-logo="http://tvmalaysia.cc:80/images/3334f26adcff7a4fa6270dad0e092123.png" group-title="SHAREEXT@LIVE|MOVIE",Cinema World
+http://shareext@urtv.cc:80/live/186867/186867/7219.ts?shareext.ts
+#EXTINF:-1 tvg-id="thrill.id" tvg-name="Thrill" tvg-logo="http://tvmalaysia.cc:80/images/45668db83a545b41934b1bebc992f56b.png" group-title="SHAREEXT@LIVE|MOVIE",Thrill
+http://shareext@urtv.cc:80/live/186867/186867/7220.ts?shareext.ts
+#EXTINF:-1 tvg-id="axnhd.id" tvg-name="AXN" tvg-logo="http://tvmalaysia.cc:80/images/64c7ada3247a508ceff64537eb31a5c4.png" group-title="SHAREEXT@LIVE|MOVIE",AXN
+http://shareext@urtv.cc:80/live/186867/186867/7223.ts?shareext.ts
+#EXTINF:-1 tvg-id="foxcrime.id" tvg-name="Fox Crime" tvg-logo="http://tvmalaysia.cc:80/images/b735a95be9e3259a1af53ebae3a3b7a9.png" group-title="SHAREEXT@LIVE|MOVIE",Fox Crime
+http://shareext@urtv.cc:80/live/186867/186867/7225.ts?shareext.ts
+#EXTINF:-1 tvg-id="foxhd.id" tvg-name="FOX" tvg-logo="http://tvmalaysia.cc:80/images/22f6bf7562a214da6986407de0aa7bf2.jpeg" group-title="SHAREEXT@LIVE|MOVIE",FOX
+http://shareext@urtv.cc:80/live/186867/186867/7227.ts?shareext.ts
+#EXTINF:-1 tvg-id="foxlife.id" tvg-name="Fox Life" tvg-logo="http://tvmalaysia.cc:80/images/77610f7ce4c929dc8b97da8cd60bb617.png" group-title="SHAREEXT@LIVE|MOVIE",Fox Life
+http://shareext@urtv.cc:80/live/186867/186867/7228.ts?shareext.ts
+#EXTINF:-1 tvg-id="kix.id" tvg-name="KiX" tvg-logo="http://tvmalaysia.cc:80/images/2137a2ac79600bd512bbe7f6c9010dd4.png" group-title="SHAREEXT@LIVE|MOVIE",KiX
+http://shareext@urtv.cc:80/live/186867/186867/7229.ts?shareext.ts
+#EXTINF:-1 tvg-id="ccm.id" tvg-name="Celestial Classic Movies." tvg-logo="http://tvmalaysia.cc:80/images/6ed0057ffb7e6ee1f54c71b54a3fc8d1.png" group-title="SHAREEXT@LIVE|MOVIE",Celestial Classic Movies.
+http://shareext@urtv.cc:80/live/186867/186867/7222.ts?shareext.ts
+#EXTINF:-1 tvg-id="celestialmovies.id" tvg-name="Celestial Movies" tvg-logo="http://tvmalaysia.cc:80/images/6c3c862edbc0724bcd330e81fdb92237.png" group-title="SHAREEXT@LIVE|MOVIE",Celestial Movies
+http://live/shareext@urtv.cc:80/186867/186867/7235.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies HD" tvg-logo="http://tvmalaysia.cc:80/images/ea6cd61a60135de63c734fd6803db813.jpg" group-title="SHAREEXT@LIVE|MOVIE",StarMovies HD
+http://shareext@urtv.cc:80/live/186867/186867/8997.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="MNX" tvg-logo="http://tvmalaysia.cc:80/images/5487315b1286f907165907aa8fc96619.png" group-title="SHAREEXT@LIVE|MOVIE",MNX
+http://shareext@urtv.cc:80/live/186867/186867/8998.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movies Now" tvg-logo="http://tvmalaysia.cc:80/images/2ff46df0979b4464c685782588b1d986.jpg" group-title="SHAREEXT@LIVE|MOVIE",Movies Now
+http://shareext@urtv.cc:80/live/186867/186867/8999.ts?shareext.ts
+#EXTINF:-1 tvg-id="foxfamilymovies.id" tvg-name="Fox Family Movie" tvg-logo="http://tvmalaysia.cc:80/images/cbf50fdf2186c7a0a8cef8fd2ae9f2d3.png" group-title="SHAREEXT@LIVE|MOVIE",Fox Family Movie
+http://shareext@urtv.cc:80/live/186867/186867/9027.ts?shareext.ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="astroria.my" tvg-name="RIA BACKUP" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="SHAREEXT@LIVE|ASTRO",RIA BACKUP
+http://shareext@urtv.cc:80/live/186867/186867/9031.ts?shareext.ts
+#EXTINF:-1 tvg-id="astroria.my" tvg-name="ASTRO Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="SHAREEXT@LIVE|ASTRO",ASTRO Ria HD
+http://shareext@urtv.cc:80/live/186867/186867/6730.ts?shareext.ts
+#EXTINF:-1 tvg-id="astroprima.my" tvg-name="ASTRO Prima HD" tvg-logo="http://tvmalaysia.cc:80/images/6d5b399b8fa106f2d771eb1701e4c9cb.png" group-title="SHAREEXT@LIVE|ASTRO",ASTRO Prima HD
+http://shareext@urtv.cc:80/live/186867/186867/6727.ts?shareext.ts
+#EXTINF:-1 tvg-id="astrowarna.my" tvg-name="ASTRO Warna HD" tvg-logo="http://tvmalaysia.cc:80/images/5a747afe7e6d8f0963590d0c63ae9a5c.png" group-title="SHAREEXT@LIVE|ASTRO",ASTRO Warna HD
+http://shareext@urtv.cc:80/live/186867/186867/6740.ts?shareext.ts
+#EXTINF:-1 tvg-id="astrocitra.my" tvg-name="Astro Citra HD (subtitle)" tvg-logo="http://tvmalaysia.cc:80/images/44f283fece8e89c263b9d1aba29f3d8c.png" group-title="SHAREEXT@LIVE|ASTRO",Astro Citra HD 
+http://shareext@urtv.cc:80/live/186867/186867/7267.ts?shareext.ts
+#EXTINF:-1 tvg-id="boo.my" tvg-name="Astro Boo" tvg-logo="http://tvmalaysia.cc:80/images/7b9fdf9cec940d2163e49a0773bf32dc.png" group-title="SHAREEXT@LIVE|ASTRO",Astro Boo
+http://shareext@urtv.cc:80/live/186867/186867/8872.ts?shareext.ts
+#EXTINF:-1 tvg-id="awesometv.my" tvg-name="Awesome TV" tvg-logo="http://tvmalaysia.cc:80/images/26eb97872079a0801307bed836a5aeea.png" group-title="SHAREEXT@LIVE|ASTRO",Awesome TV
+http://shareext@urtv.cc:80/live/186867/186867/9016.ts?shareext.ts
+#EXTINF:-1 tvg-id="astrooasis.my" tvg-name="ASTRO Oasis HD" tvg-logo="http://tvmalaysia.cc:80/images/1025207519df6b585f285d5324f5e5c1.png" group-title="SHAREEXT@LIVE|ASTRO",ASTRO Oasis HD
+http://shareext@urtv.cc:80/live/186867/186867/6725.ts?shareext.ts
+#EXTINF:-1 tvg-id="astroaura.my" tvg-name="ASTRO Aura HD" tvg-logo="http://tvmalaysia.cc:80/images/0b67d68665c92067221b479621db7952.png" group-title="SHAREEXT@LIVE|ASTRO",ASTRO Aura HD
+http://shareext@urtv.cc:80/live/186867/186867/6713.ts?shareext.ts
+#EXTINF:-1 tvg-id="astrorania.my" tvg-name="ASTRO Rania HD" tvg-logo="http://tvmalaysia.cc:80/images/4408bc4a7b2f8ad6317ce413de65d2c8.png" group-title="SHAREEXT@LIVE|ASTRO",ASTRO Rania HD
+http://shareext@urtv.cc:80/live/186867/186867/6729.ts?shareext.ts
+#EXTINF:-1 tvg-id="astroawani.my" tvg-name="ASTRO Awani HD" tvg-logo="http://tvmalaysia.cc:80/images/4bfd1cf8ffae3783bc756c9aca65d192.png" group-title="SHAREEXT@LIVE|ASTRO",ASTRO Awani HD
+http://shareext@urtv.cc:80/live/186867/186867/6714.ts?shareext.ts
+#EXTINF:-1 tvg-id="astroceria.my" tvg-name="ASTRO Ceria HD" tvg-logo="http://tvmalaysia.cc:80/images/49204e1ccb905c3231dac0998b55b704.png" group-title="SHAREEXT@LIVE|ASTRO",ASTRO Ceria HD
+http://shareext@urtv.cc:80/live/186867/186867/6715.ts?shareext.ts
+#EXTINF:-1 tvg-id="asianfoodchannel.id" tvg-name="Asian Food Network HD" tvg-logo="http://tvmalaysia.cc:80/images/ae54174abe4eff7596f622fd752bc10d.png" group-title="SHAREEXT@LIVE|ASTRO",Asian Food Network HD
+http://shareext@urtv.cc:80/live/186867/186867/6693.ts?shareext.ts
+#EXTINF:-1 tvg-id="MY: AL JAZEERA ENGLISH HD" tvg-name="Al-Jazzera HD" tvg-logo="http://tvmalaysia.cc:80/images/6b5c24b51f9610a805f03c93ecff9d5b.jpg" group-title="SHAREEXT@LIVE|ASTRO",Al-Jazzera HD
+http://shareext@urtv.cc:80/live/186867/186867/6694.ts?shareext.ts
+#EXTINF:-1 tvg-id="animax.my" tvg-name="Animax" tvg-logo="http://tvmalaysia.cc:80/images/3177be485607747ef576c771c168fefe.png" group-title="SHAREEXT@LIVE|ASTRO",Animax
+http://shareext@urtv.cc:80/live/186867/186867/6696.ts?shareext.ts
+#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND HD 311" tvg-name="ASTRO AOD 351 HD" tvg-logo="http://tvmalaysia.cc:80/images/266ce75d12de3edfb41bf0fb38d44e61.png" group-title="SHAREEXT@LIVE|ASTRO",ASTRO AOD 351 HD
+http://shareext@urtv.cc:80/live/186867/186867/6702.ts?shareext.ts
+#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 353" tvg-name="ASTRO AOD 353 HD" tvg-logo="http://tvmalaysia.cc:80/images/fec06cc8554e1b382eb9592918638974.png" group-title="SHAREEXT@LIVE|ASTRO",ASTRO AOD 353 HD
+http://shareext@urtv.cc:80/live/186867/186867/6704.ts?shareext.ts
+#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 354" tvg-name="ASTRO AOD 354 HD" tvg-logo="http://tvmalaysia.cc:80/images/2bc91972c202879d05a1d98c8131de12.png" group-title="SHAREEXT@LIVE|ASTRO",ASTRO AOD 354 HD
+http://shareext@urtv.cc:80/live/186867/186867/6705.ts?shareext.ts
+#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 355" tvg-name="ASTRO AOD 355 HD" tvg-logo="http://tvmalaysia.cc:80/images/4ecbf4199ba725a25362149501b9ae90.png" group-title="SHAREEXT@LIVE|ASTRO",ASTRO AOD 355 HD
+http://shareext@urtv.cc:80/live/186867/186867/6706.ts?shareext.ts
+#EXTINF:-1 tvg-id="MY: ZEE TAMIL HD" tvg-name="ASTRO Zee Tamil HD" tvg-logo="http://tvmalaysia.cc:80/images/7d4a1548640e0c2427eb4b2f73937413.png" group-title="SHAREEXT@LIVE|ASTRO",ASTRO Zee Tamil HD
+http://shareext@urtv.cc:80/live/186867/186867/6742.ts?shareext.ts
+#EXTINF:-1 tvg-id="astrovaanavil.my" tvg-name="ASTRO Vaanavil HD" tvg-logo="http://tvmalaysia.cc:80/images/3371d6366762ed4a5dcaa5209518299d.png" group-title="SHAREEXT@LIVE|ASTRO",ASTRO Vaanavil HD
+http://shareext@urtv.cc:80/live/186867/186867/6738.ts?shareext.ts
+#EXTINF:-1 tvg-id="MY: MAKKAL TV" tvg-name="Makkal TV" tvg-logo="http://tvmalaysia.cc:80/images/6f0d388c915491e2d09321f690b75420.png" group-title="SHAREEXT@LIVE|ASTRO",Makkal TV
+http://shareext@urtv.cc:80/live/186867/186867/6806.ts?shareext.ts
+#EXTINF:-1 tvg-id="MY: SUN TV HD" tvg-name="ASTRO Sun TV HD" tvg-logo="http://tvmalaysia.cc:80/images/63534c20a27bcfb99af554687f874173.png" group-title="SHAREEXT@LIVE|ASTRO",ASTRO SunTV HD
+http://shareext@urtv.cc:80/live/186867/186867/6733.ts?shareext.ts
+#EXTINF:-1 tvg-id="MY: STAR VIJAY HD" tvg-name="ASTRO Star Vijay HD" tvg-logo="http://tvmalaysia.cc:80/images/f6e171f4548ce0a27dddd272ca3a2fd1.png" group-title="SHAREEXT@LIVE|ASTRO",ASTRO Star Vijay HD
+http://shareext@urtv.cc:80/live/186867/186867/6732.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jaya Max" tvg-logo="http://tvmalaysia.cc:80/images/c63c1f0b2626a7477939f687005ecd38.jpg" group-title="SHAREEXT@LIVE|ASTRO",Jaya Max
+http://shareext@urtv.cc:80/live/186867/186867/6802.ts?shareext.ts
+#EXTINF:-1 tvg-id="MY: CHUTTI TV" tvg-name="Chutti TV" tvg-logo="http://tvmalaysia.cc:80/images/bace6bf715aa77f6318de18eb127aa11.png" group-title="SHAREEXT@LIVE|ASTRO",Chutti TV
+http://shareext@urtv.cc:80/live/186867/186867/6762.ts?shareext.ts
+#EXTINF:-1 tvg-id="ohk.my" tvg-name="ASTRO Oh!K HD" tvg-logo="http://tvmalaysia.cc:80/images/3452a54809e37547767708f28b323a47.png" group-title="SHAREEXT@LIVE|ASTRO",ASTRO Oh!K HD
+http://shareext@urtv.cc:80/live/186867/186867/6726.ts?shareext.ts
+#EXTINF:-1 tvg-id="bernamatv.my" tvg-name="Bernama News" tvg-logo="http://tvmalaysia.cc:80/images/5d5d2a030b4861b803f596b788efadfd.png" group-title="SHAREEXT@LIVE|ASTRO",Bernama News
+http://shareext@urtv.cc:80/live/186867/186867/6750.ts?shareext.ts
+#EXTINF:-1 tvg-id="MY: BLOOMBERG TELEVISION" tvg-name="Bloomberg TV" tvg-logo="http://tvmalaysia.cc:80/images/0ab09328629806a9081cd6ecd6cc2fec.png" group-title="SHAREEXT@LIVE|ASTRO",Bloomberg TV
+http://shareext@urtv.cc:80/live/186867/186867/6751.ts?shareext.ts
+#EXTINF:-1 tvg-id="astrobollyone.my" tvg-name="BollyOne HD" tvg-logo="http://tvmalaysia.cc:80/images/a718e42e69b83dc475c36d50a85c5642.png" group-title="SHAREEXT@LIVE|ASTRO",BollyOne HD
+http://shareext@urtv.cc:80/live/186867/186867/6754.ts?shareext.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.my" tvg-name="Cartoon Network HD" tvg-logo="http://tvmalaysia.cc:80/images/a4cbae9d01fdd8ecb52a9392e9779500.png" group-title="SHAREEXT@LIVE|ASTRO",Cartoon Network HD
+http://shareext@urtv.cc:80/live/186867/186867/6757.ts?shareext.ts
+#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="DMAX HD" tvg-logo="http://tvmalaysia.cc:80/images/433e2f828d5c3bc6eafe1a1c5caa1d84.jpg" group-title="SHAREEXT@LIVE|ASTRO",DMAX HD
+http://shareext@urtv.cc:80/live/186867/186867/6778.ts?shareext.ts
+#EXTINF:-1 tvg-id="colorshd.uk" tvg-name="Colors HD" tvg-logo="http://tvmalaysia.cc:80/images/7202a9beacf59c20fd03f504686e0627.png" group-title="SHAREEXT@LIVE|ASTRO",Colors HD
+http://shareext@urtv.cc:80/live/186867/186867/6769.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="Colors Cineplex" tvg-logo="http://tvmalaysia.cc:80/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="SHAREEXT@LIVE|ASTRO",Colors Cineplex
+http://shareext@urtv.cc:80/live/186867/186867/6768.ts?shareext.ts
+#EXTINF:-1 tvg-id="tvnmovies.my" tvg-name="tvN Movies" tvg-logo="http://tvmalaysia.cc:80/images/9d84ccde47792f4eae3504e6a68877c7.png" group-title="SHAREEXT@LIVE|ASTRO",tvN Movies
+http://shareext@urtv.cc:80/live/186867/186867/6845.ts?shareext.ts
+#EXTINF:-1 tvg-id="tvn.my" tvg-name="tvN HD" tvg-logo="http://tvmalaysia.cc:80/images/7f1eaa630170244ea3da72e50b0251a6.png" group-title="SHAREEXT@LIVE|ASTRO",tvN HD
+http://shareext@urtv.cc:80/live/186867/186867/6844.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVB Classic" tvg-logo="http://tvmalaysia.cc:80/images/a48593093ac07738fca24f0bee6c7ae2.jpg" group-title="SHAREEXT@LIVE|ASTRO",TVB Classic
+http://shareext@urtv.cc:80/live/186867/186867/6839.ts?shareext.ts
+#EXTINF:-1 tvg-id="MY: SUN MUSIC HD" tvg-name="Sun Music" tvg-logo="http://tvmalaysia.cc:80/images/83c076b3895f5fb89c1d11229f0612f5.png" group-title="SHAREEXT@LIVE|ASTRO",Sun Music
+http://shareext@urtv.cc:80/live/186867/186867/6831.ts?shareext.ts
+#EXTINF:-1 tvg-id="nickelodeon.my" tvg-name="Nickelodeon HD" tvg-logo="http://tvmalaysia.cc:80/images/bab494e5d5780225b27ce7359f94af6d.png" group-title="SHAREEXT@LIVE|ASTRO",Nickelodeon HD
+http://shareext@urtv.cc:80/live/186867/186867/6814.ts?shareext.ts
+#EXTINF:-1 tvg-id="nickelodeonjunior.my" tvg-name="Nick Jr" tvg-logo="http://tvmalaysia.cc:80/images/80eba87008619a2539d0fbf7c162db64.png" group-title="SHAREEXT@LIVE|ASTRO",Nick Jr
+http://shareext@urtv.cc:80/live/186867/186867/6813.ts?shareext.ts
+#EXTINF:-1 tvg-id="MY: KBS WORLD HD" tvg-name="KBS World HD" tvg-logo="http://tvmalaysia.cc:80/images/5ae0c1c8a5260bc7b6648f6fbd115c35.png" group-title="SHAREEXT@LIVE|ASTRO",KBS World HD
+http://shareext@urtv.cc:80/live/186867/186867/6803.ts?shareext.ts
+#EXTINF:-1 tvg-id="MY: HITS HD" tvg-name="Hits HD" tvg-logo="http://tvmalaysia.cc:80/images/ddff30204a1aaa452ae469bbbd33523a.png" group-title="SHAREEXT@LIVE|ASTRO",Hits HD
+http://shareext@urtv.cc:80/live/186867/186867/6800.ts?shareext.ts
+#EXTINF:-1 tvg-id="hbo.my" tvg-name="HBO HD" tvg-logo="http://tvmalaysia.cc:80/images/19c0a3768306086c9601f4c7c5a5cc81.jpg" group-title="SHAREEXT@LIVE|ASTRO",HBO HD
+http://shareext@urtv.cc:80/live/186867/186867/6797.ts?shareext.ts
+#EXTINF:-1 tvg-id="tv1.my" tvg-name="TV 1" tvg-logo="http://tvmalaysia.cc:80/images/ccfa5d3bbed199dbac92b5beb81b98b7.png" group-title="SHAREEXT@LIVE|ASTRO",TV 1
+http://shareext@urtv.cc:80/live/186867/186867/7177.ts?shareext.ts
+#EXTINF:-1 tvg-id="tv2.my" tvg-name="TV 2" tvg-logo="http://tvmalaysia.cc:80/images/884a3720c93a65943ca3d37aea5cd686.png" group-title="SHAREEXT@LIVE|ASTRO",TV 2
+http://shareext@urtv.cc:80/live/186867/186867/7178.ts?shareext.ts
+#EXTINF:-1 tvg-id="tv3.my" tvg-name="TV 3" tvg-logo="http://tvmalaysia.cc:80/images/2d597f2f1c13083021c04f1937a09f40.png" group-title="SHAREEXT@LIVE|ASTRO",TV 3
+http://shareext@urtv.cc:80/live/186867/186867/7266.ts?shareext.ts
+#EXTINF:-1 tvg-id="tv3.my" tvg-name="TV 3 HD" tvg-logo="http://tvmalaysia.cc:80/images/87a07a960f50ae26eaa74f96bfe1628d.png" group-title="SHAREEXT@LIVE|ASTRO",TV 3 HD
+http://shareext@urtv.cc:80/live/186867/186867/8750.ts?shareext.ts
+#EXTINF:-1 tvg-id="tv9.my" tvg-name="TV 9" tvg-logo="http://tvmalaysia.cc:80/images/001d2025b7bb5a0d0f180adff62ec4b7.png" group-title="SHAREEXT@LIVE|ASTRO",TV 9
+http://shareext@urtv.cc:80/live/186867/186867/7185.ts?shareext.ts
+#EXTINF:-1 tvg-id="bernamatv.my" tvg-name="BERNAMA" tvg-logo="http://tvmalaysia.cc:80/images/34b4aab4d257e7d335f410bf3decafe2.png" group-title="SHAREEXT@LIVE|ASTRO",BERNAMA
+http://shareext@urtv.cc:80/live/186867/186867/7190.ts?shareext.ts
+
+
+
+
+
+
 
 
 
