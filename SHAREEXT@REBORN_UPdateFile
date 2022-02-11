@@ -1746,6 +1746,7 @@ https://wopep.com/02_foxsport_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",Astro BOO
+http://gtv23.xyz:80/ortiz/ortiz123/1400590.ts
 https://lnk.ec/BOO?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",XIAOTAIYANG
 https://lnk.ec/xiaotaiyang?shareext.m3u8
@@ -1757,8 +1758,12 @@ https://lnk.ec/tvOkey?shareext.m3u8
 http://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 https://lnk.ec/RTMsports?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",AOD
+http://gtv23.xyz:80/ortiz/ortiz123/1400550.ts
 https://lnk.ec/AOD?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ShuangXing
+http://gtv23.xyz:80/ortiz/ortiz123/1400709.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",QUANJIA
+http://gtv23.xyz:80/ortiz/ortiz123/1400702.ts
 https://lnk.ec/quanjiaHD?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",AEC
 https://lnk.ec/aecHD?shareext.m3u8
@@ -1769,6 +1774,7 @@ https://lnk.ec/CelestialM?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",SCM
 https://lnk.ec/SCM?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",CCM MY(dec=native)
+http://gtv23.xyz:80/ortiz/ortiz123/1400594.ts
 https://lnk.ec/ccmMY?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",HUAHETAI
 https://lnk.ec/huaheetaiHD?shareext.m3u8
