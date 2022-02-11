@@ -59,7 +59,12 @@ http://tvn.x10.bz/channel/master-6.m3u8
 http://tvn.x10.bz/channel/master-7.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",ChampionTv3
 http://tvn.x10.bz/channel/master-8.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",ChampionTv4
+http://tvn.x10.bz/channel/master-17.m3u8
+#EXTINF:-1 tvg-id="beinsports.my" tvg-name="beIN Sports" tvg-logo="http://tvmalaysia.cc:80/images/6b747581bd9a32ce47686fd2f486d509.png" group-title="SHAREEXT@LIVE|SPORTS",beINSports1(true)
+https://wopep.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="beinsports.my" tvg-name="beIN Sports" tvg-logo="http://tvmalaysia.cc:80/images/6b747581bd9a32ce47686fd2f486d509.png" group-title="SHAREEXT@LIVE|SPORTS",beINSports2(true)
+https://wopep.com/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-ID="FSP" tvg-name="Fox Sports" tvg-logo="http://img.miptv.ws/Fox_Sports_HD.png" group-title="SHAREEXT@LIVE|SPORTS",SPOTV
 https://wopep.com/02_foxsport_720p/chunklist.m3u8
