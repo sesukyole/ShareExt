@@ -1279,60 +1279,68 @@ http://93.157.62.180/Supersport7/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SUKAN_BANGKOK",spotv1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",spotv1
 https://master.server-cdn-streaming.com/api/live-player/37/live.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SUKAN_BANGKOK",spotv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",spotv
 https://master.server-cdn-streaming.com/api/live-player/38/live.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SUKAN_BANGKOK",spotv2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",spotv2
 https://master.server-cdn-streaming.com/api/live-player/39/live.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SUKAN_BANGKOK",TRUeEpl1
-https://master.server-cdn-streaming.com/api/live-player/45/live.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SUKAN_BANGKOK",TrueEpl2
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",TRUeEpl1
+htt"ps://master.server-cdn-streaming.com/api/live-player/45/live.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",TrueEpl2
 https://master.server-cdn-streaming.com/api/live-player/46/live.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SUKAN_BANGKOK",TruEepl3
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",TruEepl3
 https://master.server-cdn-streaming.com/api/live-player/47/live.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SUKAN_BANGKOK",TruEepl4
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",TruEepl4
 https://master.server-cdn-streaming.com/api/live-player/48/live.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SUKAN_BANGKOK",TruEepl5
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",TruEepl5
 https://master.server-cdn-streaming.com/api/live-player/49/live.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SUKAN_BANGKOK",bein1(True)
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",bein1(True)
 https://master.server-cdn-streaming.com/api/live-player/28/live.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SUKAN_BANGKOK",bein2(True)
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",bein2(True)
 https://master.server-cdn-streaming.com/api/live-player/29/live.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SUKAN_BANGKOK",tRueSpOrt hd1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",tRueSpOrt hd1
 https://master.server-cdn-streaming.com/api/live-player/30/live.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SUKAN_BANGKOK",tRueSpOrt hd2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",tRueSpOrt hd2
 https://master.server-cdn-streaming.com/api/live-player/31/live.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SUKAN_BANGKOK",tRueSpOrt hd3
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",tRueSpOrt hd3
 https://master.server-cdn-streaming.com/api/live-player/32/live.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SUKAN_BANGKOK",tRueSpOrt hd4
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",tRueSpOrt hd4
 https://master.server-cdn-streaming.com/api/live-player/33/live.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SUKAN_BANGKOK",Beinsport1 Sd
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",Beinsport1 Sd
 https://master.server-cdn-streaming.com/api/live-player/40/live.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SUKAN_BANGKOK",ERROR
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",ERROR
 https://master.server-cdn-streaming.com/api/live-player/41/live.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SUKAN_BANGKOK",Beinsport2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",Beinsport2
 https://master.server-cdn-streaming.com/api/live-player/42/live.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SUKAN_BANGKOK",tRuespOrt sd7
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",tRuespOrt sd7
 https://master.server-cdn-streaming.com/api/live-player/43/live.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SUKAN_BANGKOK",sport tv1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",sport tv1
 https://master.server-cdn-streaming.com/api/live-player/136/live.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SUKAN_BANGKOK",sport tv2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",sport tv2
 https://master.server-cdn-streaming.com/api/live-player/137/live.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SUKAN_BANGKOK",sport tv3
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",sport tv3
 https://master.server-cdn-streaming.com/api/live-player/138/live.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SUKAN_BANGKOK",sport tv4
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",sport tv4
 https://master.server-cdn-streaming.com/api/live-player/139/live.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SUKAN_BANGKOK",sport tv5
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",sport tv5
 https://master.server-cdn-streaming.com/api/live-player/140/live.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SUKAN_BANGKOK",btSport1hd
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",btSport1hd
 https://master.server-cdn-streaming.com/api/live-player/141/live.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SUKAN_BANGKOK",nba
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",nba
 https://master.server-cdn-streaming.com/api/live-player/33/live.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SUKAN_BANGKOK",true tennis
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",true tennis
 https://master.server-cdn-streaming.com/api/live-player/34/live.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SUKAN_BANGKOK",true golf
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",true golf
 https://master.server-cdn-streaming.com/api/live-player/35/live.m3u8
+
+
+
+
+
+
+
 
 
 
