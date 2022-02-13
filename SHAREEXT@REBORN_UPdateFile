@@ -223,8 +223,6 @@ http://50.7.74.29:8880/hls/j00041/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",Japan_sports4
 http://50.7.74.29:8880/hls/j00039/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",AstroSport3
-http://64.227.180.219/vollyball/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",StarSport select1
 http://103.166.253.222/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",StarSport select2
@@ -245,6 +243,80 @@ http://103.166.253.222/hls/sonyten2.m3u8
 http://103.166.253.222/hls/sonyten3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",SonySix
 http://103.166.253.222/hls/sonysix.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 1" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE|SPORTS",RO:DIGISPORT 1
+http://televizoro.tk:25461/roforum.net/roforum.net/15949
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 2" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE|SPORTS",RO:DIGISPORT 2
+http://televizoro.tk:25461/roforum.net/roforum.net/15950
+#EXTINF:-1 tvg-id="" tvg-name="DIGI Sport 3 FHD RO" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE|SPORTS",DIGISport 3 FHD RO
+http://televizoro.tk:25461/roforum.net/roforum.net/16036
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 4" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE|SPORTS",RO:DIGISPORT 4
+http://televizoro.tk:25461/roforum.net/roforum.net/15951
+#EXTINF:-1 tvg-id="" tvg-name="RO: AUTO MOTOR SPORT" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE|SPORTS",RO:AUTOMOTOR SPORT
+http://televizoro.tk:25461/roforum.net/roforum.net/15952
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport 1 HD RO" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE|SPORTS",TelekomSport 1 HD RO
+http://televizoro.tk:25461/roforum.net/roforum.net/16039
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport 2 FHD RO" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE|SPORTS",TelekomSport 2 FHD RO
+http://televizoro.tk:25461/roforum.net/roforum.net/16040
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport 3 FHD RO" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE|SPORTS",TelekomSport 3 FHD RO
+http://televizoro.tk:25461/roforum.net/roforum.net/16041
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport 4 FHD RO" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE|SPORTS",TelekomSport 4 FHD RO
+http://televizoro.tk:25461/roforum.net/roforum.net/16042
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport 5 FHD [Match Time] RO" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE|SPORTS",TelekomSport 5 FHD [Match Time] RO
+http://televizoro.tk:25461/roforum.net/roforum.net/16043
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 FHD RO" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE|SPORTS",Eurosport 1 FHD RO
+http://televizoro.tk:25461/roforum.net/roforum.net/16044
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD RO" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE|SPORTS",Eurosport 2 HD RO
+http://televizoro.tk:25461/roforum.net/roforum.net/16047
+#EXTINF:-1 tvg-id="" tvg-name="Look Sport HD RO" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE|SPORTS",LookSport HD RO
+http://televizoro.tk:25461/roforum.net/roforum.net/16049
+#EXTINF:-1 tvg-id="" tvg-name="Look Sport Plus RO" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE|SPORTS",LookSport Plus RO
+http://televizoro.tk:25461/roforum.net/roforum.net/16050
+#EXTINF:-1 tvg-id="" tvg-name="MX: Claro Sports HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/160fa147d986ff95034f7199b1510080.png" group-title="SHAREEXT@LIVE|SPORTS",MX:ClaroSports HD
+http://televizoro.tk:25461/roforum.net/roforum.net/13710
+#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d5d65be98111905704b0ebcd7d06e3bd.png" group-title="SHAREEXT@LIVE|SPORTS",MX:ESPN 3 FHD
+http://televizoro.tk:25461/roforum.net/roforum.net/13732
+#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN Dos HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/669589f86e5d9edc472f75011f9c1055.png" group-title="SHAREEXT@LIVE|SPORTS",MX:ESPN Dos HD
+http://televizoro.tk:25461/roforum.net/roforum.net/13733
+#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN Extra HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c47d68dc2974632c15a07f4a6714854d.png" group-title="SHAREEXT@LIVE|SPORTS",MX:ESPN Extra HD
+http://televizoro.tk:25461/roforum.net/roforum.net/13734
+#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fef20f5cb1951c51371fc68e1eb0a32c.png" group-title="SHAREEXT@LIVE|SPORTS",MX:ESPN HD
+http://televizoro.tk:25461/roforum.net/roforum.net/13735
+#EXTINF:-1 tvg-id="" tvg-name="MX: TVC Deportes FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c96a64148f8d48eafdc5ab59f824a20e.png" group-title="SHAREEXT@LIVE|SPORTS",MX:TVC Deportes FHD
+http://televizoro.tk:25461/roforum.net/roforum.net/13827
+#EXTINF:-1 tvg-id="" tvg-name="MX: TUDN FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7b861cb6a74cbb1ff2b70855e9f56a24.png" group-title="SHAREEXT@LIVE|SPORTS",MX:TUDN FHD
+http://televizoro.tk:25461/roforum.net/roforum.net/13812
+#EXTINF:-1 tvg-id="" tvg-name="MX: TUDN xtra 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c954114276a3227f641854bc85458287.png" group-title="SHAREEXT@LIVE|SPORTS",MX:TUDN xtra 1 HD
+http://televizoro.tk:25461/roforum.net/roforum.net/13813
+#EXTINF:-1 tvg-id="" tvg-name="MX: TUDN xtra 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/248417bd6bc00b14c92d9da58ede1792.png" group-title="SHAREEXT@LIVE|SPORTS",MX:TUDN xtra 2 HD
+http://televizoro.tk:25461/roforum.net/roforum.net/13814
+#EXTINF:-1 tvg-id="" tvg-name="MX: TUDN xtra 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0e8879bd8260a1eac133f18e6c016a59.png" group-title="SHAREEXT@LIVE|SPORTS",MX:TUDN xtra 3 HD
+http://televizoro.tk:25461/roforum.net/roforum.net/13815
+#EXTINF:-1 tvg-id="" tvg-name="MX: TUDN xtra 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f93d047728f2b90b85b2706a1b4fc9e2.png" group-title="SHAREEXT@LIVE|SPORTS",MX:TUDN xtra 4 HD
+http://televizoro.tk:25461/roforum.net/roforum.net/13816
+#EXTINF:-1 tvg-id="" tvg-name="MX: TUDN xtra 5 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/270e68793274397e7211ad299d019dc6.png" group-title="SHAREEXT@LIVE|SPORTS",MX:TUDN xtra 5 HD
+http://televizoro.tk:25461/roforum.net/roforum.net/13817
+#EXTINF:-1 tvg-id="" tvg-name="MX: TUDN xtra 6 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/70b8220be05cb592a877b5f792731578.png" group-title="SHAREEXT@LIVE|SPORTS",MX:TUDN xtra 6 HD
+http://televizoro.tk:25461/roforum.net/roforum.net/13818
+#EXTINF:-1 tvg-id="" tvg-name="MX: TUDN xtra 7 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/da5dba089b7ad087f93de1a399b3af26.png" group-title="SHAREEXT@LIVE|SPORTS",MX:TUDN xtra 7 HD
+http://televizoro.tk:25461/roforum.net/roforum.net/13819
+#EXTINF:-1 tvg-id="" tvg-name="MX: TUDN xtra 8 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4743e5f1ba602f8d26b9baab95e573b2.png" group-title="SHAREEXT@LIVE|SPORTS",MX:TUDN xtra 8 HD
+http://televizoro.tk:25461/roforum.net/roforum.net/13820
+#EXTINF:-1 tvg-id="" tvg-name="MX: TUDN xtra 9 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/338ba19e39607de97f925215578f504a.png" group-title="SHAREEXT@LIVE|SPORTS",MX:TUDN xtra 9 HD
+http://televizoro.tk:25461/roforum.net/roforum.net/13821
+#EXTINF:-1 tvg-id="" tvg-name="MX: TUDN xtra 10 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7e05768bb9365f3bdb33101d8cde1714.png" group-title="SHAREEXT@LIVE|SPORTS",MX:TUDN xtra 10 HD
+http://televizoro.tk:25461/roforum.net/roforum.net/13822
+#EXTINF:-1 tvg-id="" tvg-name="MX: TUDN xtra 11 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/47c40aff0900c09dc9bf652a8e60ebc5.png" group-title="SHAREEXT@LIVE|SPORTS",MX:TUDN xtra 11 HD
+http://televizoro.tk:25461/roforum.net/roforum.net/13823
+#EXTINF:-1 tvg-id="" tvg-name="MX: Fox News Channel HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/4fe33f1a94852abaf05b173f2e2f980f.png" group-title="SHAREEXT@LIVE|SPORTS",MX:Fox News Channel HD
+http://televizoro.tk:25461/roforum.net/roforum.net/13740
+#EXTINF:-1 tvg-id="" tvg-name="MX: FOX SPORTS 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/4860d5094856c80be9a0e80d4e3ea61b.jpg" group-title="SHAREEXT@LIVE|SPORTS",MX:FOXSPORTS 2 FHD
+http://televizoro.tk:25461/roforum.net/roforum.net/13741
+#EXTINF:-1 tvg-id="" tvg-name="MX: FOX SPORTS 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/1a4f7efe2244027b516ad0c5bb0319a0.png" group-title="SHAREEXT@LIVE|SPORTS",MX:FOXSPORTS3 HD
+http://televizoro.tk:25461/roforum.net/roforum.net/13742
+
 
 
 
