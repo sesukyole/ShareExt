@@ -246,16 +246,14 @@ http://103.166.253.222/hls/sonysix.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 1" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE|SPORTS",DIGISPORT1
-http://televizoro.tk:25461/roforum.net/roforum.net/15949
-#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 2" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE|SPORTS",DIGISPORT2
-http://televizoro.tk:25461/roforum.net/roforum.net/15950
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 1" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE|SPORTS",DIGISPORT1 FHD
+http://televizoro.tk:25461/roforum.net/roforum.net/14717
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 2" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE|SPORTS",DIGISPORT2 FHD
+http://televizoro.tk:25461/roforum.net/roforum.net/14719
 #EXTINF:-1 tvg-id="" tvg-name="DIGI Sport 3 FHD RO" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE|SPORTS",DIGISport3 FHD
 http://televizoro.tk:25461/roforum.net/roforum.net/16036
-#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 4" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE|SPORTS",DIGISPORT4
-http://televizoro.tk:25461/roforum.net/roforum.net/15951
-#EXTINF:-1 tvg-id="" tvg-name="RO: AUTO MOTOR SPORT" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE|SPORTS",RO:AUTOMOTOR SPORT
-http://televizoro.tk:25461/roforum.net/roforum.net/15952
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 4" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE|SPORTS",DIGISPORT4 FHD
+http://televizoro.tk:25461/roforum.net/roforum.net/14723
 #EXTINF:-1 tvg-id="" tvg-name="Telekom Sport 1 HD RO" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE|SPORTS",TelekomSport 1 HD RO
 http://televizoro.tk:25461/roforum.net/roforum.net/16039
 #EXTINF:-1 tvg-id="" tvg-name="Telekom Sport 2 FHD RO" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE|SPORTS",TelekomSport 2 FHD RO
