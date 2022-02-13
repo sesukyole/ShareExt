@@ -81,13 +81,13 @@ https://dik.si/SEuseeSport1?shareext.m3u8
 https://dik.si/SEuseeSPorts_2?shareext.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",beINSport1(CANLI)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",beINSport1(CANLI)dec=auto
 http://45.12.54.77:8000/play/a002/index.m3u8?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",beINSport2(CANLI)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",beINSport2(CANLI)dec=auto
 http://45.12.54.77:8000/play/a006/index.m3u8?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",beINSport3(CANLI)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",beINSport3(CANLI)dec=auto
 http://45.12.54.77:8000/play/a003/index.m3u8?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",beINSport4(CANLI)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",beINSport4(CANLI)dec=auto
 http://45.12.54.77:8000/play/a005/index.m3u8?shareext.m3u8
 
 
