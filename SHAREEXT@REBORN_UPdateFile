@@ -503,6 +503,156 @@ http://shareext@urtv.cc:80/live/186867/186867/7190.ts?shareext.ts
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",&PRIVE HD
+http://180.178.130.180:8000/play/a048/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",&pictures HD
+http://180.178.130.180:8000/play/a042/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",&tv HD
+http://180.178.130.180:8000/play/a04q/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",1SPORTS 
+http://180.178.130.180:8000/play/a05u/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",ANIMAL PLANET
+http://180.178.130.180:8000/play/a03w/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",BBC WORLD
+http://180.178.130.180:8000/play/a05c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",BIG MAGIC
+http://180.178.130.180:8000/play/a03f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",Balle Balle
+http://180.178.130.180:8000/play/a05n/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",CNBC Prime HD
+http://180.178.130.180:8000/play/a05p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",CNN INTERNATIONAL
+http://180.178.130.180:8000/play/a05b/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",COMEDY CENTRAL
+http://180.178.130.180:8000/play/a05d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",Colors HD
+http://180.178.130.180:8000/play/a03a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",DD SPORTS
+http://180.178.130.180:8000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",Discovery HD
+http://180.178.130.180:8000/play/a04f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",Discovery SCIE
+http://180.178.130.180:8000/play/a04g/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",Discovery T
+http://180.178.130.180:8000/play/a04h/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",EPIC
+http://180.178.130.180:8000/play/a05r/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",Enterr10 Movies
+http://180.178.130.180:8000/play/a04s/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",EuroSports HD
+http://180.178.130.180:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",FOX Life HD
+http://180.178.130.180:8000/play/a04p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",HISTORY TV18 
+http://180.178.130.180:8000/play/a03y/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",Investigation Discovery
+http://180.178.130.180:8000/play/a03r/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",MAX HD
+http://180.178.130.180:8000/play/a03p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",MH ONE
+http://180.178.130.180:8000/play/a03e/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",MN+ HD
+http://180.178.130.180:8000/play/a04b/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",MNX
+http://180.178.130.180:8000/play/a05e/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",MOVIES NOW
+http://180.178.130.180:8000/play/a05f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",NATGeo Wild HD
+http://180.178.130.180:8000/play/a03q/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",NationalGEO HD
+http://180.178.130.180:8000/play/a04e/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",PIX HD
+http://180.178.130.180:8000/play/a041/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",PTC PUNJABI
+http://180.178.130.180:8000/play/a05l/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",PTC chakde
+http://180.178.130.180:8000/play/a05m/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",Romedy NOW
+http://180.178.130.180:8000/play/a05g/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",SAB HD
+http://180.178.130.180:8000/play/a04r/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",SET HD
+http://180.178.130.180:8000/play/a03c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",SIX HD
+http://180.178.130.180:8000/play/a03n/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",SONY MAX 2
+http://180.178.130.180:8000/play/a04o/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",SONY PAL
+http://180.178.130.180:8000/play/a03g/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",STAR BHARAT HD
+http://180.178.130.180:8000/play/a03v/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",STARMOVIE HD
+http://180.178.130.180:8000/play/a04c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",STARWORD P HD
+http://180.178.130.180:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",STARWORLD HD
+http://180.178.130.180:8000/play/a03j/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",Sony BBC EarHD
+http://180.178.130.180:8000/play/a040/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",SonyTen 1 HD
+http://180.178.130.180:8000/play/a03m/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",SonyTen 2 HD
+http://180.178.130.180:8000/play/a045/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",SonyTen 3 HD
+http://180.178.130.180:8000/play/a03s/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",StarGOLD HD
+http://180.178.130.180:8000/play/a03x/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",StarGold 2
+http://180.178.130.180:8000/play/a04m/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",StarGold Seleck HD
+http://180.178.130.180:8000/play/a03z/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",StarPlus HD 
+http://180.178.130.180:8000/play/a038/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",StarSPort1 HIndi
+http://180.178.130.180:8000/play/a03o/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",StarSport1 HD
+http://180.178.130.180:8000/play/a03k/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",StarSport2 HD
+http://180.178.130.180:8000/play/a03l/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",StarSports3 
+http://180.178.130.180:8000/play/a03t/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",StarSports Selec 1 HD
+http://180.178.130.180:8000/play/a043/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",StarSports Selec 2 HD
+http://180.178.130.180:8000/play/a044/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",Star Utsav
+http://180.178.130.180:8000/play/a04i/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",StarMov S HD
+http://180.178.130.180:8000/play/a04d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",TLC HD
+http://180.178.130.180:8000/play/a049/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",UTV ACTION
+http://180.178.130.180:8000/play/a04l/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",UTV MOVIES
+http://180.178.130.180:8000/play/a04k/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",ZEE ANMOL
+http://180.178.130.180:8000/play/a05k/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",ZEE BOLLYWOOd
+http://180.178.130.180:8000/play/a04n/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",ZEE CINEMA HD
+http://180.178.130.180:8000/play/a03u/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",ZEE Cafe HD
+http://180.178.130.180:8000/play/a04a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",ZEE TV HD
+http://180.178.130.180:8000/play/a039/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",Zing 
+http://180.178.130.180:8000/play/a05t/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",colors INFIN HD
+http://180.178.130.180:8000/play/a046/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",colors rishtey
+http://180.178.130.180:8000/play/a05j/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",nick HD+
+http://180.178.130.180:8000/play/a047/index.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="supersportaction.za" tvg-name="SuperSport Action FHD VIP AF" tvg-logo="https://i.postimg.cc/kgVdtfCt/supersport-action.png" group-title="SHAREEXT@REBORN_Sports",SuperSportAction FHD VIP AF
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/683568
 #EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-name="SuperSport Grandstand HD VIP AF" tvg-logo="https://i.postimg.cc/02GqGbK9/supersport-grandstand.png" group-title="SHAREEXT@REBORN_Sports",SuperSportGrandstand HD VIP AF
