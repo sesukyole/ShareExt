@@ -76,9 +76,8 @@ https://dik.si/SPOTV?shareext.m3u8
 #EXTINF:-1 tvg-ID="FSP" tvg-name="Fox Sports" tvg-logo="http://img.miptv.ws/Fox_Sports_HD.png" group-title="SHAREEXT@LIVE|SPORTS",SPOTV2
 https://wopep.com/02_FoxSport3_TH_720p/chunklist.m3u8?shareext/ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",UseeSport1(dec=native)
-https://dik.si/SEuseeSport1?shareext.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",UseeSport2(dec=native)
-https://dik.si/SEuseeSPorts_2?shareext.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",beINSport1(CANLI)dec=auto
@@ -2179,10 +2178,6 @@ https://lnk.ec/hboSigID?shareext.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",CINEMAX
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/157519
 https://lnk.ec/cinemaxID?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",USPORT(dec=native)
-https://dik.si/Useesports?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",USPORT2(dec=native)
-https://dik.si/Useesports2?shareext.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",TransTv(cubmu)
 https://cubmu.superzap.xyz:8279/transtv/playlist.m3u8
@@ -2274,6 +2269,7 @@ https://lnk.ec/galaxy?shareext.ts
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/157477
 https://lnk.ec/hitsMovieS?shareext.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",IMC
+http://49.128.184.34:19420/IMC/index.m3u8?shareext/ts
 https://lnk.ec/imc?shareext.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@ID_CHANNELS",SCMOVIE
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/285562
@@ -2502,12 +2498,6 @@ https://lnk.ec/HBOsigHD?shareext.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",champ1=roll
-https://etus.link/champ1roll?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",champ2=roll
-https://etus.link/champ2roll?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",champ3=roll
-https://etus.link/champ3roll?shareext.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Indosiar
 http://tvn.x10.bz/channel/master.m3u8
@@ -2624,10 +2614,6 @@ https://iptv.mwafa.net/vidio/6898/index.m3u8?token=1999
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",UseeSport1(dec=native)
-https://dik.si/SEuseeSport1?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",UseeSport2(dec=native)
-https://dik.si/SEuseeSPorts_2?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",SPOTV
 https://etus.link/spotvv?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",SPOTV2
