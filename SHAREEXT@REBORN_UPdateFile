@@ -76,9 +76,9 @@ https://dik.si/SPOTV?shareext.m3u8
 #EXTINF:-1 tvg-ID="FSP" tvg-name="Fox Sports" tvg-logo="http://img.miptv.ws/Fox_Sports_HD.png" group-title="SHAREEXT@LIVE|SPORTS",SPOTV2
 https://wopep.com/02_FoxSport3_TH_720p/chunklist.m3u8?shareext/ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",UseeSport1(dec=native)
-
+https://lnk.ec/sportUsee1_shareext?reborn.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",UseeSport2(dec=native)
-
+https://lnk.ec/sportUsee2_shareext?reborn.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",beINSport1(CANLI)dec=auto
 http://45.12.54.77:8000/play/a002/index.m3u8?shareext.m3u8
@@ -2428,7 +2428,7 @@ http://iptv.tvfix.org/hls/tvbxh.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",Mytv super
 http://iptv.tvfix.org/hls/tvbws.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",LOTUS_MACAU(dec=auto)
-http://149.129.100.78:88/lotus.php?id=1
+https://www.nettvpro.live/hls/lotustv.php
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",BeinSport1(true)
 https://www.wopep.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",BeinSport2(true)
