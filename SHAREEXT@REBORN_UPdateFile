@@ -322,6 +322,13 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",UseeSport1
+https://etus.link/useesport?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",UseeSport2
+https://etus.link/useesports2?shareext.ts
 #EXTINF:-1 xui-id="52066" tvg-id="ss.grandstand.za" tvg-name="AF | SS Grandstand HD" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-grandstand.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SS Grandstand HD
 http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjAmAolXFU90CXPdQpTTPgf4
 #EXTINF:-1 xui-id="52059" tvg-id="ss.psl.za" tvg-name="AF | SS Premier League FHD" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SS PremierLeague FHD
