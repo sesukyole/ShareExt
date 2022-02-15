@@ -321,6 +321,105 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 
 
 
+
+#EXTINF:-1 xui-id="52066" tvg-id="ss.grandstand.za" tvg-name="AF | SS Grandstand HD" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-grandstand.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SS Grandstand HD
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjAmAolXFU90CXPdQpTTPgf4
+#EXTINF:-1 xui-id="52059" tvg-id="ss.psl.za" tvg-name="AF | SS Premier League FHD" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SS PremierLeague FHD
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjJT0ShGBIe94fJXGsHsCxyU
+#EXTINF:-1 xui-id="5629" tvg-id="" tvg-name="AF | SS LaLiga HD" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-la-liga.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SS LaLiga HD
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjA9caMKTajDhRpWriv_ruaw
+#EXTINF:-1 xui-id="5628" tvg-id="ss.football.za" tvg-name="AF | SS Football HD" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-football.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SS Football HD
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjEDQ1NyygRPAW7mZvceLZQg
+#EXTINF:-1 xui-id="52061" tvg-id="ss.variety.1.za" tvg-name="AF | SS Variety 1 HD" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-1.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SS Variety 1 HD
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjOohwRujZcboXulPPBU9KrU
+#EXTINF:-1 xui-id="52065" tvg-id="ss.variety.2.za" tvg-name="AF | SS Variety 2 HD" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-2.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SS Variety 2 HD
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjGAQbHbTdV_QDyI5kothyko
+#EXTINF:-1 xui-id="52057" tvg-id="ss.variety.3.za" tvg-name="AF | SS Variety 3 HD" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-3.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SS Variety 3 HD
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjBzQ5QZxyo-r2ZM_388dR3g
+#EXTINF:-1 xui-id="52058" tvg-id="ss.variety.4.za" tvg-name="AF | SS Variety 4 HD" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-4.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SS Variety 4 HD
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjOBVNKVZRHGWPL-EdepuCfQ
+#EXTINF:-1 xui-id="52067" tvg-id="ss.euro.2020.za" tvg-name="AF | SS WWE FHD" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/wwe-channel.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SS WWE FHD
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjG6X0y3e1yA1mFrZdGkqws4
+#EXTINF:-1 xui-id="52056" tvg-id="ss.rugby.za" tvg-name="AF | SS RUGBY FHD" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-rugby.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SS RUGBY FHD
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjGWgxYJLMeAwtwMAmo5X8qs
+#EXTINF:-1 xui-id="52060" tvg-id="ss.golf.za" tvg-name="AF | SS GOLF FHD" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-golf.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SS GOLF FHD
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjLWcf8TYEkzelCjBAI_ftxQ
+#EXTINF:-1 xui-id="52063" tvg-id="ss.action.za" tvg-name="AF | SS ACTION FHD" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-action.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SS ACTION FHD
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjARWz-yrRJteArmrUFjjjNY
+#EXTINF:-1 xui-id="52064" tvg-id="ss.cricket.za" tvg-name="AF | SS CRICKET" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/cri.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SS CRICKET
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjD5hk9OSGTeacveKq0S4TAI
+#EXTINF:-1 xui-id="52069" tvg-id="ss.maximo.1.za" tvg-name="AF | SS MAXIMO 1" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-maximo-1.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SS MAXIMO 1
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjJMQQFDPROLs3rnk410YrV0
+#EXTINF:-1 xui-id="52068" tvg-id="ss.blitz.za" tvg-name="AF | SS BLITZ" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-blitz.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SS BLITZ
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjDAffLBKLKcty86-tyUjMqo
+#EXTINF:-1 xui-id="52070" tvg-id="" tvg-name="AF | WWE HD" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/wwe-channel.png" group-title="SHAREEXT@[ WORLD SPORTS ]",WWE HD
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjPIt1PbcMrXoxxfIrPCiN4s
+#EXTINF:-1 xui-id="57500" tvg-id="" tvg-name="ASTRO SUPERSPORT 1 FHD" tvg-logo="http://webo.asia/logos/Astro.png" group-title="SHAREEXT@[ WORLD SPORTS ]",ASTROSUPERSPORT1 FHD
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjPWyrdBaqw6wLrU-u8MTmcQ
+#EXTINF:-1 xui-id="57501" tvg-id="" tvg-name="ASTRO SUPERSPORT 2 FHD" tvg-logo="http://webo.asia/logos/Astro.png" group-title="SHAREEXT@[ WORLD SPORTS ]",ASTROSUPERSPORT2 FHD
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjK0ku5iFROrvnb3L_bnlw2g
+#EXTINF:-1 xui-id="57502" tvg-id="" tvg-name="ASTRO SUPERSPORT 3 FHD" tvg-logo="http://webo.asia/logos/Astro.png" group-title="SHAREEXT@[ WORLD SPORTS ]",ASTROSUPERSPORT3 FHD
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjNoLy5fG3P6M5xnSdh6EOtQ
+#EXTINF:-1 xui-id="57503" tvg-id="" tvg-name="ASTRO SUPERSPORT 4 FHD" tvg-logo="http://webo.asia/logos/Astro.png" group-title="SHAREEXT@[ WORLD SPORTS ]",ASTROSUPERSPORT4 FHD
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjHMXRAGb2pH4oXanGt_FUHM
+#EXTINF:-1 xui-id="57507" tvg-id="WWEHD" tvg-name="ASTRO WWE CHANNEL FHD" tvg-logo="http://webo.asia/logos/Astro.png" group-title="SHAREEXT@[ WORLD SPORTS ]",WWE CHANNEL FHD
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjCgfGH0B9tupu2CIFUhNfXY
+#EXTINF:-1 xui-id="57508" tvg-id="" tvg-name="ASTRO SENTANTA SPORTS FHD" tvg-logo="http://webo.asia/logos/Astro.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SENTANTA SPORTS FHD
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjL6akgD-ueH9QcPBvNQNR1A
+#EXTINF:-1 xui-id="57509" tvg-id="GOLFHDB" tvg-name="ASTRO GOLF CHANNEL FHD" tvg-logo="http://webo.asia/logos/Astro.png" group-title="SHAREEXT@[ WORLD SPORTS ]",GOLF CHANNEL FHD
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjB_9BaN9vAaPgAiZj4jVbmk
+#EXTINF:-1 xui-id="57513" tvg-id="" tvg-name="ASTRO CRICKET CHANNEL FHD" tvg-logo="http://webo.asia/logos/Astro.png" group-title="SHAREEXT@[ WORLD SPORTS ]",ASTROCRICKET CHANNEL FHD
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjOTDUTGht9DXlR2w4tHMeqE
+#EXTINF:-1 xui-id="57514" tvg-id="BEIN1HD" tvg-name="ASTRO BEIN SPORTS FHD" tvg-logo="http://webo.asia/logos/Astro.png" group-title="SHAREEXT@[ WORLD SPORTS ]",BEINSPORTS FHD
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjJCXyJYLnuntxEKNgDwWAvo
+#EXTINF:-1 xui-id="57515" tvg-id="" tvg-name="ASTRO ARENA FHD" tvg-logo="http://webo.asia/logos/Astro.png" group-title="SHAREEXT@[ WORLD SPORTS ]",ASTRO_ARENA FHD
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjGg4RCCTUXbw59C-JSVQ-1A
+#EXTINF:-1 xui-id="35933" tvg-id="" tvg-name="Spark Sports Event 1" tvg-logo="http://b1g.me/logos/SparkSports.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SparkSports Event 1
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjEUIr627rdE3_TkSLyMIw1U
+#EXTINF:-1 xui-id="35935" tvg-id="" tvg-name="Spark Sports Event 3" tvg-logo="http://b1g.me/logos/SparkSports.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SparkSports Event 3
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjF5TSuGWypMh6EcrIwD1POg
+#EXTINF:-1 xui-id="14161" tvg-id="" tvg-name="Spark Sports Event 7" tvg-logo="http://webo.asia/logos/SparkSports.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SparkSports Event 7
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjMELPl__LFoLn8KDpnVOl58
+#EXTINF:-1 xui-id="14160" tvg-id="" tvg-name="Spark Sports Event 8" tvg-logo="http://webo.asia/logos/SparkSports.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SparkSports Event 8
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjEPk4CWsdl2BU0fJKr1g4ug
+#EXTINF:-1 xui-id="14159" tvg-id="" tvg-name="Spark Sports Event 9" tvg-logo="http://webo.asia/logos/SparkSports.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SparkSports Event 9
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjEW6QTTHlm-vkIrynAtF8e0
+#EXTINF:-1 xui-id="35915" tvg-id="English - Now Sports Premier League 1" tvg-name="Now HK Premier Sports 1" tvg-logo="http://b1g.me/logos/NowSports.png" group-title="SHAREEXT@[ WORLD SPORTS ]",Now HK PremierSports 1
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjGCEEDOR0DinLD_5572v6QE
+
+#EXTINF:-1 xui-id="199968" tvg-id="" tvg-name="beIN Sports 1 H.265" tvg-logo="https://images.useetv.com/logo_bein1_small1.png?v=2.0.0.13" group-title="SHAREEXT@[ WORLD SPORTS ]",beINSports1(AR)
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjMHwm4ApGaWWAodSIZdBX7Q
+#EXTINF:-1 xui-id="199969" tvg-id="" tvg-name="beIN Sports 2 H.265" tvg-logo="https://images.useetv.com/logo_bein1_small1.png?v=2.0.0.13" group-title="SHAREEXT@[ WORLD SPORTS ]",beINSports2(AR)
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjO6CJXvo_YTO8kM3kGP2cyo
+#EXTINF:-1 xui-id="199970" tvg-id="" tvg-name="beIN Sports 3 H.265" tvg-logo="https://images.useetv.com/logo_bein1_small1.png?v=2.0.0.13" group-title="SHAREEXT@[ WORLD SPORTS ]",beINSports3(AR)
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjHwN2F1KBgcnUjfy1lxrtO8
+#EXTINF:-1 xui-id="199971" tvg-id="" tvg-name="beIN Sports 4 H.265" tvg-logo="https://images.useetv.com/logo_bein1_small1.png?v=2.0.0.13" group-title="SHAREEXT@[ WORLD SPORTS ]",beINSports4(AR)
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjAJmAYUioSJm5FTaFXkZY6Q
+#EXTINF:-1 xui-id="199972" tvg-id="" tvg-name="beIN Sports 5 H.265" tvg-logo="https://images.useetv.com/logo_bein1_small1.png?v=2.0.0.13" group-title="SHAREEXT@[ WORLD SPORTS ]",beINSports5(AR)
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjAmEtqI_PxtKpjyBV1aCMAI
+#EXTINF:-1 xui-id="199973" tvg-id="" tvg-name="beIN Sports 6 H.265" tvg-logo="https://images.useetv.com/logo_bein1_small1.png?v=2.0.0.13" group-title="SHAREEXT@[ WORLD SPORTS ]",beINSports6(AR)
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjDROXEJ1wKBHw-lfnlxQs8k
+#EXTINF:-1 xui-id="199974" tvg-id="" tvg-name="beIN Sports 7 H.265" tvg-logo="https://images.useetv.com/logo_bein1_small1.png?v=2.0.0.13" group-title="SHAREEXT@[ WORLD SPORTS ]",beINSports7(AR)
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjNQyG1YoasXvTsajmaL7AgQ
+#EXTINF:-1 xui-id="239089" tvg-id="" tvg-name="BEIN PREMIUM 1" tvg-logo="https://images.useetv.com/logo_bein1_small1.png?v=2.0.0.13" group-title="SHAREEXT@[ WORLD SPORTS ]",BEINSPORTS PREMIUM1
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjMsdXolxALxNXu1E0x3ri6A
+#EXTINF:-1 xui-id="239090" tvg-id="" tvg-name="BEIN PREMIUM 2" tvg-logo="https://images.useetv.com/logo_bein1_small1.png?v=2.0.0.13" group-title="SHAREEXT@[ WORLD SPORTS ]",BEINSPORTS PREMIUM2
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjEyt6AYWpLXbsRxIwS-Fcb8
+#EXTINF:-1 xui-id="239091" tvg-id="" tvg-name="BEIN PREMIUM 3" tvg-logo="https://images.useetv.com/logo_bein1_small1.png?v=2.0.0.13" group-title="SHAREEXT@[ WORLD SPORTS ]",BEINSPORTS PREMIUM3
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjICB26Xzwx5lqbbQoHYe5QA
+#EXTINF:-1 xui-id="239092" tvg-id="" tvg-name="BEIN SPORTS 1 ENGLISH" tvg-logo="https://images.useetv.com/logo_bein1_small1.png?v=2.0.0.13" group-title="SHAREEXT@[ WORLD SPORTS ]",BEINSPORTS1 ENGLISH
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjKBbUF9fpoaR3takdNvbrmU
+#EXTINF:-1 xui-id="239093" tvg-id="" tvg-name="BEIN SPORTS 2 ENGLISH" tvg-logo="https://images.useetv.com/logo_bein1_small1.png?v=2.0.0.13" group-title="SHAREEXT@[ WORLD SPORTS ]",BEINSPORTS2 ENGLISH
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjNCyc1f2f_3_LCRBD_y5Cf4
+#EXTINF:-1 xui-id="239094" tvg-id="" tvg-name="BEIN SPORTS 3 ENGLISH CRICKET" tvg-logo="https://images.useetv.com/logo_bein1_small1.png?v=2.0.0.13" group-title="SHAREEXT@[ WORLD SPORTS ]",BEINSPORTS3 ENGLISH CRICKET
+http://webo.asia:80/play/xEeb-GMSx67YA1QUZTVEjB5C-X0_EQeF4xheR1WFOyI
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="galaxypremium.id" tvg-name="Galaxy Premium" tvg-logo="http://tvmalaysia.cc:80/images/bc5b56c663e4476badfe70faae1ee75f.png" group-title="SHAREEXT@LIVE|MOVIE",Galaxy Premium
 http://shareext@urtv.cc:80/live/186867/186867/8838.ts?shareext.ts
 #EXTINF:-1 tvg-id="galaxy.id" tvg-name="Galaxy" tvg-logo="http://tvmalaysia.cc:80/images/342a0f0cacfbb2cdb3a0aa994784d887.png" group-title="SHAREEXT@LIVE|MOVIE",Galaxy
