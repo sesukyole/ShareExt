@@ -329,10 +329,13 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@[ WORLD SPORTS ]",ChampionTv1(rolling)
+https://cliptvweb.com/vidio/vidio_championstv1.m3u8
 https://etus.link/champ1roll?shareext.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@[ WORLD SPORTS ]",ChampionTv2(rolling)
+https://cliptvweb.com/vidio/vidio_championstv2.m3u8
 https://etus.link/champ2roll?shareext.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@[ WORLD SPORTS ]",ChampionTv3(rolling)
+https://cliptvweb.com/vidio/vidio_championstv3.m3u8
 https://etus.link/champ3roll?shareext.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@[ WORLD SPORTS ]",UseeSport1
 http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=useesport&gumisasakTV=default&sync=0
