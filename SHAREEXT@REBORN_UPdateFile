@@ -532,14 +532,11 @@ http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/54263
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@[ WORLD SPORTS ]",ChampionTv1(rolling)
-https://cliptvweb.com/vidio/vidio_championstv1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@[ WORLD SPORTS ]",SPORT+(rolling)
 https://etus.link/champ1roll?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@[ WORLD SPORTS ]",ChampionTv2(rolling)
-https://cliptvweb.com/vidio/vidio_championstv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@[ WORLD SPORTS ]",SPORT2(rolling)
 https://etus.link/champ2roll?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@[ WORLD SPORTS ]",ChampionTv3(rolling)
-https://cliptvweb.com/vidio/vidio_championstv3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@[ WORLD SPORTS ]",SPORT3(rolling)
 https://etus.link/champ3roll?shareext.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@[ WORLD SPORTS ]",UseeSport1
 http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=useesport&gumisasakTV=default&sync=0
@@ -2861,8 +2858,6 @@ https://iptv.mwafa.net/vidio/6898/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",SPOTV
 https://etus.link/spotvv?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",SPOTV2
-https://etus.link/spotvv2?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",BEIN1
 https://etus.link/bein1?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",BEIN2
