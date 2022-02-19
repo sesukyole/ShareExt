@@ -66,6 +66,16 @@ http://tvn.x10.bz/vidio/master-17.m3u8
 https://goldenlivektv.com/zzz/useesport.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",UseeSport2(Khoerul)
 https://goldenlivektv.com/zzz/useesports2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",BOLA_CHANEL
+https://etus.link/bolachanel?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",BT_SPORT1
+https://etus.link/bt1?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",BT_SPORT2
+https://etus.link/bt2?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",BT_SPORT3
+https://etus.link/bt3?shareext.ts
+
 #EXTINF:-1 tvg-id="beinsports.my" tvg-name="beIN Sports" tvg-logo="http://tvmalaysia.cc:80/images/6b747581bd9a32ce47686fd2f486d509.png" group-title="SHAREEXT@LIVE|SPORTS",beINSports1(true)
 https://eiei.livedoomovie.com:4432/02_epl1_720p/chunklist.m3u8?shareext.ts
 https://wopep.com/02_epl1_720p/chunklist.m3u8
@@ -674,7 +684,16 @@ http://televizoro.tk:25461/roforum.net/roforum.net/18202
 
 
 
-
+#EXTINF:-1 tvg-id="hbohd.id" tvg-name="HBO FHD" tvg-logo="http://tvmalaysia.cc:80/images/597d58c4634acfa46ffd7ec56cebc923.png" group-title="SHAREEXT@LIVE|MOVIE",FAMILY+
+https://etus.link/familyplus?shareext.ts
+#EXTINF:-1 tvg-id="hbohd.id" tvg-name="HBO FHD" tvg-logo="http://tvmalaysia.cc:80/images/597d58c4634acfa46ffd7ec56cebc923.png" group-title="SHAREEXT@LIVE|MOVIE",SERIES+
+https://etus.link/seriesplus?shareext.ts
+#EXTINF:-1 tvg-id="hbohd.id" tvg-name="HBO FHD" tvg-logo="http://tvmalaysia.cc:80/images/597d58c4634acfa46ffd7ec56cebc923.png" group-title="SHAREEXT@LIVE|MOVIE",MOVIE+
+https://etus.link/movieplus?shareext.ts
+#EXTINF:-1 tvg-id="hbohd.id" tvg-name="HBO FHD" tvg-logo="http://tvmalaysia.cc:80/images/597d58c4634acfa46ffd7ec56cebc923.png" group-title="SHAREEXT@LIVE|MOVIE",ANIME+
+https://etus.link/animeplus?shareext.ts
+#EXTINF:-1 tvg-id="hbohd.id" tvg-name="HBO FHD" tvg-logo="http://tvmalaysia.cc:80/images/597d58c4634acfa46ffd7ec56cebc923.png" group-title="SHAREEXT@LIVE|MOVIE",DRAMA+
+https://etus.link/dramaplus?shareext.ts
 
 
 #EXTINF:-1 tvg-id="galaxypremium.id" tvg-name="Galaxy Premium" tvg-logo="http://tvmalaysia.cc:80/images/bc5b56c663e4476badfe70faae1ee75f.png" group-title="SHAREEXT@LIVE|MOVIE",Galaxy Premium
