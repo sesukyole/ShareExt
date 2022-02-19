@@ -4308,6 +4308,52 @@ http://red.ipfox.org:8080/1234/12345678/31890
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE ADULTO AMADOR" tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png" group-title="SHAREEXT@TELE_CINESKY_CANAIS",CINE_ADULTO_AMADOR
+http://s.pdsrv.io:80/claudio/claudio/68362
+#EXTINF:-1 tvg-id="SerieseProgramas.br" tvg-name="24H Cine Disney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="SHAREEXT@TELE_CINESKY_CANAIS",Cine_Disney
+http://s.pdsrv.io:80/claudio/claudio/63309
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE MARVEL³" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="SHAREEXT@TELE_CINESKY_CANAIS",CINE_MARVEL
+http://s.pdsrv.io:80/claudio/claudio/60789
+#EXTINF:-1 tvg-id="" tvg-name="24H Cine Sessão Da Tarde" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="SHAREEXT@TELE_CINESKY_CANAIS",Cine_Sessão Da Tarde
+http://s.pdsrv.io:80/claudio/claudio/60777
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY LIGA DA JUSTIÇA" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="SHAREEXT@TELE_CINESKY_CANAIS",CINESKY_JusticeLiga
+http://s.pdsrv.io:80/claudio/claudio/77668
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="Cine Sky³" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="SHAREEXT@TELE_CINESKY_CANAIS",CineSky01
+http://s.pdsrv.io:80/claudio/claudio/59967
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="Cine Sky³ " tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="SHAREEXT@TELE_CINESKY_CANAIS",CineSky02
+http://s.pdsrv.io:80/claudio/claudio/59966
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="Cine Sky³ 3 HD" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="SHAREEXT@TELE_CINESKY_CANAIS",CineSky03 HD
+http://s.pdsrv.io:80/claudio/claudio/59968
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="Cine Sky³ 4 " tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="SHAREEXT@TELE_CINESKY_CANAIS",CineSky04
+http://s.pdsrv.io:80/claudio/claudio/59969
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="Cine Sky³ 5 HD" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="SHAREEXT@TELE_CINESKY_CANAIS",CineSky05 HD
+http://s.pdsrv.io:80/claudio/claudio/59970
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD¹" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x78_IMG_SKY_TC_ACTION_BLACK.png" group-title="SHAREEXT@TELE_CINESKY_CANAIS",Telecine_Action HD
+http://s.pdsrv.io:80/claudio/claudio/6080
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult HD¹" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x78_IMG_SKY_TC_CULT_BLACK.png" group-title="SHAREEXT@TELE_CINESKY_CANAIS",Telecine_Cult HD
+http://s.pdsrv.io:80/claudio/claudio/10247
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="Telecine Cult DUAL HD²" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x78_IMG_SKY_TC_CULT_BLACK.png" group-title="SHAREEXT@TELE_CINESKY_CANAIS",Telecine_Cult_DUAL HD
+http://s.pdsrv.io:80/claudio/claudio/97304
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD¹" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x78_IMG_SKY_TC_FUN_BLACK.png" group-title="SHAREEXT@TELE_CINESKY_CANAIS",Telecine_Fun HD
+http://s.pdsrv.io:80/claudio/claudio/6079
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca DUAL HD²" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x78_IMG_SKY_TC_PIPOCA_BLACK.png" group-title="SHAREEXT@TELE_CINESKY_CANAIS",Telecine_Pipoca_DUAL HD
+http://s.pdsrv.io:80/claudio/claudio/100572
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD H264 (LEGENDADOS)" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x78_IMG_SKY_TC_PIPOCA_BLACK.png" group-title="SHAREEXT@TELE_CINESKY_CANAIS",TELECINE_PIPOCA FHD(LEGENDADOS)
+http://s.pdsrv.io:80/claudio/claudio/58320
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca FHD²" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x78_IMG_SKY_TC_PIPOCA_BLACK.png" group-title="SHAREEXT@TELE_CINESKY_CANAIS",Telecine_Pipoca FHD
+http://s.pdsrv.io:80/claudio/claudio/100570
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD²" tvg-logo="http://ucsxiptv.com:8080/images/logos/b639bd1795267470d8d8dfd597df0adf.png" group-title="SHAREEXT@TELE_CINESKY_CANAIS",Telecine_Premium HD
+http://s.pdsrv.io:80/claudio/claudio/97321
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium DUAL HD²" tvg-logo="http://ucsxiptv.com:8080/images/43c3ce834b46834fc4f6696938466f08.png" group-title="SHAREEXT@TELE_CINESKY_CANAIS",Telecine_Premium DUAL HD
+http://s.pdsrv.io:80/claudio/claudio/97319
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD²" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x78_IMG_SKY_TC_TOUCH_BLACK.png" group-title="SHAREEXT@TELE_CINESKY_CANAIS",Telecine_Touch HD²
+http://s.pdsrv.io:80/claudio/claudio/100577
+
+
+
+
+
 #EXTINF:-1 tvg-ID="FOX" tvg-name="FOX HD" tvg-logo="http://img.miptv.ws/FOX_HD.png" group-title="SHAREEXT@Latino_Filmes",FOX HD
 http://cdn.miptv.ws:8880/vgxjb/vgxlj/841
 #EXTINF:-1 tvg-ID="FO1" tvg-name="FOX Premium HD" tvg-logo="http://img.miptv.ws/FOX_Premium_1_HD.png" group-title="SHAREEXT@Latino_Filmes",FOXPremium HD
