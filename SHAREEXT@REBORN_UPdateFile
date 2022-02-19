@@ -2919,6 +2919,14 @@ https://etus.link/spotvv?shareext.m3u8
 https://etus.link/bein1?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",BEIN2
 https://etus.link/bein2?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",beinsport1
+https://delivery.macan.network/stream/macan_sport_1/playlist.m3u8?token=d5v83&v=20200807
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",beinsport2
+https://delivery.macan.network/stream/macan_sport_2/playlist.m3u8?token=d5v83&v=20200807
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",useesport1
+https://delivery.macan.network/stream/macan_sport_3/playlist.m3u8?token=d5v83&v=20200807
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",useesport2
+https://delivery.macan.network/stream/macan_sport_4/playlist.m3u8?token=d5v83&v=20200807
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Bali TV(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
