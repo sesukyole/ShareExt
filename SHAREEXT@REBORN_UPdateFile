@@ -166,15 +166,12 @@ https://etus.link/bt2?shareext.ts
 https://etus.link/bt3?shareext.ts
 
 #EXTINF:-1 tvg-id="beinsports.my" tvg-name="beIN Sports" tvg-logo="http://tvmalaysia.cc:80/images/6b747581bd9a32ce47686fd2f486d509.png" group-title="SHAREEXT@LIVE|SPORTS",beINSports1(true)
-https://eiei.livedoomovie.com:4432/02_epl1_720p/chunklist.m3u8?shareext.ts
-https://wopep.com/02_epl1_720p/chunklist.m3u8
+https://www.livedoomovie.com:4432/02_epl1_720p/chunklist.m3u8?shareext.ts
 #EXTINF:-1 tvg-id="beinsports.my" tvg-name="beIN Sports" tvg-logo="http://tvmalaysia.cc:80/images/6b747581bd9a32ce47686fd2f486d509.png" group-title="SHAREEXT@LIVE|SPORTS",beINSports2(true)
-https://eiei.livedoomovie.com:4432/02_epl2_720p/chunklist.m3u8?shareext.ts
-https://wopep.com/02_epl2_720p/chunklist.m3u8
+https://www.livedoomovie.com:4432/02_epl2_720p/chunklist.m3u8?shareext.ts
 
 #EXTINF:-1 tvg-ID="FSP" tvg-name="Fox Sports" tvg-logo="http://img.miptv.ws/Fox_Sports_HD.png" group-title="SHAREEXT@LIVE|SPORTS",SPOTV
-https://eiei.livedoomovie.com:4432/02_foxsport_720p/chunklist.m3u8?shareext.ts
-https://wopep.com/02_foxsport_720p/chunklist.m3u8
+https://www.livedoomovie.com:4432/02_foxsport_720p/chunklist.m3u8?shareext.ts
 https://dik.si/SPOTV?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",UseeSport1
 https://dik.si/SukanUsee?shareext.ts
@@ -251,51 +248,30 @@ http://red.ipfox.org:8080/1234/12345678/37821
 
 
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0slWj9D_rxEzIpBr5-E0CE8p_YCYoHVrq-w&usqp=CAU" group-title="SHAREEXT@LIVE|SPORTS",TRUE SPORTS 1
-https://eiei.livedoomovie.com:4432/02_2sporthd1_720p/chunklist.m3u8?shareext.ts
-https://www.wopep.com/02_2sporthd1_720p/chunklist.m3u8
-
+https://www.livedoomovie.com:4432/02_2sporthd1_720p/chunklist.m3u8?shareext.ts
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReLtc6XlWbV4Fy_8k8NN65N4y9dBwdHN7xVg&usqp=CAU" group-title="SHAREEXT@LIVE|SPORTS",True Sports 2
-https://eiei.livedoomovie.com:4432/02_2sporthd2_720p/chunklist.m3u8?shareext.ts
-https://www.wopep.com/02_2sporthd2_720p/chunklist.m3u8
-
+https://www.livedoomovie.com:4432/02_2sporthd2_720p/chunklist.m3u8?shareext.ts
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTORwucRAkMu4tl9jj3o8g7yaBOIO4d3MKyTw&usqp=CAU" group-title="SHAREEXT@LIVE|SPORTS",True Sport 3
-https://eiei.livedoomovie.com:4432/02_2sporthd3_720p/chunklist.m3u8?shareext.ts
-https://www.wopep.com/02_2sporthd3_720p/chunklist.m3u8
-
+https://www.livedoomovie.com:4432/02_2sporthd3_720p/chunklist.m3u8?shareext.ts
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo6swU172thn33AVCdfE6cYqQIt4_kDmLiDQ&usqp=CAU" group-title="SHAREEXT@LIVE|SPORTS",True Sport 4
-https://eiei.livedoomovie.com:4432/02_2sporthd4_720p/chunklist.m3u8?shareext.ts
-https://www.wopep.com/02_2sporthd4_720p/chunklist.m3u8
-
+https://www.livedoomovie.com:4432/02_2sporthd4_720p/chunklist.m3u8?shareext.ts
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png" group-title="SHAREEXT@LIVE|SPORTS",True Sport PREMIER 1
-https://eiei.livedoomovie.com:4432/02_PremierHD1_720p/chunklist.m3u8?shareext.ts
-https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
-
+https://www.livedoomovie.com:4432/02_PremierHD1_720p/chunklist.m3u8?shareext.ts
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgds2irjhEOfFvIop83HGjPLQBCY6JU0gvsA&usqp=CAU" group-title="SHAREEXT@LIVE|SPORTS",True Sport Premier 2
-https://eiei.livedoomovie.com:4432/02_PremierHD2_720p/chunklist.m3u8?shareext.ts
-https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8
-
+https://www.livedoomovie.com:4432/02_PremierHD2_720p/chunklist.m3u8?shareext.ts
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScYtjMNMAWGthy0EyV2KQ1xCH87qWH-XNMLQ&usqp=CAU" group-title="SHAREEXT@LIVE|SPORTS",Qaz Sports
 http://92.46.127.146:8080/qazsport/index.m3u8
 
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18237661_ico.png?ts=1643086597" group-title="SHAREEXT@LIVE|SPORTS", SPORTTV 1
-https://eiei.livedoomovie.com:4432/02_SPORTTV_1_720p/chunklist.m3u8?shareext.ts
-https://www.wopep.com/02_SPORTTV_1_720p/chunklist.m3u8
-
+https://www.livedoomovie.com:4432/02_SPORTTV_1_720p/chunklist.m3u8?shareext.ts
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18237661_ico.png?ts=1643086597" group-title="SHAREEXT@LIVE|SPORTS", SPORTTV 2
-https://eiei.livedoomovie.com:4432/02_SPORTTV_2_720p/chunklist.m3u8?shareext.ts
-https://www.wopep.com/02_SPORTTV_2_720p/chunklist.m3u8
-
+https://www.livedoomovie.com:4432/02_SPORTTV_2_720p/chunklist.m3u8?shareext.ts
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18237661_ico.png?ts=1643086597" group-title="SHAREEXT@LIVE|SPORTS", SPORTTV 3
-https://eiei.livedoomovie.com:4432/02_SPORTTV_3_720p/chunklist.m3u8?shareext.ts
-https://www.wopep.com/02_SPORTTV_3_720p/chunklist.m3u8
-
+https://www.livedoomovie.com:4432/02_SPORTTV_3_720p/chunklist.m3u8?shareext.ts
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18237661_ico.png?ts=1643086597" group-title="SHAREEXT@LIVE|SPORTS", SPORTTV 4
-https://eiei.livedoomovie.com:4432/02_SPORTTV_4_720p/chunklist.m3u8?shareext.ts
-https://www.wopep.com/02_SPORTTV_4_720p/chunklist.m3u8
-
+https://www.livedoomovie.com:4432/02_SPORTTV_4_720p/chunklist.m3u8?shareext.ts
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18237661_ico.png?ts=1643086597" group-title="SHAREEXT@LIVE|SPORTS", SPORTTV 5
-https://eiei.livedoomovie.com:4432/02_SPORTTV_5_720p/chunklist.m3u8?shareext.ts
-https://www.wopep.com/02_SPORTTV_5_720p/chunklist.m3u8
+https://www.livedoomovie.com:4432/02_SPORTTV_5_720p/chunklist.m3u8?shareext.ts
 
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRys4Mt1eo1wyiEVcK4gDyL3rpS2JGKHhjBNQ&usqp=CAU" group-title="SHAREEXT@LIVE|SPORTS", TVRI SPORT HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
@@ -607,6 +583,23 @@ https://etus.link/champ1roll?shareext.ts
 https://etus.link/champ2roll?shareext.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@[ WORLD SPORTS ]",SPORT3(rolling)
 https://etus.link/champ3roll?shareext.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@[ WORLD SPORTS ]",BEIN_PREMIUM1
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/m3u8/hls_m3u8_Bein-Prem-1-HEVC.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@[ WORLD SPORTS ]",BEIN_PREMIUM2
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/m3u8/hls_m3u8_Bein-Prem-2-HEVC.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@[ WORLD SPORTS ]",BT_SPORT1/true
+https://www.livedoomovie.com:4432/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@[ WORLD SPORTS ]",BT_SPORT2/true
+https://www.livedoomovie.com:4432/02_BTSPORTHD_2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@[ WORLD SPORTS ]",RMC SPORT1(dec=native)
+https://stream.mmsiptv.com/droid/rmc1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@[ WORLD SPORTS ]",RMC SPORT2(dec=native)
+https://stream.mmsiptv.com/droid/rmc2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@[ WORLD SPORTS ]",RMC SPORT3(dec=native)
+https://stream.mmsiptv.com/droid/rmc3/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@[ WORLD SPORTS ]",UseeSport1
 http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=useesport&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@[ WORLD SPORTS ]",UseeSport2
@@ -741,6 +734,30 @@ http://televizoro.tk:25461/roforum.net/roforum.net/18202
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",Rock_Extreme
+http://group2-swiftservehd-1.dens.tv/h/h15/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",Rock_Enter
+http://group2-swiftservehd-1.dens.tv/h/h16/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",GEM
+http://group1-swiftservehd-1.dens.tv/h/h19/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",CinemaEuropa
+http://group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",TVN
+http://group2-swiftservehd-1.dens.tv/h/h20/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",TvnMovies
+http://group2-swiftservehd-1.dens.tv/h/h21/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",ANIPLUS
+http://group2-swiftservehd-1.dens.tv/h/h02/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",KIX
+http://group2-swiftservehd-1.dens.tv/h/h07/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",HITS
+http://group2-swiftservehd-1.dens.tv/h/h37/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",CINEMA_WORLD
+http://group2-swiftservehd-1.dens.tv/h/h04/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",K_PLUS
+http://group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 
 
 #EXTINF:-1 tvg-id="galaxypremium.id" tvg-name="Galaxy Premium" tvg-logo="http://tvmalaysia.cc:80/images/bc5b56c663e4476badfe70faae1ee75f.png" group-title="SHAREEXT@LIVE|MOVIE",GalaxyPremium
@@ -1710,17 +1727,17 @@ https://master.server-cdn-streaming.com/api/live-player/34/live.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",true golf
 https://master.server-cdn-streaming.com/api/live-player/35/live.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",truePREMIER.HD1
-https://eiei.livedoomovie.com:4432/02_PremierHD1_720p/chunklist.m3u8
+https://www.livedoomovie.com:4432/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",truePREMIER.HD2
-https://eiei.livedoomovie.com:4432/02_PremierHD2_720p/chunklist.m3u8
+https://www.livedoomovie.com:4432/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",trueSPORT.HD1
-https://eiei.livedoomovie.com:4432/02_2sporthd1_720p/chunklist.m3u8
+https://www.livedoomovie.com:4432/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",trueSPORT.HD2
-https://eiei.livedoomovie.com:4432/02_2sporthd2_720p/chunklist.m3u8
+https://www.livedoomovie.com:4432/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",trueSPORT.HD3
-https://eiei.livedoomovie.com:4432/02_2sporthd3_720p/chunklist.m3u8
+https://www.livedoomovie.com:4432/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/pV8rxz8X/Share-Ext-Muay-Thaii.jpg" group-title="SHAREEXT@SUKAN_BANGKOK",trueSPORT.HD4
-https://eiei.livedoomovie.com:4432/02_2sporthd4_720p/chunklist.m3u8
+https://www.livedoomovie.com:4432/02_2sporthd4_720p/chunklist.m3u8
 
 
 
@@ -1739,20 +1756,19 @@ https://ib.qqkkqqk.com/live/ch_5.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",THAIRATH_SPORTS
-https://eiei.livedoomovie.com:4432/02_THAIRATH_720p/chunklist.m3u8
-https://www.wopep.com/02_THAIRATH_720p/chunklist.m3u8
+https://www.livedoomovie.com:4432/02_THAIRATH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",TRUE_PREMIER1(smartTv)
-https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
+https://www.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",TRUE_PREMIER2(smartTv)
-https://smart-tv.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
+https://www.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",TRUE_SPORT1(smartTv)
-https://smart-tv.livedoomovie.com:4431/02_2sporthd1_720p/chunklist.m3u8
+https://www.livedoomovie.com:4431/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",TRUE_SPORT2(smartTv)
-https://smart-tv.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8
+https://www.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",TRUE_SPORT3(smartTv)
-https://smart-tv.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8
+https://www.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",TRUE_SPORT4(smartTv)
-https://smart-tv.livedoomovie.com:4431/02_2sporthd4_720p/chunklist.m3u8
+https://www.livedoomovie.com:4431/02_2sporthd4_720p/chunklist.m3u8
 
 
 
@@ -1849,39 +1865,6 @@ https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
 https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@PREMIUMMSport",MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",BEIN_PREMIUM1
-http://130.193.166.18/cache/Bein-Prem-1-HEVC/m3u8/hls_m3u8_Bein-Prem-1-HEVC.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",BEIN_PREMIUM2
-http://130.193.166.18/cache/Bein-Prem-2-HEVC/m3u8/hls_m3u8_Bein-Prem-2-HEVC.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",BT_SPORT1/true
-https://eiei.livedoomovie.com:4432/02_BTSPORTHD_1_720p/chunklist.m3u8
-https://www.wopep.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",BT_SPORT2/true
-https://eiei.livedoomovie.com:4432/02_BTSPORTHD_2_720p/chunklist.m3u8
-https://www.wopep.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",RMC SPORT1(dec=native)
-https://stream.mmsiptv.com/droid/rmc1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",RMC SPORT2(dec=native)
-https://stream.mmsiptv.com/droid/rmc2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@SPORTS_CHANNELS",RMC SPORT3(dec=native)
-https://stream.mmsiptv.com/droid/rmc3/playlist.m3u8
-
-
 
 
 
@@ -2082,8 +2065,7 @@ https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-sportst
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",TrueChineseMovie
-https://eiei.livedoomovie.com:4432/02_FoxMoviesHD_720p/chunklist.m3u8
-https://www.wopep.com/02_FoxMoviesHD_720p/chunklist.m3u8
+https://www.livedoomovie.com:4432/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASSP1
 http://lnk.ec/ASSP1?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",ASSP2
@@ -2127,14 +2109,11 @@ http://iptv.tvfix.org/hls/tvbws.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",LOTUS_MACAU(dec=auto)
 https://www.nettvpro.live/hls/lotustv.php
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",BeinSport1(true)
-https://eiei.livedoomovie.com:4432/02_epl1_720p/chunklist.m3u8
-https://www.wopep.com/02_epl1_720p/chunklist.m3u8
+https://www.livedoomovie.com:4432/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",BeinSport2(true)
-https://eiei.livedoomovie.com:4432/02_epl2_720p/chunklist.m3u8
-https://www.wopep.com/02_epl2_720p/chunklist.m3u8
+https://www.livedoomovie.com:4432/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",SPOTV(true)
-https://eiei.livedoomovie.com:4432/02_foxsport_720p/chunklist.m3u8
-https://wopep.com/02_foxsport_720p/chunklist.m3u8
+https://www.livedoomovie.com:4432/02_foxsport_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@ASTRO_CHANNELS",Astro BOO
@@ -2310,14 +2289,6 @@ https://etus.link/spotvv?shareext.m3u8
 https://etus.link/bein1?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",BEIN2
 https://etus.link/bein2?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",beinsport1
-https://delivery.macan.network/stream/macan_sport_1/playlist.m3u8?token=d5v83&v=20200807
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",beinsport2
-https://delivery.macan.network/stream/macan_sport_2/playlist.m3u8?token=d5v83&v=20200807
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",useesport1
-https://delivery.macan.network/stream/macan_sport_3/playlist.m3u8?token=d5v83&v=20200807
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",useesport2
-https://delivery.macan.network/stream/macan_sport_4/playlist.m3u8?token=d5v83&v=20200807
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Bali TV(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
