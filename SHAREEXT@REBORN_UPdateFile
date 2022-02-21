@@ -154,8 +154,8 @@ http://shareext@urtv.cc:80/live/297340/297340/7236.ts?shareext.ts
 http://shareext@urtv.cc:80/live/297340/297340/7237.ts?shareext.ts
 #EXTINF:-1 tvg-id="" tvg-name="FS 1" tvg-logo="http://tvmalaysia.cc:80/images/b4b42aee84ec26d35dc2b750d2b29b86.png" group-title="SHAREEXT@LIVE|SPORTS",FOXSPORTS 1
 http://shareext@urtv.cc:80/live/297340/297340/9003.ts?shareext.ts
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",MOTOR_VISION
+http://group1-swiftservehd-1.dens.tv/h/h09/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",BOLA_CHANEL
 https://etus.link/bolachanel?shareext.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",BT_SPORT1
