@@ -491,6 +491,29 @@ http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/62915
 
 
 
+
+
+
+
+#EXTINF:-1 tvg-id="tycsports2.ar" tvg-name="ARG: TYC SPORTS INTERNACIONAL" tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Argentina.png" group-title="ShareExt@LATINO_Sport",TYC_SPORTS INTERNACIONAL(arg)
+http://vmp343.ddnsking.com:80/david2/david2/126053
+#EXTINF:-1 tvg-id="foxsportsprem.ar" tvg-name="ARG: FOX SPORTS PREMIUM" tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Argentina.png" group-title="ShareExt@LATINO_Sport",FOXSPORTS_PREMIUM(argentina)
+http://vmp343.ddnsking.com:80/david2/david2/126055
+#EXTINF:-1 tvg-id="" tvg-name="PY: TIGO SPORTS" tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Paraguay.png" group-title="ShareExt@LATINO_Sport",TIGO_SPORTS(paraguay)
+http://vmp343.ddnsking.com:80/david2/david2/127586
+#EXTINF:-1 tvg-id="" tvg-name="PY: TIGO SPORTS 2" tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Paraguay.png" group-title="ShareExt@LATINO_Sport",TIGO_SPORTS2(paraguay)
+http://vmp343.ddnsking.com:80/david2/david2/127589
+#EXTINF:-1 tvg-id="" tvg-name="PY: TIGO SPORTS PLUS" tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Paraguay.png" group-title="ShareExt@LATINO_Sport",TIGO_SPORTS PLUS(paraguay)
+http://vmp343.ddnsking.com:80/david2/david2/127591
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 3" tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Argentina.png" group-title="ShareExt@LATINO_Sport",FOXSPORTS3(argentina)
+http://vmp343.ddnsking.com:80/david2/david2/195349
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 2" tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Argentina.png" group-title="ShareExt@LATINO_Sport",FOXSPORTS2(argentina)
+http://vmp343.ddnsking.com:80/david2/david2/195350
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 1" tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Argentina.png" group-title="ShareExt@LATINO_Sport",FOXSPORTS1(argentina)
+http://vmp343.ddnsking.com:80/david2/david2/195351
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN ARGENTINA" tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Argentina.png" group-title="ShareExt@LATINO_Sport",ESPN_ARGENTINA
+http://vmp343.ddnsking.com:80/david2/david2/196301
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@LATINO_Sport",BandSports HD
 http://cdn.canais.cc:80/55115039/cliente@5039/104702
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@LATINO_Sport",Combate HD
@@ -590,6 +613,64 @@ http://s.pdsrv.io:80/claudio/claudio/104106
 http://s.pdsrv.io:80/claudio/claudio/104107
 
 
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="WORLD SPORT: SKY SPORT AUSTRIA 01" tvg-logo="https://archive.org/download/tvlogos/World%20Sprots.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SKYSPORT_AUSTRIA 01
+http://vmp343.ddnsking.com:80/david2/david2/394937
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="WORLD SPORT: SKY SPORT AUSTRIA 02" tvg-logo="https://archive.org/download/tvlogos/World%20Sprots.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SKYSPORT_AUSTRIA 02
+http://vmp343.ddnsking.com:80/david2/david2/394938
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="WORLD SPORT: SKY SPORT AUSTRIA 03" tvg-logo="https://archive.org/download/tvlogos/World%20Sprots.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SKYSPORT_AUSTRIA 03
+http://vmp343.ddnsking.com:80/david2/david2/394939
+#EXTINF:-1 tvg-id="" tvg-name="WORLD SPORT: RUSH SPORT 01" tvg-logo="https://archive.org/download/tvlogos/World%20Sprots.png" group-title="SHAREEXT@[ WORLD SPORTS ]",RUSH_SPORT 01
+http://vmp343.ddnsking.com:80/david2/david2/394980
+#EXTINF:-1 tvg-id="" tvg-name="WORLD SPORT: FLOW SPORTS 01" tvg-logo="https://archive.org/download/tvlogos/World%20Sprots.png" group-title="SHAREEXT@[ WORLD SPORTS ]",FLOW_SPORTS 01
+http://vmp343.ddnsking.com:80/david2/david2/394985
+#EXTINF:-1 tvg-id="" tvg-name="WORLD SPORT: SUPER SPORT LALIGA" tvg-logo="https://archive.org/download/tvlogos/World%20Sprots.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SUPERSPORT_LALIGA
+http://vmp343.ddnsking.com:80/david2/david2/394991
+#EXTINF:-1 tvg-id="" tvg-name="WORLD SPORT: SUPER SPORT PREMIER LEAUGE" tvg-logo="https://archive.org/download/tvlogos/World%20Sprots.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SUPERSPORT_PREMIERLEAUGE
+http://vmp343.ddnsking.com:80/david2/david2/394993
+#EXTINF:-1 tvg-id="" tvg-name="WORLD SPORT: SUPER SPORT FOOTBALL" tvg-logo="https://archive.org/download/tvlogos/World%20Sprots.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SUPERSPORT_FOOTBALL
+http://vmp343.ddnsking.com:80/david2/david2/394994
+#EXTINF:-1 tvg-id="" tvg-name="WORLD SPORT: SUPER SPORT ACTION" tvg-logo="https://archive.org/download/tvlogos/World%20Sprots.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SUPERSPORT_ACTION
+http://vmp343.ddnsking.com:80/david2/david2/394996
+#EXTINF:-1 tvg-id="" tvg-name="WORLD SPORT: SUPER SPORT CRICKET" tvg-logo="https://archive.org/download/tvlogos/World%20Sprots.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SUPERSPORT_CRICKET
+http://vmp343.ddnsking.com:80/david2/david2/394998
+#EXTINF:-1 tvg-id="" tvg-name="WORLD SPORT: SUPER SPORT BLITZ" tvg-logo="https://archive.org/download/tvlogos/World%20Sprots.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SUPERSPORT_BLITZ
+http://vmp343.ddnsking.com:80/david2/david2/394999
+#EXTINF:-1 tvg-id="" tvg-name="WORLD SPORT: SUPER SPORT MAXIMO" tvg-logo="https://archive.org/download/tvlogos/World%20Sprots.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SUPERSPORT_MAXIMO
+http://vmp343.ddnsking.com:80/david2/david2/395000
+#EXTINF:-1 tvg-id="" tvg-name="WORLD SPORT: SUPER SPORT GOLF" tvg-logo="https://archive.org/download/tvlogos/World%20Sprots.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SUPERSPORT_GOLF
+http://vmp343.ddnsking.com:80/david2/david2/395001
+#EXTINF:-1 tvg-id="" tvg-name="WORLD SPORT: SUPER SPORT TENNIS" tvg-logo="https://archive.org/download/tvlogos/World%20Sprots.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SUPERSPORT_TENNIS
+http://vmp343.ddnsking.com:80/david2/david2/395002
+#EXTINF:-1 tvg-id="" tvg-name="WORLD SPORT: SUPER SPORT MOTORSPORT" tvg-logo="https://archive.org/download/tvlogos/World%20Sprots.png" group-title="SHAREEXT@[ WORLD SPORTS ]",SUPERSPORT_MOTORSPORT
+http://vmp343.ddnsking.com:80/david2/david2/395004
+#EXTINF:-1 tvg-id="" tvg-name="WORLD SPORT: TELEKOM EISHOCKY 01" tvg-logo="https://archive.org/download/tvlogos/World%20Sprots.png" group-title="SHAREEXT@[ WORLD SPORTS ]",TELEKOM_EISHOCKY 01
+http://vmp343.ddnsking.com:80/david2/david2/395014
+#EXTINF:-1 tvg-id="" tvg-name="WORLD SPORT: TELEKOM EISHOCKY 02" tvg-logo="https://archive.org/download/tvlogos/World%20Sprots.png" group-title="SHAREEXT@[ WORLD SPORTS ]",TELEKOM_EISHOCKY 02
+http://vmp343.ddnsking.com:80/david2/david2/395015
+#EXTINF:-1 tvg-id="" tvg-name="WORLD SPORT: TELEKOM EISHOCKY 05" tvg-logo="https://archive.org/download/tvlogos/World%20Sprots.png" group-title="SHAREEXT@[ WORLD SPORTS ]",TELEKOM_EISHOCKY 05
+http://vmp343.ddnsking.com:80/david2/david2/395018
+#EXTINF:-1 tvg-id="" tvg-name="WORLD SPORT: TELEKOM EISHOCKY 06" tvg-logo="https://archive.org/download/tvlogos/World%20Sprots.png" group-title="SHAREEXT@[ WORLD SPORTS ]",TELEKOM_EISHOCKY 06
+http://vmp343.ddnsking.com:80/david2/david2/395019
+#EXTINF:-1 tvg-id="" tvg-name="WORLD SPORT: TELEKOM BASKETBALL 01" tvg-logo="https://archive.org/download/tvlogos/World%20Sprots.png" group-title="SHAREEXT@[ WORLD SPORTS ]",TELEKOM_BASKETBALL 01
+http://vmp343.ddnsking.com:80/david2/david2/395021
+#EXTINF:-1 tvg-id="" tvg-name="WORLD SPORT: TELEKOM BASKETBALL 02" tvg-logo="https://archive.org/download/tvlogos/World%20Sprots.png" group-title="SHAREEXT@[ WORLD SPORTS ]",TELEKOM_BASKETBALL 02
+http://vmp343.ddnsking.com:80/david2/david2/395022
+#EXTINF:-1 tvg-id="" tvg-name="WORLD SPORT: POLSAT SPORT 01" tvg-logo="https://archive.org/download/tvlogos/World%20Sprots.png" group-title="SHAREEXT@[ WORLD SPORTS ]",POLSAT_SPORT 01
+http://vmp343.ddnsking.com:80/david2/david2/395041
+#EXTINF:-1 tvg-id="" tvg-name="WORLD SPORT: POLSAT SPORT 02" tvg-logo="https://archive.org/download/tvlogos/World%20Sprots.png" group-title="SHAREEXT@[ WORLD SPORTS ]",POLSAT_SPORT 02
+http://vmp343.ddnsking.com:80/david2/david2/395042
+#EXTINF:-1 tvg-id="" tvg-name="WORLD SPORT: POLSAT SPORT 03" tvg-logo="https://archive.org/download/tvlogos/World%20Sprots.png" group-title="SHAREEXT@[ WORLD SPORTS ]",POLSAT_SPORT 03
+http://vmp343.ddnsking.com:80/david2/david2/395043
+#EXTINF:-1 tvg-id="" tvg-name="WORLD SPORT: POLSAT SPORT 04" tvg-logo="https://archive.org/download/tvlogos/World%20Sprots.png" group-title="SHAREEXT@[ WORLD SPORTS ]",POLSAT_SPORT 04
+http://vmp343.ddnsking.com:80/david2/david2/395044
 
 
 
