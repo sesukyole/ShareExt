@@ -297,6 +297,115 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 
 
 
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: SKY SPORTS MAIN EVENT" tvg-logo="https://archive.org/download/tvlogos/SkySportsMainEvent.png" group-title="SHAREEXT@UK|SPORTS",SKYSPORTS MAINEVENT
+http://vmp343.ddnsking.com:80/david2/david2/549001
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: SKY SPORTS PREMIER LEAGUE" tvg-logo="https://archive.org/download/tvlogos/SkySportsPremereLeague.png" group-title="SHAREEXT@UK|SPORTS",SKYSPORTS PREMIERLEAGUE
+http://vmp343.ddnsking.com:80/david2/david2/549002
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: SKY SPORTS FOOTBALL" tvg-logo="https://archive.org/download/tvlogos/SkySportsFootball.png" group-title="SHAREEXT@UK|SPORTS",SKYSPORTS FOOTBALL
+http://vmp343.ddnsking.com:80/david2/david2/549003
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: SKY SPORTS CRICKET" tvg-logo="https://archive.org/download/tvlogos/SkySportsCricket.png" group-title="SHAREEXT@UK|SPORTS",SKYSPORTS CRICKET
+http://vmp343.ddnsking.com:80/david2/david2/549004
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: SKY SPORTS GOLF" tvg-logo="https://archive.org/download/tvlogos/SkySportsGolf.png" group-title="SHAREEXT@UK|SPORTS",SKYSPORTS GOLF
+http://vmp343.ddnsking.com:80/david2/david2/549005
+#EXTINF:-1 tvg-id="skysportsnfl.uk" tvg-name="UK: SKY SPORTS NFL" tvg-logo="https://archive.org/download/tvlogos/UK%20-%20Sky%20Sports%20NFL.png" group-title="SHAREEXT@UK|SPORTS",SKYSPORTS NFL
+http://vmp343.ddnsking.com:80/david2/david2/549006
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: SKY SPORTS ARENA" tvg-logo="https://archive.org/download/tvlogos/SkySportsArena.png" group-title="SHAREEXT@UK|SPORTS",SKYSPORTS ARENA
+http://vmp343.ddnsking.com:80/david2/david2/549007
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="UK: SKY SPORTS RACING" tvg-logo="https://archive.org/download/tvlogos/UK%20-%20Sky%20Sports%20Racing.png" group-title="SHAREEXT@UK|SPORTS",SKYSPORTS RACING
+http://vmp343.ddnsking.com:80/david2/david2/549008
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: SKY SPORTS MIX" tvg-logo="https://archive.org/download/tvlogos/SkySportsMix.png" group-title="SHAREEXT@UK|SPORTS",SKYSPORTS MIX
+http://vmp343.ddnsking.com:80/david2/david2/549009
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: SKY SPORTS NEWS" tvg-logo="https://archive.org/download/tvlogos/SkySportsNews.png" group-title="SHAREEXT@UK|SPORTS",SKYSPORTS NEWS
+http://vmp343.ddnsking.com:80/david2/david2/549010
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK: EUROSPORT 1" tvg-logo="https://archive.org/download/tvlogos/British%20EuroSport%201.png" group-title="SHAREEXT@UK|SPORTS",EUROSPORT 1
+http://vmp343.ddnsking.com:80/david2/david2/549011
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK: EUROSPORT 2" tvg-logo="https://archive.org/download/tvlogos/British%20EuroSport%202.png" group-title="SHAREEXT@UK|SPORTS",EUROSPORT 2
+http://vmp343.ddnsking.com:80/david2/david2/549012
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="UK: PREMIER SPORTS 1" tvg-logo="https://archive.org/download/tvlogos/Premier%20Sports%201.png" group-title="SHAREEXT@UK|SPORTS",PREMIERSPORTS 1
+http://vmp343.ddnsking.com:80/david2/david2/549013
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="UK: PREMIER SPORTS 2" tvg-logo="https://archive.org/download/tvlogos/Premier%20Sports%202.png" group-title="SHAREEXT@UK|SPORTS",PREMIERSPORTS 2
+http://vmp343.ddnsking.com:80/david2/david2/549014
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: BT SPORT 1" tvg-logo="https://archive.org/download/tvlogos/BT%20Sport%201.png" group-title="SHAREEXT@UK|SPORTS",BT_SPORT 1
+http://vmp343.ddnsking.com:80/david2/david2/549015
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: BT SPORT 2" tvg-logo="https://archive.org/download/tvlogos/BT%20Sport%202.png" group-title="SHAREEXT@UK|SPORTS",BT_SPORT 2
+http://vmp343.ddnsking.com:80/david2/david2/549016
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: BT SPORT 3" tvg-logo="https://archive.org/download/tvlogos/BtSport3.png" group-title="SHAREEXT@UK|SPORTS",BT_SPORT 3
+http://vmp343.ddnsking.com:80/david2/david2/549017
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="UK: BT SPORT ESPN" tvg-logo="https://archive.org/download/tvlogos/BtSportEspn.png" group-title="SHAREEXT@UK|SPORTS",BT_SPORT ESPN
+http://vmp343.ddnsking.com:80/david2/david2/549018
+#EXTINF:-1 tvg-id="btsportx1.uk" tvg-name="UK: BT SPORT EXTRA 1" tvg-logo="https://archive.org/download/tvlogos/BtSportExtra.png" group-title="SHAREEXT@UK|SPORTS",BT_SPORT EXTRA 1
+http://vmp343.ddnsking.com:80/david2/david2/549019
+#EXTINF:-1 tvg-id="btsportx2.uk" tvg-name="UK: BT SPORT EXTRA 2" tvg-logo="https://archive.org/download/tvlogos/BtSportExtra2.png" group-title="SHAREEXT@UK|SPORTS",BT_SPORT EXTRA 2
+http://vmp343.ddnsking.com:80/david2/david2/549020
+#EXTINF:-1 tvg-id="btsportx3.uk" tvg-name="UK: BT SPORT EXTRA 3" tvg-logo="https://archive.org/download/tvlogos/BtSportExtra3.png" group-title="SHAREEXT@UK|SPORTS",BT_SPORT EXTRA 3
+http://vmp343.ddnsking.com:80/david2/david2/549021
+#EXTINF:-1 tvg-id="btsportx4.uk" tvg-name="UK: BT SPORT EXTRA 4" tvg-logo="https://archive.org/download/tvlogos/BtSportExtra4.png" group-title="SHAREEXT@UK|SPORTS",BT_SPORT EXTRA 4
+http://vmp343.ddnsking.com:80/david2/david2/549022
+#EXTINF:-1 tvg-id="btsportx5.uk" tvg-name="UK: BT SPORT EXTRA 5" tvg-logo="https://archive.org/download/tvlogos/BtSportExtra5.png" group-title="SHAREEXT@UK|SPORTS",BT_SPORT EXTRA 5
+http://vmp343.ddnsking.com:80/david2/david2/549023
+#EXTINF:-1 tvg-id="btsportx6.uk" tvg-name="UK: BT SPORT EXTRA 6" tvg-logo="" group-title="SHAREEXT@UK|SPORTS",BT_SPORT EXTRA 6
+http://vmp343.ddnsking.com:80/david2/david2/549024
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: EIR SPORTS 1" tvg-logo="https://archive.org/download/tvlogos/EirSport1.png" group-title="SHAREEXT@UK|SPORTS",EIR_SPORTS 1
+http://vmp343.ddnsking.com:80/david2/david2/549025
+#EXTINF:-1 tvg-id="" tvg-name="UK: POKER STARS" tvg-logo="https://archive.org/download/tvlogos/UK%20-%20Pokerstars.png" group-title="SHAREEXT@UK|SPORTS",POKER STARS
+http://vmp343.ddnsking.com:80/david2/david2/549026
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK: MUTV" tvg-logo="https://archive.org/download/tvlogos/MUTV.png" group-title="SHAREEXT@UK|SPORTS",MUTV
+http://vmp343.ddnsking.com:80/david2/david2/549027
+#EXTINF:-1 tvg-id="LiverpoolFCTV.uk" tvg-name="UK: LFCTV" tvg-logo="https://archive.org/download/tvlogos/LfcTv.png" group-title="SHAREEXT@UK|SPORTS",LFCTV
+http://vmp343.ddnsking.com:80/david2/david2/549028
+#EXTINF:-1 tvg-id="freesports.uk" tvg-name="UK: FREESPORTS" tvg-logo="https://archive.org/download/tvlogos/FreeSports.png" group-title="SHAREEXT@UK|SPORTS",FREESPORTS
+http://vmp343.ddnsking.com:80/david2/david2/549029
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="UK: RACING TV" tvg-logo="https://archive.org/download/tvlogos/UK%20-%20Racing%20TV.png" group-title="SHAREEXT@UK|SPORTS",RACING TV
+http://vmp343.ddnsking.com:80/david2/david2/549030
+#EXTINF:-1 tvg-id="boxnation.uk" tvg-name="UK: BOX NATION" tvg-logo="https://archive.org/download/tvlogos/BoxNation.png" group-title="SHAREEXT@UK|SPORTS",BOX_NATION
+http://vmp343.ddnsking.com:80/david2/david2/549031
+#EXTINF:-1 tvg-id="ginxesportstv.uk" tvg-name="UK: GINX E-SPORTS" tvg-logo="https://archive.org/download/tvlogos/Ginx.png" group-title="SHAREEXT@UK|SPORTS",GINX E-SPORTS
+http://vmp343.ddnsking.com:80/david2/david2/549032
+#EXTINF:-1 tvg-id="sportystuff.uk" tvg-name="UK: SPORTY STUFF TV" tvg-logo="https://archive.org/download/tvlogos/UK%20-%20Sporty%20stuff%20tv.png" group-title="SHAREEXT@UK|SPORTS",SPORTY STUFF TV
+http://vmp343.ddnsking.com:80/david2/david2/549033
+#EXTINF:-1 tvg-id="laligatv.uk" tvg-name="UK: LA LIGA TV" tvg-logo="https://archive.org/download/tvlogos/UK%20-%20Laliga.png" group-title="SHAREEXT@UK|SPORTS",LALIGA TV
+http://vmp343.ddnsking.com:80/david2/david2/549034
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORT VARIETY 01" tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Africa.png" group-title="SHAREEXT@DSTV(AFRICA)",SUPERSPORT VARIETY 01
+http://vmp343.ddnsking.com:80/david2/david2/193720
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORT LA LIGA" tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Africa.png" group-title="SHAREEXT@DSTV(AFRICA)",SUPERSPORT LALIGA
+http://vmp343.ddnsking.com:80/david2/david2/193721
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORT MOTORSPORT" tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Africa.png" group-title="SHAREEXT@DSTV(AFRICA)",SUPERSPORT MOTORSPORT
+http://vmp343.ddnsking.com:80/david2/david2/193722
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORT PLAY" tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Africa.png" group-title="SHAREEXT@DSTV(AFRICA)",SUPERSPORT PLAY
+http://vmp343.ddnsking.com:80/david2/david2/193723
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORT VARIETY 02" tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Africa.png" group-title="SHAREEXT@DSTV(AFRICA)",SUPERSPORT VARIETY 02
+http://vmp343.ddnsking.com:80/david2/david2/193724
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORT VARIETY 03" tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Africa.png" group-title="SHAREEXT@DSTV(AFRICA)",SUPERSPORT VARIETY 03
+http://vmp343.ddnsking.com:80/david2/david2/193725
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORT VARIETY 04" tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Africa.png" group-title="SHAREEXT@DSTV(AFRICA)",SUPERSPORT VARIETY 04
+http://vmp343.ddnsking.com:80/david2/david2/193726
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORT ACTION" tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Africa.png" group-title="SHAREEXT@DSTV(AFRICA)",SUPERSPORT ACTION
+http://vmp343.ddnsking.com:80/david2/david2/193727
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORT BLITZ" tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Africa.png" group-title="SHAREEXT@DSTV(AFRICA)",SUPERSPORT BLITZ
+http://vmp343.ddnsking.com:80/david2/david2/193728
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORT CRICKET" tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Africa.png" group-title="SHAREEXT@DSTV(AFRICA)",SUPERSPORT CRICKET
+http://vmp343.ddnsking.com:80/david2/david2/193729
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORT GOLF" tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Africa.png" group-title="SHAREEXT@DSTV(AFRICA)",SUPERSPORT GOLF
+http://vmp343.ddnsking.com:80/david2/david2/193730
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORT GRANDSTAND" tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Africa.png" group-title="SHAREEXT@DSTV(AFRICA)",SUPERSPORT GRANDSTAND
+http://vmp343.ddnsking.com:80/david2/david2/193731
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORT BLITZ" tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Africa.png" group-title="SHAREEXT@DSTV(AFRICA)",SUPERSPORT BLITZ
+http://vmp343.ddnsking.com:80/david2/david2/193732
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORT MÁXIMO" tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Africa.png" group-title="SHAREEXT@DSTV(AFRICA)",SUPERSPORT MÁXIMO
+http://vmp343.ddnsking.com:80/david2/david2/193733
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: WWE SUPERSLAM" tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Africa.png" group-title="SHAREEXT@DSTV(AFRICA)",WWE SUPERSLAM
+http://vmp343.ddnsking.com:80/david2/david2/193743
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png"group-title="SHAREEXT@ARAB_BEISPORTS",BEINSPORTS_NEWS HD
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9152
