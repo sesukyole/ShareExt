@@ -63,9 +63,15 @@ http://tvn.x10.bz/vidio/master-8.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",ChampionTv4
 http://tvn.x10.bz/vidio/master-17.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",UseeSport1
+https://portaltv.xyz/iptv/ngapain/usehls.m3u8?id=useesport
 http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=useesport&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",UseeSport2
+https://portaltv.xyz/iptv/ngapain/usehls.m3u8?id=useesports2
 http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=useesports2&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",SpotV
+https://portaltv.xyz/iptv/ngapain/usehls.m3u8?id=spotv
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",UseeSport1(rolling)
 https://dik.si/SukanUsee?shareext.ts
