@@ -3147,6 +3147,8 @@ http://iptv.tvfix.org/hls/cctv3hd.m3u8
 http://iptv.tvfix.org/hls/cctv4hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",CCTV5體育
 http://iptv.tvfix.org/hls/cctv5hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",CCTV5_plus體育
+http://iptv.tvfix.org/hls/cctv5phd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",CCTV6電影
 http://iptv.tvfix.org/hls/cctv6hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",CCTV7國防軍事
