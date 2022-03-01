@@ -58,19 +58,19 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",LIGA1&2
-http://tvn.x10.bz/vidio/master.m3u8
+http://tvn.x10.bz/xchannel/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",O_channel
-http://tvn.x10.bz/vidio/master-18.m3u8
+http://tvn.x10.bz/xchannel/master-18.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",TRUE_PREMIER3(rolling)
 http://4digital.ddns.net:11222/ts/0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",ChampionTv1
-http://tvn.x10.bz/vidio/master-6.m3u8
+http://tvn.x10.bz/xchannel/master-6.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",ChampionTv2
-http://tvn.x10.bz/vidio/master-7.m3u8
+http://tvn.x10.bz/xchannel/master-7.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",ChampionTv3
-http://tvn.x10.bz/vidio/master-8.m3u8
+http://tvn.x10.bz/xchannel/master-8.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",ChampionTv4
-http://tvn.x10.bz/vidio/master-17.m3u8
+http://tvn.x10.bz/xchannel/master-17.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",UseeSport1
 https://portaltv.xyz/iptv/ngapain/usehls.m3u8?id=useesport
 http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=useesport&gumisasakTV=default&sync=0
@@ -2471,32 +2471,32 @@ https://lnk.ec/HBOsigHD?shareext.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Indosiar
-http://tvn.x10.bz/vidio/master.m3u8
+http://tvn.x10.bz/xchannel/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",CitraBioskop
-http://tvn.x10.bz/vidio/master-1.m3u8
+http://tvn.x10.bz/xchannel/master-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",CitraDrama
-http://tvn.x10.bz/vidio/master-2.m3u8
+http://tvn.x10.bz/xchannel/master-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",LFCTV
-http://tvn.x10.bz/vidio/master-3.m3u8
+http://tvn.x10.bz/xchannel/master-3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",HIP2HOREE
-http://tvn.x10.bz/vidio/master-4.m3u8
+http://tvn.x10.bz/xchannel/master-4.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Horee
-http://tvn.x10.bz/vidio/master-5.m3u8
+http://tvn.x10.bz/xchannel/master-5.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",CitraMuslim
-http://tvn.x10.bz/vidio/master-9.m3u8
+http://tvn.x10.bz/xchannel/master-9.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",CitraDangdut
-http://tvn.x10.bz/vidio/master-10.m3u8
+http://tvn.x10.bz/xchannel/master-10.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",CitraEntertainmend
-http://tvn.x10.bz/vidio/master-11.m3u8
+http://tvn.x10.bz/xchannel/master-11.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",AnTv
-http://tvn.x10.bz/vidio/master-12.m3u8
+http://tvn.x10.bz/xchannel/master-12.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",TvOne
-http://tvn.x10.bz/vidio/master-13.m3u8
+http://tvn.x10.bz/xchannel/master-13.m3u8
 https://tvnid.wapgem.com/vidio/master-13.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",PramborFM
-http://tvn.x10.bz/vidio/master-14.m3u8
+http://tvn.x10.bz/xchannel/master-14.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",TVN
-http://tvn.x10.bz/vidio/master-16.m3u8
+http://tvn.x10.bz/xchannel/master-16.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",RCTI_plus(dec=native)
