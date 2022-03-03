@@ -210,6 +210,67 @@ http://185.152.66.55/98776/tracks-v1a1/mono.m3u8?shareext.ts
 http://185.152.66.55/98778/tracks-v1a1/mono.m3u8?shareext.ts
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",SuperSport1(Albania)
+http://185.204.32.49:6735/UltraNetS1/stream/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",SuperSport2(Albania)
+http://185.204.32.49:6735/UltraNetS2/stream/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",SuperSport3(Albania)
+http://185.204.32.49:6735/UltraNetS3/stream/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",SuperSport4(Albania)
+http://185.204.32.49:6735/UltraNetS4/stream/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",NRT_SPORT_HD 馃嚠馃嚩 
+http://190.2.148.141:8080/bar7638/tracks-v1a1/mono.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",ADJARASPORT 1 馃嚞馃嚜 
+http://5.178.129.16/adjarasport_live/LiveTV/mono.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",Adjarasport 2 馃嚞馃嚜 
+http://5.178.129.16/adjarasport_live/LiveTV2/mono.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",TRING_SPORT 1HD 馃嚘馃嚤 
+http://45.58.122.106:8081/live/ts1/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",TRING_SPORT 2HD 馃嚘馃嚤 
+http://45.58.122.106:8081/live/ts2/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",Live_Sports(pk) 馃嚨馃嚤 
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",SERIE_A 馃嚠馃嚬 
+http://217.174.225.146/hls/ch004_720/index.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",LAX_SPORTS 
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",TELEDEPORTE 馃嚜馃嚫 
+http://91.126.141.13:1935/live/91/1800-def.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",BeinSport1(true)
+https://iioap-21iigk-agbmpd.googglecdns.com/edu/ch01/chunks.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",BeinSport2(true)
+https://iioap-21iigk-agbmpd.googglecdns.com/edu/ch02/chunks.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",Beinsport_xtra_n
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",Beinsport_xtra
+https://siloh.pluto.tv/lilo/production/bein/1/master_3.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",ArenaSports 1
+http://46.29.169.15:4001/play/a002/index.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",ArenaSports 2
+http://46.29.169.15:4001/play/a003/index.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",ArenaSports 3
+http://46.29.169.15:4001/play/a004/index.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",ArenaSports 4
+http://46.29.169.15:4001/play/a005/index.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",ArenaSports 5
+http://46.29.169.15:4001/play/a006/index.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",ArenaSports 6
+http://46.29.169.15:4001/play/a007/index.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",ArenaSports_Premium 1
+http://46.29.169.15:4001/play/a00g/index.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",ArenaSports_Premium 2
+http://46.29.169.15:4001/play/a00h/index.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",ArenaSports_Premium 3
+http://46.29.169.15:4001/play/a00i/index.m3u8?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : SPORT KLUB 1" tvg-logo="http://p2086.securepoint.io:2086/images/17584a75c3f522d3ebb348fe2dc06356.png" group-title="SHAREEXT@LIVE|SPORTS",SK1-HD
+http://46.29.169.15:4001/play/a001/index.m3u8?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : SPORT KLUB 4" tvg-logo="http://p2086.securepoint.io:2086/images/17584a75c3f522d3ebb348fe2dc06356.png" group-title="SHAREEXT@LIVE|SPORTS",Sport_Klub 4
+http://46.29.169.15:4001/play/a00q/index.m3u8?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : SPORT KLUB 5" tvg-logo="http://p2086.securepoint.io:2086/images/17584a75c3f522d3ebb348fe2dc06356.png" group-title="SHAREEXT@LIVE|SPORTS",Sport_Klub 5
+http://46.29.169.15:4001/play/a00r/index.m3u8?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : SPORT KLUB 6" tvg-logo="http://p2086.securepoint.io:2086/images/17584a75c3f522d3ebb348fe2dc06356.png" group-title="SHAREEXT@LIVE|SPORTS",Sport_Klub 6
+http://46.29.169.15:4001/play/a00s/index.m3u8?shareext.ts
+
 
 #EXTINF:-1 tvg-id="astroarena.my" tvg-name="ASTRO Arena HD" tvg-logo="http://tvmalaysia.cc:80/images/9bfeb1c6e3d87c0d27a5d12326aa7a5a.png" group-title="SHAREEXT@LIVE|SPORTS",ASTRO Arena HD
 http://shareext@urtv.cc:80/live/297340/297340/6707.ts?shareext.ts
