@@ -3087,6 +3087,43 @@ http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch51-2.m3
 
 
 
+#EXTINF: -1 tvg-id="CCTV1.cn" tvg-name="[CN] CCTV-1 综合 HD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="SHAREEXT@CCTV_CHINA",CCTV-1 综合 HD
+https://m3u-editor.com/serve/63b3b170-96de-11ec-8dad-c3eebe567371/509329207
+#EXTINF: -1 tvg-id="CCTV2.cn" tvg-name="[CN] CCTV-2 财经" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="SHAREEXT@CCTV_CHINA",CCTV-2 财经
+https://m3u-editor.com/serve/63b3b170-96de-11ec-8dad-c3eebe567371/509329208
+#EXTINF: -1 tvg-id="CCTV3.cn" tvg-name="[CN] CCTV-3 综艺 HD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="SHAREEXT@CCTV_CHINA",CCTV-3 综艺 HD
+https://m3u-editor.com/serve/63b3b170-96de-11ec-8dad-c3eebe567371/509329209
+#EXTINF: -1 tvg-id="CCTV4.cn" tvg-name="[CN] CCTV-4 中文国际" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="SHAREEXT@CCTV_CHINA",CCTV-4 中文国际
+https://m3u-editor.com/serve/63b3b170-96de-11ec-8dad-c3eebe567371/509329210
+#EXTINF: -1 tvg-id="CCTV5.cn" tvg-name="[CN] CCTV-5 体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="SHAREEXT@CCTV_CHINA",CCTV-5 体育频道
+https://m3u-editor.com/serve/63b3b170-96de-11ec-8dad-c3eebe567371/509329211
+#EXTINF: -1 tvg-id="CCTV5Plus.cn" tvg-name="[CN] CCTV-5+ 体育赛事 HD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="SHAREEXT@CCTV_CHINA",CCTV-5+ 体育赛事 HD
+https://m3u-editor.com/serve/63b3b170-96de-11ec-8dad-c3eebe567371/509329212
+#EXTINF: -1 tvg-id="CCTV6.cn" tvg-name="[CN] CCTV-6电影" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="SHAREEXT@CCTV_CHINA",CCTV-6电影
+https://m3u-editor.com/serve/63b3b170-96de-11ec-8dad-c3eebe567371/509329213
+#EXTINF: -1 tvg-id="CCTV7.cn" tvg-name="[CN] CCTV-7 军事农业" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="SHAREEXT@CCTV_CHINA",CCTV-7 军事农业
+https://m3u-editor.com/serve/63b3b170-96de-11ec-8dad-c3eebe567371/509329214
+#EXTINF: -1 tvg-id="CCTV8.cn" tvg-name="[CN] CCTV-8 电视剧 HD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="SHAREEXT@CCTV_CHINA",CCTV-8 电视剧 HD
+https://m3u-editor.com/serve/63b3b170-96de-11ec-8dad-c3eebe567371/509329215
+#EXTINF: -1 tvg-id="CCTV9.cn" tvg-name="[CN] CCTV-9 记录 HD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="SHAREEXT@CCTV_CHINA",CCTV-9 记录 HD
+https://m3u-editor.com/serve/63b3b170-96de-11ec-8dad-c3eebe567371/509329216
+#EXTINF: -1 tvg-id="CCTV10.cn" tvg-name="[CN] CCTV-10 科教 HD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="SHAREEXT@CCTV_CHINA",CCTV-10 科教 HD
+https://m3u-editor.com/serve/63b3b170-96de-11ec-8dad-c3eebe567371/509329217
+#EXTINF: -1 tvg-id="CCTV11.cn" tvg-name="[CN] CCTV-11 戏曲" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="SHAREEXT@CCTV_CHINA",CCTV-11 戏曲
+https://m3u-editor.com/serve/63b3b170-96de-11ec-8dad-c3eebe567371/509329218
+#EXTINF: -1 tvg-id="CCTV12.cn" tvg-name="[CN] CCTV-12 社会与法" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="SHAREEXT@CCTV_CHINA",CCTV-12 社会与法
+https://m3u-editor.com/serve/63b3b170-96de-11ec-8dad-c3eebe567371/509329219
+#EXTINF: -1 tvg-id="CCTV13.cn" tvg-name="[CN] CCTV-13 新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="SHAREEXT@CCTV_CHINA",CCTV-13 新闻频道
+https://m3u-editor.com/serve/63b3b170-96de-11ec-8dad-c3eebe567371/509329220
+#EXTINF: -1 tvg-id="CCTV14.cn" tvg-name="[CN] CCTV-14 少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="SHAREEXT@CCTV_CHINA",CCTV-14 少儿
+https://m3u-editor.com/serve/63b3b170-96de-11ec-8dad-c3eebe567371/509329221
+#EXTINF: -1 tvg-id="CCTV15.cn" tvg-name="[CN] CCTV-15 音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="SHAREEXT@CCTV_CHINA",CCTV-15 音乐
+https://m3u-editor.com/serve/63b3b170-96de-11ec-8dad-c3eebe567371/509329222
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@Television_China",CCTV1綜合
 http://iptv.tvfix.org/hls/cctv1hd.m3u8
