@@ -2021,9 +2021,20 @@ https://master.server-cdn-streaming.com/api/live-player/35/live.m3u8
 
 
 
-
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",JIO_CRICKETJio Cricket HD 
+https://snehapi-march.in1.bitmana.io/jioapi/tsjio1200/Jio_Cricket.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",CRICKET_LIVE(liveHBL&PSL)
+https://ib.qqkkqqk.com/live/ch_5.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",StarSports1 Hindi
+https://cdn.bioscope.gq/mktv_live/channels/sports/ssp-hindi1.m3u8?key=@shareext
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",StarSports2 HD
+https://cdn.bioscope.gq/mktv_live/channels/sports/ssp2.m3u8?key=@shareext
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",StarSports3 HD
+https://cdn.bioscope.gq/mktv_live/channels/sports/ssp3.m3u8?key=@shareext
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",StarSports Select 1
+https://cdn.bioscope.gq/mktv_live/channels/sports/ssp-select1.m3u8?key=@shareext
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",StarSports Select 2
+https://cdn.bioscope.gq/mktv_live/channels/sports/ssp-select2.m3u8?key=@shareext
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@PREMIUMMSport",UnifiSport1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
