@@ -55,8 +55,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",INDOSIAR_LIGA1&2
-http://108.136.37.52/m3u8/vid_Indosiar.m3u8?shareext.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",LIGA1&2
 http://tvn.x10.bz/xchannel/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",O_channel
@@ -94,6 +92,29 @@ https://stream.mmsiptv.com/droid/rmc3/playlist.m3u8?shareext.ts
 http://168.205.87.198:8555/live/1368/123456/148.ts?shareext.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@LIVE|SPORTS",BAND_SPORTS
 http://168.205.87.198:8555/live/1368/123456/176.ts?shareext.ts
+
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@LIVE|SPORTS",J_sports1
+http://95.214.235.96:8880/SFL122431/N6EG15T0/51843
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@LIVE|SPORTS",J_sports3
+http://211.21.12.236:11935/live/cs07.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@LIVE|SPORTS",J_sports4
+http://211.21.12.236:11935/live/cs09.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@LIVE|SPORTS",Golf_Network
+http://211.21.12.236:11935/live/cs03.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@LIVE|SPORTS",Golf_channel
+http://211.21.12.236:11935/live/cs04.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@LIVE|SPORTS",SKI
+http://211.21.12.236:11935/live/cs05.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@LIVE|SPORTS",SkiO2
+http://211.21.12.236:11935/live/cs06.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@LIVE|SPORTS",Gollff
+http://211.21.12.236:11935/live/cs23.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@LIVE|SPORTS",Mahjong_1
+http://211.21.12.236:11935/live/cs24.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@LIVE|SPORTS",NBCsports
+http://211.21.12.236:11935/live/cs26.stream/playlist.m3u8?shareext.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="True Premier HD 1" tvg-logo="https://www.iptv4k.tv/images/tv/r3ahfwL1Mf2cBJFbbwGY3mwxCuDgRkWepl-1.png" group-title="SHAREEXT@LIVE|SPORTS",True_Premier HD 1
 http://45.91.134.57:25461/sweet/7749/17806
