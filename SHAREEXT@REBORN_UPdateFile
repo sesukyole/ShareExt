@@ -2478,9 +2478,64 @@ http://shareext@urtv.cc:80/live/297340/297340/8836.ts?Shareext.ts
 
 
 
-
-
-
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@JAPAN_Station",GAORA.SportTv
+http://211.21.12.236:11935/live/cs01.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@JAPAN_Station",GREEN(Cartoon)
+http://211.21.12.236:11935/live/cs02.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@JAPAN_Station",Golf_Network
+http://211.21.12.236:11935/live/cs03.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@JAPAN_Station",Golf_channel
+http://211.21.12.236:11935/live/cs04.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@JAPAN_Station",SKI
+http://211.21.12.236:11935/live/cs05.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@JAPAN_Station",SkiO2
+http://211.21.12.236:11935/live/cs06.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@JAPAN_Station",J_sports3
+http://211.21.12.236:11935/live/cs07.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@JAPAN_Station",S_1
+http://211.21.12.236:11935/live/cs08.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@JAPAN_Station",J_sports4
+http://211.21.12.236:11935/live/cs09.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@JAPAN_Station",J_drama
+http://211.21.12.236:11935/live/cs10.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@JAPAN_Station",J_shoop
+http://211.21.12.236:11935/live/cs11.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@JAPAN_Station",Cartoon_station
+http://211.21.12.236:11935/live/cs12.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@JAPAN_Station",DISCOVERY
+http://211.21.12.236:11935/live/cs13.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@JAPAN_Station",J_foot
+http://211.21.12.236:11935/live/cs14.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@JAPAN_Station",TBS_NEWS
+http://211.21.12.236:11935/live/cs15.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@JAPAN_Station",KBS_WORLD
+http://211.21.12.236:11935/live/cs16.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@JAPAN_Station",Orientall_bio
+http://211.21.12.236:11935/live/cs17.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@JAPAN_Station",J_classic
+http://211.21.12.236:11935/live/cs18.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@JAPAN_Station",J_drama2
+http://211.21.12.236:11935/live/cs19.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@JAPAN_Station",Disney_channel
+http://211.21.12.236:11935/live/cs20.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@JAPAN_Station",Movie_1
+http://211.21.12.236:11935/live/cs21.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@JAPAN_Station",Movie_2
+http://211.21.12.236:11935/live/cs22.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@JAPAN_Station",Gollff
+http://211.21.12.236:11935/live/cs23.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@JAPAN_Station",Mahjong_1
+http://211.21.12.236:11935/live/cs24.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@JAPAN_Station",ANIMAX
+http://211.21.12.236:11935/live/cs25.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@JAPAN_Station",NBCsports
+http://211.21.12.236:11935/live/cs26.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@JAPAN_Station",Eng_movie
+http://211.21.12.236:11935/live/cs27.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@JAPAN_Station",Tbs1
+http://211.21.12.236:11935/live/cs28.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@JAPAN_Station",J_Series
+http://211.21.12.236:11935/live/cs29.stream/playlist.m3u8?shareext.ts
 
 
 
