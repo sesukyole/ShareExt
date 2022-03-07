@@ -90,9 +90,10 @@ https://stream.mmsiptv.com/droid/rmc1/playlist.m3u8?shareext.ts
 https://stream.mmsiptv.com/droid/rmc2/playlist.m3u8?shareext.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@LIVE|SPORTS",RMC_SPORT3(dec=native)
 https://stream.mmsiptv.com/droid/rmc3/playlist.m3u8?shareext.ts
-
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@LIVE|SPORTS",ALL_SPORTS
+http://168.205.87.198:8555/live/1368/123456/148.ts?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@LIVE|SPORTS",BAND_SPORTS
+http://168.205.87.198:8555/live/1368/123456/176.ts?shareext.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="True Premier HD 1" tvg-logo="https://www.iptv4k.tv/images/tv/r3ahfwL1Mf2cBJFbbwGY3mwxCuDgRkWepl-1.png" group-title="SHAREEXT@LIVE|SPORTS",True_Premier HD 1
 http://45.91.134.57:25461/sweet/7749/17806
