@@ -711,6 +711,51 @@ http://stariptv.org:8080/wael2021/123456/132028
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="AL004:Super Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL004SuperSport1HD.png" group-title="SHAREEXT@Albania Sports",SuperSport_1 HD
+http://qtvbox.com:8080/9801/9801/92321
+#EXTINF:-1 tvg-id="" tvg-name="AL003:Super Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL003SuperSport2HD.png" group-title="SHAREEXT@Albania Sports",SuperSport_2 HD
+http://qtvbox.com:8080/9801/9801/92322
+#EXTINF:-1 tvg-id="" tvg-name="AL002:Super Sport 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL002SuperSport3HD.png" group-title="SHAREEXT@Albania Sports",SuperSport_3 HD
+http://qtvbox.com:8080/9801/9801/92323
+#EXTINF:-1 tvg-id="" tvg-name="AL001:Super Sport 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL001SuperSport4HD.png" group-title="SHAREEXT@Albania Sports",SuperSport_4 HD
+http://qtvbox.com:8080/9801/9801/92324
+#EXTINF:-1 tvg-id="" tvg-name="AL078:SuperSport 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL078SuperSport5.png" group-title="SHAREEXT@Albania Sports",SuperSport_5
+http://qtvbox.com:8080/9801/9801/92325
+#EXTINF:-1 tvg-id="" tvg-name="AL327:Super Sport Kosova 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL327SuperSportKosova2FHD.png" group-title="SHAREEXT@Albania Sports",SuperSport_Kosova 2 FHD
+http://qtvbox.com:8080/9801/9801/92327
+#EXTINF:-1 tvg-id="" tvg-name="AL082:Super Sport Kosova 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL082SuperSportKosovo1HD.png" group-title="SHAREEXT@Albania Sports",SuperSport_Kosova 1 HD
+http://qtvbox.com:8080/9801/9801/92328
+#EXTINF:-1 tvg-id="" tvg-name="AL021:RTSH Sport HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL021RTSHSportHD.png" group-title="SHAREEXT@Albania Sports",RTSH_Sport HD
+http://qtvbox.com:8080/9801/9801/92329
+#EXTINF:-1 tvg-id="" tvg-name="AL012:Tring Sport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL012TringSport2HD.png" group-title="SHAREEXT@Albania Sports",Tring_Sport_1
+http://qtvbox.com:8080/9801/9801/92330
+#EXTINF:-1 tvg-id="" tvg-name="AL065:Tring Sport 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL065TRINGSPORT4HD.png" group-title="SHAREEXT@Albania Sports",Tring_Sport_2
+http://qtvbox.com:8080/9801/9801/92331
+#EXTINF:-1 tvg-id="" tvg-name="AL066:Tring Sport 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL066TRINGSPORT1HD.png" group-title="SHAREEXT@Albania Sports",Tring_Sport_3
+http://qtvbox.com:8080/9801/9801/92332
+#EXTINF:-1 tvg-id="" tvg-name="AL079:Euro Film 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL079SuperSport4.png" group-title="SHAREEXT@Albania Sports",Euro_$Ports
+http://qtvbox.com:8080/9801/9801/92333
+#EXTINF:-1 tvg-id="" tvg-name="AL131:Top Estrada TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL131RROKUMTVHD.png" group-title="SHAREEXT@Albania Sports",Top_Estrada_TV
+http://qtvbox.com:8080/9801/9801/92335
+#EXTINF:-1 tvg-id="" tvg-name="AL160:EUROSPORT 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL160EUROSPORT1HD.png" group-title="SHAREEXT@Albania Sports",EUROSPORT_1 HD
+http://qtvbox.com:8080/9801/9801/92336
+#EXTINF:-1 tvg-id="" tvg-name="AL161:EUROSPORT 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL161EUROSPORT2HD.png" group-title="SHAREEXT@Albania Sports",EUROSPORT_2 HD
+http://qtvbox.com:8080/9801/9801/92337
+#EXTINF:-1 tvg-id="" tvg-name="AL163:Extreme Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL163ExtremeSports.png" group-title="SHAREEXT@Albania Sports",Extreme_Sports
+http://qtvbox.com:8080/9801/9801/92338
+#EXTINF:-1 tvg-id="" tvg-name="AL200:K Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL200KSport1HD.png" group-title="SHAREEXT@Albania Sports",K_Sport_1 HD
+http://qtvbox.com:8080/9801/9801/92339
+#EXTINF:-1 tvg-id="" tvg-name="AL201:K Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL201KSport2HD.png" group-title="SHAREEXT@Albania Sports",K_Sport_2 HD
+http://qtvbox.com:8080/9801/9801/92340
+#EXTINF:-1 tvg-id="" tvg-name="AL351:Tring Sport News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL351TringSport2FHD.png" group-title="SHAREEXT@Albania Sports",Tring_Sport_News
+http://qtvbox.com:8080/9801/9801/92347
+#EXTINF:-1 tvg-id="" tvg-name="AL314:ART Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL314ARTSport1HD.png" group-title="SHAREEXT@Albania Sports",ART_Sport_1 HD
+http://qtvbox.com:8080/9801/9801/92348
+#EXTINF:-1 tvg-id="" tvg-name="AL298:Art Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL298ArtSport 2HD.png" group-title="SHAREEXT@Albania Sports",Art_Sport_2 HD
+http://qtvbox.com:8080/9801/9801/92349
+
+
+
 
 
 
