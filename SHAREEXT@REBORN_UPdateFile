@@ -2534,24 +2534,6 @@ http://211.21.12.236:11935/live/cs29.stream/playlist.m3u8?shareext.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",GTV hd
-http://45.127.244.7:8080/hls/channel2.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",T_SPORT
-http://45.127.244.7:8080/hls/channel3.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",TEN2
-http://45.127.244.7:8080/hls/channel5.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",SIX
-http://45.127.244.7:8080/hls/channel6.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",StarSport1 hd
-http://45.127.244.7:8080/hls/channel9.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",ZeeTamil
-http://45.127.244.7:8080/hls/channel11.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",StarBrarat
-http://45.127.244.7:8080/hls/channel12.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",StarMoviesHD
-http://45.127.244.7:8080/hls/channel13.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",FlowerChannel
-http://45.127.244.7:8080/hls/channel15.m3u8?shareext.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",&PRIVE HD(dec=auto)
