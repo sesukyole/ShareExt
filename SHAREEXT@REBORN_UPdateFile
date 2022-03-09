@@ -753,6 +753,58 @@ http://stariptv.org:8080/wael2021/123456/132028
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="NL001:Ziggo Sport Select FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL001ZiggoSportSelectFHD1080.png" group-title="SHAREEXT@Holland_SPORT",NL001:Ziggo Sport Select FHD
+http://qtvbox.com:8080/9801/9801/64754
+#EXTINF:-1 tvg-id="" tvg-name="NL003:Ziggo Sport Voetbal FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL003Sport1Voetbal.png" group-title="SHAREEXT@Holland_SPORT",Ziggo_Sport_Voetbal FHD
+http://qtvbox.com:8080/9801/9801/64755
+#EXTINF:-1 tvg-id="" tvg-name="NL013:Fox Sports 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL013FoxSports1.png" group-title="SHAREEXT@Holland_SPORT",FoxSports_1 HD
+http://qtvbox.com:8080/9801/9801/64761
+#EXTINF:-1 tvg-id="" tvg-name="NL014:Eurosport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL014Eurosport1FHD1080.png" group-title="SHAREEXT@Holland_SPORT",Eurosport_1 HD
+http://qtvbox.com:8080/9801/9801/64762
+#EXTINF:-1 tvg-id="" tvg-name="NL015:Eurosport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL015Eurosport2HD.png" group-title="SHAREEXT@Holland_SPORT",Eurosport_2 HD
+http://qtvbox.com:8080/9801/9801/64763
+#EXTINF:-1 tvg-id="" tvg-name="NL018:FOX Sports 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL018FOXSports2HD.png" group-title="SHAREEXT@Holland_SPORT",FOXSports_2 FHD
+http://qtvbox.com:8080/9801/9801/64765
+#EXTINF:-1 tvg-id="" tvg-name="NL023:Fox Sports 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL023FoxSports4HD(1080P).png" group-title="SHAREEXT@Holland_SPORT",FoxSports_4 FHD
+http://qtvbox.com:8080/9801/9801/64766
+#EXTINF:-1 tvg-id="" tvg-name="NL025:FOX Sports 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL025FOXSports3HD(1080P).png" group-title="SHAREEXT@Holland_SPORT",FOXSports_3 FHD
+http://qtvbox.com:8080/9801/9801/64768
+#EXTINF:-1 tvg-id="" tvg-name="NL026:Ziggo Sport Voetbal SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL026ZiggoSport.Voetbal.png" group-title="SHAREEXT@Holland_SPORT",Ziggo_Sport_Voetbal 
+http://qtvbox.com:8080/9801/9801/64769
+#EXTINF:-1 tvg-id="" tvg-name="NL027:Ziggo Sport Select HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL027ZiggoSportSelectHD.png" group-title="SHAREEXT@Holland_SPORT",Ziggo_Sport_Select HD
+http://qtvbox.com:8080/9801/9801/64770
+#EXTINF:-1 tvg-id="" tvg-name="NL028:Ziggo Sport Racing HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL028ZiggoSportRacing.png" group-title="SHAREEXT@Holland_SPORT",Ziggo_Sport_Racing HD
+http://qtvbox.com:8080/9801/9801/64771
+#EXTINF:-1 tvg-id="" tvg-name="NL029:Ziggo Sport Golf HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL029ZiggoSportGolf.png" group-title="SHAREEXT@Holland_SPORT",Ziggo_Sport_Golf HD
+http://qtvbox.com:8080/9801/9801/64772
+#EXTINF:-1 tvg-id="" tvg-name="NL030:Ziggo Sport Extra 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL030ZiggoSportExtra2.png" group-title="SHAREEXT@Holland_SPORT",Ziggo_Sport_Extra 2 HD
+http://qtvbox.com:8080/9801/9801/64773
+#EXTINF:-1 tvg-id="" tvg-name="NL031:Ziggo Sport Extra1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL031ZiggoSportExtra1.png" group-title="SHAREEXT@Holland_SPORT",Ziggo_Sport_Extra1 FHD
+http://qtvbox.com:8080/9801/9801/64774
+#EXTINF:-1 tvg-id="" tvg-name="NL091:Extreme Sports Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL091ExtremeSportsChannel.png" group-title="SHAREEXT@Holland_SPORT",Extreme_Sports Channel
+http://qtvbox.com:8080/9801/9801/64777
+#EXTINF:-1 tvg-id="" tvg-name="NL100:FOX SPORTS 1 EREDIVISIE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL100FOXSPORTS1EREDIVISIEHD.png" group-title="SHAREEXT@Holland_SPORT",FOXSPORTS_1_EREDIVISIE HD
+http://qtvbox.com:8080/9801/9801/64778
+#EXTINF:-1 tvg-id="" tvg-name="NL101:FOX SPORTS 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL101FOXSPORTS1HD.png" group-title="SHAREEXT@Holland_SPORT",FOXSPORTS_1 HD
+http://qtvbox.com:8080/9801/9801/64779
+#EXTINF:-1 tvg-id="" tvg-name="NL103:FOX SPORTS 2 INTERNATIONAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL103FOXSPORTS2INTERNATIONAL.png" group-title="SHAREEXT@Holland_SPORT",FOXSPORTS_2&INTERNATIONAL
+http://qtvbox.com:8080/9801/9801/64781
+#EXTINF:-1 tvg-id="" tvg-name="NL105:FOX SPORTS 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL105FOXSPORTS3HD.png" group-title="SHAREEXT@Holland_SPORT",FOXSPORTS_3 HD
+http://qtvbox.com:8080/9801/9801/64783
+#EXTINF:-1 tvg-id="" tvg-name="NL115:Golf" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL115Golf.png" group-title="SHAREEXT@Holland_SPORT",Golf
+http://qtvbox.com:8080/9801/9801/64790
+#EXTINF:-1 tvg-id="" tvg-name="NL125:TV 538" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL125MyzenHD.png" group-title="SHAREEXT@Holland_SPORT",TV 538
+http://qtvbox.com:8080/9801/9801/64791
+#EXTINF:-1 tvg-id="" tvg-name="NL126:Ziggo Sport Voetbal HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL126ZiggoSportVoetbalHD.png" group-title="SHAREEXT@Holland_SPORT",Ziggo_Sport_Voetbal HD
+http://qtvbox.com:8080/9801/9801/64792
+#EXTINF:-1 tvg-id="" tvg-name="NL165:Ziggo Sport GOLF FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL165ZiggoSportGOLFHD.png" group-title="SHAREEXT@Holland_SPORT",Ziggo_Sport_GOLF FHD
+http://qtvbox.com:8080/9801/9801/64795
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="AL004:Super Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL004SuperSport1HD.png" group-title="SHAREEXT@Albania Sports",SuperSport_1 HD
 http://qtvbox.com:8080/9801/9801/92321
 #EXTINF:-1 tvg-id="" tvg-name="AL003:Super Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL003SuperSport2HD.png" group-title="SHAREEXT@Albania Sports",SuperSport_2 HD
