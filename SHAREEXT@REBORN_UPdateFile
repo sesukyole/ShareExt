@@ -101,6 +101,26 @@ http://nontonbola.my.id/hustv/useesport2.m3u8?punyanya=gasss
 https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",INEWS_+
 https://inews-linier.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",RCTI_+(Opt1)
+https://iptv-net.github.io/rctiplus/rcti.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",INEWS_+(Opt1)
+https://iptv-net.github.io/rctiplus/inews.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",SONY_TEN-1
+http://103.166.253.222/hls/sonyten1.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",SONY_TEN-2
+http://103.166.253.222/hls/sonyten2.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",SONY_TEN-3
+http://103.166.253.222/hls/sonyten3.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",SONY_SIX
+http://103.166.253.222/hls/sonysix.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",VIVARO_SPORTS_HD
+http://135.181.178.91/vmedia_live/1/mono.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",VIVARO_SPORTS+_HD
+http://135.181.178.91/vmedia_live/2/mono.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",VIVARO_ARENA_HD 
+http://135.181.178.91/vmedia_live/3/mono.m3u8?shareext.ts
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",USEESPORT1(back1)
 https://indositusx.com/00/useehls.m3u8?id=useesport
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",USEESPORT2(back1)
