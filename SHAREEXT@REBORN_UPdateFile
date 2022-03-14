@@ -1051,6 +1051,31 @@ http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71059
 
 
 
+#EXTINF:-1 tvg-id="bein.movies.1.premiere.ae" tvg-name="BN014:BeIN Movies 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN014BeINMovies1.png" group-title="SHAREEXT@MOVIES_Arab Bein",BeIN_Movies_1
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/2128
+#EXTINF:-1 tvg-id="bein.movies.2.action.ae" tvg-name="BN015:BeIN Movies 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN015BeINMovies2.png" group-title="SHAREEXT@MOVIES_Arab Bein",BeIN_Movies_2
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/2127
+#EXTINF:-1 tvg-id="bein.movies.3.drama.ae" tvg-name="BN016:BeIN Movies 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN016BeINMovies3.png" group-title="SHAREEXT@MOVIES_Arab Bein",BeIN_Movies_3
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/2126
+#EXTINF:-1 tvg-id="bein.movies.4.family.ae" tvg-name="BN017:BeIN Movies 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN017BeINMovies4.png" group-title="SHAREEXT@MOVIES_Arab Bein",BeIN_Movies_4
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/2125
+#EXTINF:-1 tvg-id="bein.gourmet.ae" tvg-name="BN018:beIN GOURMET" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN018bein4k.png" group-title="SHAREEXT@MOVIES_Arab Bein",beIN_GOURMET
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/2124
+#EXTINF:-1 tvg-id="baraem.ae" tvg-name="BN020:BeIN BARAEM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN020BeINBARAEM.png" group-title="SHAREEXT@MOVIES_Arab Bein",BeIN_BARAEM
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/2122
+#EXTINF:-1 tvg-id="" tvg-name="BN021:Bein Jeem HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN021BeINMyCinema.png" group-title="SHAREEXT@MOVIES_Arab Bein",Bein_Jeem HD
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/2121
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN024:FOX Movie" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN024BeINJunior.png" group-title="SHAREEXT@MOVIES_Arab Bein",FOX_Movie
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/2118
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN026:FOX Action Movie" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN026BeINSeries.png" group-title="SHAREEXT@MOVIES_Arab Bein",FOX_Action_Movie
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/2116
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN027:BEIN travel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN027BeINFOXMovie.png" group-title="SHAREEXT@MOVIES_Arab Bein",BEIN_travel
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/2115
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",Rock_Extreme
 http://group2-swiftservehd-1.dens.tv/h/h15/01.m3u8
