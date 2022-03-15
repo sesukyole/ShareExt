@@ -120,6 +120,27 @@ http://135.181.178.91/vmedia_live/2/mono.m3u8?shareext.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",VIVARO_ARENA_HD 
 http://135.181.178.91/vmedia_live/3/mono.m3u8?shareext.ts
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",BT_SPORTS_1(opt1)
+https://16live00.akamaized.net/BTSPORTS1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",BT_SPORTS_2(opt1)
+https://16live00.akamaized.net/BTSPORTS2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",BT_SPORTS_3(opt1)
+https://16live00.akamaized.net/BTSPORTS3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",EUROSPORT_1
+http://31.14.41.252:8000/play/a001/index.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",RMC_SPORTS_1*
+http://31.14.41.252:8000/play/a00e/index.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",RMC_SPORTS_2*
+http://31.14.41.252:8000/play/a011/index.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpGjVM3r/Astro-SHAREEXTgroup.jpg"group-title="SHAREEXT@LIVE|SPORTS",ASSP_1_opt1
+http://ky-iptv.com:80/live/nicholas/123456789/1391035.ts?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpGjVM3r/Astro-SHAREEXTgroup.jpg"group-title="SHAREEXT@LIVE|SPORTS",ASSP_2_opt1
+http://ky-iptv.com:80/live/nicholas/123456789/1391036.ts?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpGjVM3r/Astro-SHAREEXTgroup.jpg"group-title="SHAREEXT@LIVE|SPORTS",ASSP_3_opt1
+http://ky-iptv.com:80/live/nicholas/123456789/1391037.ts?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpGjVM3r/Astro-SHAREEXTgroup.jpg"group-title="SHAREEXT@LIVE|SPORTS",ASSP_4_opt1
+http://ky-iptv.com:80/live/nicholas/123456789/1391038.ts?shareext.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@LIVE|SPORTS",SPOTV_dec=auto_korea(tesst)
 http://54.180.125.159/spotv 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@LIVE|SPORTS",SPOTV2_dec=auto_korea(tesst) 
