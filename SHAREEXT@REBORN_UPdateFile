@@ -141,18 +141,6 @@ http://ky-iptv.com:80/live/nicholas/123456789/1391037.ts?shareext.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpGjVM3r/Astro-SHAREEXTgroup.jpg"group-title="SHAREEXT@LIVE|SPORTS",ASSP_4_opt1
 http://ky-iptv.com:80/live/nicholas/123456789/1391038.ts?shareext.ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@LIVE|SPORTS",SPOTV_dec=auto_korea(tesst)
-http://54.180.125.159/spotv 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@LIVE|SPORTS",SPOTV2_dec=auto_korea(tesst) 
-http://54.180.125.159/spotv2 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@LIVE|SPORTS",SPOTV_PRIME_dec=auto_korea(tesst) 
-http://54.180.125.159/spotvprime
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@LIVE|SPORTS",SPOTV_GOLF_dec=auto_korea(tesst) 
-http://54.180.125.159/spotvgolf 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@LIVE|SPORTS",SPOTV_ON_dec=auto_korea(tesst) 
-http://54.180.125.159/spotvon 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@LIVE|SPORTS",SPOTV_ON*2_dec=auto_korea(tesst) 
-http://54.180.125.159/spotvon2
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",USEESPORT1(back1)
 https://indositusx.com/fadtan/malingtv.m3u8?id=useesport
