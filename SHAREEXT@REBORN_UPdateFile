@@ -120,17 +120,17 @@ http://135.181.178.91/vmedia_live/2/mono.m3u8?shareext.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",VIVARO_ARENA_HD 
 http://135.181.178.91/vmedia_live/3/mono.m3u8?shareext.ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@LIVE|SPORTS",SPOTV_korea(tesst)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@LIVE|SPORTS",SPOTV_dec=auto_korea(tesst)
 http://54.180.125.159/spotv 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@LIVE|SPORTS",SPOTV2_korea(tesst) 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@LIVE|SPORTS",SPOTV2_dec=auto_korea(tesst) 
 http://54.180.125.159/spotv2 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@LIVE|SPORTS",SPOTV_PRIME_korea(tesst) 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@LIVE|SPORTS",SPOTV_PRIME_dec=auto_korea(tesst) 
 http://54.180.125.159/spotvprime
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@LIVE|SPORTS",SPOTV_GOLF_korea(tesst) 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@LIVE|SPORTS",SPOTV_GOLF_dec=auto_korea(tesst) 
 http://54.180.125.159/spotvgolf 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@LIVE|SPORTS",SPOTV_ON_korea(tesst) 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@LIVE|SPORTS",SPOTV_ON_dec=auto_korea(tesst) 
 http://54.180.125.159/spotvon 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@LIVE|SPORTS",SPOTV_ON_2_korea(tesst) 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@LIVE|SPORTS",SPOTV_ON*2_dec=auto_korea(tesst) 
 http://54.180.125.159/spotvon2
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",USEESPORT1(back1)
