@@ -2415,7 +2415,36 @@ https://lnk.ec/GTVplus?shareext.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",MYCINEMA_ASIA
+https://filmkita.online/00/useehls.m3u8?id=mycinemaasia
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",MY_CINEMA
+https://filmkita.online/00/useehls.m3u8?id=mycinema
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",SCM
+https://filmkita.online/00/useehls.m3u8?id=scm
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",ROCK_ENTERT
+https://filmkita.online/00/useehls.m3u8?id=rock
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",ROCK_EXTREME
+https://filmkita.online/00/useehls.m3u8?id=rockextreme
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",GALAXY
+https://filmkita.online/00/useehls.m3u8?id=galaxy
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",GALAXY_P
+https://filmkita.online/00/useehls.m3u8?id=galaxypremium
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",CELESTIAL_M
+https://filmkita.online/00/useehls.m3u8?id=celestialmovie
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",TECHSTORM
+https://filmkita.online/00/useehls.m3u8?id=techstorm
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",DUNIA_LAIN
+https://filmkita.online/00/useehls.m3u8?id=dunialain
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",IMC
+https://filmkita.online/00/useehls.m3u8?id=imc
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",HOREE
+https://filmkita.online/00/useehls.m3u8?id=horee
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",DUNIA_ANAK
+https://filmkita.online/00/useehls.m3u8?id=duniaanak
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",DREAMWORKS
+https://filmkita.online/00/useehls.m3u8?id=dreamworks
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",MY_KIDS
+https://filmkita.online/00/useehls.m3u8?id=mykids
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Bali TV(telkom)
