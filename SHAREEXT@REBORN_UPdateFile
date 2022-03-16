@@ -53,26 +53,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",JuaraTv_1
-https://lnk.ec/shareext@juara1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",JuaraTv_2
-https://lnk.ec/shareext@juara2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",JuaraTv_3
-https://lnk.ec/shareext@juara3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",JuaraTv_4
-https://lnk.ec/shareext@juara4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",Astro_Arena
-https://lnk.ec/shareext@arena1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",Astro_Arena_2
-https://lnk.ec/shareext@arena2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",U.sports(Opt1)
-https://lnk.ec/shareext@useesport
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",U.sports_2(Opt1)
-https://lnk.ec/shareext@useesports2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",Spotv_1*
-https://lnk.ec/shareext@spotv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",Spotv_2*
-https://lnk.ec/shareext@spotv2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",LIGA1&2
 http://tvn.x10.bz/xchannel/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",indosiar_back1
@@ -450,6 +430,135 @@ http://203.159.95.172:8081/live/bein01/chunks.m3u8
 http://203.159.95.172:8081/live/bein02/chunks.m3u8
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRys4Mt1eo1wyiEVcK4gDyL3rpS2JGKHhjBNQ&usqp=CAU" group-title="SHAREEXT@LIVE|SPORTS",TVRI_SPORT HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE | SPORTS",JuaraTv_1
+https://lnk.ec/shareext@juara1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE | SPORTS",JuaraTv_2
+https://lnk.ec/shareext@juara2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE | SPORTS",JuaraTv_3
+https://lnk.ec/shareext@juara3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE | SPORTS",JuaraTv_4
+https://lnk.ec/shareext@juara4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE | SPORTS",Astro_Arena
+https://lnk.ec/shareext@arena1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE | SPORTS",Astro_Arena_2
+https://lnk.ec/shareext@arena2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE | SPORTS",U.sports(Opt1)
+https://lnk.ec/shareext@useesport
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE | SPORTS",U.sports_2(Opt1)
+https://lnk.ec/shareext@useesports2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE | SPORTS",Spotv_1*
+https://lnk.ec/shareext@spotv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE | SPORTS",Spotv_2*
+https://lnk.ec/shareext@spotv2
+
+
+#EXTINF:-1 tvg-id="007.my" tvg-name="SPOTV" tvg-logo="http://tvmalaysia.cc:80/images/021967e724a9e62fa93ac15fdf1413bf.png" group-title="SHAREEXT@LIVE | SPORTS",SPOTV
+http://shareext@urtv.cc:80/live/114048/114048/9033.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV2" tvg-logo="http://tvmalaysia.cc:80/images/021967e724a9e62fa93ac15fdf1413bf.png" group-title="SHAREEXT@LIVE | SPORTS",SPOTV2
+http://shareext@urtv.cc:80/live/114048/114048/9034.ts?shareext.ts
+#EXTINF:-1 tvg-id="astroarena.my" tvg-name="ASTRO Arena HD" tvg-logo="http://tvmalaysia.cc:80/images/9bfeb1c6e3d87c0d27a5d12326aa7a5a.png" group-title="SHAREEXT@LIVE | SPORTS",ASTRO_Arena HD
+http://shareext@urtv.cc:80/live/114048/114048/6707.ts?shareext.ts
+#EXTINF:-1 tvg-id="astroarena2.my" tvg-name="Arena 2" tvg-logo="http://tvmalaysia.cc:80/images/4eff0335928a2d0e92f38ea9bb56d72b.png" group-title="SHAREEXT@LIVE | SPORTS",Arena_2
+http://shareext@urtv.cc:80/live/114048/114048/9028.ts?shareext.ts
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="http://tvmalaysia.cc:80/images/95994491156dc80e743b181972c4e6d0.png" group-title="SHAREEXT@LIVE | SPORTS",ASTRO_SUPERSPORT HD
+http://shareext@urtv.cc:80/live/114048/114048/6708.ts?shareext.ts
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASSP 1" tvg-logo="http://tvmalaysia.cc:80/images/fe80f1bf485eb106f9e91e1c16886b4c.png" group-title="SHAREEXT@LIVE | SPORTS",ASSP_1
+http://shareext@urtv.cc:80/live/114048/114048/9024.ts?shareext.ts
+#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-name="ASTRO SUPERSPORT 2 HD" tvg-logo="http://tvmalaysia.cc:80/images/628518d8dfdaa6cc296123a5bdb13c28.png" group-title="SHAREEXT@LIVE | SPORTS",ASTRO_SUPERSPORT_2 HD
+http://shareext@urtv.cc:80/live/114048/114048/6710.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="http://tvmalaysia.cc:80/images/4946045f4dd1aca3a124f25655097c56.png" group-title="SHAREEXT@LIVE | SPORTS",ASSP_2
+http://shareext@urtv.cc:80/live/114048/114048/9025.ts?shareext.ts
+#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="ASTRO SUPERSPORT 3 HD" tvg-logo="http://tvmalaysia.cc:80/images/25afd4f665faabffdd3041b89d69e856.png" group-title="SHAREEXT@LIVE | SPORTS",ASTRO_SUPERSPORT_3 HD
+http://shareext@urtv.cc:80/live/114048/114048/6711.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 3 (LIVE EPL ONLY)" tvg-logo="http://tvmalaysia.cc:80/images/d3ffad6f5889e2a0c59dfaabedcbbc90.png" group-title="SHAREEXT@LIVE | SPORTS",ASSP_3 
+http://shareext@urtv.cc:80/live/114048/114048/9020.ts?shareext.ts
+#EXTINF:-1 tvg-id="astrosupersport4.my" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="http://tvmalaysia.cc:80/images/9fa5701dc090214abf85095e751a161d.png" group-title="SHAREEXT@LIVE | SPORTS",ASTRO_SUPERSPORT_4 HD
+http://shareext@urtv.cc:80/live/114048/114048/6712.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="http://tvmalaysia.cc:80/images/20e977b56987835f2dfa4c6b133b9561.png" group-title="SHAREEXT@LIVE | SPORTS",ASSP_4
+http://shareext@urtv.cc:80/live/114048/114048/9026.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="" group-title="SHAREEXT@LIVE | SPORTS",Astro_Supersport_5
+http://shareext@urtv.cc:80/live/114048/114048/9029.ts?shareext.ts
+#EXTINF:-1 tvg-id="foxsports1.my" tvg-name="FOX Sports HD" tvg-logo="http://tvmalaysia.cc:80/images/7b12069fe4f3b017933882e7fd2bdf91.png" group-title="SHAREEXT@LIVE | SPORTS",FOX_Sports HD
+http://shareext@urtv.cc:80/live/114048/114048/6793.ts?shareext.ts
+#EXTINF:-1 tvg-id="astrocricket.my" tvg-name="ASTRO Cricket" tvg-logo="http://tvmalaysia.cc:80/images/d026d4b7a8a45bbb05249ba5698dc37b.png" group-title="SHAREEXT@LIVE | SPORTS",ASTRO_Cricket
+http://shareext@urtv.cc:80/live/114048/114048/6717.ts?shareext.ts
+#EXTINF:-1 tvg-id="beinsportsmax.my" tvg-name="beIN MAX" tvg-logo="http://tvmalaysia.cc:80/images/d339916b681e912fa219a6eae2127dbc.png" group-title="SHAREEXT@LIVE | SPORTS",beIN_MAX
+http://shareext@urtv.cc:80/live/114048/114048/6748.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 2" tvg-logo="http://tvmalaysia.cc:80/images/25c358ffb322d20078dcd7507903bfe0.png" group-title="SHAREEXT@LIVE | SPORTS",beIN_MAX 2
+http://shareext@urtv.cc:80/live/114048/114048/7195.ts?shareext.ts
+#EXTINF:-1 tvg-id="MY: WWE NETWORK HD" tvg-name="WWE Network" tvg-logo="http://tvmalaysia.cc:80/images/297022c4d9d50d89105c1d86a7c2b2c4.png" group-title="SHAREEXT@LIVE | SPORTS",WWE_Network
+http://shareext@urtv.cc:80/live/114048/114048/6849.ts?shareext.ts
+#EXTINF:-1 tvg-id="MY: RUGBYPASS TV HD" tvg-name="Rugby Pass TV" tvg-logo="http://tvmalaysia.cc:80/images/98991a2582751895902809093633b033.png" group-title="SHAREEXT@LIVE | SPORTS",Rugby_Pass TV
+http://shareext@urtv.cc:80/live/114048/114048/6821.ts?shareext.ts
+#EXTINF:-1 tvg-id="MY: GOLF CHANNEL HD" tvg-name="Golf Channel HD" tvg-logo="http://tvmalaysia.cc:80/images/1eb1cee8b5e1c96e92721e3ca5ab59d5.jpg" group-title="SHAREEXT@LIVE | SPORTS",Golf_Channel HD
+http://shareext@urtv.cc:80/live/114048/114048/6796.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="TSN 1" tvg-logo="http://tvmalaysia.cc:80/images/bffcd12bcf6dbb007857e38fc84f6954.png" group-title="SHAREEXT@LIVE | SPORTS",TSN 1
+http://shareext@urtv.cc:80/live/114048/114048/8923.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="TSN 2" tvg-logo="http://tvmalaysia.cc:80/images/bffcd12bcf6dbb007857e38fc84f6954.png" group-title="SHAREEXT@LIVE | SPORTS",TSN 2
+http://shareext@urtv.cc:80/live/114048/114048/8924.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="TSN 4" tvg-logo="http://tvmalaysia.cc:80/images/bffcd12bcf6dbb007857e38fc84f6954.png" group-title="SHAREEXT@LIVE | SPORTS",TSN 4
+http://shareext@urtv.cc:80/live/114048/114048/8926.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="TSN 3" tvg-logo="http://tvmalaysia.cc:80/images/ce83c9dafcbc830749282d5524acfff0.png" group-title="SHAREEXT@LIVE | SPORTS",TSN 3
+http://shareext@urtv.cc:80/live/114048/114048/8925.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Grandstand" tvg-logo="http://tvmalaysia.cc:80/images/00a1963343aee029f0681c170638ecef.png" group-title="SHAREEXT@LIVE | SPORTS",SuperSport_Grandstand
+http://shareext@urtv.cc:80/live/114048/114048/6572.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport PSL" tvg-logo="http://tvmalaysia.cc:80/images/eba84552ef0a472f1627f2e1dbf6c9cd.png" group-title="SHAREEXT@LIVE | SPORTS",SuperSport_PSL
+http://shareext@urtv.cc:80/live/114048/114048/6573.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Premier League" tvg-logo="http://tvmalaysia.cc:80/images/ebf60d1fcc0262145640d812f1bed395.png" group-title="SHAREEXT@LIVE | SPORTS",SuperSport_Premier League
+http://shareext@urtv.cc:80/live/114048/114048/6574.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Football" tvg-logo="http://tvmalaysia.cc:80/images/da567c37e0fb29691cca22df173b38a1.png" group-title="SHAREEXT@LIVE | SPORTS",SuperSport_Football
+http://shareext@urtv.cc:80/live/114048/114048/6576.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Variety 1" tvg-logo="http://tvmalaysia.cc:80/images/da567c37e0fb29691cca22df173b38a1.png" group-title="SHAREEXT@LIVE | SPORTS",SuperSport_Variety 1
+http://shareext@urtv.cc:80/live/114048/114048/6577.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Variety 4" tvg-logo="http://tvmalaysia.cc:80/images/46444ad845a9c8218b1b89bdacb94db5.png" group-title="SHAREEXT@LIVE | SPORTS",SuperSport_Variety 4
+http://shareext@urtv.cc:80/live/114048/114048/6580.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: Supersport Blitz" tvg-logo="http://tvmalaysia.cc:80/images/8f71d3b3bffb6d36ceb62f00466400fe.png" group-title="SHAREEXT@LIVE | SPORTS",Supersport_Blitz
+http://shareext@urtv.cc:80/live/114048/114048/6584.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport MáXimo" tvg-logo="http://tvmalaysia.cc:80/images/019630abd24d8e8864be46b4b6958469.png" group-title="SHAREEXT@LIVE | SPORTS",SuperSport_MáXimo
+http://shareext@urtv.cc:80/live/114048/114048/6585.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Rugby" tvg-logo="http://tvmalaysia.cc:80/images/db23cec4763902ab6e0a85f67a85ec85.png" group-title="SHAREEXT@LIVE | SPORTS",SuperSport_Rugby
+http://shareext@urtv.cc:80/live/114048/114048/6582.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Action" tvg-logo="http://tvmalaysia.cc:80/images/d00cd45de85ca6b516ec4eabc6dee644.png" group-title="SHAREEXT@LIVE | SPORTS",SuperSport_Action
+http://shareext@urtv.cc:80/live/114048/114048/6581.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Motorsport" tvg-logo="http://tvmalaysia.cc:80/images/37f395b028a84d01a369dcf992acf533.png" group-title="SHAREEXT@LIVE | SPORTS",SuperSport_Motorsport
+http://shareext@urtv.cc:80/live/114048/114048/7142.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Golf" tvg-logo="http://tvmalaysia.cc:80/images/e28814adfb6334b34050a52e869942f4.png" group-title="SHAREEXT@LIVE | SPORTS",SuperSport_Golf
+http://shareext@urtv.cc:80/live/114048/114048/7145.ts?shareext.ts
+#EXTINF:-1 tvg-id="SA: BEIN SPORTS HD1 ARABIC" tvg-name="BeIN Sport 1" tvg-logo="http://tvmalaysia.cc:80/images/06d5976044ac1e15c86715663c3757f0.png" group-title="SHAREEXT@LIVE | SPORTS",BeINSport_1
+http://shareext@urtv.cc:80/live/114048/114048/6597.ts?shareext.ts
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1" tvg-logo="http://tvmalaysia.cc:80/images/7379a7cb006d37f758205bf8dc829abd.jpg" group-title="SHAREEXT@LIVE | SPORTS",BT_Sport_1
+http://shareext@urtv.cc:80/live/114048/114048/6610.ts?shareext.ts
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sport 2" tvg-logo="http://tvmalaysia.cc:80/images/dad4a4674cfe73b1c89fc4b407b42a39.jpg" group-title="SHAREEXT@LIVE | SPORTS",BT_Sport_2
+http://shareext@urtv.cc:80/live/114048/114048/6611.ts?shareext.ts
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT Sport 3" tvg-logo="http://tvmalaysia.cc:80/images/68bf1684f7f44c02fc3d3a3be13b510f.jpg" group-title="SHAREEXT@LIVE | SPORTS",BT_Sport_3
+http://shareext@urtv.cc:80/live/114048/114048/6612.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News" tvg-logo="http://tvmalaysia.cc:80/images/5e99aed2ec2d9b812674d012bb467ad8.jpg" group-title="SHAREEXT@LIVE | SPORTS",SkySports_News
+http://shareext@urtv.cc:80/live/114048/114048/6614.ts?shareext.ts
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1" tvg-logo="http://tvmalaysia.cc:80/images/2f4e8a56c74335dad8c11c742243ea8e.jpg" group-title="SHAREEXT@LIVE | SPORTS",SkySports_F1
+http://shareext@urtv.cc:80/live/114048/114048/6617.ts?shareext.ts
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: Sky Sports Golf" tvg-logo="http://tvmalaysia.cc:80/images/48edb52948eec885dc7fcb3aa0115781.png" group-title="SHAREEXT@LIVE | SPORTS",SkySports_Golf
+http://shareext@urtv.cc:80/live/114048/114048/6618.ts?shareext.ts
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sports Football" tvg-logo="http://tvmalaysia.cc:80/images/5018ec7514f120bfba08d989ccbc9b65.jpg" group-title="SHAREEXT@LIVE | SPORTS",SkySports_Football
+http://shareext@urtv.cc:80/live/114048/114048/6620.ts?shareext.ts
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket" tvg-logo="http://tvmalaysia.cc:80/images/c80ade5bf94d0648997febfd77daad04.png" group-title="SHAREEXT@LIVE | SPORTS",SkySports_Cricket
+http://shareext@urtv.cc:80/live/114048/114048/6619.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="http://tvmalaysia.cc:80/images/00df33989b0bbd6c33616c9c6e22d63b.png" group-title="SHAREEXT@LIVE | SPORTS",MUTV
+http://shareext@urtv.cc:80/live/114048/114048/7236.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="LFC TV" tvg-logo="http://tvmalaysia.cc:80/images/12d36e8d63d3c1800885615edc4b961b.png" group-title="SHAREEXT@LIVE | SPORTS",LFC TV
+http://shareext@urtv.cc:80/live/114048/114048/7237.ts?shareext.ts
+#EXTINF:-1 tvg-id="" tvg-name="FS 1" tvg-logo="http://tvmalaysia.cc:80/images/b4b42aee84ec26d35dc2b750d2b29b86.png" group-title="SHAREEXT@LIVE | SPORTS",FS 1
+http://shareext@urtv.cc:80/live/114048/114048/9003.ts?shareext.ts
+
+
 
 
 
@@ -1629,6 +1738,252 @@ http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15227
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9359
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png"group-title="SHAREEXT@FRANCE_SPORTS",AUTOMOTO_LA CHAINE FHD
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/62915
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="astroria.my" tvg-name="RIA BACKUP" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="LIVE | ASTRO",RIA BACKUP
+http://urtv.cc:80/114048/114048/9031
+#EXTINF:-1 tvg-id="astroria.my" tvg-name="ASTRO Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="LIVE | ASTRO",ASTRO Ria HD
+http://urtv.cc:80/114048/114048/6730
+#EXTINF:-1 tvg-id="astroprima.my" tvg-name="ASTRO Prima HD" tvg-logo="http://tvmalaysia.cc:80/images/6d5b399b8fa106f2d771eb1701e4c9cb.png" group-title="LIVE | ASTRO",ASTRO Prima HD
+http://urtv.cc:80/114048/114048/6727
+#EXTINF:-1 tvg-id="astrowarna.my" tvg-name="ASTRO Warna HD" tvg-logo="http://tvmalaysia.cc:80/images/5a747afe7e6d8f0963590d0c63ae9a5c.png" group-title="LIVE | ASTRO",ASTRO Warna HD
+http://urtv.cc:80/114048/114048/6740
+#EXTINF:-1 tvg-id="astrocitra.my" tvg-name="Astro Citra HD (subtitle)" tvg-logo="http://tvmalaysia.cc:80/images/44f283fece8e89c263b9d1aba29f3d8c.png" group-title="LIVE | ASTRO",Astro Citra HD (subtitle)
+http://urtv.cc:80/114048/114048/7267
+#EXTINF:-1 tvg-id="boo.my" tvg-name="Astro Boo" tvg-logo="http://tvmalaysia.cc:80/images/7b9fdf9cec940d2163e49a0773bf32dc.png" group-title="LIVE | ASTRO",Astro Boo
+http://urtv.cc:80/114048/114048/8872
+#EXTINF:-1 tvg-id="naura.my" tvg-name="ASTRO Naura HD" tvg-logo="http://tvmalaysia.cc:80/images/d80a9589528fe5f41fba95bd9b107e72.png" group-title="LIVE | ASTRO",ASTRO Naura HD
+http://urtv.cc:80/114048/114048/6724
+#EXTINF:-1 tvg-id="awesometv.my" tvg-name="Awesome TV" tvg-logo="http://tvmalaysia.cc:80/images/26eb97872079a0801307bed836a5aeea.png" group-title="LIVE | ASTRO",Awesome TV
+http://urtv.cc:80/114048/114048/9016
+#EXTINF:-1 tvg-id="astrooasis.my" tvg-name="ASTRO Oasis HD" tvg-logo="http://tvmalaysia.cc:80/images/1025207519df6b585f285d5324f5e5c1.png" group-title="LIVE | ASTRO",ASTRO Oasis HD
+http://urtv.cc:80/114048/114048/6725
+#EXTINF:-1 tvg-id="astroaura.my" tvg-name="ASTRO Aura HD" tvg-logo="http://tvmalaysia.cc:80/images/0b67d68665c92067221b479621db7952.png" group-title="LIVE | ASTRO",ASTRO Aura HD
+http://urtv.cc:80/114048/114048/6713
+#EXTINF:-1 tvg-id="astrorania.my" tvg-name="ASTRO Rania HD" tvg-logo="http://tvmalaysia.cc:80/images/4408bc4a7b2f8ad6317ce413de65d2c8.png" group-title="LIVE | ASTRO",ASTRO Rania HD
+http://urtv.cc:80/114048/114048/6729
+#EXTINF:-1 tvg-id="astroawani.my" tvg-name="ASTRO Awani HD" tvg-logo="http://tvmalaysia.cc:80/images/4bfd1cf8ffae3783bc756c9aca65d192.png" group-title="LIVE | ASTRO",ASTRO Awani HD
+http://urtv.cc:80/114048/114048/6714
+#EXTINF:-1 tvg-id="astroceria.my" tvg-name="ASTRO Ceria HD" tvg-logo="http://tvmalaysia.cc:80/images/49204e1ccb905c3231dac0998b55b704.png" group-title="LIVE | ASTRO",ASTRO Ceria HD
+http://urtv.cc:80/114048/114048/6715
+#EXTINF:-1 tvg-id="MY: ABC AUSTRALIA" tvg-name="ABC Australia" tvg-logo="http://tvmalaysia.cc:80/images/cd8015182af2a1350c156be7f4913720.jpg" group-title="LIVE | ASTRO",ABC Australia
+http://urtv.cc:80/114048/114048/6692
+#EXTINF:-1 tvg-id="asianfoodchannel.id" tvg-name="Asian Food Network HD" tvg-logo="http://tvmalaysia.cc:80/images/ae54174abe4eff7596f622fd752bc10d.png" group-title="LIVE | ASTRO",Asian Food Network HD
+http://urtv.cc:80/114048/114048/6693
+#EXTINF:-1 tvg-id="MY: AL JAZEERA ENGLISH HD" tvg-name="Al-Jazzera HD" tvg-logo="http://tvmalaysia.cc:80/images/6b5c24b51f9610a805f03c93ecff9d5b.jpg" group-title="LIVE | ASTRO",Al-Jazzera HD
+http://urtv.cc:80/114048/114048/6694
+#EXTINF:-1 tvg-id="animalplanet.my" tvg-name="Animal Planet HD" tvg-logo="http://tvmalaysia.cc:80/images/ca4feb4afca4e12d3e376373b81b00c8.png" group-title="LIVE | ASTRO",Animal Planet HD
+http://urtv.cc:80/114048/114048/6695
+#EXTINF:-1 tvg-id="animax.my" tvg-name="Animax" tvg-logo="http://tvmalaysia.cc:80/images/3177be485607747ef576c771c168fefe.png" group-title="LIVE | ASTRO",Animax
+http://urtv.cc:80/114048/114048/6696
+#EXTINF:-1 tvg-id="MY: ANIPLUS" tvg-name="Aniplus HD" tvg-logo="https://i.postimg.cc/dtQMKrQQ/ZZ-Pw-KWt-400x400.jpg" group-title="LIVE | ASTRO",Aniplus HD
+http://urtv.cc:80/114048/114048/6697
+#EXTINF:-1 tvg-id="MY: ADITHYA" tvg-name="ASTRO Adithya" tvg-logo="http://tvmalaysia.cc:80/images/fd7b86517bb8a83b4ac94a7de56cb868.png" group-title="LIVE | ASTRO",ASTRO Adithya
+http://urtv.cc:80/114048/114048/6700
+#EXTINF:-1 tvg-id="astroaec.my" tvg-name="ASTRO AEC HD" tvg-logo="http://tvmalaysia.cc:80/images/d7b272395e41214e49a127b08bc63b42.png" group-title="LIVE | ASTRO",ASTRO AEC HD
+http://urtv.cc:80/114048/114048/6701
+#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND HD 311" tvg-name="ASTRO AOD 351 HD" tvg-logo="http://tvmalaysia.cc:80/images/266ce75d12de3edfb41bf0fb38d44e61.png" group-title="LIVE | ASTRO",ASTRO AOD 351 HD
+http://urtv.cc:80/114048/114048/6702
+#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 352" tvg-name=" ASTRO AOD 352 HD" tvg-logo="http://tvmalaysia.cc:80/images/c80fbc0c1c459c6f112b564e69a15440.png" group-title="LIVE | ASTRO", ASTRO AOD 352 HD
+http://urtv.cc:80/114048/114048/6703
+#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 353" tvg-name="ASTRO AOD 353 HD" tvg-logo="http://tvmalaysia.cc:80/images/fec06cc8554e1b382eb9592918638974.png" group-title="LIVE | ASTRO",ASTRO AOD 353 HD
+http://urtv.cc:80/114048/114048/6704
+#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 354" tvg-name="ASTRO AOD 354 HD" tvg-logo="http://tvmalaysia.cc:80/images/2bc91972c202879d05a1d98c8131de12.png" group-title="LIVE | ASTRO",ASTRO AOD 354 HD
+http://urtv.cc:80/114048/114048/6705
+#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 355" tvg-name="ASTRO AOD 355 HD" tvg-logo="http://tvmalaysia.cc:80/images/4ecbf4199ba725a25362149501b9ae90.png" group-title="LIVE | ASTRO",ASTRO AOD 355 HD
+http://urtv.cc:80/114048/114048/6706
+#EXTINF:-1 tvg-id="MY: COLORS TAMIL HD" tvg-name="ASTRO Colors Tamil" tvg-logo="http://tvmalaysia.cc:80/images/32bf2536144b1f03130e1ac5e8bb4978.png" group-title="LIVE | ASTRO",ASTRO Colors Tamil
+http://urtv.cc:80/114048/114048/6716
+#EXTINF:-1 tvg-id="MY: ZEE TAMIL HD" tvg-name="ASTRO Zee Tamil HD" tvg-logo="http://tvmalaysia.cc:80/images/7d4a1548640e0c2427eb4b2f73937413.png" group-title="LIVE | ASTRO",ASTRO Zee Tamil HD
+http://urtv.cc:80/114048/114048/6742
+#EXTINF:-1 tvg-id="MY: GO SHOP 111" tvg-name="ASTRO GO Shop 2" tvg-logo="https://i.postimg.cc/7Pg69fNM/astro-go-resized-2.jpg" group-title="LIVE | ASTRO",ASTRO GO Shop 2
+http://urtv.cc:80/114048/114048/6718
+#EXTINF:-1 tvg-id="MY: ASTRO VINMEEN HD" tvg-name="ASTRO Vinmeen HD" tvg-logo="http://tvmalaysia.cc:80/images/213a25d32535c979e752d542bcb92f91.png" group-title="LIVE | ASTRO",ASTRO Vinmeen HD
+http://urtv.cc:80/114048/114048/6739
+#EXTINF:-1 tvg-id="astrovaanavil.my" tvg-name="ASTRO Vaanavil HD" tvg-logo="http://tvmalaysia.cc:80/images/3371d6366762ed4a5dcaa5209518299d.png" group-title="LIVE | ASTRO",ASTRO Vaanavil HD
+http://urtv.cc:80/114048/114048/6738
+#EXTINF:-1 tvg-id="MY: MAKKAL TV" tvg-name="Makkal TV" tvg-logo="http://tvmalaysia.cc:80/images/6f0d388c915491e2d09321f690b75420.png" group-title="LIVE | ASTRO",Makkal TV
+http://urtv.cc:80/114048/114048/6806
+#EXTINF:-1 tvg-id="MY: SUN TV HD" tvg-name="ASTRO Sun TV HD" tvg-logo="http://tvmalaysia.cc:80/images/63534c20a27bcfb99af554687f874173.png" group-title="LIVE | ASTRO",ASTRO Sun TV HD
+http://urtv.cc:80/114048/114048/6733
+#EXTINF:-1 tvg-id="MY: STAR VIJAY HD" tvg-name="ASTRO Star Vijay HD" tvg-logo="http://tvmalaysia.cc:80/images/f6e171f4548ce0a27dddd272ca3a2fd1.png" group-title="LIVE | ASTRO",ASTRO Star Vijay HD
+http://urtv.cc:80/114048/114048/6732
+#EXTINF:-1 tvg-id="" tvg-name="Jaya Max" tvg-logo="http://tvmalaysia.cc:80/images/c63c1f0b2626a7477939f687005ecd38.jpg" group-title="LIVE | ASTRO",Jaya Max
+http://urtv.cc:80/114048/114048/6802
+#EXTINF:-1 tvg-id="MY: CHUTTI TV" tvg-name="Chutti TV" tvg-logo="http://tvmalaysia.cc:80/images/bace6bf715aa77f6318de18eb127aa11.png" group-title="LIVE | ASTRO",Chutti TV
+http://urtv.cc:80/114048/114048/6762
+#EXTINF:-1 tvg-id="MY: iQIYI HD" tvg-name="ASTRO iQIYI HD" tvg-logo="https://i.postimg.cc/J0DjYJRQ/IMG-20201125-230926.jpg" group-title="LIVE | ASTRO",ASTRO iQIYI HD
+http://urtv.cc:80/114048/114048/6723
+#EXTINF:-1 tvg-id="MY: ASTRO HUA HEE DAI HD" tvg-name="ASTRO Hua Hee Dai HD" tvg-logo="https://i.postimg.cc/nhMDcByY/IMG-20201125-230458.jpg" group-title="LIVE | ASTRO",ASTRO Hua Hee Dai HD
+http://urtv.cc:80/114048/114048/6722
+#EXTINF:-1 tvg-id="MY: HELLO HD" tvg-name="ASTRO Hello" tvg-logo="https://i.postimg.cc/4xGCbQ5s/Astro-HEllo.jpg" group-title="LIVE | ASTRO",ASTRO Hello
+http://urtv.cc:80/114048/114048/6721
+#EXTINF:-1 tvg-id="ohk.my" tvg-name="ASTRO Oh!K HD" tvg-logo="http://tvmalaysia.cc:80/images/3452a54809e37547767708f28b323a47.png" group-title="LIVE | ASTRO",ASTRO Oh!K HD
+http://urtv.cc:80/114048/114048/6726
+#EXTINF:-1 tvg-id="MY: ASTRO QUAN JIA HD" tvg-name="ASTRO Quan Jia HD" tvg-logo="https://i.postimg.cc/KYLTTLZX/QJHD-E.jpg" group-title="LIVE | ASTRO",ASTRO Quan Jia HD
+http://urtv.cc:80/114048/114048/6728
+#EXTINF:-1 tvg-id="MY: ASTRO SHUANG XING HD" tvg-name="ASTRO Shuang Xing HD" tvg-logo="https://i.postimg.cc/d1T3TKv5/Astro-Shuang-Xing-2015.png" group-title="LIVE | ASTRO",ASTRO Shuang Xing HD
+http://urtv.cc:80/114048/114048/6731
+#EXTINF:-1 tvg-id="MY: ASTRO TUTOR TV PT3" tvg-name="ASTRO Tutor TV PT3" tvg-logo="https://i.postimg.cc/TPTncYQN/TTV-PT3.png" group-title="LIVE | ASTRO",ASTRO Tutor TV PT3
+http://urtv.cc:80/114048/114048/6734
+#EXTINF:-1 tvg-id="MY: ASTRO TUTOR TV SPM" tvg-name="ASTRO Tutor TV SPM" tvg-logo="https://i.postimg.cc/tgSQqJML/TTV-SPM.png" group-title="LIVE | ASTRO",ASTRO Tutor TV SPM
+http://urtv.cc:80/114048/114048/6735
+#EXTINF:-1 tvg-id="MY: ASTRO TVIQ" tvg-name="ASTRO Tutor TV UPSR" tvg-logo="https://i.postimg.cc/tC5rQffc/TTV-UPSR.png" group-title="LIVE | ASTRO",ASTRO Tutor TV UPSR
+http://urtv.cc:80/114048/114048/6736
+#EXTINF:-1 tvg-id="MY: ASTRO TVIQ" tvg-name="ASTRO TVIQ" tvg-logo="https://i.postimg.cc/Hk0WDF7F/Astro-TVIQ-2007.png" group-title="LIVE | ASTRO",ASTRO TVIQ
+http://urtv.cc:80/114048/114048/6737
+#EXTINF:-1 tvg-id="MY: ASTRO XIAO TAI YANG HD" tvg-name="ASTRO Xiao Tai Yang HD" tvg-logo="https://i.postimg.cc/TYSnS5Xp/images-25.jpg" group-title="LIVE | ASTRO",ASTRO Xiao Tai Yang HD
+http://urtv.cc:80/114048/114048/6741
+#EXTINF:-1 tvg-id="MY: AXN HD" tvg-name="AXN HD" tvg-logo="https://i.postimg.cc/J02hdXvx/images-10.png" group-title="LIVE | ASTRO",AXN HD
+http://urtv.cc:80/114048/114048/6743
+#EXTINF:-1 tvg-id="MY: 8TV" tvg-name="BBC Lifestyle" tvg-logo="https://i.postimg.cc/d3Q0tYzh/download-24.jpg" group-title="LIVE | ASTRO",BBC Lifestyle
+http://urtv.cc:80/114048/114048/6746
+#EXTINF:-1 tvg-id="bernamatv.my" tvg-name="Bernama News" tvg-logo="http://tvmalaysia.cc:80/images/5d5d2a030b4861b803f596b788efadfd.png" group-title="LIVE | ASTRO",Bernama News
+http://urtv.cc:80/114048/114048/6750
+#EXTINF:-1 tvg-id="MY: BLOOMBERG TELEVISION" tvg-name="Bloomberg TV" tvg-logo="http://tvmalaysia.cc:80/images/0ab09328629806a9081cd6ecd6cc2fec.png" group-title="LIVE | ASTRO",Bloomberg TV
+http://urtv.cc:80/114048/114048/6751
+#EXTINF:-1 tvg-id="astrobollyone.my" tvg-name="BollyOne HD" tvg-logo="http://tvmalaysia.cc:80/images/a718e42e69b83dc475c36d50a85c5642.png" group-title="LIVE | ASTRO",BollyOne HD
+http://urtv.cc:80/114048/114048/6754
+#EXTINF:-1 tvg-id="MY: CNA HD" tvg-name="Channel News Asia HD" tvg-logo="https://i.postimg.cc/3whCpf5h/1200px-Channel-News-Asia-logo-shape-only-svg.png" group-title="LIVE | ASTRO",Channel News Asia HD
+http://urtv.cc:80/114048/114048/6765
+#EXTINF:-1 tvg-id="MY: CINEMAX HD" tvg-name="Cinemax HD" tvg-logo="https://i.postimg.cc/d1x58Rj9/611-cinemax.png" group-title="LIVE | ASTRO",Cinemax HD
+http://urtv.cc:80/114048/114048/6764
+#EXTINF:-1 tvg-id="MY: CELESTIAL MOVIES HD" tvg-name="Celestial Movies HD" tvg-logo="https://i.postimg.cc/XJ91fBXG/56b6c3c5f37c3-celestial-movies.jpg" group-title="LIVE | ASTRO",Celestial Movies HD
+http://urtv.cc:80/114048/114048/6760
+#EXTINF:-1 tvg-id="MY: CCTV4  HD" tvg-name="CCTV4 HD" tvg-logo="https://i.postimg.cc/tT1ZwFFJ/43ba17ed58bf0c88c7c9a7adac88b6a6.jpg" group-title="LIVE | ASTRO",CCTV4 HD
+http://urtv.cc:80/114048/114048/6759
+#EXTINF:-1 tvg-id="MY: CELESTIAL CLASSIC MOVIES" tvg-name="Celestial Classic Movies" tvg-logo="https://i.postimg.cc/HkRC35WB/CELESTIAL-CLASSIC-MOVIES-logo.png" group-title="LIVE | ASTRO",Celestial Classic Movies
+http://urtv.cc:80/114048/114048/6758
+#EXTINF:-1 tvg-id="cartoonnetwork.my" tvg-name="Cartoon Network HD" tvg-logo="http://tvmalaysia.cc:80/images/a4cbae9d01fdd8ecb52a9392e9779500.png" group-title="LIVE | ASTRO",Cartoon Network HD
+http://urtv.cc:80/114048/114048/6757
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="crime & investigation HD" tvg-logo="https://i.postimg.cc/wB2kwLLn/jrosbpfb-insidecrimeinvestigation.png" group-title="LIVE | ASTRO",crime & investigation HD
+http://urtv.cc:80/114048/114048/6756
+#EXTINF:-1 tvg-id="MY: FX HD" tvg-name="FX Cinema HD" tvg-logo="https://i.postimg.cc/yYx63CT0/1860182.jpg" group-title="LIVE | ASTRO",FX Cinema HD
+http://urtv.cc:80/114048/114048/6795
+#EXTINF:-1 tvg-id="MY: FRANCE24" tvg-name="France 24 HD" tvg-logo="https://i.postimg.cc/VkyyfxZf/1200px-FRANCE-24-logo-svg.png" group-title="LIVE | ASTRO",France 24 HD
+http://urtv.cc:80/114048/114048/6794
+#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="Food Network HD" tvg-logo="https://i.postimg.cc/HnmQp48s/Food-Network-New-Logo.png" group-title="LIVE | ASTRO",Food Network HD
+http://urtv.cc:80/114048/114048/6785
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="Eurosport HD" tvg-logo="https://i.postimg.cc/prVpG0n8/1200px-Eurosport-logo-svg.png" group-title="LIVE | ASTRO",Eurosport HD
+http://urtv.cc:80/114048/114048/6784
+#EXTINF:-1 tvg-id="eggnetwork.my" tvg-name="eGG Network" tvg-logo="https://i.postimg.cc/13d7y2mm/800-300.png" group-title="LIVE | ASTRO",eGG Network
+http://urtv.cc:80/114048/114048/6783
+#EXTINF:-1 tvg-id="dw.id" tvg-name="DW HD" tvg-logo="https://i.postimg.cc/nVdPdCy9/avatars-000709704967-ud6ehk-t500x500.jpg" group-title="LIVE | ASTRO",DW HD
+http://urtv.cc:80/114048/114048/6782
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks HD" tvg-logo="https://i.postimg.cc/1znvYBZ8/704-7046788-dreamworks-logo-hd-png-download-1.jpg" group-title="LIVE | ASTRO",Dreamworks HD
+http://urtv.cc:80/114048/114048/6780
+#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="DMAX HD" tvg-logo="http://tvmalaysia.cc:80/images/433e2f828d5c3bc6eafe1a1c5caa1d84.jpg" group-title="LIVE | ASTRO",DMAX HD
+http://urtv.cc:80/114048/114048/6778
+#EXTINF:-1 tvg-id="discoveryscience.ca" tvg-name="Discovery Science HD" tvg-logo="https://i.postimg.cc/Fsj75WS2/1200px-Science-Channel-logo-svg.png" group-title="LIVE | ASTRO",Discovery Science HD
+http://urtv.cc:80/114048/114048/6774
+#EXTINF:-1 tvg-id="discoverychannel.ca" tvg-name="Discovery HD" tvg-logo="https://i.postimg.cc/gJ8qCyH4/Discovery-Stacked.png" group-title="LIVE | ASTRO",Discovery HD
+http://urtv.cc:80/114048/114048/6773
+#EXTINF:-1 tvg-id="discoveryasia.my" tvg-name="Discovery Asia" tvg-logo="http://tvmalaysia.cc:80/images/c35254ea8035d16d2a9f793edd26dd3f.png" group-title="LIVE | ASTRO",Discovery Asia
+http://urtv.cc:80/114048/114048/6772
+#EXTINF:-1 tvg-id="" tvg-name="CTI Asia" tvg-logo="https://i.postimg.cc/ZnLgSzxf/ctitv.jpg" group-title="LIVE | ASTRO",CTI Asia
+http://urtv.cc:80/114048/114048/6771
+#EXTINF:-1 tvg-id="MY: COMEDY CENTRAL ASIA HD" tvg-name="Comedy Central" tvg-logo="https://i.postimg.cc/WbvFYLyB/CC-Logo-Lock-Up-Horizontal-TM-Summer-Ale-White-on-blk.png" group-title="LIVE | ASTRO",Comedy Central
+http://urtv.cc:80/114048/114048/6770
+#EXTINF:-1 tvg-id="colorshd.uk" tvg-name="Colors HD" tvg-logo="http://tvmalaysia.cc:80/images/7202a9beacf59c20fd03f504686e0627.png" group-title="LIVE | ASTRO",Colors HD
+http://urtv.cc:80/114048/114048/6769
+#EXTINF:-1 tvg-id="" tvg-name="Colors Cineplex" tvg-logo="http://tvmalaysia.cc:80/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="LIVE | ASTRO",Colors Cineplex
+http://urtv.cc:80/114048/114048/6768
+#EXTINF:-1 tvg-id="MY: CNN HD" tvg-name="CNN HD" tvg-logo="https://i.postimg.cc/gcV8WqfL/cnn-logo-white-on-red.jpg" group-title="LIVE | ASTRO",CNN HD
+http://urtv.cc:80/114048/114048/6767
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC" tvg-logo="http://tvmalaysia.cc:80/images/4205332d18bc720323dece4c7bb84df5.png" group-title="LIVE | ASTRO",CNBC
+http://urtv.cc:80/114048/114048/6766
+#EXTINF:-1 tvg-id="warnertv.my" tvg-name="Warner TV" tvg-logo="http://tvmalaysia.cc:80/images/fe971dedf93c15bae582eea20afa0a7f.png" group-title="LIVE | ASTRO",Warner TV
+http://urtv.cc:80/114048/114048/6848
+#EXTINF:-1 tvg-id="MY: 8TV" tvg-name="UTV Movies International" tvg-logo="http://tvmalaysia.cc:80/images/e5408b154e0b05e51a50371d15441b63.png" group-title="LIVE | ASTRO",UTV Movies International
+http://urtv.cc:80/114048/114048/6847
+#EXTINF:-1 tvg-id="" tvg-name="TV SARAWAK" tvg-logo="http://tvmalaysia.cc:80/images/f557488a5689b9bfa9262494b330448c.jpg" group-title="LIVE | ASTRO",TV SARAWAK
+http://urtv.cc:80/114048/114048/6846
+#EXTINF:-1 tvg-id="tvnmovies.my" tvg-name="tvN Movies" tvg-logo="http://tvmalaysia.cc:80/images/9d84ccde47792f4eae3504e6a68877c7.png" group-title="LIVE | ASTRO",tvN Movies
+http://urtv.cc:80/114048/114048/6845
+#EXTINF:-1 tvg-id="tvn.my" tvg-name="tvN HD" tvg-logo="http://tvmalaysia.cc:80/images/7f1eaa630170244ea3da72e50b0251a6.png" group-title="LIVE | ASTRO",tvN HD
+http://urtv.cc:80/114048/114048/6844
+#EXTINF:-1 tvg-id="MY: TVBS ASIA HD" tvg-name="TVBS Asia HD" tvg-logo="http://tvmalaysia.cc:80/images/c54681f83016ce05301f769c4875d010.jpg" group-title="LIVE | ASTRO",TVBS Asia HD
+http://urtv.cc:80/114048/114048/6843
+#EXTINF:-1 tvg-id="animalplanet.my" tvg-name="TVB Xing He HD" tvg-logo="http://tvmalaysia.cc:80/images/a98d3b039152e76ccd4698918e7568f7.png" group-title="LIVE | ASTRO",TVB Xing He HD
+http://urtv.cc:80/114048/114048/6842
+#EXTINF:-1 tvg-id="animalplanet.my" tvg-name="TVB Jade HD" tvg-logo="http://tvmalaysia.cc:80/images/57601e45a19bb85bfde608155a8291aa.png" group-title="LIVE | ASTRO",TVB Jade HD
+http://urtv.cc:80/114048/114048/6841
+#EXTINF:-1 tvg-id="MY: TVB NEWS" tvg-name="TVB E-News" tvg-logo="http://tvmalaysia.cc:80/images/959ef0799d7e2feb2e9b6eac17d47472.png" group-title="LIVE | ASTRO",TVB E-News
+http://urtv.cc:80/114048/114048/6840
+#EXTINF:-1 tvg-id="" tvg-name="TVB Classic" tvg-logo="http://tvmalaysia.cc:80/images/a48593093ac07738fca24f0bee6c7ae2.jpg" group-title="LIVE | ASTRO",TVB Classic
+http://urtv.cc:80/114048/114048/6839
+#EXTINF:-1 tvg-id="MY: AL-HIJRAH" tvg-name="TV-AlHijrah" tvg-logo="http://tvmalaysia.cc:80/images/dbdc90d36fb0cb6ff75fa4f8fbd8dc96.png" group-title="LIVE | ASTRO",TV-AlHijrah
+http://urtv.cc:80/114048/114048/6834
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel HD" tvg-logo="http://tvmalaysia.cc:80/images/83d09665000ad543908d67e15689dc6c.jpg" group-title="LIVE | ASTRO",Travel Channel HD
+http://urtv.cc:80/114048/114048/6833
+#EXTINF:-1 tvg-id="MY: TLC HD" tvg-name="TLC HD" tvg-logo="http://tvmalaysia.cc:80/images/18de4beb01f6a17b6e1dfb9813ba6045.jpg" group-title="LIVE | ASTRO",TLC HD
+http://urtv.cc:80/114048/114048/6832
+#EXTINF:-1 tvg-id="MY: SUN MUSIC HD" tvg-name="Sun Music" tvg-logo="http://tvmalaysia.cc:80/images/83c076b3895f5fb89c1d11229f0612f5.png" group-title="LIVE | ASTRO",Sun Music
+http://urtv.cc:80/114048/114048/6831
+#EXTINF:-1 tvg-id="" tvg-name="Sony TV" tvg-logo="http://tvmalaysia.cc:80/images/f076f941220408aa250b64b793a96853.png" group-title="LIVE | ASTRO",Sony TV
+http://urtv.cc:80/114048/114048/6829
+#EXTINF:-1 tvg-id="" tvg-name="Sony SAB" tvg-logo="http://tvmalaysia.cc:80/images/8da843d0f442405da023664246572f78.png" group-title="LIVE | ASTRO",Sony SAB
+http://urtv.cc:80/114048/114048/6827
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="Sky News HD" tvg-logo="http://tvmalaysia.cc:80/images/7b81c6e769e73cf481294a9718163d9c.jpg" group-title="LIVE | ASTRO",Sky News HD
+http://urtv.cc:80/114048/114048/6826
+#EXTINF:-1 tvg-id="one.my" tvg-name="One HD" tvg-logo="http://tvmalaysia.cc:80/images/de98374c5fa7c3d3be19487ca6c85156.png" group-title="LIVE | ASTRO",One HD
+http://urtv.cc:80/114048/114048/6817
+#EXTINF:-1 tvg-id="nickelodeon.my" tvg-name="Nickelodeon HD" tvg-logo="http://tvmalaysia.cc:80/images/bab494e5d5780225b27ce7359f94af6d.png" group-title="LIVE | ASTRO",Nickelodeon HD
+http://urtv.cc:80/114048/114048/6814
+#EXTINF:-1 tvg-id="nickelodeonjunior.my" tvg-name="Nick Jr" tvg-logo="http://tvmalaysia.cc:80/images/80eba87008619a2539d0fbf7c162db64.png" group-title="LIVE | ASTRO",Nick Jr
+http://urtv.cc:80/114048/114048/6813
+#EXTINF:-1 tvg-id="natgeopeople.my" tvg-name="NatGeo People" tvg-logo="http://tvmalaysia.cc:80/images/bce173b41e68a5f93990720a40c946e9.jpg" group-title="LIVE | ASTRO",NatGeo People
+http://urtv.cc:80/114048/114048/6811
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="MTV" tvg-logo="https://i.postimg.cc/WbY5jhsR/download-10.png" group-title="LIVE | ASTRO",MTV
+http://urtv.cc:80/114048/114048/6807
+#EXTINF:-1 tvg-id="MY: K-PLUS HD" tvg-name="KPlus HD" tvg-logo="http://tvmalaysia.cc:80/images/46dfac4cad4196ea903861dfc1a3b94c.jpg" group-title="LIVE | ASTRO",KPlus HD
+http://iptv.4ktezz.top:25461/fizzykacak86/b0RmeHO6zD/76196
+#EXTINF:-1 tvg-id="MY: KIX HD" tvg-name="Kix HD" tvg-logo="https://i.postimg.cc/kGfRgxWx/unnamed-8.jpg" group-title="LIVE | ASTRO",Kix HD
+http://urtv.cc:80/114048/114048/6804
+#EXTINF:-1 tvg-id="MY: KBS WORLD HD" tvg-name="KBS World HD" tvg-logo="http://tvmalaysia.cc:80/images/5ae0c1c8a5260bc7b6648f6fbd115c35.png" group-title="LIVE | ASTRO",KBS World HD
+http://urtv.cc:80/114048/114048/6803
+#EXTINF:-1 tvg-id="MY: HITS MOVIES HD" tvg-name="Hits Movies HD" tvg-logo="https://i.postimg.cc/sf0Z1mRH/logo-HITSMOVIES.png" group-title="LIVE | ASTRO",Hits Movies HD
+http://urtv.cc:80/114048/114048/6801
+#EXTINF:-1 tvg-id="MY: HITS HD" tvg-name="Hits HD" tvg-logo="http://tvmalaysia.cc:80/images/ddff30204a1aaa452ae469bbbd33523a.png" group-title="LIVE | ASTRO",Hits HD
+http://urtv.cc:80/114048/114048/6800
+#EXTINF:-1 tvg-id="MY: HISTORY HD" tvg-name="History HD" tvg-logo="http://tvmalaysia.cc:80/images/83a0b697c3738ae35a4c7fed642e567e.png" group-title="LIVE | ASTRO",History HD
+http://urtv.cc:80/114048/114048/6799
+#EXTINF:-1 tvg-id="MY: HGTV HD" tvg-name="HGTV HD" tvg-logo="http://tvmalaysia.cc:80/images/4192dec476abaf95ac12a1c7bf4fac8a.png" group-title="LIVE | ASTRO",HGTV HD
+http://urtv.cc:80/114048/114048/6798
+#EXTINF:-1 tvg-id="hbo.my" tvg-name="HBO HD" tvg-logo="http://tvmalaysia.cc:80/images/19c0a3768306086c9601f4c7c5a5cc81.jpg" group-title="LIVE | ASTRO",HBO HD
+http://urtv.cc:80/114048/114048/6797
+#EXTINF:-1 tvg-id="tv1.my" tvg-name="TV 1" tvg-logo="http://tvmalaysia.cc:80/images/ccfa5d3bbed199dbac92b5beb81b98b7.png" group-title="LIVE | MEDIA PRIMA",TV 1
+http://urtv.cc:80/114048/114048/7177
+#EXTINF:-1 tvg-id="tv2.my" tvg-name="TV 2" tvg-logo="http://tvmalaysia.cc:80/images/884a3720c93a65943ca3d37aea5cd686.png" group-title="LIVE | MEDIA PRIMA",TV 2
+http://urtv.cc:80/114048/114048/7178
+#EXTINF:-1 tvg-id="tv3.my" tvg-name="TV 3" tvg-logo="http://tvmalaysia.cc:80/images/2d597f2f1c13083021c04f1937a09f40.png" group-title="LIVE | MEDIA PRIMA",TV 3
+http://urtv.cc:80/114048/114048/7266
+#EXTINF:-1 tvg-id="tv3.my" tvg-name="TV 3 HD" tvg-logo="http://tvmalaysia.cc:80/images/87a07a960f50ae26eaa74f96bfe1628d.png" group-title="LIVE | MEDIA PRIMA",TV 3 HD
+http://urtv.cc:80/114048/114048/8750
+#EXTINF:-1 tvg-id="tv9.my" tvg-name="TV 9" tvg-logo="http://tvmalaysia.cc:80/images/001d2025b7bb5a0d0f180adff62ec4b7.png" group-title="LIVE | MEDIA PRIMA",TV 9
+http://urtv.cc:80/114048/114048/7185
+#EXTINF:-1 tvg-id="" tvg-name="RTM Sports" tvg-logo="http://tvmalaysia.cc:80/images/8ea5fad488df48902e34c566ac1fc8ec.png" group-title="LIVE | MEDIA PRIMA",RTM Sports
+http://urtv.cc:80/114048/114048/7186
+#EXTINF:-1 tvg-id="animalplanet.my" tvg-name="TV IKIM" tvg-logo="http://tvmalaysia.cc:80/images/31a651c00450427d27fca4ef7c465b89.jpg" group-title="LIVE | MEDIA PRIMA",TV IKIM
+http://urtv.cc:80/114048/114048/7192
+#EXTINF:-1 tvg-id="beritartm.my" tvg-name="Berita RTM" tvg-logo="http://tvmalaysia.cc:80/images/47e157d2927a350f7881bfe6a377da74.jpg" group-title="LIVE | MEDIA PRIMA",Berita RTM
+http://urtv.cc:80/114048/114048/7191
+#EXTINF:-1 tvg-id="bernamatv.my" tvg-name="BERNAMA" tvg-logo="http://tvmalaysia.cc:80/images/34b4aab4d257e7d335f410bf3decafe2.png" group-title="LIVE | MEDIA PRIMA",BERNAMA
+http://urtv.cc:80/114048/114048/7190
+#EXTINF:-1 tvg-id="ID: !NSERT" tvg-name="RTB MALAYSIA" tvg-logo="https://i.postimg.cc/wjjd9YH7/RTB-Sukmaindera.png" group-title="LIVE | MEDIA PRIMA",RTB MALAYSIA
+http://urtv.cc:80/114048/114048/7188
+#EXTINF:-1 tvg-id="" tvg-name="WLT JADE" tvg-logo="" group-title="LIVE | ASTRO",WLT JADE
+http://urtv.cc:80/114048/114048/8836
+#EXTINF:-1 tvg-id="" tvg-name="Astro Wah Lai Toi" tvg-logo="" group-title="LIVE | ASTRO",Astro Wah Lai Toi
+http://urtv.cc:80/114048/114048/8970
+#EXTINF:-1 tvg-id="" tvg-name="மக்கள் தொலைக்காட்சி" tvg-logo="" group-title="LIVE | ASTRO",மக்கள் தொலைக்காட்சி
+http://urtv.cc:80/114048/114048/8995
+
+
 
 
 
