@@ -87,16 +87,6 @@ https://iptv-net.github.io/rctiplus/rcti.m3u8
 https://iptv-net.github.io/rctiplus/inews.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",USEE_PRIME
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",USEE_SPORT
-https://filmkita.online/absbshsjwjwjwjjwehheejdidijdjdndbdbdbdbdnddjjssjsjsjsjsjshshshsbsbssbdbbdhd/useehls.m3u8?id=useesport
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",USEE_SPORTS_2
-https://filmkita.online/absbshsjwjwjwjjwehheejdidijdjdndbdbdbdbdnddjjssjsjsjsjsjshshshsbsbssbdbbdhd/useehls.m3u8?id=useesports2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",SPOTV_1
-https://filmkita.online/absbshsjwjwjwjjwehheejdidijdjdndbdbdbdbdnddjjssjsjsjsjsjshshshsbsbssbdbbdhd/useehls.m3u8?id=spotv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",SPOTV_2
-https://filmkita.online/absbshsjwjwjwjjwehheejdidijdjdndbdbdbdbdnddjjssjsjsjsjsjshshshsbsbssbdbbdhd/useehls.m3u8?id=spotv2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",BEIN_3
-https://filmkita.online/absbshsjwjwjwjjwehheejdidijdjdndbdbdbdbdnddjjssjsjsjsjsjshshshsbsbssbdbbdhd/useehls.m3u8?id=bein3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",SONY_TEN-1(dec=native)
 http://103.166.253.222/hls/sonyten1.m3u8?shareext.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",SONY_TEN-2(dec=native)
