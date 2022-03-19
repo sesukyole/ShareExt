@@ -452,6 +452,18 @@ https://lnk.ec/shareext@spotv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE | SPORTS",Spotv_2*
 https://lnk.ec/shareext@spotv2
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE | SPORTS",US_SP_1
+https://lnk.ec/shareext@sport_usee?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE | SPORTS",US_SP_2
+https://lnk.ec/shareext@sport_usee?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE | SPORTS",SPOtv
+https://lnk.ec/shareext@sport_useespotv?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE | SPORTS",SPOtv_2
+https://lnk.ec/shareext@sport_useespotv2?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE | SPORTS",BEIN_SP_3
+https://lnk.ec/shareext_sport_useebein3?shareext.ts
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 1 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="SHAREEXT@LIVE | SPORTS",beINSports_Premium_1 HD
 http://vt.vttpi.com:8000/live/P-957977/P-740465/412.ts
