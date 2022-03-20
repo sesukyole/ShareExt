@@ -1666,6 +1666,132 @@ http://stariptv.org:8080/wael2021/123456/132028
 
 
 
+
+#EXTINF:-1 tvg-ID="Sky Sport 24" tvg-name="Sky Sport 24 HD" tvg-logo="http://micc.mywire.org/ricettaxcantenna/Loghi/Sky%20Sport%2024%20HD.png" group-title="SHAREEXT@CALCIO_SPORT",SkySport_24 HD
+http://mfly.mywire.org:15800/Corona/Virus/29
+#EXTINF:-1 tvg-ID="Rai 1" tvg-name="Sky Sport Uno HD" tvg-logo="http://micc.mywire.org/ricettaxcantenna/Loghi/Sky%20Sport%201%20HD.png" group-title="SHAREEXT@CALCIO_SPORT",SkySport_Uno HD
+http://mfly.mywire.org:15800/Corona/Virus/30
+#EXTINF:-1 tvg-ID="Sky Sport Arena" tvg-name="Sky Sport Arena HD" tvg-logo="http://micc.mywire.org/ricettaxcantenna/Loghi/Sky%20Sport%20Arena%20HD.png" group-title="SHAREEXT@CALCIO_SPORT",SkySport_Arena_HD
+http://mfly.mywire.org:15800/Corona/Virus/31
+#EXTINF:-1 tvg-ID="Sky Sport Football HD" tvg-name="Sky Sport Football HD" tvg-logo="http://micc.mywire.org/ricettaxcantenna/Loghi/Sky%20Sport%20Football%20HD.png" group-title="SHAREEXT@CALCIO_SPORT",SkySport_Football_HD
+http://mfly.mywire.org:15800/Corona/Virus/32
+#EXTINF:-1 tvg-ID="Rai 1" tvg-name="Sky Sport Action HD" tvg-logo="https://guidatv.sky.it/logo/768skysportactionhd_Light_Padding.png?checksum=592778cf-6da0-4dfe-8a2c-23b8687c0efb&tr=n-logo_80" group-title="SHAREEXT@CALCIO_SPORT",SkySport_Action_HD
+http://mfly.mywire.org:15800/Corona/Virus/175550
+#EXTINF:-1 tvg-ID="Sky Sport Golf HD" tvg-name="Sky Sport Collection HD" tvg-logo="http://micc.mywire.org/ricettaxcantenna/Loghi/Sky%20Sport%20Mix%20%20HD.png" group-title="SHAREEXT@CALCIO_SPORT",SkySport_Collection_HD
+http://mfly.mywire.org:15800/Corona/Virus/48
+#EXTINF:-1 tvg-ID="Rai 1" tvg-name="Sky Sports Nba HD" tvg-logo="http://micc.mywire.org/ricettaxcantenna/Loghi/Sky%20Sport%20NBA%20HD.png" group-title="SHAREEXT@CALCIO_SPORT",SkySports_Nba_HD
+http://mfly.mywire.org:15800/Corona/Virus/12470
+#EXTINF:-1 tvg-ID="Sky Sport F1 HD" tvg-name="Sky Sport F1 HD" tvg-logo="http://micc.mywire.org/ricettaxcantenna/Loghi/Sky%20Sport%20F1%20HD.png" group-title="SHAREEXT@CALCIO_SPORT",SkySport_F1_HD
+http://mfly.mywire.org:15800/Corona/Virus/35
+#EXTINF:-1 tvg-ID="Rai 1" tvg-name="Sky Sport MotoGp HD" tvg-logo="http://micc.mywire.org/ricettaxcantenna/Loghi/Sky%20Sport%20MotoGP%20HD.png" group-title="SHAREEXT@CALCIO_SPORT",SkySport_MotoGp_HD
+http://mfly.mywire.org:15800/Corona/Virus/34
+#EXTINF:-1 tvg-ID="Eurosport HD" tvg-name="EuroSport 1" tvg-logo="http://micc.mywire.org/ricettaxcantenna/Loghi/EuroSport%201%20HD.png" group-title="SHAREEXT@CALCIO_SPORT",EuroSport_1
+http://mfly.mywire.org:15800/Corona/Virus/61
+#EXTINF:-1 tvg-ID="Eurosport 2HD" tvg-name="Eurosport 2" tvg-logo="http://micc.mywire.org/ricettaxcantenna/Loghi/EuroSport%202%20HD.png" group-title="SHAREEXT@CALCIO_SPORT",Eurosport_2
+http://mfly.mywire.org:15800/Corona/Virus/62
+#EXTINF:-1 tvg-ID="Horse TV HD" tvg-name="UnireSat HD" tvg-logo="http://micc.mywire.org/ricettaxcantenna/Loghi/UnireSat%20HD.png" group-title="SHAREEXT@CALCIO_SPORT",UnireSat_HD
+http://mfly.mywire.org:15800/Corona/Virus/45166
+#EXTINF:-1 tvg-ID="SuperTennis HD" tvg-name="Supertennis HD" tvg-logo="http://micc.mywire.org/ricettaxcantenna/Loghi/SuperTennis%20HD.png" group-title="SHAREEXT@CALCIO_SPORT",Supertennis_HD
+http://mfly.mywire.org:15800/Corona/Virus/55
+#EXTINF:-1 tvg-ID="Sportitalia" tvg-name="Sport Italia" tvg-logo="http://micc.mywire.org/ricettaxcantenna/Loghi/Sport%20Italia.png" group-title="SHAREEXT@CALCIO_SPORT",Sport_Italia
+http://mfly.mywire.org:15800/Corona/Virus/58
+#EXTINF:-1 tvg-ID="RAI Sport" tvg-name="Rai Sport 1" tvg-logo="http://micc.mywire.org/ricettaxcantenna/Loghi/Rai%20Sport%201.png" group-title="SHAREEXT@CALCIO_SPORT",Rai_Sport_1
+http://mfly.mywire.org:15800/Corona/Virus/59
+#EXTINF:-1 tvg-ID="Rai Sport Plus HD" tvg-name="Rai Sport 2" tvg-logo="http://micc.mywire.org/ricettaxcantenna/Loghi/Rai%20Sport%202.png" group-title="SHAREEXT@CALCIO_SPORT",Rai_Sport_2
+http://mfly.mywire.org:15800/Corona/Virus/60
+#EXTINF:-1 tvg-ID="Roma TV" tvg-name="Roma TV" tvg-logo="http://micc.mywire.org/ricettaxcantenna/Loghi/ROMA%20TV.png" group-title="SHAREEXT@CALCIO_SPORT",Roma_TV
+http://mfly.mywire.org:15800/Corona/Virus/50
+#EXTINF:-1 tvg-ID="Milan TV" tvg-name="Milan Channel" tvg-logo="http://micc.mywire.org/ricettaxcantenna/Loghi/Milan%20Channel.png" group-title="SHAREEXT@CALCIO_SPORT",Milan_Channel
+http://mfly.mywire.org:15800/Corona/Virus/52
+#EXTINF:-1 tvg-ID="Inter TV" tvg-name="Inter Channel" tvg-logo="http://micc.mywire.org/ricettaxcantenna/Loghi/Inter%20Channel.png" group-title="SHAREEXT@CALCIO_SPORT",Inter_Channel
+http://mfly.mywire.org:15800/Corona/Virus/53
+#EXTINF:-1 tvg-ID="Rai 1" tvg-name="Lazio Style Channel" tvg-logo="" group-title="SHAREEXT@CALCIO_SPORT",Lazio_Style_Channel
+http://mfly.mywire.org:15800/Corona/Virus/54
+#EXTINF:-1 tvg-ID="TORINO CHANNEL" tvg-name="Torino Channel" tvg-logo="http://micc.mywire.org/ricettaxcantenna/Loghi/Torino%20Channel.png" group-title="SHAREEXT@CALCIO_SPORT",Torino_Channel
+http://mfly.mywire.org:15800/Corona/Virus/7359
+#EXTINF:-1 tvg-ID="Horse TV HD" tvg-name="ClassHorse TV" tvg-logo="http://micc.mywire.org/ricettaxcantenna/Loghi/Class%20Horse%20HD.png" group-title="SHAREEXT@CALCIO_SPORT",ClassHorse_TV
+http://mfly.mywire.org:15800/Corona/Virus/57
+#EXTINF:-1 tvg-ID="" tvg-name="WWE US-IT" tvg-logo="http://micc.mywire.org/ricettaxcantenna/Loghi/WWE%20Wrestling%20HD.png" group-title="SHAREEXT@CALCIO_SPORT",WWE_US-IT
+http://mfly.mywire.org:15800/Corona/Virus/15077
+#EXTINF:-1 tvg-ID="Motor Trend" tvg-name="MotorTrend" tvg-logo="http://micc.mywire.org/ricettaxcantenna/Loghi/Motor%20Trade.png" group-title="SHAREEXT@CALCIO_SPORT",Motor_Trend
+http://mfly.mywire.org:15800/Corona/Virus/49335
+#EXTINF:-1 tvg-ID="" tvg-name="Udinese TV" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@CALCIO_SPORT",Udinese_TV
+http://mfly.mywire.org:15800/Corona/Virus/175551
+#EXTINF:-1 tvg-ID="" tvg-name="Rally TV" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@CALCIO_SPORT",Rally_TV
+http://mfly.mywire.org:15800/Corona/Virus/175552
+#EXTINF:-1 tvg-ID="" tvg-name="UFC TV" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@CALCIO_SPORT",UFC_TV
+http://mfly.mywire.org:15800/Corona/Virus/175553
+#EXTINF:-1 tvg-ID="" tvg-name="Juventus TV" tvg-logo="http://micc.mywire.org/ricettaxcantenna/Loghi/Juventus%20TV.png" group-title="SHAREEXT@CALCIO_SPORT",Juventus_TV
+http://mfly.mywire.org:15800/Corona/Virus/97478
+#EXTINF:-1 tvg-ID="" tvg-name="Amazon Sport " tvg-logo="https://img.icons8.com/ios-filled/452/amazon-prime-video.png" group-title="SHAREEXT@CALCIO_SPORT",Amazon_Sport 
+http://mfly.mywire.org:15800/Corona/Virus/24912
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN CALCIO 1" tvg-logo="http://micc.mywire.org/ricettaxcantenna/Loghi/Dazn%20Sport%20Serie%20A%20FHD%20Sat.png" group-title="SHAREEXT@CALCIO_SPORT",DAZN_CALCIO 1
+http://mfly.mywire.org:15800/Corona/Virus/24910
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN CALCIO 2" tvg-logo="http://micc.mywire.org/ricettaxcantenna/Loghi/Dazn%20Sport%20Serie%20A%20FHD%20Sat.png" group-title="SHAREEXT@CALCIO_SPORT",DAZN_CALCIO 2
+http://mfly.mywire.org:15800/Corona/Virus/24911
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN CALCIO 3" tvg-logo="http://micc.mywire.org/ricettaxcantenna/Loghi/Dazn%20Sport%20Serie%20A%20FHD%20Sat.png" group-title="SHAREEXT@CALCIO_SPORT",DAZN_CALCIO 3
+http://mfly.mywire.org:15800/Corona/Virus/24384
+#EXTINF:-1 tvg-ID="Rai 1" tvg-name="Sky Sport Calcio HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/e/e9/20210626150343%21Sky_Sport_Calcio.svg/120px-Sky_Sport_Calcio.svg.png" group-title="SHAREEXT@CALCIO_SPORT",SkySport_Calcio_HD
+http://mfly.mywire.org:15800/Corona/Virus/37
+#EXTINF:-1 tvg-ID="Rai 1" tvg-name="Sky Calcio 251" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky_Calcio_-_Logo_2015.svg/1280px-Sky_Calcio_-_Logo_2015.svg.png" group-title="SHAREEXT@CALCIO_SPORT",Sky_Calcio_251
+http://mfly.mywire.org:15800/Corona/Virus/38
+#EXTINF:-1 tvg-ID="Rai 1" tvg-name="Sky Calcio 252" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky_Calcio_-_Logo_2015.svg/1280px-Sky_Calcio_-_Logo_2015.svg.png" group-title="SHAREEXT@CALCIO_SPORT",Sky_Calcio_252
+http://mfly.mywire.org:15800/Corona/Virus/39
+#EXTINF:-1 tvg-ID="Rai 1" tvg-name="Sky Calcio 253" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky_Calcio_-_Logo_2015.svg/1280px-Sky_Calcio_-_Logo_2015.svg.png" group-title="SHAREEXT@CALCIO_SPORT",Sky_Calcio_253
+http://mfly.mywire.org:15800/Corona/Virus/40
+#EXTINF:-1 tvg-ID="Rai 1" tvg-name="Sky Calcio 254" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky_Calcio_-_Logo_2015.svg/1280px-Sky_Calcio_-_Logo_2015.svg.png" group-title="SHAREEXT@CALCIO_SPORT",Sky_Calcio_254
+http://mfly.mywire.org:15800/Corona/Virus/41
+#EXTINF:-1 tvg-ID="Rai 1" tvg-name="Sky Calcio 255" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky_Calcio_-_Logo_2015.svg/1280px-Sky_Calcio_-_Logo_2015.svg.png" group-title="SHAREEXT@CALCIO_SPORT",Sky_Calcio_255
+http://mfly.mywire.org:15800/Corona/Virus/42
+#EXTINF:-1 tvg-ID="Rai 1" tvg-name="Sky Calcio 256" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky_Calcio_-_Logo_2015.svg/1280px-Sky_Calcio_-_Logo_2015.svg.png" group-title="SHAREEXT@CALCIO_SPORT",Sky_Calcio_256
+http://mfly.mywire.org:15800/Corona/Virus/43
+#EXTINF:-1 tvg-ID="Rai 1" tvg-name="Sky Calcio 257" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky_Calcio_-_Logo_2015.svg/1280px-Sky_Calcio_-_Logo_2015.svg.png" group-title="SHAREEXT@CALCIO_SPORT",Sky_Calcio_257
+http://mfly.mywire.org:15800/Corona/Virus/44
+#EXTINF:-1 tvg-ID="Rai 1" tvg-name="Sky Calcio 258" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky_Calcio_-_Logo_2015.svg/1280px-Sky_Calcio_-_Logo_2015.svg.png" group-title="SHAREEXT@CALCIO_SPORT",Sky_Calcio_258
+http://mfly.mywire.org:15800/Corona/Virus/45
+#EXTINF:-1 tvg-ID="Rai 1" tvg-name="Sky Calcio 259" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky_Calcio_-_Logo_2015.svg/1280px-Sky_Calcio_-_Logo_2015.svg.png" group-title="SHAREEXT@CALCIO_SPORT",Sky_Calcio_259
+http://mfly.mywire.org:15800/Corona/Virus/23787
+#EXTINF:-1 tvg-ID="Rai 1" tvg-name="Sky Calcio 260" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky_Calcio_-_Logo_2015.svg/1280px-Sky_Calcio_-_Logo_2015.svg.png" group-title="SHAREEXT@CALCIO_SPORT",Sky_Calcio_260
+http://mfly.mywire.org:15800/Corona/Virus/7393
+#EXTINF:-1 tvg-ID="Rai 1" tvg-name="Sky Calcio 261" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky_Calcio_-_Logo_2015.svg/1280px-Sky_Calcio_-_Logo_2015.svg.png" group-title="SHAREEXT@CALCIO_SPORT",Sky_Calcio_261
+http://mfly.mywire.org:15800/Corona/Virus/7394
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 1 HD" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@CALCIO_SPORT",Eleven_Sports_1 HD
+http://mfly.mywire.org:15800/Corona/Virus/47179
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 3 HD" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@CALCIO_SPORT",Eleven_Sports_3 HD
+http://mfly.mywire.org:15800/Corona/Virus/47181
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 4 HD" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@CALCIO_SPORT",Eleven_Sports_4 HD
+http://mfly.mywire.org:15800/Corona/Virus/47182
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 2 HD" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@CALCIO_SPORT",Eleven_Sports_2 HD
+http://mfly.mywire.org:15800/Corona/Virus/47180
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sport 1 HD" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@CALCIO_SPORT",Eleven_Sport_1_HD
+http://mfly.mywire.org:15800/Corona/Virus/100821
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sport 2 HD" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@CALCIO_SPORT",Eleven_Sport_2_HD
+http://mfly.mywire.org:15800/Corona/Virus/100822
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sport 3 HD" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@CALCIO_SPORT",Eleven_Sport_3_HD
+http://mfly.mywire.org:15800/Corona/Virus/100823
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sport 4 HD" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@CALCIO_SPORT",Eleven_Sport_4_HD
+http://mfly.mywire.org:15800/Corona/Virus/100824
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sport 5 HD" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@CALCIO_SPORT",Eleven_Sport_5_HD
+http://mfly.mywire.org:15800/Corona/Virus/100825
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sport 6 HD" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@CALCIO_SPORT",Eleven_Sport_6_HD
+http://mfly.mywire.org:15800/Corona/Virus/100826
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Super Sport 1 HD" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@CALCIO_SPORT",AL:SuperSport_1 HD
+http://mfly.mywire.org:15800/Corona/Virus/101219
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Super Sport 2 HD" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@CALCIO_SPORT",AL:SuperSport_2 HD
+http://mfly.mywire.org:15800/Corona/Virus/101220
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Super Sport 3 HD" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@CALCIO_SPORT",AL:SuperSport_3 HD
+http://mfly.mywire.org:15800/Corona/Virus/101221
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Super Sport 4 HD" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@CALCIO_SPORT",AL:SuperSport_4 HD
+http://mfly.mywire.org:15800/Corona/Virus/101222
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Super Sport 5 HD" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@CALCIO_SPORT",AL:SuperSport_5 HD
+http://mfly.mywire.org:15800/Corona/Virus/101223
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Super Sport 6 HD" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@CALCIO_SPORT",AL:SuperSport_6 HD
+http://mfly.mywire.org:15800/Corona/Virus/101224
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="ShareExt@LATINO_Sport",Claro_Sports
 http://190.187.200.69:8000/play/a02a
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="ShareExt@LATINO_Sport",ESPN
