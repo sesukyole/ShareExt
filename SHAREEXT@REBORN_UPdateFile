@@ -77,14 +77,8 @@ http://nontonbola.my.id/hustv/useesport1.m3u8?punyanya=gasss
 http://nontonbola.my.id/hustv/useesport2.m3u8?punyanya=gasss
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",RCTI_+
 https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
-https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",INEWS_+
 https://vcdn2.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=7-mp4a_96000=2.m3u8
-https://inews-linier.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",RCTI_+(Opt1)
-https://iptv-net.github.io/rctiplus/rcti.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",INEWS_+(Opt1)
-https://iptv-net.github.io/rctiplus/inews.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",USEE_PRIME
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",SONY_TEN-1(dec=native)
@@ -114,14 +108,6 @@ http://31.14.41.252:8000/play/a001/index.m3u8?shareext.ts
 http://31.14.41.252:8000/play/a00e/index.m3u8?shareext.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",RMC_SPORTS_2*
 http://31.14.41.252:8000/play/a011/index.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpGjVM3r/Astro-SHAREEXTgroup.jpg"group-title="SHAREEXT@LIVE|SPORTS",ASSP_1_opt1
-http://ky-iptv.com:80/live/nicholas/123456789/1391035.ts?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpGjVM3r/Astro-SHAREEXTgroup.jpg"group-title="SHAREEXT@LIVE|SPORTS",ASSP_2_opt1
-http://ky-iptv.com:80/live/nicholas/123456789/1391036.ts?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpGjVM3r/Astro-SHAREEXTgroup.jpg"group-title="SHAREEXT@LIVE|SPORTS",ASSP_3_opt1
-http://ky-iptv.com:80/live/nicholas/123456789/1391037.ts?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpGjVM3r/Astro-SHAREEXTgroup.jpg"group-title="SHAREEXT@LIVE|SPORTS",ASSP_4_opt1
-http://ky-iptv.com:80/live/nicholas/123456789/1391038.ts?shareext.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpGjVM3r/Astro-SHAREEXTgroup.jpg"group-title="SHAREEXT@LIVE|SPORTS",Okey_TV
