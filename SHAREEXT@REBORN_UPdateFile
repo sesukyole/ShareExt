@@ -430,8 +430,10 @@ https://lnk.ec/shareext@sport_usee2
 https://lnk.ec/shareext@sport_useespotv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE | SPORTS",SPOtv_2
 https://lnk.ec/shareext@sport_useespotv2
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Astro_ARENA
+https://lnk.ec/shareext@arena1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Astro_ARENA_2
+https://lnk.ec/shareext@arena2
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",ASSP_1
 https://lnk.ec/shareext@ASSP_1
