@@ -459,42 +459,8 @@ https://lnk.ec/shareext@ASSP_4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",ASSP_5
 https://lnk.ec/shareext@ASSP_5
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",WORLD_PADEL_TOUR_TV
 https://laligatech-live-usp.akamaized.net/live/wpt01-bkp/wpt01-bkp.isml/wpt01-bkp-audio_track_0_0_spa=96000-video_track=4000000.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Skysport_Premier_Liga
-https://aws.nowtv.vip/live/skyepl/chunks.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Super_sports_cricket
-https://aws.nowtv.vip/live/sscricket/chunks.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Super_sports_action
-https://aws.nowtv.vip/live/ssaction/chunks.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Super_sports_variety_1
-https://aws.nowtv.vip/live/ssvariety1/chunks.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Super_sports_grandstand
-https://aws.nowtv.vip/live/ssgrandstand/chunks.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Super_sports_variety_2
-https://aws.nowtv.vip/live/ssvariety2/chunks.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Super_sports_Tennis
-https://aws.nowtv.vip/live/sstennis/chunks.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Super_sports_football
-https://aws.nowtv.vip/live/ssfootball/chunks.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Super_sports_rugby
-https://aws.nowtv.vip/live/ssrugby/chunks.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",ESPN
-https://aws.nowtv.vip/live/espn/chunks.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",ESPN_2
-https://aws.nowtv.vip/live/espn2/chunks.m3u8?shareext.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Star_sports_1
 http://103.166.253.222:80/hls/stersports1hd.m3u8?shareext.ts
@@ -517,42 +483,11 @@ http://103.166.253.222:80/hls/sonyten3.m3u8?shareext.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",T_sports
 http://103.149.130.122:8089/102/index.m3u8?shareext.ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Super_sports_cricket
-https://aws.nowtv.vip/live/sscricket/chunks.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Super_sports_action
-https://aws.nowtv.vip/live/ssaction/chunks.m3u8?shareext.ts
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Ptv_sports
 http://103.24.96.74/stream/ptvsports/playlist.m3u8?shareext.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",PTV_sports(opt_1)
 http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Skysports_cricket
-https://aws.nowtv.vip/live/skycricket/chunks.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Skysports_mix
-https://aws.nowtv.vip/live/skymix/chunks.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Skysports_mainEvent
-https://aws.nowtv.vip/live/skymain/chunks.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",BT_sports_1
-https://aws.nowtv.vip/live/bt1/chunks.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",BT_sports_2
-https://aws.nowtv.vip/live/bt2/chunks.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",BT_sports_3
-https://aws.nowtv.vip/live/bt3/chunks.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",BT_sports_espn
-https://aws.nowtv.vip/live/btespn/chunks.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Super_sports_maximo
-https://aws.nowtv.vip/live/ssmaximo/chunks.m3u8?shareext.ts
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Tennis_TV
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
