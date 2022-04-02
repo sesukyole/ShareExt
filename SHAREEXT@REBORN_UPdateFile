@@ -1190,17 +1190,12 @@ http://iptv12k.com:35461/8022022301/468985/2340
 http://iptv12k.com:35461/8022022301/468985/2337
 
 
-
 #EXTINF:-1 tvg-id="" tvg-name="IN:  Star sports HD1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="SHAREEXT@MULTI_SPORTS",Starsports_HD1
 http://iptv12k.com:35461/8022022301/468985/2315
 #EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports2-SD" tvg-logo="https://www.logolynx.com/images/logolynx/d4/d45270f0d1dc46feafd57c63a8c53146.png" group-title="SHAREEXT@MULTI_SPORTS",StarSports_2
 http://iptv12k.com:35461/8022022301/468985/2333
 #EXTINF:-1 tvg-id="" tvg-name="IN:  Sony Six SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="SHAREEXT@MULTI_SPORTS",SonySix
 http://iptv12k.com:35461/8022022301/468985/1937
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="SIN-HBO MOVIE" tvg-logo="https://i.loli.net/2021/10/07/qKaC82rwGmOuAdX.jpg" group-title="SHAREEXT@_MOVIES",HBO
@@ -3446,125 +3441,6 @@ http://f4.tvxweb.net:8082/35979/video.m3u8?shareext.ts
 
 
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_cartoons
-http://176.9.17.76:7080/live/stream/8dl627dwai/51.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_BabyRiky
-http://176.9.17.76:7080/live/stream/8dl627dwai/52.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Basme
-http://176.9.17.76:7080/live/stream/8dl627dwai/53.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_DeepMusic
-http://176.9.17.76:7080/live/stream/8dl627dwai/56.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Marvel
-http://176.9.17.76:7080/live/stream/8dl627dwai/57.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_ManeMix
-http://176.9.17.76:7080/live/stream/8dl627dwai/58.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_OldMovies
-http://176.9.17.76:7080/live/stream/8dl627dwai/59.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_InfoMedia(18+)
-http://176.9.17.76:7080/live/stream/8dl627dwai/60.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Collection
-http://176.9.17.76:7080/live/stream/8dl627dwai/61.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Thirlell
-http://176.9.17.76:7080/live/stream/8dl627dwai/62.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_XXX(18+)
-http://176.9.17.76:7080/live/stream/8dl627dwai/63.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_XXX1(18+)
-http://176.9.17.76:7080/live/stream/8dl627dwai/64.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_XXX2(18+)
-http://176.9.17.76:7080/live/stream/8dl627dwai/65.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_XXX3(18+)
-http://176.9.17.76:7080/live/stream/8dl627dwai/66.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_XXX4(18+)
-http://176.9.17.76:7080/live/stream/8dl627dwai/67.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_INSURA
-http://176.9.17.76:7080/live/stream/8dl627dwai/68.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_JCVD
-http://176.9.17.76:7080/live/stream/8dl627dwai/69.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_MR.BEAN
-http://176.9.17.76:7080/live/stream/8dl627dwai/70.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_XXX5(18+)
-http://176.9.17.76:7080/live/stream/8dl627dwai/71.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Doundc
-http://176.9.17.76:7080/live/stream/8dl627dwai/80.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Science
-http://176.9.17.76:7080/live/stream/8dl627dwai/81.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_KidsMovies
-http://176.9.17.76:7080/live/stream/8dl627dwai/82.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Premium2
-http://176.9.17.76:7080/live/stream/8dl627dwai/83.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Paranormal
-http://176.9.17.76:7080/live/stream/8dl627dwai/84.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Action
-http://176.9.17.76:7080/live/stream/8dl627dwai/34.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Comedy
-http://176.9.17.76:7080/live/stream/8dl627dwai/35.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Horror
-http://176.9.17.76:7080/live/stream/8dl627dwai/36.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Sci_fi
-http://176.9.17.76:7080/live/stream/8dl627dwai/37.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Movies
-http://176.9.17.76:7080/live/stream/8dl627dwai/38.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Western
-http://176.9.17.76:7080/live/stream/8dl627dwai/39.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_History
-http://176.9.17.76:7080/live/stream/8dl627dwai/40.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Premium
-http://176.9.17.76:7080/live/stream/8dl627dwai/41.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Documentar
-http://176.9.17.76:7080/live/stream/8dl627dwai/44.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Christmas
-http://176.9.17.76:7080/live/stream/8dl627dwai/45.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Stand_Up
-http://176.9.17.76:7080/live/stream/8dl627dwai/46.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Star
-http://176.9.17.76:7080/live/stream/8dl627dwai/47.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Rololol
-http://176.9.17.76:7080/live/stream/8dl627dwai/48.ts?shareext.ts
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_RomanianMusic
-http://176.9.17.76:7080/live/stream/8dl627dwai/49.ts?shareext.ts
-
-
-
-
-
-
 
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="SHAREEXT@JAPAN_Station",GAORA.SportTv
@@ -5553,142 +5429,6 @@ https://cdn.rjdigilink.in/jeysontv/livetv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",&PRIVE_HD
-http://103.153.39.36:8000/play/a01d
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",&flix_HD
-http://103.153.39.36:8000/play/a00p
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",&pictures_HD
-http://103.153.39.36:8000/play/a017
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",&tv_HD
-http://103.153.39.36:8000/play/a01u
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",ANIMAL_PLANET HD
-http://103.153.39.36:8000/play/a011
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",BBC_WORLD
-http://103.153.39.36:8000/play/a01f
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",CARTOON_NET
-http://103.153.39.36:8000/play/a01w
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",CNN_INTERNL
-http://103.153.39.36:8000/play/a01e
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",COMEDY_CENTRAL
-http://103.153.39.36:8000/play/a01g
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",Colors_HD
-http://103.153.39.36:8000/play/a00o
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",DISCOVERY_K
-http://103.153.39.36:8000/play/a024
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",Discovery_HD
-http://103.153.39.36:8000/play/a00y
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",Discovery_S
-http://103.153.39.36:8000/play/a01k
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",
-http://103.153.39.36:8000/play/a01l
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",Disney_Channel
-http://103.153.39.36:8000/play/a01y
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",Disney_Jr.
-http://103.153.39.36:8000/play/a020
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",EuroSports_HD 
-http://103.153.39.36:8000/play/a00r
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",FOX_Life HD
-http://103.153.39.36:8000/play/a01t
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",HISTORY_TV18 HD
-http://103.153.39.36:8000/play/a013
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",Investigation_Discovery
-http://103.153.39.36:8000/play/a00j
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",MAX_HD
-http://103.153.39.36:8000/play/a00h
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",MN+HD
-http://103.153.39.36:8000/play/a00u
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",MNX
-http://103.153.39.36:8000/play/a01h
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",MOVIES_NOW
-http://103.153.39.36:8000/play/a01i
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",NATGeo_Wild HD
-http://103.153.39.36:8000/play/a00i
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",National_GEK HD
-http://103.153.39.36:8000/play/a00x
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",Nick_Jr.
-http://103.153.39.36:8000/play/a023
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",PIX_HD
-http://103.153.39.36:8000/play/a016
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",Pogo
-http://103.153.39.36:8000/play/a022
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",Romedy_NOW
-http://103.153.39.36:8000/play/a01j
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",SAB_HD
-http://103.153.39.36:8000/play/a01v
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",SET_HD
-http://103.153.39.36:8000/play/a00q
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",SIX_HD
-http://103.153.39.36:8000/play/a00f
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",SONIC
-http://103.153.39.36:8000/play/a021
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",SONY_MAX
-http://103.153.39.36:8000/play/a01s
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",STAR_BHARAT
-http://103.153.39.36:8000/play/a010
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",STAR_MOVIE HD
-http://103.153.39.36:8000/play/a00v
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",STARWORL_ P HD
-http://103.153.39.36:8000/play/a00a
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",STARWORLD_HD
-http://103.153.39.36:8000/play/a00b
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",Sony_BBC EarHD
-http://103.153.39.36:8000/play/a015
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",Sony_Ten_1 HD- 
-http://103.153.39.36:8000/play/a00e
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",Son_Ten_2 HD
-http://103.153.39.36:8000/play/a01a
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",Sony_Ten_3 HD
-http://103.153.39.36:8000/play/a00k
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",StarGOLD HD
-http://103.153.39.36:8000/play/a012
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",StarGold_2
-http://103.153.39.36:8000/play/a01q
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",StarGold_Select_HD
-http://103.153.39.36:8000/play/a014
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",StarPlus HD
-http://103.153.39.36:8000/play/a00m
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",StarSports_Hindi 1 HD
-http://103.153.39.36:8000/play/a026
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",StarSports_1 HD
-http://103.153.39.36:8000/play/a00c
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",StarSports_2 HD
-http://103.153.39.36:8000/play/a00d
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",StarSports_3 
-http://103.153.39.36:8000/play/a00l
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",StarSports_Select 1 HD
-http://103.153.39.36:8000/play/a018
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",StarSports_Select 2 HD
-http://103.153.39.36:8000/play/a019
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",StarMov_S HD
-http://103.153.39.36:8000/play/a00w
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",TLC_HD
-http://103.153.39.36:8000/play/a027
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",UTV_ACTION
-http://103.153.39.36:8000/play/a01p
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",UTV_MOVIES
-http://103.153.39.36:8000/play/a01o
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",WWE
-http://103.153.39.36:8000/play/a034
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",ZEE_ANMOL
-http://103.153.39.36:8000/play/a00s
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",ZEE_BOLLYWOOD
-http://103.153.39.36:8000/play/a01r
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",ZEE_CINEMA HD
-http://103.153.39.36:8000/play/a00z
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",ZEE_Cafe
-http://103.153.39.36:8000/play/a00t
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",ZEE_TV HD
-http://103.153.39.36:8000/play/a00n
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",Zoom 
-http://103.153.39.36:8000/play/a025
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",colors_INFINITY HD
-http://103.153.39.36:8000/play/a01b
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",hungama_tv
-http://103.153.39.36:8000/play/a01x
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",nick
-http://103.153.39.36:8000/play/a01z
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@LIVE|INDIE",nick_HD
-http://103.153.39.36:8000/play/a01c
 
 
 
@@ -5862,36 +5602,6 @@ http://stariptv.org:8080/wael2021/123456/22176
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@IPFoX_MOVIES",IPFoxMovies Arabic
-http://red.ipfox.org:8080/1234/12345678/8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@IPFoX_MOVIES",IPFoxMovies Classic
-http://red.ipfox.org:8080/1234/12345678/9
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@IPFoX_MOVIES",IPFoxMovies Action
-http://red.ipfox.org:8080/1234/12345678/7
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@IPFoX_MOVIES",IPFoxMovies Comedy
-http://red.ipfox.org:8080/1234/12345678/11
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@IPFoX_MOVIES",IPFoxMovies Drama
-http://red.ipfox.org:8080/1234/12345678/12
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@IPFoX_MOVIES",IPFoxMovies Horror
-http://red.ipfox.org:8080/1234/12345678/13
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@IPFoX_MOVIES",IPFoxMovies Kids
-http://red.ipfox.org:8080/1234/12345678/14
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@IPFoX_MOVIES",IPFoxMovies Thriller
-http://red.ipfox.org:8080/1234/12345678/15
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@IPFoX_MOVIES",BoxCLASSIC
-http://red.ipfox.org:8080/1234/12345678/30471
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@IPFoX_MOVIES",BoxACTION 1
-http://red.ipfox.org:8080/1234/12345678/30474
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@IPFoX_MOVIES",BoxACTION 2
-http://red.ipfox.org:8080/1234/12345678/30473
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@IPFoX_MOVIES",BoxHORROR
-http://red.ipfox.org:8080/1234/12345678/30472
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@IPFoX_MOVIES",Majestic Horror
-http://red.ipfox.org:8080/1234/12345678/31944
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@IPFoX_MOVIES",Majestic Action
-http://red.ipfox.org:8080/1234/12345678/31942
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@IPFoX_MOVIES",Majestic Romance
-http://red.ipfox.org:8080/1234/12345678/31941
 
 
 
@@ -6115,68 +5825,10 @@ http://stariptv.org:8080/hakim2021/123456/84969
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fR8jbQt/Netflix-Share-Ext-Group.png"group-title="ShareExt@NETFLIX",Netflix1
-http://red.ipfox.org:8080/1234/12345678/31918
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fR8jbQt/Netflix-Share-Ext-Group.png"group-title="ShareExt@NETFLIX",Netflix2
-http://red.ipfox.org:8080/1234/12345678/31917
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fR8jbQt/Netflix-Share-Ext-Group.png"group-title="ShareExt@NETFLIX",Netflix3
-http://red.ipfox.org:8080/1234/12345678/31916
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fR8jbQt/Netflix-Share-Ext-Group.png"group-title="ShareExt@NETFLIX",Netflix4
-http://red.ipfox.org:8080/1234/12345678/31915
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fR8jbQt/Netflix-Share-Ext-Group.png"group-title="ShareExt@NETFLIX",Netflix5
-http://red.ipfox.org:8080/1234/12345678/31914
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fR8jbQt/Netflix-Share-Ext-Group.png"group-title="ShareExt@NETFLIX",Netflix6
-http://red.ipfox.org:8080/1234/12345678/31913
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fR8jbQt/Netflix-Share-Ext-Group.png"group-title="ShareExt@NETFLIX",Netflix7
-http://red.ipfox.org:8080/1234/12345678/31912
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fR8jbQt/Netflix-Share-Ext-Group.png"group-title="ShareExt@NETFLIX",Netflix8
-http://red.ipfox.org:8080/1234/12345678/31911
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fR8jbQt/Netflix-Share-Ext-Group.png"group-title="ShareExt@NETFLIX",Netflix9
-http://red.ipfox.org:8080/1234/12345678/31910
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fR8jbQt/Netflix-Share-Ext-Group.png"group-title="ShareExt@NETFLIX",Netflix10
-http://red.ipfox.org:8080/1234/12345678/31909
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fR8jbQt/Netflix-Share-Ext-Group.png"group-title="ShareExt@NETFLIX",NetflixAction 1
-http://red.ipfox.org:8080/1234/12345678/31908
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fR8jbQt/Netflix-Share-Ext-Group.png"group-title="ShareExt@NETFLIX",NetflixAction 2
-http://red.ipfox.org:8080/1234/12345678/31907
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fR8jbQt/Netflix-Share-Ext-Group.png"group-title="ShareExt@NETFLIX",NetflixCartoon 1
-http://red.ipfox.org:8080/1234/12345678/31906
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fR8jbQt/Netflix-Share-Ext-Group.png"group-title="ShareExt@NETFLIX",NetflixCartoon 2
-http://red.ipfox.org:8080/1234/12345678/31905
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fR8jbQt/Netflix-Share-Ext-Group.png"group-title="ShareExt@NETFLIX",NetflixSci-Fi
-http://red.ipfox.org:8080/1234/12345678/31904
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fR8jbQt/Netflix-Share-Ext-Group.png"group-title="ShareExt@NETFLIX",NetflixRomance 1
-http://red.ipfox.org:8080/1234/12345678/31903
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fR8jbQt/Netflix-Share-Ext-Group.png"group-title="ShareExt@NETFLIX",NetflixRomance 2
-http://red.ipfox.org:8080/1234/12345678/31902
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fR8jbQt/Netflix-Share-Ext-Group.png"group-title="ShareExt@NETFLIX",NetflixHorror 1
-http://red.ipfox.org:8080/1234/12345678/31901
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fR8jbQt/Netflix-Share-Ext-Group.png"group-title="ShareExt@NETFLIX",NetflixHorror 2
-http://red.ipfox.org:8080/1234/12345678/31900
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@SHOWTIME_MOVIES",showtime 1
-http://red.ipfox.org:8080/1234/12345678/31899
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@SHOWTIME_MOVIES",showtime 2
-http://red.ipfox.org:8080/1234/12345678/31898
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@SHOWTIME_MOVIES",showtime 3
-http://red.ipfox.org:8080/1234/12345678/31897
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@SHOWTIME_MOVIES",showtime 4
-http://red.ipfox.org:8080/1234/12345678/31896
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@SHOWTIME_MOVIES",showtime 5
-http://red.ipfox.org:8080/1234/12345678/31895
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@SHOWTIME_MOVIES",showtime 6
-http://red.ipfox.org:8080/1234/12345678/31894
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@SHOWTIME_MOVIES",showtime 7
-http://red.ipfox.org:8080/1234/12345678/31893
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@SHOWTIME_MOVIES",showtime 8
-http://red.ipfox.org:8080/1234/12345678/31892
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@SHOWTIME_MOVIES",showtime 9
-http://red.ipfox.org:8080/1234/12345678/31891
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3JgW04Q/Beinquitq-Share-Ext-Group.jpg"group-title="ShareExt@SHOWTIME_MOVIES",showtime10
-http://red.ipfox.org:8080/1234/12345678/31890
 
 
 
