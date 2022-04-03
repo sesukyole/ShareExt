@@ -452,10 +452,6 @@ http://localchannels.zinamedia.net/ar-s/SSC5/index.m3u8
 http://localchannels.zinamedia.net/ar-s/SSC6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Ssc_7(ARB)
 http://localchannels.zinamedia.net/ar-s/SSC7/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Beinsports_1_TRUE 
-https://mediasv.online/stream_tv/607_BEIN1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Beinsports_2_TRUE
-https://mediasv.online/stream_tv/608_BEIN2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",J_sport_1
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",J_sport_2
@@ -980,86 +976,6 @@ http://shareext@urtv.cc:80/live/114048/114048/9003.ts?shareext.ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport Premium 01 (720P)" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@SSC@beIN Sport -720P-",beINSport_Premium_01 (720P)
-http://red.ipfox.org:8080/elsayed/elsayed123/31529
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport Premium 02 (720P)" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@SSC@beIN Sport -720P-",beINSport_Premium_02 (720P)
-http://red.ipfox.org:8080/elsayed/elsayed123/31528
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport Premium 03 (720P)" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@SSC@beIN Sport -720P-",beINSport_Premium_03 (720P)
-http://red.ipfox.org:8080/elsayed/elsayed123/31527
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 01 (720P)" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@SSC@beIN Sport -720P-",beINSport_01 (720P)
-http://red.ipfox.org:8080/elsayed/elsayed123/31536
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 02 (720P)" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@SSC@beIN Sport -720P-",beINSport_02 (720P)
-http://red.ipfox.org:8080/elsayed/elsayed123/31535
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 03 (720P)" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@SSC@beIN Sport -720P-",beINSport_03 (720P)
-http://red.ipfox.org:8080/elsayed/elsayed123/31534
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 04 (720P)" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@SSC@beIN Sport -720P-",beINSport_04 (720P)
-http://red.ipfox.org:8080/elsayed/elsayed123/31533
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 05 (720P)" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@SSC@beIN Sport -720P-",beINSport_05 (720P)
-http://red.ipfox.org:8080/elsayed/elsayed123/31532
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 06 (720P)" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@SSC@beIN Sport -720P-",beINSport_06 (720P)
-http://red.ipfox.org:8080/elsayed/elsayed123/31531
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 07 (720P)" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@SSC@beIN Sport -720P-",beINSport_07 (720P)
-http://red.ipfox.org:8080/elsayed/elsayed123/31530
-#EXTINF:-1 tvg-id="" tvg-name="SSC 1 HD" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@SSC@beIN Sport -720P-",SSC_1 HD
-http://red.ipfox.org:8080/elsayed/elsayed123/37815
-#EXTINF:-1 tvg-id="" tvg-name="SSC 2 HD" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@SSC@beIN Sport -720P-",SSC_2 HD
-http://red.ipfox.org:8080/elsayed/elsayed123/37821
-#EXTINF:-1 tvg-id="" tvg-name="SSC 3 HD" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@SSC@beIN Sport -720P-",SSC_3 HD
-http://red.ipfox.org:8080/elsayed/elsayed123/37816
-#EXTINF:-1 tvg-id="" tvg-name="SSC 4 HD" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@SSC@beIN Sport -720P-",SSC_4 HD
-http://red.ipfox.org:8080/elsayed/elsayed123/37817
-#EXTINF:-1 tvg-id="" tvg-name="SSC 5 HD" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@SSC@beIN Sport -720P-",SSC_5 HD
-http://red.ipfox.org:8080/elsayed/elsayed123/37818
-#EXTINF:-1 tvg-id="" tvg-name="SSC 6 HD" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@SSC@beIN Sport -720P-",SSC_6 HD
-http://red.ipfox.org:8080/elsayed/elsayed123/37819
-#EXTINF:-1 tvg-id="" tvg-name="SSC 7 HD" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@SSC@beIN Sport -720P-",SSC_7 HD
-http://red.ipfox.org:8080/elsayed/elsayed123/37820
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport PSL" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17621.png" group-title="SHAREEXT@SUPERSPORT_DSTV TV",SuperSport_PSL
-http://red.ipfox.org:8080/elsayed/elsayed123/2970
-#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport Golf" tvg-logo="" group-title="SHAREEXT@SUPERSPORT_DSTV TV",SuperSport_Golf
-http://red.ipfox.org:8080/elsayed/elsayed123/25495
-#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport Tennis" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17618.jpg" group-title="SHAREEXT@SUPERSPORT_DSTV TV",SuperSport_Tennis
-http://red.ipfox.org:8080/elsayed/elsayed123/2980
-#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport Cricket" tvg-logo="" group-title="SHAREEXT@SUPERSPORT_DSTV TV",SuperSport_Cricket
-http://red.ipfox.org:8080/elsayed/elsayed123/25498
-#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport Rugby" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17625.png" group-title="SHAREEXT@SUPERSPORT_DSTV TV",SuperSport_Rugby
-http://red.ipfox.org:8080/elsayed/elsayed123/2979
-#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport Action" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17626.png" group-title="SHAREEXT@SUPERSPORT_DSTV TV",SuperSport_Action
-http://red.ipfox.org:8080/elsayed/elsayed123/2976
-#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport Grandstand" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17619.png" group-title="SHAREEXT@SUPERSPORT_DSTV TV",SuperSport_Grandstand
-http://red.ipfox.org:8080/elsayed/elsayed123/2972
-#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport  LaLiga" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17622.png" group-title="SHAREEXT@SUPERSPORT_DSTV TV",SuperSport_LaLiga
-http://red.ipfox.org:8080/elsayed/elsayed123/2969
-#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport Football" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17636.png" group-title="SHAREEXT@SUPERSPORT_DSTV TV",SuperSport_Football
-http://red.ipfox.org:8080/elsayed/elsayed123/2974
-#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport Premier League" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17620.png" group-title="SHAREEXT@SUPERSPORT_DSTV TV",SuperSport_PremierLeague
-http://red.ipfox.org:8080/elsayed/elsayed123/2971
-#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport Variety 1" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17635.png" group-title="SHAREEXT@SUPERSPORT_DSTV TV",SuperSport_Variety 1
-http://red.ipfox.org:8080/elsayed/elsayed123/2975
-#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport Variety 2" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17637.png" group-title="SHAREEXT@SUPERSPORT_DSTV TV",SuperSport_Variety 2
-http://red.ipfox.org:8080/elsayed/elsayed123/2973
-#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport Variety 3" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17608.png" group-title="SHAREEXT@SUPERSPORT_DSTV TV",SuperSport_Variety 3
-http://red.ipfox.org:8080/elsayed/elsayed123/2978
-#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport Variety 4" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17617.png" group-title="SHAREEXT@SUPERSPORT_DSTV TV",SuperSport_Variety 4
-http://red.ipfox.org:8080/elsayed/elsayed123/2977
-#EXTINF:-1 tvg-id="" tvg-name="|DSTV| Supersport Blitz HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17606.png" group-title="SHAREEXT@SUPERSPORT_DSTV TV",Supersport_Blitz HD
-http://red.ipfox.org:8080/elsayed/elsayed123/2981
-#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport Motorsport" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17621.png" group-title="SHAREEXT@SUPERSPORT_DSTV TV",SuperSport_Motorsport
-http://red.ipfox.org:8080/elsayed/elsayed123/25497
-#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport MáXimo HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17624.png" group-title="SHAREEXT@SUPERSPORT_DSTV TV",SuperSport_MáXimo HD
-http://red.ipfox.org:8080/elsayed/elsayed123/2982
-#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport WWE" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17621.png" group-title="SHAREEXT@SUPERSPORT_DSTV TV",SuperSport_WWE
-http://red.ipfox.org:8080/elsayed/elsayed123/25512
-
-
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS HD 1" tvg-logo="https://i.ibb.co/58yn9k4/Saudi-Sports-Company-logo-20210721.png" group-title="SHAREEXT@SUKAN_BIEN&SSC",SSC_SPORTS_HD_1
 http://161.97.151.222:8000/beinX444/beinX444/402
@@ -1474,39 +1390,6 @@ http://iptv12k.com:35461/8022022301/468985/2115
 http://iptv12k.com:35461/8022022301/468985/2114
 
 
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1Premium FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-sJQajpdMwomWFzT3gJ-Dndr_T7nnebmP8YGhnc_vl4qyeE4xw7OiXx88vGTsJWcn6oVtk6VNCKrUnhb5hRjbDTTZnKJDsr9je3Jn28XpQPA09BiptQ8TKnC89iMe6nI2IqGFgPK1WTkTmeCrar4_8_40tl4rc_QvxLYUvlAz52qwRPF6rAeOVzQfkw/s320/p1.png" group-title="SHAREEXT@BEINSPORT_live channel",beINSPORTS_1_Premium FHD
-http://154.53.60.93:25461/BEIN/SPORT/2
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2Premium FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBHMSWTrnvx7fyLXHftQCbXOIgUhZlIGpgRPwy0rtvz70tJ6rKBIKGTYY5rKdPg_c_JniRIhqB5wOZSPmYRZ3wYRSLEv6oh_l_gpA64uxYBOZvDdMZ0OQrdyi6dMmuayEMutIb93Q0MMiXMm9jMy1pDKINi4J8y9PzIDw8Pju7FnoDm5IHLMoT_E86jg/s320/p2.png" group-title="SHAREEXT@BEINSPORT_live channel",beINSPORTS_2_Premium FHD
-http://154.53.60.93:25461/BEIN/SPORT/3
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3Premium FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLlqObVFm75lhQH_HGrWKrIdshyaYs1CAOTAANBmBIV7bYjshY2zzfpO7kHVxlaMICzPvTHW6Y67EiJwvA4gNa9hIaP_VRrCLtqRVXBUcapGaDlyFQUDsBPP2uMDqS5mihmkARm9c_UcUJCxD4IffiAbNFg2zmlFbvxXSP8ggRfv-8uzaslP0mZgH80w/s320/p3.png" group-title="SHAREEXT@BEINSPORT_live channel",beINSPORTS_3_Premium FHD
-http://154.53.60.93:25461/BEIN/SPORT/4
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj_O_q2HjbuYl1bvalBjzvjmXHEZPOGKztdTrVWn3vAmL0HGP8rJKM4pEoixjwNERmr_o4m3Mj4V45CUX56b_z0SV2plRr6wppeDBZrMkU-cr-EtmDmscFI9OVC9-3YT9mEkFmWX0Y0VRcP1IHzPzQcOZgm0v00x_Dy6zcKLDTE6NbAEwxvv7G-_7EGw/s320/1.png" group-title="SHAREEXT@BEINSPORT_live channel",beINSPORTS_1 FHD
-http://154.53.60.93:25461/BEIN/SPORT/5
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeaBKlniawWO8RSivWtGW3T8QIS01_w8whmlSlyY7uUyIe5JKdM66HJz3oR8Sa7IjtUsKB8lZ0OkSgIOhXTWNs-z93vvejcDkwNQCrh-ehi2lQCCOoYbUsycn727lk7T61NjiwuDJZzxt3NeE0ePX8EvVPwwGx7qJYlITRdDwuwFVOU8TXO4eFoWPwEg/s320/2.png" group-title="SHAREEXT@BEINSPORT_live channel",beINSPORTS_2 FHD
-http://154.53.60.93:25461/BEIN/SPORT/6
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW3N67ORtRsLL0sfhxCKZSaxlYkYWZU80V1aCsLP-xgjiwFbXGDO5ljiypzkIx_-CVmhDtdR89P9bokzd_aGovaMhu49g8cVxlUktz3CsRWrYiLxVvmQjZe6zxXQeiTkwf2-iExK9JN1Hy-RHk7G2gI0XmsXL-TNwYqflGORznxVMRDCbgdYltk-qWLw/s320/3.png" group-title="SHAREEXT@BEINSPORT_live channel",beINSPORTS_3 FHD
-http://154.53.60.93:25461/BEIN/SPORT/7
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB1I809h437T_vVEWbQ3MqewsAdm9pQLI-LO4nnHSaTJulJ1kYITT-ifoYGMBvxe58KPDrRYOEOWe17wszGA3ogLFbhbqxpDhp6ZhtRAPpeMQBR2nME_jQZf4_hT8dAaDEnvcj8mQFUMz4aS_2xlpLDPto4TOC1lLmQ0QfUw-XVWnmLSmATtk2g-12ag/s320/4.png" group-title="SHAREEXT@BEINSPORT_live channel",beINSPORTS_4 FHD
-http://154.53.60.93:25461/BEIN/SPORT/8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuPH_0AZKTHPg9lBSN0kqxQfvlt3099XkNgjmvygS-mHJlmaQgWMA0Eci1CUCmCn9Yk6R2dbGlQb9PIcYhIpVRcHbeewnm10MjhiC59w3FtJxAiRob7_p8ks6V_InVw-iiakjx9wftpSVQtL3txwoBaN-nbrTHJK9tLQ8YQdG9EzqXzVnT-Pq6IrUj8w/s320/5.png" group-title="SHAREEXT@BEINSPORT_live channel",beINSPORTS_5 FHD
-http://154.53.60.93:25461/BEIN/SPORT/9
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilvh-dEVKiW0w0Bge5eZkQ86z-rii4c9GLRvhVZF56T5yZ2BJ679pQ86xEBRMausecDkDiTROolKZrmu_nraatTkIIVAHmO1ccAxmLEmPh-frryi-SdAS_ia710-4ZbAo8uFf_-cVr99aB01vyj4ICOJ83btfK3nvKdtyDH_OAgvKmxEFXuVrNPh3vZQ/s320/6.png" group-title="SHAREEXT@BEINSPORT_live channel",beINSPORTS_6 FHD
-http://154.53.60.93:25461/BEIN/SPORT/10
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHGJ8JWWYcsWDlSYyrwEAMhEs1-P5bhUVcPsFQsvKc8VMRuy4ry4OTYoXnglkTB2mVFUxwBtpX53hs9tptIqgyMCyy9HWAuK70-R3Yus8skQgDFo3aVjzhuIEQ5tkcAP-MU_rtIOp0XDsMC4sXXcBtKITr_j4IAvKgINb2nb-xaLJCL3DKYbCt4ti0kA/s320/7.png" group-title="SHAREEXT@BEINSPORT_live channel",beINSPORTS_7 FHD
-http://154.53.60.93:25461/BEIN/SPORT/11
-#EXTINF:-1 tvg-id="" tvg-name="On Time Sports FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMa_55A6KC2o7xZTsVsD0Mg3OYajpGva8J7XyDoqhBVMvv8PIw4i_Ncf5MwS1m_JrgIGcRC2gvIMrl1A5yexRcjoB9C_wPxLzKzEJ1Gf347nd2xoXNxuRj7ZH6EBd4ryTRdKIep7cOtKhb56kdKhQOsrjiXpa1Xq0VgqLPzvU5b7oYCiuBT6Y7_KlZGw/s320/ontime1.png" group-title="SHAREEXT@BEINSPORT_live channel",On_Time_Sports FHD
-http://154.53.60.93:25461/BEIN/SPORT/13
-#EXTINF:-1 tvg-id="" tvg-name="On Time Sports 2 FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5zataVOzy27btVGE2JOCa0QaziAzVhBag_ub5FrNQTl8PPzkgsxvPStuB0oowZt_Zsq0BVop-TbRq51bUrb9EdkbyW0tWPWUkq2UFR5pUXX7cTOTHARzW849bZvTqhSITBkGUt75yZJ4jYdtVZrd62MtxfKj4o5O0bNSdJUNXQRgyG3k3jXBbWfeVUA/s320/ontime2.png" group-title="SHAREEXT@BEINSPORT_live channel",On_Time_Sports 2 FHD
-http://154.53.60.93:25461/BEIN/SPORT/14
 
 
 
