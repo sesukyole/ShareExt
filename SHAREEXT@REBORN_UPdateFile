@@ -410,12 +410,23 @@ http://iptv12k.com:35461/8022022301/468985/654
 http://iptv12k.com:35461/8022022301/468985/653
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",ASSP_5
 http://iptv12k.com:35461/8022022301/468985/968
-#EXTINF:-1 tvg-id="HubSports1.sg" tvg-name="SG-Hub Sports 1 HD SPORTS" tvg-logo="https://i.loli.net/2021/10/06/Po87n4htvXQCOBx.jpg" group-title="SHAREEXT@LIVE | SPORTS",SG-Hub_Sports_1 HD 
-http://iptv12k.com:35461/8022022301/468985/959
-#EXTINF:-1 tvg-id="HubSports2.sg" tvg-name="SG-Hub Sports 2 HD SPORTS" tvg-logo="https://i.loli.net/2021/10/02/dzei2nfTsU4hNLw.png" group-title="SHAREEXT@LIVE | SPORTS",SG-Hub_Sports_2 HD 
-http://iptv12k.com:35461/8022022301/468985/958
-#EXTINF:-1 tvg-id="HubSports3.sg" tvg-name="SG-Hub Sports 3 HD SPORTS" tvg-logo="https://i.loli.net/2021/10/02/Wq8L9CMTbJZYkxj.png" group-title="SHAREEXT@LIVE | SPORTS",SG-Hub_Sports_3 HD 
-http://iptv12k.com:35461/8022022301/468985/957
+#EXTINF:-1 tvg-id="" tvg-name="[TW] NBCgolf" tvg-logo="https://www.golfchannel.com/sites/default/files/new_golf_channel_logo_304.jpg" group-title="SHAREEXT@LIVE | SPORTS",[TW]_NBCgolf
+http://iptv12k.com:35461/8022022301/468985/1228
+#EXTINF:-1 tvg-id="" tvg-name="[TW] NBA" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="SHAREEXT@LIVE | SPORTS",[TW]_NBA
+http://iptv12k.com:35461/8022022301/468985/1227
+#EXTINF:-1 tvg-id="" tvg-name="[TW] ELTA体育1台" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" group-title="SHAREEXT@LIVE | SPORTS",[TW]_ELTA体育1台
+http://iptv12k.com:35461/8022022301/468985/1221
+#EXTINF:-1 tvg-id="" tvg-name="[TW] ELTA体育2台" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d920826e421c52555783aa87e7af47d4.png" group-title="SHAREEXT@LIVE | SPORTS",[TW]_ELTA体育2台
+http://iptv12k.com:35461/8022022301/468985/1220
+#EXTINF:-1 tvg-id="" tvg-name="[TW] ELTA体育3台" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" group-title="SHAREEXT@LIVE | SPORTS",[TW]_ELTA体育3台
+http://iptv12k.com:35461/8022022301/468985/1219
+#EXTINF:-1 tvg-id="" tvg-name="[TW] ELEVEN 体育1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Eleven_Sports_1_logo.jpg" group-title="SHAREEXT@LIVE | SPORTS",[TW]_ELEVEN 体育1
+http://iptv12k.com:35461/8022022301/468985/1218
+#EXTINF:-1 tvg-id="" tvg-name="[TW] ELEVEN 体育2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="SHAREEXT@LIVE | SPORTS",[TW]_ELEVEN 体育2
+http://iptv12k.com:35461/8022022301/468985/1217
+#EXTINF:-1 tvg-id="" tvg-name="[TW] ESPN" tvg-logo="https://1000logos.net/wp-content/uploads/2017/01/ESPN-Logo.jpg" group-title="SHAREEXT@LIVE | SPORTS",[TW]_ESPN
+http://iptv12k.com:35461/8022022301/468985/1212
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Ssc_1(ARB)
