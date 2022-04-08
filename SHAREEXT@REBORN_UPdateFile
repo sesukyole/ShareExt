@@ -1420,26 +1420,6 @@ http://87.246.54.125:4022/udp/239.1.3.37:4000/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="SkySport1.nz" tvg-name="Sky Sports 1" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/NEW_051_EPGLogo.png" group-title="SHAREEXT@SPORTS_New_Zealand",SkySports_1
-https://watch.universalsportstv.net:8081/nickhh44/H0011gan/63548
-#EXTINF:-1 tvg-id="SkySport2.nz" tvg-name="Sky Sports 2" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/NEW_052_EPGLogo.png" group-title="SHAREEXT@SPORTS_New_Zealand",SkySports_2
-https://watch.universalsportstv.net:8081/nickhh44/H0011gan/63547
-#EXTINF:-1 tvg-id="SkySport3.nz" tvg-name="Sky Sports 3" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/NEW_053_EPGLogo.png" group-title="SHAREEXT@SPORTS_New_Zealand",SkySports_3
-https://watch.universalsportstv.net:8081/nickhh44/H0011gan/63546
-#EXTINF:-1 tvg-id="SkySport4.nz" tvg-name="Sky Sports 4" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/NEW_054_EPGLogo.png" group-title="SHAREEXT@SPORTS_New_Zealand",SkySports_4
-https://watch.universalsportstv.net:8081/nickhh44/H0011gan/63545
-#EXTINF:-1 tvg-id="SkySport5.nz" tvg-name="Sky Sports 5" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/NEW_055_EPGLogo.png" group-title="SHAREEXT@SPORTS_New_Zealand",SkySports_5
-https://watch.universalsportstv.net:8081/nickhh44/H0011gan/63544
-#EXTINF:-1 tvg-id="SkySport6.nz" tvg-name="Sky Sports 6" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/NEW_056_EPGLogo.png" group-title="SHAREEXT@SPORTS_New_Zealand",SkySports_6
-https://watch.universalsportstv.net:8081/nickhh44/H0011gan/63543
-#EXTINF:-1 tvg-id="SkySport7.nz" tvg-name="Sky Sports 7" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/NEW_057_EPGLogo.png" group-title="SHAREEXT@SPORTS_New_Zealand",SkySports_7
-https://watch.universalsportstv.net:8081/nickhh44/H0011gan/63542
-#EXTINF:-1 tvg-id="SkySport8.nz" tvg-name="Sky Sports 8" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/NEW_058_EPGLogo.png" group-title="SHAREEXT@SPORTS_New_Zealand",SkySports_8
-https://watch.universalsportstv.net:8081/nickhh44/H0011gan/63541
-#EXTINF:-1 tvg-id="SkySport9.nz" tvg-name="Sky Sports 9" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/NEW_059_EPGLogo.png" group-title="SHAREEXT@SPORTS_New_Zealand",SkySports_9
-https://watch.universalsportstv.net:8081/nickhh44/H0011gan/63540
-#EXTINF:-1 tvg-id="SkySportSelect.nz" tvg-name="Sky Sports Select" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/SS_Select_EPGLogo.png" group-title="SHAREEXT@SPORTS_New_Zealand",SkySports_Select
-https://watch.universalsportstv.net:8081/nickhh44/H0011gan/63539
 
 
 
