@@ -5112,183 +5112,153 @@ https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist.m3u8
 
 
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",VANIPLUSE TV
+http://live.singamcloud.in:1935/vanipluse/vanipluse/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",TAMIL TV
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",V TV
+http://198.144.149.82:8080/NOTV/VTV/index.m3u8?token=GTR
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",NINE TV
+http://198.144.149.82:8080/NOTV/NINETV/index.m3u8?token=GTR
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",KINGS TV
+http://nextgeninfotech.ddns.net:8080/hls/kings.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",TIRUMALAI TV
+http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",KCT TV
+http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",KPM TV
+rtmp://198.144.149.82/NOTV/KPMTV?token=GTR
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",VINMEEN TV
+http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",SURYA TV
+http://media.7starcloud.com:1935/suryatv/mystream/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",EZHIL TV
+http://198.144.149.82:8080/NOTV/EZHILTV/index.m3u8?token=GTR
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",PHOENIX TV
+http://198.144.149.82:8080/NOTV/PHOENIXTV/index.m3u8?token=GTR
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",DURAIS TV
+http://media.7starcloud.com:1935/harimedia/duraistv/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",PUTHUYUGAM TV
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",ANALAI MOVIE
+http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",KALVISOLAI TV
+http://nextgeninfotech.ddns.net:8080/kalvisolai/kalvisolai.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",LIFE TV
+http://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",TAMIL LIFE TV
+http://lifetv.livebox.co.in/lifetvtamilhls/live.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",MONTAMIL CINEMA
+http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",SIVAN TV
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",SHARVESH TV
+http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",CTN TV
+http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",CTN LIVE
+http://bmlive.net:8000/ctn/ctn/bms.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",PRAGALYA TV
+http://7starcloud.com:1935/pragalya/pragalyatv/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",SRM MUSIC
+http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",LOTUS TV
+http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",NEWS PLUS
+http://hdserver.7starcloud.com:1935/newsplus/live/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",THREE TAMIL TV
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",7MUSIC
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",7STAR2
+http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",BLESSING TV
+http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w365086533.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",ATHAVAN TV
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",AKARAM KIDS
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",AKARAM LIVE
+https://wowzaprod270-i.akamaihd.net/hls/live/1007388/e7a2aac8/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",TAMIL BLESSING TV
+http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w794457741.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",KALAIGNAR TV
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",DD SPORTS
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",DHARISANAM TV
+http://198.144.149.82:8080/NOTV/DHARISANAMTV/index.m3u8?token=GTR
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",ETN TV
+https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",IBC TAMIL
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",IBC CANADA
+https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",MADHA TV
+http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",MAKKAL TV
+https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/mono.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",MN TV
+http://mntv.livebox.co.in/mntvhls/mntv.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",MRN TV
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",MKTV6
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",MK TUNES
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",MK TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",MN TV LIVE
+http://mntv.livebox.co.in/mntvhls/mntv.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",MURASU TV
+http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",NAMBIKAI TV
+http://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",MARCHANA TV
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",NEEM TV
+http://bmlive.net:8000/NEEMTv/neemlivetv/bms.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",18TAMIL TV
+https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",HARI MEDIA
+http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",SANA TV
+http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",SANTHORA FILM
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",SHANTHORA TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",SHANTHORA LIVE
+http://santhoratv.zecast.net/santhoratv/santhoratv/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",KALAISIRIPOLI
+http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",KRISNA TV
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",SWASTHIK TV
+http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",3 TAMIL
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",TAMIL VISION
+http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",THANTI TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",VAANAVIL TV
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",VANI TV
+http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",VASHAN TV
+http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",VELICHAM TV
+https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",YAAL TV
+http://198.144.149.82:8080/NOTV/YAALTV/index.m3u8?token=GTR
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",DEEPAM TV
+https://cdn.rjdigilink.in/deepamtv/livetv/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",DEEPAM LIVE
+https://cdn.rjdigilink.in/deepamtv/livetv/playlist.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HINDI MOVIE [ALL TIME]" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Hindi",HOLLYWOOD HINDI MOVIE [ALL TIME]
-http://nayeem68.myftp.org:8080/live/ajob/baksho/58.ts
-#EXTINF:-1 tvg-id="" tvg-name="MANORANJAN MOVIES" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Hindi",MANORANJAN MOVIES
-http://nayeem68.myftp.org:8080/live/ajob/baksho/59.ts
-#EXTINF:-1 tvg-id="" tvg-name="MANORANJAN TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Hindi",MANORANJAN TV
-http://nayeem68.myftp.org:8080/live/ajob/baksho/60.ts
-#EXTINF:-1 tvg-id="" tvg-name="DANGAL" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Hindi",DANGAL
-http://nayeem68.myftp.org:8080/live/ajob/baksho/61.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Hindi",COLORS
-http://nayeem68.myftp.org:8080/live/ajob/baksho/62.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD 2" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Hindi",STAR GOLD 2
-http://nayeem68.myftp.org:8080/live/ajob/baksho/63.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Hindi",STAR GOLD
-http://nayeem68.myftp.org:8080/live/ajob/baksho/64.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Hindi",STAR PLUS HD
-http://nayeem68.myftp.org:8080/live/ajob/baksho/65.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Hindi",SONY MAX
-http://nayeem68.myftp.org:8080/live/ajob/baksho/66.ts
-#EXTINF:-1 tvg-id="" tvg-name="UTV ACTION" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Hindi",UTV ACTION
-http://nayeem68.myftp.org:8080/live/ajob/baksho/67.ts
-#EXTINF:-1 tvg-id="" tvg-name="ISHAARA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Hindi",ISHAARA
-http://nayeem68.myftp.org:8080/live/ajob/baksho/68.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR BHARAT" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Hindi",STAR BHARAT
-http://nayeem68.myftp.org:8080/live/ajob/baksho/69.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Hindi",COLORS HD
-http://nayeem68.myftp.org:8080/live/ajob/baksho/70.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Hindi",SONY HD
-http://nayeem68.myftp.org:8080/live/ajob/baksho/71.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Hindi",ZEE CINEMA HD
-http://nayeem68.myftp.org:8080/live/ajob/baksho/72.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE TV HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Hindi",ZEE TV HD
-http://nayeem68.myftp.org:8080/live/ajob/baksho/73.ts
-#EXTINF:-1 tvg-id="" tvg-name="9X JALWA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Hindi",9X JALWA
-http://nayeem68.myftp.org:8080/live/ajob/baksho/82.ts
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC INDIA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Hindi",MUSIC INDIA
-http://nayeem68.myftp.org:8080/live/ajob/baksho/83.ts
-#EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Hindi",9XM
-http://nayeem68.myftp.org:8080/live/ajob/baksho/84.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ananda TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",Ananda TV
-http://nayeem68.myftp.org:8080/live/ajob/baksho/1.ts
-#EXTINF:-1 tvg-id="" tvg-name="ATN NEWS" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",ATN NEWS
-http://nayeem68.myftp.org:8080/live/ajob/baksho/2.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nagorik TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",Nagorik TV
-http://nayeem68.myftp.org:8080/live/ajob/baksho/3.ts
-#EXTINF:-1 tvg-id="" tvg-name="Desh TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",Desh TV
-http://nayeem68.myftp.org:8080/live/ajob/baksho/4.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ekushey Tv" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",Ekushey Tv
-http://nayeem68.myftp.org:8080/live/ajob/baksho/5.ts
-#EXTINF:-1 tvg-id="" tvg-name="Jamuna Television" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",Jamuna Television
-http://nayeem68.myftp.org:8080/live/ajob/baksho/6.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mohona TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",Mohona TV
-http://nayeem68.myftp.org:8080/live/ajob/baksho/7.ts
-#EXTINF:-1 tvg-id="" tvg-name="My TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",My TV
-http://nayeem68.myftp.org:8080/live/ajob/baksho/8.ts
-#EXTINF:-1 tvg-id="" tvg-name="Somoy TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",Somoy TV
-http://nayeem68.myftp.org:8080/live/ajob/baksho/9.ts
-#EXTINF:-1 tvg-id="" tvg-name="Independent TV " tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",Independent TV 
-http://nayeem68.myftp.org:8080/live/ajob/baksho/10.ts
-#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",ATN Bangla
-http://nayeem68.myftp.org:8080/live/ajob/baksho/11.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bangla TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",Bangla TV
-http://nayeem68.myftp.org:8080/live/ajob/baksho/12.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bangla Vision" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",Bangla Vision
-http://nayeem68.myftp.org:8080/live/ajob/baksho/13.ts
-#EXTINF:-1 tvg-id="" tvg-name="Channel I" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",Channel I
-http://nayeem68.myftp.org:8080/live/ajob/baksho/14.ts
-#EXTINF:-1 tvg-id="" tvg-name="BTV National" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",BTV National
-http://nayeem68.myftp.org:8080/live/ajob/baksho/15.ts
-#EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",BTV World
-http://nayeem68.myftp.org:8080/live/ajob/baksho/16.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sangsad Bangladesh" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",Sangsad Bangladesh
-http://nayeem68.myftp.org:8080/live/ajob/baksho/17.ts
-#EXTINF:-1 tvg-id="" tvg-name="BTV Chattogram" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",BTV Chattogram
-http://nayeem68.myftp.org:8080/live/ajob/baksho/18.ts
-#EXTINF:-1 tvg-id="" tvg-name="Maasranga TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",Maasranga TV
-http://nayeem68.myftp.org:8080/live/ajob/baksho/19.ts
-#EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",Deepto TV
-http://nayeem68.myftp.org:8080/live/ajob/baksho/20.ts
-#EXTINF:-1 tvg-id="" tvg-name="Asian TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",Asian TV
-http://nayeem68.myftp.org:8080/live/ajob/baksho/21.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bijoy TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",Bijoy TV
-http://nayeem68.myftp.org:8080/live/ajob/baksho/22.ts
-#EXTINF:-1 tvg-id="" tvg-name="Boishaki TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",Boishaki TV
-http://nayeem68.myftp.org:8080/live/ajob/baksho/23.ts
-#EXTINF:-1 tvg-id="" tvg-name="R TV " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="SHAREEXT@TEVE_Bangladeshi",R TV 
-http://nayeem68.myftp.org:8080/live/ajob/baksho/24.ts
-#EXTINF:-1 tvg-id="" tvg-name="SA TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",SA TV
-http://nayeem68.myftp.org:8080/live/ajob/baksho/25.ts
-#EXTINF:-1 tvg-id="" tvg-name="Channel 9" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",Channel 9
-http://nayeem68.myftp.org:8080/live/ajob/baksho/26.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nexus Television" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",Nexus Television
-http://nayeem68.myftp.org:8080/live/ajob/baksho/27.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ekattor" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",Ekattor
-http://nayeem68.myftp.org:8080/live/ajob/baksho/28.ts
-#EXTINF:-1 tvg-id="" tvg-name="Gaanbangla" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",Gaanbangla
-http://nayeem68.myftp.org:8080/live/ajob/baksho/29.ts
-#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",NTV
-http://nayeem68.myftp.org:8080/live/ajob/baksho/30.ts
-#EXTINF:-1 tvg-id="" tvg-name="News 24" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",News 24
-http://nayeem68.myftp.org:8080/live/ajob/baksho/31.ts
-#EXTINF:-1 tvg-id="" tvg-name="DBC News" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",DBC News
-http://nayeem68.myftp.org:8080/live/ajob/baksho/32.ts
-#EXTINF:-1 tvg-id="" tvg-name="Deshe Bideshe" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",Deshe Bideshe
-http://nayeem68.myftp.org:8080/live/ajob/baksho/33.ts
-#EXTINF:-1 tvg-id="" tvg-name="Channel 24" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",Channel 24
-http://nayeem68.myftp.org:8080/live/ajob/baksho/34.ts
-#EXTINF:-1 tvg-id="" tvg-name="Global TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",Global TV
-http://nayeem68.myftp.org:8080/live/ajob/baksho/35.ts
-#EXTINF:-1 tvg-id="" tvg-name="T Sports" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",T Sports
-http://nayeem68.myftp.org:8080/live/ajob/baksho/36.ts
-#EXTINF:-1 tvg-id="" tvg-name="Gazi TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",Gazi TV
-http://nayeem68.myftp.org:8080/live/ajob/baksho/37.ts
-#EXTINF:-1 tvg-id="" tvg-name=" MILLENNIUM 24 USA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi", MILLENNIUM 24 USA
-http://nayeem68.myftp.org:8080/live/ajob/baksho/38.ts
-#EXTINF:-1 tvg-id="" tvg-name="CAN BANGLA TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",CAN BANGLA TV
-http://nayeem68.myftp.org:8080/live/ajob/baksho/39.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL S UK" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",CHANNEL S UK
-http://nayeem68.myftp.org:8080/live/ajob/baksho/40.ts
-#EXTINF:-1 tvg-id="" tvg-name="DESHE BIDESHE" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",DESHE BIDESHE
-http://nayeem68.myftp.org:8080/live/ajob/baksho/41.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV ONE UK" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",TV ONE UK
-http://nayeem68.myftp.org:8080/live/ajob/baksho/42.ts
-#EXTINF:-1 tvg-id="" tvg-name="ATN ISLAMIC" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",ATN ISLAMIC
-http://nayeem68.myftp.org:8080/live/ajob/baksho/43.ts
-#EXTINF:-1 tvg-id="" tvg-name="DOYEL TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",DOYEL TV
-http://nayeem68.myftp.org:8080/live/ajob/baksho/44.ts
-#EXTINF:-1 tvg-id="" tvg-name="Time Television" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",Time Television
-http://nayeem68.myftp.org:8080/live/ajob/baksho/45.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTV MUSIC" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",RTV MUSIC
-http://nayeem68.myftp.org:8080/live/ajob/baksho/46.ts
-#EXTINF:-1 tvg-id="" tvg-name="MEGNA TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",MEGNA TV
-http://nayeem68.myftp.org:8080/live/ajob/baksho/47.ts
-#EXTINF:-1 tvg-id="" tvg-name="SRISTY TV " tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",SRISTY TV 
-http://nayeem68.myftp.org:8080/live/ajob/baksho/48.ts
-#EXTINF:-1 tvg-id="" tvg-name="VOICE TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",VOICE TV
-http://nayeem68.myftp.org:8080/live/ajob/baksho/49.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL S" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",CHANNEL S
-http://nayeem68.myftp.org:8080/live/ajob/baksho/50.ts
-#EXTINF:-1 tvg-id="" tvg-name="R PLUS GOLD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",R PLUS GOLD
-http://nayeem68.myftp.org:8080/live/ajob/baksho/51.ts
-#EXTINF:-1 tvg-id="" tvg-name="ABP ANANDA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",ABP ANANDA
-http://nayeem68.myftp.org:8080/live/ajob/baksho/52.ts
-#EXTINF:-1 tvg-id="" tvg-name="NEWS 18 BANGLA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",NEWS 18 BANGLA
-http://nayeem68.myftp.org:8080/live/ajob/baksho/53.ts
-#EXTINF:-1 tvg-id="" tvg-name="KHUSHBOO BANGLA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",KHUSHBOO BANGLA
-http://nayeem68.myftp.org:8080/live/ajob/baksho/54.ts
-#EXTINF:-1 tvg-id="" tvg-name="ENTERRO 10 BANGLA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",ENTERRO 10 BANGLA
-http://nayeem68.myftp.org:8080/live/ajob/baksho/55.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMAR BANGLA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",AMAR BANGLA
-http://nayeem68.myftp.org:8080/live/ajob/baksho/56.ts
-#EXTINF:-1 tvg-id="" tvg-name="JALSHA MOVIES HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",JALSHA MOVIES HD
-http://nayeem68.myftp.org:8080/live/ajob/baksho/57.ts
-#EXTINF:-1 tvg-id="" tvg-name="BANGLA TALKIES" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",BANGLA TALKIES
-http://nayeem68.myftp.org:8080/live/ajob/baksho/85.ts
-#EXTINF:-1 tvg-id="" tvg-name="SANGEET BANGLA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Bangladeshi",SANGEET BANGLA
-http://nayeem68.myftp.org:8080/live/ajob/baksho/86.ts
-#EXTINF:-1 tvg-id="" tvg-name="PTV SPORTS" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Hindi",PTV SPORTS
-http://nayeem68.myftp.org:8080/live/ajob/baksho/74.ts
-#EXTINF:-1 tvg-id="" tvg-name="A SPORTS HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Hindi",A SPORTS HD
-http://nayeem68.myftp.org:8080/live/ajob/baksho/75.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Hindi",STAR SPORTS 1 HD
-http://nayeem68.myftp.org:8080/live/ajob/baksho/76.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS INFINITY" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Hindi",COLORS INFINITY
-http://nayeem68.myftp.org:8080/live/ajob/baksho/77.ts
-#EXTINF:-1 tvg-id="" tvg-name="And flix HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Hindi",And flix HD
-http://nayeem68.myftp.org:8080/live/ajob/baksho/78.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD news" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Hindi",BBC WORLD news
-http://nayeem68.myftp.org:8080/live/ajob/baksho/79.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Hindi",STAR MOVIES HD
-http://nayeem68.myftp.org:8080/live/ajob/baksho/80.ts
-#EXTINF:-1 tvg-id="" tvg-name="9X TASHAN" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TEVE_Hindi",9X TASHAN
-http://nayeem68.myftp.org:8080/live/ajob/baksho/81.ts
 
 
 
