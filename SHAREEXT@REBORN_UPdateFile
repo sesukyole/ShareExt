@@ -1,10 +1,11 @@
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SHUDDER(Animasi2021)
-https://www1.xpeer.xyz/hls/the-spine-of-night-2021/playlist_480.m3u8
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",WELCOME_By.ShareextReborn
 https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Admin@Group
 https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RADIO_Cakra_bandung
+http://tvn.x10.bz/TvN_ID/master-34.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Beaches Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Mountains Live
@@ -951,8 +952,6 @@ http://tvn.x10.bz/TvN_ID/master-6.m3u8
 http://tvn.x10.bz/TvN_ID/master-7.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",ChampionTv3
 http://tvn.x10.bz/TvN_ID/master-8.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",ChampionTv4
-http://tvn.x10.bz/TvN_ID/master-34.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",USEESPORT1
 
@@ -1753,6 +1752,106 @@ http://shareext@urtv.cc:80/live/114048/114048/7237.ts?shareext.ts
 http://shareext@urtv.cc:80/live/114048/114048/9003.ts?shareext.ts
 
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@World_SPORT",TNT SPORTS 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@World_SPORT",TNT SPORTS 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@World_SPORT",TNT SPORTS 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@World_SPORT",TNT SPORTS 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@World_SPORT",TNT SPORTS
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@World_SPORT",TENNIS CHANNEL
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@World_SPORT",Setanta 1
+http://iptv.prosto.tv:7000/ch106/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@World_SPORT",FreeSports
+https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@World_SPORT",OmanLive Hd
+http://partwo.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@World_SPORT",UnifiSport1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@World_SPORT",UnifiSport2
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@World_SPORT",AduAyam
+https://z0gdu9jmgu.rtmp-now.com/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@World_SPORT",AduKerbau
+https://freelive.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png"group-title="ShareExt@World_SPORT",RikSports HD
+https://nn.geo.joj.sk/live/hls/rik-540.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png"group-title="ShareExt@World_SPORT",LiveSport Tv
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@World_SPORT",RingOfHonor
+https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/2000.m3u8
+#EXTINF:-1 group-title="ShareExt@World_SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH__eUbK8rQsVg5cLjJqgKN_vbJvgcrXZlOA&usqp=CAU ", Матч!FOOTBALL1 HD
+https://chostv.mobie.in/choos/sports/matchqy1.m3u8
+#EXTINF:-1 group-title="ShareExt@World_SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH__eUbK8rQsVg5cLjJqgKN_vbJvgcrXZlOA&usqp=CAU ", Матч!FOOTBALL2 HD
+https://chostv.mobie.in/choos/sports/matchqy2.m3u8
+#EXTINF:-1 group-title="ShareExt@World_SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH__eUbK8rQsVg5cLjJqgKN_vbJvgcrXZlOA&usqp=CAU" , Матч!FOOTBALL3 HD
+https://chostv.mobie.in/choos/sports/matchqy3.m3u8
+#EXTINF:-1 group-title="ShareExt@World_SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU ", Football1Ukraine
+https://chostv.mobie.in/choos/sports/qyt1.m3u8
+#EXTINF:-1 group-title="ShareExt@World_SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU ", Football2Ukraine
+https://chostv.mobie.in/choos/sports/qyt2.m3u8
+#EXTINF:-1 group-title="ShareExt@World_SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" , STADIUM
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 group-title="ShareExt@World_SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxe3-UdiiWf20u2lHpUJzphvBbSoFdGaPe2g&usqp=CAU" , Rtsh Sport
+http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
+#EXTINF:-1 group-title="ShareExt@World_SPORT" tvg-logo="https://i.imgur.com/Se1a8Mm.png" , AutoMoto(Bumblebee)
+https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Stadium_logo_2017.png/250px-Stadium_logo_2017.png" group-title="ShareExt@World_SPORT", STADIUM TV
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@World_SPORT",CCTVsportCH4
+http://103.233.191.133/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@World_SPORT",LaoChampa1
+https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@World_SPORT",LaoChampa2
+https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@World_SPORT",LaoChampa3
+https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@World_SPORT",FOX SPORT
+https://austchannel-live.akamaized.net:443/hls/live/2002736/austchannel-sport/master1280x720_v3.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@World_SPORT",T sports
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@World_SPORT",Fight Sports
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@World_SPORT",TVRI SPORT
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@World_SPORT",EXTREME MADURA
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@World_SPORT",FITE(wrestlingChannel)HD
+https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@World_SPORT",SetantaSport(turmenistan)
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@World_SPORT",StadiumSport
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@World_SPORT",ufc2
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@World_SPORT",UFC stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@World_SPORT",UFC 3
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@World_SPORT",MLB Network
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@World_SPORT",EDGE SPORT HD
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@World_SPORT",Free Sports TV
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@World_SPORT",Rugby World TV
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@World_SPORT",Rugby Men's Sevens
+https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@World_SPORT",Rugby Women's Sevens
+https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@World_SPORT",MLS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 
 
 
@@ -3871,6 +3970,85 @@ http://shareext@urtv.cc:80/live/114048/114048/9027.ts?shareext.ts
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",喜剧电影
+http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",女神影院
+http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",开心影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",少女可乐橙
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",进击の神乐
+http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",萌小鬼
+http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",进击的神乐
+http://tx2play1.douyucdn.cn/live/85894rmovieChow_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",經典1
+http://tx2play1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",經典2
+http://tx2play1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@MaNdaRin_CiNeMa_", Douyu Movie 3
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/20415rnWbjg6Ex1K_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@MaNdaRin_CiNeMa_", Douyu Movie 5
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/122402rK7MO9bXSq_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@MaNdaRin_CiNeMa_", Douyu Movie 6
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@MaNdaRin_CiNeMa_",一起看萌小鬼
+http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@MaNdaRin_CiNeMa_",一起看进击的神乐
+http://tx2play1.douyucdn.cn/live/85894rmovieChow_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@MaNdaRin_CiNeMa_",一起看少女可乐橙
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@MaNdaRin_CiNeMa_",一起看进击の神
+http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@MaNdaRin_CiNeMa_",萌小鬼
+http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@MaNdaRin_CiNeMa_",进击的神乐
+http://tx2play1.douyucdn.cn/live/85894rmovieChow_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@MaNdaRin_CiNeMa_",少女可乐橙
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@MaNdaRin_CiNeMa_",进击の神乐
+http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_4000p.xs
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MaNdaRin_CiNeMa_",MMOVIES12(dec=auto)
+http://dl.zhoujie218.top/dl/youku.php?id=8031580
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MaNdaRin_CiNeMa_",MMOVIES13(dec=auto)
+http://dl.zhoujie218.top/dl/youku.php?id=8027873
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MaNdaRin_CiNeMa_",MMOVIES14(dec=auto)
+http://dl.zhoujie218.top/dl/youku.php?id=8031574
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MaNdaRin_CiNeMa_",MMOVIES15(dec=auto)
+http://dl.zhoujie218.top/dl/youku.php?id=8020409
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MaNdaRin_CiNeMa_",MMOVIES16(dec=auto)
+http://dl.zhoujie218.top/dl/youku.php?id=8020410
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MaNdaRin_CiNeMa_",MMOVIES17(dec=auto)
+http://dl.zhoujie218.top/dl/youku.php?id=8020408
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MaNdaRin_CiNeMa_",MMOVIES18(dec=auto)
+http://dl.zhoujie218.top/dl/youku.php?id=8035190
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MaNdaRin_CiNeMa_",MMOVIES19(dec=auto)
+http://dl.zhoujie218.top/dl/youku.php?id=8031577
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",Douyu204
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_2000.flv?uuid=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",小叮噹
+https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/672651/live_7981914_1286387.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",經典5
+http://tx2play1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",DouyuMovie1
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/20415rnWbjg6Ex1K_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",DouyuMovie2
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/122402rK7MO9bXSq_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",DouyuMovie3
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",一起看萌小鬼
+http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",一起看进击的神乐
+http://tx2play1.douyucdn.cn/live/85894rmovieChow_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",一起看少女可乐橙
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",一起看进击の神
+http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_4000p.xs
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@English_Movie_Premium",Movie_premium_1
@@ -4217,12 +4395,6 @@ http://wowza58.indostreamserver.com:1935/tvdesa/live/chunklist_w373715534.m3u8
 http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",Duta TV
 https://v2.siar.us/dutatv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",ANTV
-https://cdn4.mbahnunungonline.net/m3u8/loc/3/b630a001384603f.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",MNCTV SD
-https://cdn4.mbahnunungonline.net/m3u8/loc/3/d9bbf6929ec1028.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",INEWS
-https://cdn4.mbahnunungonline.net/m3u8/loc/3/2f760b7cf8286be.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",Rtv
 https://dl.dropbox.com/s/kreu9nxa4ucy408/590642f0a31efa3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",JGO
@@ -4306,6 +4478,160 @@ https://h1.intechmedia.net/intech/ch9.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",Niaga tv
 https://h1.intechmedia.net/intech/ch10.m3u8
 
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",Cartoon Club
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/eroz_brebes.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",BOOLYWOOD HD
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-country="MY" tvg-language="" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="ShareExt@Television_MALAYSIAN",Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima" tvg-country="MY" tvg-language="" tvg-logo="" group-title="ShareExt@Television_MALAYSIAN",Astro Prima
+http://live8.cdn.iptv8k.org:80/review_stream/primakbmm23/i.m3u8
+#EXTINF:0 tvg-logo="https://video.toggle.sg/image/11392878/16x9/236/133/136b251885c179748ce154d52f50a25f/zp/cna.png" group-title="ShareExt@Television_MALAYSIAN",Channel NewsAsia
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",MediaCorp
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",Astro Awani
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",SILENCE TV
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",MoviesComedy
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",WowCinema
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",RedBox Movie 1
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?p=Redbox
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",RedBox Movie 2
+https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8?p=Redbox
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",ASTRO VINMEENT
+http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",鐐规帉璐㈢粡
+http://cclive2.aniu.tv/live/anzb.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",NHK鍗庤瑙�
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",Awani
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",BeritaHK
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",Movietime
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",Setanta
+http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",AstroCNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_MALAYSIAN",三立台灣
+http://125.227.210.55:15714/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@Television_MALAYSIAN",Tv1
+http://rtmlive02tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@Television_MALAYSIAN",Tv2
+http://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@Television_MALAYSIAN",Tv6
+http://rtmlive02tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@Television_MALAYSIAN",Okey_TV
+http://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@Television_MALAYSIAN",RTM_SUKAN
+http://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@Television_MALAYSIAN",Berita_RTM
+http://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@Television_MALAYSIAN",RTM_parlenen
+http://rtmlive02tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@Television_MALAYSIAN",UNIFI_SPORT1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@Television_MALAYSIAN",UNIFI_SPORT2
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@Television_MALAYSIAN",NowSportPrime
+http://livetv.dnsfor.me/channel.12.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@Television_MALAYSIAN",HBO(dec=native)
+https://lnk.ec/HBOHD?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@Television_MALAYSIAN",HBO FAMILY(dec=native)
+https://lnk.ec/HBOfamHD?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@Television_MALAYSIAN",HBO HITS(dec=native)
+https://lnk.ec/HBOhitsHD?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="ShareExt@Television_MALAYSIAN",HBO SIGNATURE(dec=native)
+https://lnk.ec/HBOsigHD?shareext.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",喜剧电影
+http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",女神影院
+http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",开心影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",少女可乐橙
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",进击の神乐
+http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",萌小鬼
+http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",进击的神乐
+http://tx2play1.douyucdn.cn/live/85894rmovieChow_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",經典1
+http://tx2play1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",經典2
+http://tx2play1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@MaNdaRin_CiNeMa_", Douyu Movie 3
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/20415rnWbjg6Ex1K_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@MaNdaRin_CiNeMa_", Douyu Movie 5
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/122402rK7MO9bXSq_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@MaNdaRin_CiNeMa_", Douyu Movie 6
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@MaNdaRin_CiNeMa_",一起看萌小鬼
+http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@MaNdaRin_CiNeMa_",一起看进击的神乐
+http://tx2play1.douyucdn.cn/live/85894rmovieChow_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@MaNdaRin_CiNeMa_",一起看少女可乐橙
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@MaNdaRin_CiNeMa_",一起看进击の神
+http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@MaNdaRin_CiNeMa_",萌小鬼
+http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@MaNdaRin_CiNeMa_",进击的神乐
+http://tx2play1.douyucdn.cn/live/85894rmovieChow_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@MaNdaRin_CiNeMa_",少女可乐橙
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@MaNdaRin_CiNeMa_",进击の神乐
+http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_4000p.xs
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MaNdaRin_CiNeMa_",MMOVIES12(dec=auto)
+http://dl.zhoujie218.top/dl/youku.php?id=8031580
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MaNdaRin_CiNeMa_",MMOVIES13(dec=auto)
+http://dl.zhoujie218.top/dl/youku.php?id=8027873
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MaNdaRin_CiNeMa_",MMOVIES14(dec=auto)
+http://dl.zhoujie218.top/dl/youku.php?id=8031574
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MaNdaRin_CiNeMa_",MMOVIES15(dec=auto)
+http://dl.zhoujie218.top/dl/youku.php?id=8020409
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MaNdaRin_CiNeMa_",MMOVIES16(dec=auto)
+http://dl.zhoujie218.top/dl/youku.php?id=8020410
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MaNdaRin_CiNeMa_",MMOVIES17(dec=auto)
+http://dl.zhoujie218.top/dl/youku.php?id=8020408
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MaNdaRin_CiNeMa_",MMOVIES18(dec=auto)
+http://dl.zhoujie218.top/dl/youku.php?id=8035190
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MaNdaRin_CiNeMa_",MMOVIES19(dec=auto)
+http://dl.zhoujie218.top/dl/youku.php?id=8031577
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",Douyu204
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_2000.flv?uuid=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",小叮噹
+https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/672651/live_7981914_1286387.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",經典5
+http://tx2play1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",DouyuMovie1
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/20415rnWbjg6Ex1K_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",DouyuMovie2
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/122402rK7MO9bXSq_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",DouyuMovie3
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",一起看萌小鬼
+http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",一起看进击的神乐
+http://tx2play1.douyucdn.cn/live/85894rmovieChow_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",一起看少女可乐橙
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",一起看进击の神
+http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_4000p.xs
 
 
 
@@ -4456,12 +4782,6 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=34173cb38f07f89ddbebc2ac9128303fdfdded94c48ea6229c48edefa9ec1c9f
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13" group-title="SHAREEXT@2022_CODAY_USEE",Rodja TV 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=6c8349cc7260ae62e3b1396831a8398fdfdded94c48ea6229c48edefa9ec1c9f
-
-
-
-
-
-
 
 
 
