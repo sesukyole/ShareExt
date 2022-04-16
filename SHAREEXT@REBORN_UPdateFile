@@ -4103,8 +4103,22 @@ http://vt.vttpi.com:8000/live/P-957977/P-740465/161.ts
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",My_Cinema
+http://210.210.129.106/uq2663/h/h192/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",MyCinema_Asia
+http://210.210.129.106/uq2663/h/h193/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",My_Family_Channel
+http://210.210.129.106/uq2663/h/h194/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",Cinema_Europe
+http://210.210.129.106/uq2663/h/h18/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",MY_KIDZ
+http://210.210.129.106/uq2663/h/h191/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",S_ONE
+http://210.210.129.106/uq2663/h/h143/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",S_GEM
+http://210.210.129.106/uq2663/h/h19/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",K_+
+http://210.210.129.106/uq2663/h/h08/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",Rock_Extreme
 http://group2-swiftservehd-1.dens.tv/h/h15/01.m3u8
