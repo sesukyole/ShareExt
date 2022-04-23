@@ -3186,29 +3186,43 @@ http://210.210.129.106/uq2663/h/h143/index.m3u8
 http://210.210.129.106/uq2663/h/h19/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",K_+
 http://210.210.129.106/uq2663/h/h08/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",Celestial_Movie
+http://210.210.129.106/dr9445/h/h14/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",Rock_Extreme
-http://group2-swiftservehd-1.dens.tv/h/h15/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",Rock_Enter
-http://group2-swiftservehd-1.dens.tv/h/h16/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",GEM
-http://group1-swiftservehd-1.dens.tv/h/h19/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",CinemaEuropa
-http://group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
+http://210.210.129.106/dr9445/h/h15/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",Rock_Entert
+http://210.210.129.106/dr9445/h/h16/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",TVN
-http://group2-swiftservehd-1.dens.tv/h/h20/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",TvnMovies
-http://group2-swiftservehd-1.dens.tv/h/h21/01.m3u8
+http://210.210.129.106/dr9445/h/h20/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",TVN_movies
+http://210.210.129.106/dr9445/h/h21/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",ANIMAX
+http://210.210.129.106/dr9445/h/h144/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",STYLIS
+http://210.210.129.106/dr9445/h/h01/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",ANIPLUS
-http://group2-swiftservehd-1.dens.tv/h/h02/01.m3u8
+http://210.210.129.106/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",BLOOMBERG
+http://210.210.129.106/dr9445/h/h03/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",Cinema_World
+http://210.210.129.106/dr9445/h/h04/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",Fight_Sports
+http://210.210.129.106/dr9445/h/h05/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",KIX
-http://group2-swiftservehd-1.dens.tv/h/h07/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",HITS
-http://group2-swiftservehd-1.dens.tv/h/h37/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",CINEMA_WORLD
-http://group2-swiftservehd-1.dens.tv/h/h04/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",K_PLUS
-http://group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
+http://210.210.129.106/dr9445/h/h07/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",rtv
+http://210.210.129.106/dr9445/h/h10/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",Motor_vision
+http://210.210.129.106/uq2663/h/h09/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",AXN
+http://210.210.129.106/dr9445/h/h141/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",Cinema_Europe
+http://210.210.129.106/uq2663/h/h18/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="SHAREEXT@LIVE|MOVIE",Trans_7
+http://210.210.129.106/uq2663/h/h11/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="showcasemovies.my" tvg-name="ShowCase Movies" tvg-logo="http://tvmalaysia.cc:80/images/76475be130209643290874153a398f80.png" group-title="SHAREEXT@LIVE|MOVIE",ShowCase_Movies
 http://shareext@urtv.cc:80/live/114048/114048/9032.ts?shareext.ts
