@@ -1372,6 +1372,47 @@ http://103.153.39.36:8000/play/a01c/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="|PK| A-SPORTS" tvg-logo="http://103.161.34.240:81/logos/ASIA/PAKISTAN/ASPORTS.png" group-title="ShareExt@SPORTS_INDIE",A-SPORTS
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/246054
+#EXTINF:-1 tvg-id="" tvg-name="|PK| PTV SPORTS" tvg-logo="http://103.161.34.240:81/logos/ASIA/PAKISTAN/PTVSPORTS.png" group-title="ShareExt@SPORTS_INDIE",|PK|PTV_SPORTS
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/7893
+#EXTINF:-1 tvg-id="" tvg-name="|PK| TEN SPORTS HD" tvg-logo="http://103.161.34.240:81/logos/ASIA/PAKISTAN/TENSPORTSHD.png" group-title="ShareExt@SPORTS_INDIE",|PK|TEN_SPORTS_HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/7891
+#EXTINF:-1 tvg-id="" tvg-name="|PK| GEO SUPER" tvg-logo="http://103.161.34.240:81/logos/ASIA/PAKISTAN/GEOSUPER.png" group-title="ShareExt@SPORTS_INDIE",|PK|GEO_SUPER
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/7890
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| D SPORTS HD" tvg-logo="http://logo.crystalott.net:8080/logos/ASIA/SPORTS/DSPORTSHD.png" group-title="ShareExt@SPORTS_INDIE",D_SPORTS_HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2759
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| DD SPORTS" tvg-logo="http://logo.crystalott.net:8080/logos/ASIA/SPORTS/DDSPORTS.png" group-title="ShareExt@SPORTS_INDIE",DD_SPORTS
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2745
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| SONY SIX HD" tvg-logo="http://logo.crystalott.net:8080/logos/ASIA/SPORTS/SONYSIXHD.png" group-title="ShareExt@SPORTS_INDIE",SONY@SIX_HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2758
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS 1 HD ENGLISH" tvg-logo="http://logo.crystalott.net:8080/logos/ASIA/SPORTS/STARSPORTS1HDENGLISH.png" group-title="ShareExt@SPORTS_INDIE",STARSPORTS_1 HD ENGLISH
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2756
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS 1 HD HINDI" tvg-logo="http://logo.crystalott.net:8080/logos/ASIA/SPORTS/STARSPORTS1HDHINDI.png" group-title="ShareExt@SPORTS_INDIE",STARSPORTS_1 HD HINDI
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2755
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS 2 HD" tvg-logo="http://logo.crystalott.net:8080/logos/ASIA/SPORTS/STARSPORTS2HD.png" group-title="ShareExt@SPORTS_INDIE",STARSPORTS@2 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2754
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS 3" tvg-logo="http://logo.crystalott.net:8080/logos/ASIA/SPORTS/STARSPORTS3.png" group-title="ShareExt@SPORTS_INDIE",STARSPORTS@3
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2753
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS FIRST" tvg-logo="http://logo.crystalott.net:8080/logos/ASIA/SPORTS/STARSPORTSFIRST.png" group-title="ShareExt@SPORTS_INDIE",STARSPORTS_FIRST
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2757
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS SELECT 1 HD" tvg-logo="http://logo.crystalott.net:8080/logos/ASIA/SPORTS/STARSPORTSSELECT1HD.png" group-title="ShareExt@SPORTS_INDIE",STARSPORTS-SELECT-1 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2752
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS SELECT 2 HD" tvg-logo="http://logo.crystalott.net:8080/logos/ASIA/SPORTS/STARSPORTSSELECT2HD.png" group-title="ShareExt@SPORTS_INDIE",STARSPORTS-SELECT-2 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2751
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS TAMIL" tvg-logo="http://logo.crystalott.net:8080/logos/ASIA/SPORTS/STARSPORTSTAMIL.png" group-title="ShareExt@SPORTS_INDIE",STARSPORTS-TAMIL
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2750
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| TEN 1 HD" tvg-logo="http://logo.crystalott.net:8080/logos/ASIA/SPORTS/TEN1HD.png" group-title="ShareExt@SPORTS_INDIE",TEN-1_HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2749
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| TEN 2 HD" tvg-logo="http://logo.crystalott.net:8080/logos/ASIA/SPORTS/TEN2HD.png" group-title="ShareExt@SPORTS_INDIE",TEN-2_HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2748
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| TEN 3 HD" tvg-logo="http://logo.crystalott.net:8080/logos/ASIA/SPORTS/TEN3HD.png" group-title="ShareExt@SPORTS_INDIE",TEN-3_HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2747
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| WILLOW CRICKET HD" tvg-logo="http://logo.crystalott.net:8080/logos/ASIA/SPORTS/WILLOWCRICKETHD.png" group-title="ShareExt@SPORTS_INDIE",WILLOW-CRICKET_HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2746
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@SPORTS_INDIE",StarSports_1_HD
 http://208.86.19.13:81/710.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@SPORTS_INDIE",StarSports_1 HD HIN
