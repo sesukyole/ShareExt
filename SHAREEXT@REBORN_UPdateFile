@@ -1372,6 +1372,54 @@ http://103.153.39.36:8000/play/a01c/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@SPORTS_INDIE",StarSports_1_HD
+http://208.86.19.13:81/710.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@SPORTS_INDIE",StarSports_1 HD HIN
+http://208.86.19.13:81/724.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@SPORTS_INDIE",StarSports_2 HD
+http://208.86.19.13:81/715.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@SPORTS_INDIE",StarSports_3HD
+http://208.86.19.13:81/732.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@SPORTS_INDIE",StarSports_Select_1 HD
+http://208.86.19.13:81/736.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@SPORTS_INDIE",StarSports_Select_2 HD
+http://208.86.19.13:81/737.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@SPORTS_INDIE",Sony_Ten_1 HD
+http://208.86.19.13:81/726.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@SPORTS_INDIE",Sony_Ten_2 HD
+http://208.86.19.13:81/712.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@SPORTS_INDIE",Sony_Ten_3 HD
+http://208.86.19.13:81/713.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@SPORTS_INDIE",PTV_SPORTS_HD
+http://208.86.19.13:81/610.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@SPORTS_INDIE",Ten_Sports
+http://208.86.19.13:81/711.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@SPORTS_INDIE",willow_HD
+http://208.86.19.13:81/731.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@SPORTS_INDIE",Astro_Cricket
+http://208.86.19.13:81/707.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@SPORTS_INDIE",T.Sports
+http://208.86.19.13:81/905.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@SPORTS_INDIE",GEO.SUPER
+http://208.86.19.13:81/725.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@SPORTS_INDIE",Sony.Max.Hd
+http://208.86.19.13:81/706.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@SPORTS_INDIE",StarSports.Select.1(opt_1)
+http://182.50.65.213:8888/udp/239.239.0.6:3001/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@SPORTS_INDIE",StarSports.Select.2(opt_1)
+http://182.50.65.213:8888/udp/239.239.0.5:3001/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@SPORTS_INDIE",TEN.1(OPT_1)
+http://182.50.65.213:8888/udp/239.239.0.33:3001/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@SPORTS_INDIE",TEN.2(0PT_1)
+http://182.50.65.213:8888/udp/239.239.0.34:3001/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg"group-title="ShareExt@SPORTS_INDIE",TEN.3(0PT_1)
+http://182.50.65.213:8888/udp/239.239.0.35:3001/index.m3u8
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",LIGA1&2
