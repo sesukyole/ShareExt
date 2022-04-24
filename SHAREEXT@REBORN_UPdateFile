@@ -1992,11 +1992,10 @@ http://tvn.x10.bz/TvN_ID/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",indosiar_back1
 https://akudandia.xyz//locs/akudandia-205.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",US_sports
-http://103.102.15.12:8899/stream/channelid/711800493?ticket=CA5272A94BD173E4C6DC2C8388EC911CD6C6A075
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",US_sportsO1
-https://dik.si/shareextUssp01
+https://winhometv.xyz/USEE/mpd.m3u8?channel=useesport
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",US_sports02
-https://dik.si/shareextUssp02
+https://winhometv.xyz/USEE/mpd.m3u8?channel=useesports2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",O_channel
 http://tvn.x10.bz/TvN_ID/master-18.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",O_channel_(back1)
