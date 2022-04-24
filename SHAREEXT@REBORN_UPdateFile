@@ -53,6 +53,154 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="|ALB| SUPER SPORT 1 HD" tvg-logo="http://logo.crystalott.net:8080/logos/ALBANIA/SUPERSPORT1.png" group-title="SHAREEXT@ALB| SPORTS",SUPERSPORT_1 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/3396
+#EXTINF:-1 tvg-id="supersport2.al" tvg-name="|ALB| SUPER SPORT 2 HD" tvg-logo="http://logo.crystalott.net:8080/logos/ALBANIA/SUPERSPORT2.png" group-title="SHAREEXT@ALB| SPORTS",SUPERSPORT_2 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/3394
+#EXTINF:-1 tvg-id="supersport3.al" tvg-name="|ALB| SUPER SPORT 3 HD" tvg-logo="http://logo.crystalott.net:8080/logos/ALBANIA/SUPERSPORT3.png" group-title="SHAREEXT@ALB| SPORTS",SUPERSPORT_3 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/3392
+#EXTINF:-1 tvg-id="supersport4.al" tvg-name="|ALB| SUPER SPORT 4 HD" tvg-logo="http://logo.crystalott.net:8080/logos/ALBANIA/SUPERSPORT4.png" group-title="SHAREEXT@ALB| SPORTS",SUPERSPORT_4 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/3390
+#EXTINF:-1 tvg-id="supersport5.al" tvg-name="|ALB| SUPER SPORT 5 HD" tvg-logo="http://logo.crystalott.net:8080/logos/ALBANIA/SUPERSPORT5.png" group-title="SHAREEXT@ALB| SPORTS",SUPERSPORT_5 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/3388
+#EXTINF:-1 tvg-id="supersport6.al" tvg-name="|ALB| SUPER SPORT 6 HD" tvg-logo="http://logo.crystalott.net:8080/logos/ALBANIA/SUPERSPORT6.png" group-title="SHAREEXT@ALB| SPORTS",SUPERSPORT_6 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/3386
+#EXTINF:-1 tvg-id="" tvg-name="|ALB| SUPER SPORT 7 HD" tvg-logo="http://logo.crystalott.net:8080/logos/ALBANIA/SUPERSPORT7.png" group-title="SHAREEXT@ALB| SPORTS",SUPERSPORT_7 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/3384
+#EXTINF:-1 tvg-id="" tvg-name="|ALB| SUPER SPORT KOSOVO 1 HD" tvg-logo="http://logo.crystalott.net:8080/logos/ALBANIA/SUPERSPORTKOSOVO1.png" group-title="SHAREEXT@ALB| SPORTS",SUPERSPORT_KOSOVO_1 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/236217
+#EXTINF:-1 tvg-id="" tvg-name="|ALB| SUPER SPORT KOSOVO 2 HD" tvg-logo="http://logo.crystalott.net:8080/logos/ALBANIA/SUPERSPORTKOSOVO2.png" group-title="SHAREEXT@ALB| SPORTS",SUPERSPORT_KOSOVO_2 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/236216
+#EXTINF:-1 tvg-id="tringsportnews.al" tvg-name="|ALB| TRING SPORT NEWS HD" tvg-logo="http://logo.crystalott.net:8080/logos/ALBANIA/TRINGSPORTNEWS.png" group-title="SHAREEXT@ALB| SPORTS",TRING_SPORT_NEWS HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/3380
+#EXTINF:-1 tvg-id="tringsport1.al" tvg-name="|ALB| TRING SPORT 1 HD" tvg-logo="http://logo.crystalott.net:8080/logos/ALBANIA/TRINGSPORT1.png" group-title="SHAREEXT@ALB| SPORTS",TRING_SPORT_1 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/3379
+#EXTINF:-1 tvg-id="tringsport2.al" tvg-name="|ALB| TRING SPORT 2 HD" tvg-logo="http://logo.crystalott.net:8080/logos/ALBANIA/TRINGSPORT2.png" group-title="SHAREEXT@ALB| SPORTS",TRING_SPORT_2 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/3378
+#EXTINF:-1 tvg-id="tringsport3.al" tvg-name="|ALB| TRING SPORT 3 HD |ONLY MATCH TIME|" tvg-logo="http://logo.crystalott.net:8080/logos/ALBANIA/TRINGSPORT3.png" group-title="SHAREEXT@ALB| SPORTS",TRING_SPORT_3 HD|ONLY MATCH TIME|
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/3377
+#EXTINF:-1 tvg-id="tringsport4.al" tvg-name="|ALB| TRING SPORT 4 HD |ONLY MATCH TIME|" tvg-logo="http://logo.crystalott.net:8080/logos/ALBANIA/TRINGSPORT4.png" group-title="SHAREEXT@ALB| SPORTS",TRING_SPORT_4 HD|ONLY MATCH TIME|
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/3376
+#EXTINF:-1 tvg-id="" tvg-name="|ALB| K SPORT 1 HD" tvg-logo="http://logo.crystalott.net:8080/logos/ALBANIA/KSPORT1.png" group-title="SHAREEXT@ALB| SPORTS",K_SPORT_1 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/3374
+#EXTINF:-1 tvg-id="" tvg-name="|ALB| K SPORT 2 HD" tvg-logo="http://logo.crystalott.net:8080/logos/ALBANIA/KSPORT2.png" group-title="SHAREEXT@ALB| SPORTS",K_SPORT_2 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/3373
+#EXTINF:-1 tvg-id="" tvg-name="|ALB| K SPORT 3 HD" tvg-logo="http://logo.crystalott.net:8080/logos/ALBANIA/KSPORT3.png" group-title="SHAREEXT@ALB| SPORTS",K_SPORT_3 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/3372
+#EXTINF:-1 tvg-id="" tvg-name="|ALB| K SPORT 4 HD" tvg-logo="http://logo.crystalott.net:8080/logos/ALBANIA/KSPORT4.png" group-title="SHAREEXT@ALB| SPORTS",K_SPORT_4 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/3371
+#EXTINF:-1 tvg-id="" tvg-name="|ALB| K SPORT 5 HD" tvg-logo="http://logo.crystalott.net:8080/logos/ALBANIA/KSPORT5.png" group-title="SHAREEXT@ALB| SPORTS",K_SPORT_5 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/3370
+#EXTINF:-1 tvg-id="" tvg-name="|ALB| ART SPORT 1 HD" tvg-logo="http://logo.crystalott.net:8080/logos/ALBANIA/ARTSPORT1.png" group-title="SHAREEXT@ALB| SPORTS",ART_SPORT_1 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/3368
+#EXTINF:-1 tvg-id="" tvg-name="|ALB| ART SPORT 2 HD" tvg-logo="http://logo.crystalott.net:8080/logos/ALBANIA/ARTSPORT2.png" group-title="SHAREEXT@ALB| SPORTS",ART_SPORT_2 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/3367
+#EXTINF:-1 tvg-id="" tvg-name="|ALB| ART SPORT 3 HD" tvg-logo="http://logo.crystalott.net:8080/logos/ALBANIA/ARTSPORT3.png" group-title="SHAREEXT@ALB| SPORTS",ART_SPORT_3 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/3366
+#EXTINF:-1 tvg-id="" tvg-name="|ALB| ART SPORT 4 HD" tvg-logo="http://103.161.34.240:81/logos/MISSINGEUROPE/ARTSPORT4.png" group-title="SHAREEXT@ALB| SPORTS",ART_SPORT_4 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/314242
+#EXTINF:-1 tvg-id="" tvg-name="|ALB| ART SPORT 5 HD" tvg-logo="http://103.161.34.240:81/logos/MISSINGEUROPE/ARTSPORT5.png" group-title="SHAREEXT@ALB| SPORTS",ART_SPORT_5 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/314241
+#EXTINF:-1 tvg-id="" tvg-name="|ALB| ART SPORT 6 HD" tvg-logo="http://103.161.34.240:81/logos/MISSINGEUROPE/ARTSPORT6.png" group-title="SHAREEXT@ALB| SPORTS",ART_SPORT_6 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/314240
+#EXTINF:-1 tvg-id="" tvg-name="|ALB| OVER SPORT 1" tvg-logo="" group-title="SHAREEXT@ALB| SPORTS",OVER_SPORT_1
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/324763
+#EXTINF:-1 tvg-id="" tvg-name="|ALB| OVER SPORT 2" tvg-logo="" group-title="SHAREEXT@ALB| SPORTS",OVER_SPORT_2
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/324764
+#EXTINF:-1 tvg-id="" tvg-name="|ALB| OVER SPORT 3" tvg-logo="" group-title="SHAREEXT@ALB| SPORTS",OVER_SPORT_3
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/324765
+#EXTINF:-1 tvg-id="" tvg-name="|ALB| OVER SPORT 4" tvg-logo="" group-title="SHAREEXT@ALB| SPORTS",OVER_SPORT_4
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/324766
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="|RO| DIGI SPORT 1" tvg-logo="http://103.161.34.215:81/logos/ROMANIA/DIGISPORT1.png" group-title="SHAREEXT@EU| ROMANIA",DIGI_SPORT 1
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/9956
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="|RO| DIGI SPORT 2" tvg-logo="http://103.161.34.215:81/logos/ROMANIA/DIGISPORT2.png" group-title="SHAREEXT@EU| ROMANIA",DIGI_SPORT 2
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/9954
+#EXTINF:-1 tvg-id="digisport3.ro" tvg-name="|RO| DIGI SPORT 3" tvg-logo="http://103.161.34.215:81/logos/ROMANIA/DIGISPORT3.png" group-title="SHAREEXT@EU| ROMANIA",DIGI_SPORT 3
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/9953
+#EXTINF:-1 tvg-id="digisport4.ro" tvg-name="|RO| DIGI SPORT 4" tvg-logo="http://103.161.34.215:81/logos/ROMANIA/DIGISPORT4.png" group-title="SHAREEXT@EU| ROMANIA",DIGI_SPORT 4
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/9952
+#EXTINF:-1 tvg-id="extremesports.ro" tvg-name="|RO| EXTREME SPORTS CHANNEL" tvg-logo="http://103.161.34.215:81/logos/ROMANIA/EXTREMESPORTSCHANNEL.png" group-title="SHAREEXT@EU| ROMANIA",EXTREME_SPORTS CHANNEL
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/9951
+#EXTINF:-1 tvg-id="eurosport1.ro" tvg-name="|RO| EUROSPORT 1 HD" tvg-logo="http://103.161.34.215:81/logos/ROMANIA/EUROSPORT1HD.png" group-title="SHAREEXT@EU| ROMANIA",EUROSPORT_1 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/9950
+#EXTINF:-1 tvg-id="eurosport2.ro" tvg-name="|RO| EUROSPORT 2 HD" tvg-logo="http://103.161.34.215:81/logos/ROMANIA/EUROSPORT2HD.png" group-title="SHAREEXT@EU| ROMANIA",EUROSPORT_2 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/9949
+#EXTINF:-1 tvg-id="" tvg-name="|RO| AUTO MOTOR SPORT" tvg-logo="http://103.161.34.215:81/logos/ROMANIA/AUTOMOTORSPORT.png" group-title="SHAREEXT@EU| ROMANIA",AUTO_MOTOR_SPORT
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/9946
+#EXTINF:-1 tvg-id="" tvg-name="|RO| LOOK SPORT" tvg-logo="http://103.161.34.215:81/logos/ROMANIA/LOOKPLUSHD.png" group-title="SHAREEXT@EU| ROMANIA",LOOK_SPORT
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/9944
+#EXTINF:-1 tvg-id="" tvg-name="|RO| LOOK SPORT 3 HD" tvg-logo="http://103.161.34.215:81/logos/ROMANIA/LOOKSPORT3.HD.png" group-title="SHAREEXT@EU| ROMANIA",LOOK_SPORT_3 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/110500
+#EXTINF:-1 tvg-id="" tvg-name="|RO| LOOK SPORT 2 HD" tvg-logo="http://103.161.34.215:81/logos/ROMANIA/LOOKSPORT2.HD.png" group-title="SHAREEXT@EU| ROMANIA",LOOK_SPORT_2 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/109437
+#EXTINF:-1 tvg-id="" tvg-name="|RO| LOOK SPORT HD" tvg-logo="http://103.161.34.215:81/logos/ROMANIA/LOOKPLUSHD.png" group-title="SHAREEXT@EU| ROMANIA",LOOK_SPORT HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/9943
+#EXTINF:-1 tvg-id="telekomsport1.ro" tvg-name="|RO| TELEKOM SPORT 1" tvg-logo="http://103.161.34.215:81/logos/ROMANIA/TELEKOMSPORT1.png" group-title="SHAREEXT@EU| ROMANIA",TELEKOM_SPORT 1
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/9942
+#EXTINF:-1 tvg-id="telekomsport2.ro" tvg-name="|RO| TELEKOM SPORT 2" tvg-logo="http://103.161.34.215:81/logos/ROMANIA/TELEKOMSPORT2.png" group-title="SHAREEXT@EU| ROMANIA",TELEKOM_SPORT 2
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/9941
+#EXTINF:-1 tvg-id="telekomsport3.ro" tvg-name="|RO| TELEKOM SPORT 3" tvg-logo="http://103.161.34.215:81/logos/ROMANIA/TELEKOMSPORT3.png" group-title="SHAREEXT@EU| ROMANIA",TELEKOM_SPORT 3
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/9940
+#EXTINF:-1 tvg-id="telekomsport4.ro" tvg-name="|RO| TELEKOM SPORT 4" tvg-logo="http://103.161.34.215:81/logos/ROMANIA/TELEKOMSPORT4.png" group-title="SHAREEXT@EU| ROMANIA",TELEKOM_SPORT 4
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/9939
+#EXTINF:-1 tvg-id="telekomsport5.ro" tvg-name="|RO| TELEKOM SPORT 5" tvg-logo="http://103.161.34.215:81/logos/ROMANIA/TELEKOMSPORT5.png" group-title="SHAREEXT@EU| ROMANIA",TELEKOM_SPORT 5
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/9938
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="|AF| SUPERSPORT PLAY HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="SHAREEXT@AF| SPORT",SUPERSPORT_PLAY HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2619
+#EXTINF:-1 tvg-id="" tvg-name="|AF| SUPERSPORT MAXIMO 1" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="SHAREEXT@AF| SPORT",SUPERSPORT_MAXIMO 1
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2620
+#EXTINF:-1 tvg-id="" tvg-name="|AF| SUPERSPORT BLITZ HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="SHAREEXT@AF| SPORT",SUPERSPORT_BLITZ HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2621
+#EXTINF:-1 tvg-id="" tvg-name="|AF| SUPERSPORT EVENTS HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="SHAREEXT@AF| SPORT",SUPERSPORT_EVENTS HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2622
+#EXTINF:-1 tvg-id="" tvg-name="|AF| SUPERSPORT MOTORSPORT HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="SHAREEXT@AF| SPORT",SUPERSPORT_MOTORSPORT HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2623
+#EXTINF:-1 tvg-id="" tvg-name="|AF| SUPERSPORT GOLF HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="SHAREEXT@AF| SPORT",SUPERSPORT_GOLF HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2624
+#EXTINF:-1 tvg-id="" tvg-name="|AF| SUPERSPORT CRICKET HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="SHAREEXT@AF| SPORT",|/SUPERSPORT_CRICKET HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2625
+#EXTINF:-1 tvg-id="" tvg-name="|AF| SUPERSPORT RUGBY HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="SHAREEXT@AF| SPORT",SUPERSPORT_RUGBY HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2626
+#EXTINF:-1 tvg-id="" tvg-name="|AF| SUPERSPORT TENNIS HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="SHAREEXT@AF| SPORT",SUPERSPORT_TENNIS HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2627
+#EXTINF:-1 tvg-id="" tvg-name="|AF| SUPERSPORT FOOTBAL PLUS HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="SHAREEXT@AF| SPORT",SUPERSPORT_FOOTBAL_PLUS HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2628
+#EXTINF:-1 tvg-id="" tvg-name="|AF| SUPERSPORT LALIGA HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="SHAREEXT@AF| SPORT",SUPERSPORT_LALIGA HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2629
+#EXTINF:-1 tvg-id="" tvg-name="|AF| SUPERSPORT PREMIER LEAGUE HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="SHAREEXT@AF| SPORT",SUPERSPORT_PREMIER_LEAGUE HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2630
+#EXTINF:-1 tvg-id="" tvg-name="|AF| SUPERSPORT FOOTBALL HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="SHAREEXT@AF| SPORT",SUPERSPORT_FOOTBALL_HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2631
+#EXTINF:-1 tvg-id="" tvg-name="|AF| SUPERSPORT PSL HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="SHAREEXT@AF| SPORT",SUPERSPORT_PSL HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/138198
+#EXTINF:-1 tvg-id="" tvg-name="|AF| SUPERSPORT ACTION HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="SHAREEXT@AF| SPORT",SUPERSPORT_ACTION HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/138197
+#EXTINF:-1 tvg-id="" tvg-name="|AF| SUPERSPORT VARIETY 1 HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="SHAREEXT@AF| SPORT",SUPERSPORT_VARIETY_1 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2635
+#EXTINF:-1 tvg-id="" tvg-name="|AF| SUPERSPORT VARIETY 2 HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="SHAREEXT@AF| SPORT",SUPERSPORT_VARIETY_2 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2634
+#EXTINF:-1 tvg-id="" tvg-name="|AF| SUPERSPORT VARIETY 3 HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="SHAREEXT@AF| SPORT",SUPERSPORT_VARIETY_3 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2633
+#EXTINF:-1 tvg-id="" tvg-name="|AF| SUPERSPORT VARIETY 4 HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="SHAREEXT@AF| SPORT",SUPERSPORT_VARIETY_4 HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2632
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",Astro@Supersport_1 HD
 http://fortv.cc:8080/alphonso/alphonso/122349
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",Astro@Supersport_2 HD
