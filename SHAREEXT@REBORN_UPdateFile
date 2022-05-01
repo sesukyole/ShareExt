@@ -2211,19 +2211,19 @@ http://203.154.243.89:21204/nakhon
 
 
 
+#EXTINF:-1 tvg-name="Usee PRIME" tvg-id="Mapalus IPTV" tvg-logo="https://img.mapalus.xyz/logo/channel/Usee_PRIME.png" group-title="SHAREEXT@LIVE | SPORTS", Usee_PRIME(mapalus)
+https://iptv.mapalus.xyz/uc_free/joss/session/guhN8-e9F8o-WDCm3-a1g2d/useeprime/chunklist.m3u8
+#EXTINF:-1 tvg-name="Usee SPORTS" tvg-id="Mapalus IPTV" tvg-logo="https://img.mapalus.xyz/logo/channel/Usee_SPORTS.png" group-title="SHAREEXT@LIVE | SPORTS", Usee_SPORTS(mapalus)
+https://iptv.mapalus.xyz/uc_free/dass/session/TOXWZ-cuO30-huc2r-LWZS4/useesport/manifest.m3u8
+#EXTINF:-1 tvg-name="Usee SPORTS 2" tvg-id="Mapalus IPTV" tvg-logo="https://img.mapalus.xyz/logo/channel/Usee_SPORTS_2.png" group-title="SHAREEXT@LIVE | SPORTS", Usee_SPORTS_2(mapalus)
+https://iptv.mapalus.xyz/uc_free/dass/session/TOXWZ-cuO30-huc2r-LWZS4/useesports2/manifest.m3u8
+#EXTINF:-1 tvg-name="SPOTV" tvg-id="Mapalus IPTV" tvg-logo="https://img.mapalus.xyz/logo/channel/SPOTV.png" group-title="SHAREEXT@LIVE | SPORTS", SPOTV(mapalus)
+https://iptv.mapalus.xyz/uc_free/dass/session/TOXWZ-cuO30-huc2r-LWZS4/spotv/manifest.m3u8
+#EXTINF:-1 tvg-name="SPOTV 2" tvg-id="Mapalus IPTV" tvg-logo="https://img.mapalus.xyz/logo/channel/SPOTV2.png" group-title="SHAREEXT@LIVE | SPORTS", SPOTV_2(mapalus)
+https://iptv.mapalus.xyz/uc_free/dass/session/TOXWZ-cuO30-huc2r-LWZS4/spotv2/manifest.m3u8
+#EXTINF:-1 tvg-name="HORIZON SPORTS" tvg-id="Mapalus IPTV" tvg-logo="https://img.mapalus.xyz/logo/channel/HORIZON_SPORTS.png" group-title="SHAREEXT@LIVE | SPORTS", HORIZON_SPORTS(mapalus)
+https://iptv.mapalus.xyz/uc_free/dass/session/TOXWZ-cuO30-huc2r-LWZS4/horizonsport/manifest.m3u8
 
-#EXTINF:-1 tvg-name="SPOTV" tvg-id="Mapalus IPTV" tvg-logo="https://img.mapalus.xyz/logo/channel/SPOTV.png" group-title="SHAREEXT@LIVE | SPORTS",SPOTV(mapalus)
-https://iptv.mapalus.xyz/uc_free/dass/session/uO7gz-7A6Rl-4ld2U-P1CrI/spotv/manifest.m3u8
-#EXTINF:-1 tvg-name="SPOTV 2" tvg-id="Mapalus IPTV" tvg-logo="https://img.mapalus.xyz/logo/channel/SPOTV2.png" group-title="SHAREEXT@LIVE | SPORTS",SPOTV_2(mapalus)
-https://iptv.mapalus.xyz/uc_free/dass/session/uO7gz-7A6Rl-4ld2U-P1CrI/spotv2/manifest.m3u8
-#EXTINF:-1 tvg-name="Usee PRIME" tvg-id="Mapalus IPTV" tvg-logo="https://img.mapalus.xyz/logo/channel/Usee_PRIME.png" group-title="SHAREEXT@LIVE | SPORTS",Usee_PRIME(mapalus)
-https://iptv.mapalus.xyz/uc_free/joss/session/Ztfqt-lWFRH-wpWBv-XYLRO/useeprime/chunklist.m3u8
-#EXTINF:-1 tvg-name="Usee SPORTS" tvg-id="Mapalus IPTV" tvg-logo="https://img.mapalus.xyz/logo/channel/Usee_SPORTS.png" group-title="SHAREEXT@LIVE | SPORTS",Usee_SPORTS(mapalus)
-https://iptv.mapalus.xyz/uc_free/dass/session/uO7gz-7A6Rl-4ld2U-P1CrI/useesport/manifest.m3u8
-#EXTINF:-1 tvg-name="Usee SPORTS 2" tvg-id="Mapalus IPTV" tvg-logo="https://img.mapalus.xyz/logo/channel/Usee_SPORTS_2.png" group-title="SHAREEXT@LIVE | SPORTS",Usee_SPORTS_2(mapalus)
-https://iptv.mapalus.xyz/uc_free/dass/session/uO7gz-7A6Rl-4ld2U-P1CrI/useesports2/manifest.m3u8
-#EXTINF:-1 tvg-name="HORIZON SPORTS" tvg-id="Mapalus IPTV" tvg-logo="https://img.mapalus.xyz/logo/channel/HORIZON_SPORTS.png" group-title="SHAREEXT@LIVE | SPORTS",HORIZON_SPORTS(mapalus)
-https://iptv.mapalus.xyz/uc_free/dass/session/uO7gz-7A6Rl-4ld2U-P1CrI/horizonsport/manifest.m3u8
 
 
 
