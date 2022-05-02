@@ -2203,6 +2203,15 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",BOLA_1
+https://lnk.ec/shareext@bola1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",BOLA_2
+https://lnk.ec/shareext@bola2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",SPOTV.1
+https://lnk.ec/shareext@sport_useespotv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",SPOTV.2
+https://lnk.ec/shareext@sport_useespotv2
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",CHAMPION-1
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwjnfDToGXpfWq34fgyUPtdg/ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",CHAMPION-2
