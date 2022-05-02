@@ -2212,6 +2212,18 @@ https://lnk.ec/shareext@sport_useespotv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",SPOTV.2
 https://lnk.ec/shareext@sport_useespotv2
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",MNCTV_HD
+https://d33j155pv2xyba.cloudfront.net/MNCTV_2021-avc1_100000=6.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",RCTI_HD
+https://d35d0ifx19oopq.cloudfront.net/RCTI_2021-avc1_100000=8.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",GTV_HD
+https://d322b885qvsbxg.cloudfront.net/GTV2021-avc1_100000=6.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",INEW_HD
+https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021-avc1_100000=4.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",CHAMPION-1
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwjnfDToGXpfWq34fgyUPtdg/ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",CHAMPION-2
@@ -2224,6 +2236,9 @@ http://203.154.243.89:21202/nakhon
 http://203.154.243.89:21203/nakhon
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Assp4
 http://203.154.243.89:21204/nakhon
+
+
+
 
 
 
