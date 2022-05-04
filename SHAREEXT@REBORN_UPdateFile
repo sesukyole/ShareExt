@@ -2215,7 +2215,7 @@ http://203.154.243.89:21204/nakhon
 
 
 #EXTINF:-1 tvg-name="Usee PRIME" tvg-id="Mapalus IPTV" tvg-logo="https://img.mapalus.xyz/logo/channel/Usee_PRIME.png" group-title="SHAREEXT@LIVE | SPORTS", Usee_PRIME(mapalus)
-https://iptv.mapalus.xyz/uc_free/dass/session/XTQEz-zPPHh-fg7PC-9DHsd/useesprime/manifest.m3u8
+https://iptv.mapalus.xyz/uc_free/joss/session/lvqmi-8GyYi-WpvbP-Qs1W2/useeprime/chunklist.m3u8
 #EXTINF:-1 tvg-name="Usee SPORTS" tvg-id="Mapalus IPTV" tvg-logo="https://img.mapalus.xyz/logo/channel/Usee_SPORTS.png" group-title="SHAREEXT@LIVE | SPORTS", Usee_SPORTS(mapalus)
 https://iptv.mapalus.xyz/uc_free/dass/session/XTQEz-zPPHh-fg7PC-9DHsd/useesport/manifest.m3u8
 #EXTINF:-1 tvg-name="Usee SPORTS 2" tvg-id="Mapalus IPTV" tvg-logo="https://img.mapalus.xyz/logo/channel/Usee_SPORTS_2.png" group-title="SHAREEXT@LIVE | SPORTS", Usee_SPORTS_2(mapalus)
