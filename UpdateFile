@@ -244,10 +244,10 @@ http://203.154.243.89:21204/nakhon
 
 
 
-#EXTINF:-1 tvg-name="Usee SPORTS" tvg-id="Mapalus IPTV" tvg-logo="https://img.mapalus.xyz/logo/channel/Usee_SPORTS.png" group-title="SHAREEXT@LIVE | SPORTS", Usee_SPORTS(mapalus)
-
-#EXTINF:-1 tvg-name="Usee SPORTS 2" tvg-id="Mapalus IPTV" tvg-logo="https://img.mapalus.xyz/logo/channel/Usee_SPORTS_2.png" group-title="SHAREEXT@LIVE | SPORTS", Usee_SPORTS_2(mapalus)
-
+#EXTINF:-1 tvg-name="Usee SPORTS" tvg-id="Mapalus IPTV" tvg-logo="https://img.mapalus.xyz/logo/channel/Usee_SPORTS.png" group-title="SHAREEXT@LIVE | SPORTS", Usee_SPORTS
+https://dik.si/shareextUssp01
+#EXTINF:-1 tvg-name="Usee SPORTS 2" tvg-id="Mapalus IPTV" tvg-logo="https://img.mapalus.xyz/logo/channel/Usee_SPORTS_2.png" group-title="SHAREEXT@LIVE | SPORTS", Usee_SPORTS_2
+https://dik.si/shareextUssp02
 #EXTINF:-1 tvg-name="HORIZON SPORTS" tvg-id="Mapalus IPTV" tvg-logo="https://img.mapalus.xyz/logo/channel/HORIZON_SPORTS.png" group-title="SHAREEXT@LIVE | SPORTS", HORIZON_SPORTS
 https://dik.si/shareexthozport
 
