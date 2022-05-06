@@ -531,14 +531,6 @@ http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd?shareext.ts
 
 
 
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="007.my" tvg-name="SPOTV" tvg-logo="http://tvmalaysia.cc:80/images/021967e724a9e62fa93ac15fdf1413bf.png" group-title="SHAREEXT@LIVE | SPORTS",SPOTV
 http://shareext@urtv.cc:80/live/104595/104595/9033.ts?shareext.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV2" tvg-logo="http://tvmalaysia.cc:80/images/021967e724a9e62fa93ac15fdf1413bf.png" group-title="SHAREEXT@LIVE | SPORTS",SPOTV2
@@ -635,6 +627,310 @@ http://shareext@urtv.cc:80/live/104595/104595/7236.ts?shareext.ts
 http://shareext@urtv.cc:80/live/104595/104595/7237.ts?shareext.ts
 #EXTINF:-1 tvg-id="" tvg-name="FS 1" tvg-logo="http://tvmalaysia.cc:80/images/b4b42aee84ec26d35dc2b750d2b29b86.png" group-title="SHAREEXT@LIVE | SPORTS",FS 1
 http://shareext@urtv.cc:80/live/104595/104595/9003.ts?shareext.ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SUPERSPORT_ACTION
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56759
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SUPERSPORT_BLITZ
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56760
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SUPERSPORT_CRICKET
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56761
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SUPERSPORT_ESPN
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/199587
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SUPERSPORT_ESPN2
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/199588
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SUPERSPORT_FOOTBALL
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56762
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SUPERSPORT_FOOTBALL_PLUS
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/169924
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SUPERSPORT_GOLF
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56763
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SUPERSPORT_GRANDSTAND
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56764
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SUPERSPORT_LALIGA
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56765
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SUPERSPORT_MAXIMO
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56766
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SUPERSPORT_MOTORSPORT
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56767
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SUPERSPORT_PLAY
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/199589
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SUPERSPORT_PREMIER_LEAGUE
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56768
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SUPERSPORT_PSL
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56769
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SUPERSPORT_RUGBY
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56770
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SUPERSPORT_TENNIS
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56771
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SUPERSPORT_VARIETY 1
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56772
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SUPERSPORT_VARIETY_2
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56773
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SUPERSPORT_VARIETY_3
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56774
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SUPERSPORT_VARIETY_4
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56775
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SUPERSPORT_WWE
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/199590
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",ASTRO_SUPERSPORT_1
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/197514
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",ASTRO_SUPERSPORT_2
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/197515
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",ASTRO_SUPERSPORT_3
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/197516
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",ASTRO_SUPERSPORT_4
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/197517
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",ASTRO_SUPERSPORT_5
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/197518
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",AU:BEINSPORTS_1
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/112415
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",AU:BEINSPORTS_2
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/112416
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",AU:BEINSPORTS_3
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/112417
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",AU:ESPN 1
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/181894
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",AU:ESPN 2
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/181895
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",AU:FOXSPORTS 501
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/57493
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",AU:FOXSPORTS 502
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/57494
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",AU:FOXSPORTS 503
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/57495
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",AU:FOXSPORTS 504
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/57496
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",AU:FOXSPORTS 505
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/57497
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",AU:FOXSPORTS 506
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/57498
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",AU:FOXSPORTS 507
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/57499
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",AU:OPTUS_SPORT 1
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/61784
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",AU:OPTUS_SPORT 2
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/61785
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",AU:OPTUS_SPORT 3
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/61786
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",AU:OPTUS_SPORT 4
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/61787
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",AU:OPTUS_SPORT 5
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/61788
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",AU:OPTUS_SPORT 6
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/61789
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",AU:OPTUS_SPORT 7
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/61790
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",AU:OPTUS_SPORT 8
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/61791
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",BARCA_TV
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/130818
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",BEINSPORTS(ESP)
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56338
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",BEINSPORTS_04
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56346
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",BEINSPORTS_05
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56347
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",BEINSPORTS_06
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56348
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",BEINSPORTS_07
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56349
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",BEINSPORTS_08
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56350
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",BEINSPORTS_ENGLISH_01
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56341
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",BEINSPORTS_ENGLISH_02
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56342
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",BEINSPORTS_ENGLISH_03
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56343
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",BEINSPORTS_LALIGA
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56352
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",BEINSPORTS_PREMIUM_01
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56339
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",BEINSPORTS_PREMIUM_02
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56344
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",BEINSPORTS_PREMIUM_03
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56345
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",BEINSPORTS_USA
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56353
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",BEINSPORTS_XTRA
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/58290
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",CO:WINSPORTS_1
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/160057
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",CO:WINSPORTS_PLUS
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/160061
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",STARSPORTS_1 HD
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56776
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",STARSPORTS_SELECT 2 HD
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56777
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SPORT_KLUB 1
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/158360
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SPORT_KLUB 2
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/158361
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SPORT_KLUB 3
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/158362
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SPORT_KLUB 4
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/158363
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SPORT_KLUB 5
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/158364
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SPORT_KLUB 6
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/158365
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",WORLD_POKER_TOUR
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/139802
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",ADVENTURE_SPORTS_NETWORK
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/139145
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",CA:BEINSPORTS_XTRA
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/139137
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",CA:IMPACT_WRESTLING
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/139138
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",CA:MOTORVISION.TV
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/139150
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",UK:HORIZONSPORTS
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/139187
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",UK:HORSE&COUNTRY
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/139205
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",UK:MAVTV MOTORSPORTS NETWORK
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/139195
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",UK:MMATV
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/139200
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",UK:MOTORRACING
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/139189
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",UK:MOTORVISION
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/139185
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",PL:ELEVEN_EXTRA
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/61868
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",PL:ELEVEN_SPORTS 1
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/61869
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",PL:ELEVEN_SPORTS 2
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/61870
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",PL:ELEVEN_SPORTS 3
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/61871
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",PL:ELEVEN_SPORTS 4
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/61872
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",PH:ONE_SPORT
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/179393
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",PH:BEINSPORTS_1
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/57391
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",PH:BEINSPORTS_2
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/57392
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",FOXSPORTS_1
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56454
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",FOXSPORTS_2
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56455
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",FOXSPORTS_3
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56456
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",FOXSPORTS_PREMIUM
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56457
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",DIRECTTV_SPORT
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56415
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",DIRECTTV_SPORT 1
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56416
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",DIRECTTV_SPORT 2
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/56417
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",IT:SKY_EUROSPORT 2
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/62038
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",IT:SKY_SERIE A
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/62039
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",IT:SKYSPORT_ARENA
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/62042
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",IT:SKYSPORT_F1
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/62044
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",IT:SKYSPORT_FOOTBALL
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/62045
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",IT:SKYSPORT_MOTOGP
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/62046
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",IT:SKYSPORT_NBA
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/62047
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",IT:SKYSPORT_UNO
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/62048
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",IT:SKY_UNO
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/62049
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",IT:SUPERTENNIS
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/62051
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",TEN_1 HD
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/69326
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",WILLOW_CRICKET HD
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/69328
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SONY_SIX HD
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/69317
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SONY_TEN 3 HD
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/69318
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SKYSPORTS_ARENA
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/53977
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SKYSPORTS_CRICKET
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/53978
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SKYSPORTS_F1
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/53979
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SKYSPORTS_FOOTBALL
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/53980
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SKYSPORTS_GOLF
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/53981
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SKYSPORTS_MAIN.EVENT
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/53982
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SKYSPORTS_MIX
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/53983
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SKYSPORTS_NEWS
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/53984
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SKYSPORTS_NFL
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/53985
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SKYSPORTS_PREMIER LEAGUE
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/53986
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SKYSPORTS_RACING
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/53987
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SPORTS_TONIGHT
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/53990
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",PREMIER_SPORTS 1
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/53942
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",PREMIER_SPORTS 2
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/53943
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",LALIGA_TV
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/53916
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",LFC_TV
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/53917
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",BT_SPORTS 1
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/53850
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",BT_SPORTS 2
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/53851
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",BT_SPORTS 3
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/53852
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",BT_SPORTS ESPN
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/53853
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",BT_SPORTS EXTRA 1
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/53854
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",BT_SPORTS-EXTRA 2
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/53855
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",BT_SPORTS_EXTRA 3
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/53856
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",BT_SPORTS_EXTRA 4
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/53857
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",BT_SPORTS-EXTRA 5
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/53858
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",BT_SPORTS_EXTRA 6
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/53859
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",RMC_SPORT 1
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/57351
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",RMC_SPORT 2
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/57352
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",RMC_SPORT 3
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/57353
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",RMC_SPORT 4
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/57354
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",DE:SKYSPORT 1
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/63770
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",DE:SKYSPORT 2
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/63771
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",SKYSPORT_AUSTRIA
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/63772
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",DE:SKYSPORT_AUSTRIA 2
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/63773
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",DE:SPORT_1
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/63774
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@ALL|SPORTS",DE:SPORTDIGITAL
+http://itsidletime.xyz:25461/pUUit2PWlo/i9k5QpkCSA/63775
 
 
 
