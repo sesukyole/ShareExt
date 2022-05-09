@@ -688,6 +688,120 @@ http://axcestv.vip:8080/live/freeview/axcestv/818.ts
 
 
 
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="SIN-HBO MOVIE" tvg-logo="https://i.loli.net/2021/10/07/qKaC82rwGmOuAdX.jpg" group-title="SHAREEXT@_MOVIES",HBO
+http://iptv12k.com:35461/8022022301/468985/1893
+#EXTINF:-1 tvg-id="HBO.my" tvg-name="HBO HD MOVIE" tvg-logo="https://i.loli.net/2021/10/07/qKaC82rwGmOuAdX.jpg" group-title="SHAREEXT@_MOVIES",HBO_HD
+http://iptv12k.com:35461/8022022301/468985/1892
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="SIN-HBO Family MOVIE" tvg-logo="https://i.loli.net/2021/10/07/6pUeHjzMhctCgu2.png" group-title="SHAREEXT@_MOVIES",HBO_Family
+http://iptv12k.com:35461/8022022301/468985/1891
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family MOVIE" tvg-logo="https://i.loli.net/2021/10/07/6pUeHjzMhctCgu2.png" group-title="SHAREEXT@_MOVIES",HBO_Family 
+http://iptv12k.com:35461/8022022301/468985/1890
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="SIN-HBO Hits MOVIE" tvg-logo="https://i.loli.net/2021/10/07/w8Seb17JIRvBfrP.png" group-title="SHAREEXT@_MOVIES",HBO_Hits
+http://iptv12k.com:35461/8022022301/468985/1889
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits MOVIE" tvg-logo="https://i.loli.net/2021/10/07/w8Seb17JIRvBfrP.png" group-title="SHAREEXT@_MOVIES",HBO Hits_Hd
+http://iptv12k.com:35461/8022022301/468985/1888
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="SIN-HBO Signature MOVIE" tvg-logo="https://i.loli.net/2021/10/07/w2BW4vgHC6PTEMf.png" group-title="SHAREEXT@_MOVIES",HBO_Signature 
+http://iptv12k.com:35461/8022022301/468985/1887
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO SignatureMOVIE" tvg-logo="https://i.loli.net/2021/10/07/w2BW4vgHC6PTEMf.png" group-title="SHAREEXT@_MOVIES",HBO_Signature_Hd
+http://iptv12k.com:35461/8022022301/468985/1886
+#EXTINF:-1 tvg-id="" tvg-name="SIN-AXN MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/1280px-AXN_logo.svg.png" group-title="SHAREEXT@_MOVIES",AXN
+http://iptv12k.com:35461/8022022301/468985/1885
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/1280px-AXN_logo.svg.png" group-title="SHAREEXT@_MOVIES",AXN_HD
+http://iptv12k.com:35461/8022022301/468985/1884
+#EXTINF:-1 tvg-id="" tvg-name="SIN-Cinemax MOVIE" tvg-logo="https://itsmiyagi.site:443/images/9d44a8b4dfee561ae093a8827310163f.png" group-title="SHAREEXT@_MOVIES",Cinemax 
+http://iptv12k.com:35461/8022022301/468985/1883
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD MOVIE" tvg-logo="https://itsmiyagi.site:443/images/9d44a8b4dfee561ae093a8827310163f.png" group-title="SHAREEXT@_MOVIES",Cinemax_HD 
+http://iptv12k.com:35461/8022022301/468985/1882
+#EXTINF:-1 tvg-id="" tvg-name="Cinema World HD MOVIE" tvg-logo="https://itsmiyagi.site:443/images/d5bd04b0765510168b519198219e154e.png" group-title="SHAREEXT@_MOVIES",Cinema_World HD 
+http://iptv12k.com:35461/8022022301/468985/1881
+#EXTINF:-1 tvg-id="" tvg-name="SIN-Warner TV MOVIE" tvg-logo="https://i.loli.net/2021/10/06/chPdwIK7Tm9oWCO.png" group-title="SHAREEXT@_MOVIES",Warner_TV
+http://iptv12k.com:35461/8022022301/468985/1880
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV MOVIE" tvg-logo="https://i.loli.net/2021/10/06/chPdwIK7Tm9oWCO.png" group-title="SHAREEXT@_MOVIES",Warner TV_Hd
+http://iptv12k.com:35461/8022022301/468985/1879
+#EXTINF:-1 tvg-id="" tvg-name="SIN-Hits MOVIE" tvg-logo="https://i.loli.net/2021/10/05/yIpXYmD8OTK7L5Z.jpg" group-title="SHAREEXT@_MOVIES",Hits
+http://iptv12k.com:35461/8022022301/468985/1878
+#EXTINF:-1 tvg-id="" tvg-name="SIN-Hits MOVIE1" tvg-logo="https://i.loli.net/2021/10/05/yIpXYmD8OTK7L5Z.jpg" group-title="SHAREEXT@_MOVIES",Hits_Hd
+http://iptv12k.com:35461/8022022301/468985/1877
+#EXTINF:-1 tvg-id="KIX.id" tvg-name="SIN-Kix MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="SHAREEXT@_MOVIES",Kix
+http://iptv12k.com:35461/8022022301/468985/1876
+#EXTINF:-1 tvg-id="" tvg-name="SIN-Celestial Movies MOVIE" tvg-logo="https://i.loli.net/2021/10/07/9aN8LSQkigCe7dh.jpg" group-title="SHAREEXT@_MOVIES",Celestial_Movies
+http://iptv12k.com:35461/8022022301/468985/1875
+#EXTINF:-1 tvg-id="" tvg-name="SIN-Celestial Movies MOVIE1" tvg-logo="https://i.loli.net/2021/10/07/9aN8LSQkigCe7dh.jpg" group-title="SHAREEXT@_MOVIES",Celestial_Movies_Hd
+http://iptv12k.com:35461/8022022301/468985/1874
+#EXTINF:-1 tvg-id="" tvg-name="SIN-CCM MOVIE1" tvg-logo="https://i.loli.net/2021/10/07/5HTMx4kW2iOaIPJ.jpg" group-title="SHAREEXT@_MOVIES",CCM
+http://iptv12k.com:35461/8022022301/468985/1873
+#EXTINF:-1 tvg-id="" tvg-name="SIN-CCM MOVIE" tvg-logo="https://i.loli.net/2021/10/07/5HTMx4kW2iOaIPJ.jpg" group-title="SHAREEXT@_MOVIES",CCM_Hd
+http://iptv12k.com:35461/8022022301/468985/1872
+#EXTINF:-1 tvg-id="" tvg-name="[TW] 天映经典 MOVIE" tvg-logo="https://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png" group-title="SHAREEXT@_MOVIES",[TW]天映经典
+http://iptv12k.com:35461/8022022301/468985/1871
+#EXTINF:-1 tvg-id="" tvg-name="[TW] 星卫HD电影 MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/37/Star_Chinese_Movies_HD.png" group-title="SHAREEXT@_MOVIES",[TW]星卫HD电影 
+http://iptv12k.com:35461/8022022301/468985/1870
+#EXTINF:-1 tvg-id="" tvg-name="[TW] 美亚电影台 MOVIE" tvg-logo="https://pic.iask.cn/fimg/341891789419.jpg" group-title="SHAREEXT@_MOVIES",[TW]美亚电影台 
+http://iptv12k.com:35461/8022022301/468985/1869
+#EXTINF:-1 tvg-id="" tvg-name="[TW] 卫视电影台 MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/Star_chinese_movies_2012.png" group-title="SHAREEXT@_MOVIES",[TW]卫视电影台 
+http://iptv12k.com:35461/8022022301/468985/1868
+#EXTINF:-1 tvg-id="" tvg-name="[TW] 東森洋片 MOVIE" tvg-logo="https://img.isuper.tv/live-tv/ebc-emovie-live.jpg" group-title="SHAREEXT@_MOVIES",[TW]東森洋片 
+http://iptv12k.com:35461/8022022301/468985/1867
+#EXTINF:-1 tvg-id="" tvg-name="[TW] 東森电影台 MOVIE" tvg-logo="https://www.twt.com.tw/Upload_Img/_thumbs/images/news/%E6%9D%B1%E6%A3%AE%E9%9B%BB%E5%BD%B1%E5%8F%B0-LOGO%E5%B0%81%E9%9D%A2.png" group-title="SHAREEXT@_MOVIES",[TW]東森电影台 
+http://iptv12k.com:35461/8022022301/468985/1866
+#EXTINF:-1 tvg-id="" tvg-name="[TW] CatchPlay電影台 MOVIE" tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/08/CATCHPLAY-Logo.jpg" group-title="SHAREEXT@_MOVIES",[TW]CatchPlay電影台 
+http://iptv12k.com:35461/8022022301/468985/1865
+#EXTINF:-1 tvg-id="" tvg-name="Sony SAB MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/SonySABlogo.png" group-title="SHAREEXT@_MOVIES",Sony_SAB
+http://iptv12k.com:35461/8022022301/468985/1864
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Waku-Waku Japan id 8k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="SHAREEXT@_MOVIES",[ID]Waku-Waku_Japan id
+http://iptv12k.com:35461/8022022301/468985/2056
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Blue Ant Entertainment id 8k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="SHAREEXT@_MOVIES",[ID]BlueAnt_Entertainment id
+http://iptv12k.com:35461/8022022301/468985/2053
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Blue Ant Extreme id 8k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="SHAREEXT@_MOVIES",[ID]BlueAnt_Extreme id
+http://iptv12k.com:35461/8022022301/468985/2052
+#EXTINF:-1 tvg-id="TVN.id" tvg-name="[ID] TvN id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvn-asia-kr.png" group-title="SHAREEXT@_MOVIES",[ID]TvN id
+http://iptv12k.com:35461/8022022301/468985/2050
+#EXTINF:-1 tvg-id="TVNMovies.my" tvg-name="TvN movie" tvg-logo="https://pbs.twimg.com/profile_images/1259700716265811971/hvJGvmej_400x400.jpg" group-title="SHAREEXT@_MOVIES",TvN movie
+http://iptv12k.com:35461/8022022301/468985/2049
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Shanghai Dragon TV 东方卫视 東方衛視  id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dragon-tv-cn.png" group-title="SHAREEXT@_MOVIES",[ID]Shanghai_Dragon_TV 东方卫视 東方衛視  id 
+http://iptv12k.com:35461/8022022301/468985/2102
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Xing Kong TV星空卫视 id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_xing_kong_hk.png" group-title="SHAREEXT@_MOVIES",[ID]Xing_Kong_TV星空卫视 id
+http://iptv12k.com:35461/8022022301/468985/2101
+#EXTINF:-1 tvg-id="" tvg-name="[ID] ZBioskop id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zee-bioskop-in.png" group-title="SHAREEXT@_MOVIES",[ID]ZBioskop id
+http://iptv12k.com:35461/8022022301/468985/2107
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Vision Prime id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vision-prime-id.png" group-title="SHAREEXT@_MOVIES",[ID]Vision_Prime
+http://iptv12k.com:35461/8022022301/468985/2106
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Celestial Movies id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/celestial-movies-hk.png" group-title="SHAREEXT@_MOVIES",[ID]Celestial_Movies 
+http://iptv12k.com:35461/8022022301/468985/2131
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Celestial Classic Movie id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title="SHAREEXT@_MOVIES",[ID)Celestial _Classic_Movie
+http://iptv12k.com:35461/8022022301/468985/2130
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Thrill id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/thrill_hk.png" group-title="SHAREEXT@_MOVIES",[ID]Thrill
+http://iptv12k.com:35461/8022022301/468985/2128
+#EXTINF:-1 tvg-id="" tvg-name="[ID] AXN id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_tw.png" group-title="SHAREEXT@_MOVIES",[ID]AXN 
+http://iptv12k.com:35461/8022022301/468985/2127
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Hits id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hits_tv_sg.png" group-title="SHAREEXT@_MOVIES",[ID]Hits
+http://iptv12k.com:35461/8022022301/468985/2126
+#EXTINF:-1 tvg-id="" tvg-name="[ID] KiX id 8k indo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kix-hk.png" group-title="SHAREEXT@_MOVIES",[ID]KiX 
+http://iptv12k.com:35461/8022022301/468985/2125
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Cinema World id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinema_world_asia.png" group-title="SHAREEXT@_MOVIES",[ID]Cinema_World 
+http://iptv12k.com:35461/8022022301/468985/2124
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Paramount channel id 8k" tvg-logo="https://thestreamable.com/media/pages/sports/nfl/paramount-plus/81a45f40e0-1613656935/paramount-plus-1536x864-crop.jpg" group-title="SHAREEXT@_MOVIES",[ID]Paramount_channel
+http://iptv12k.com:35461/8022022301/468985/2123
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Hits Movies id 8k" tvg-logo="" group-title="SHAREEXT@_MOVIES",[ID]Hits_Movies
+http://iptv12k.com:35461/8022022301/468985/2122
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="[ID] HBO id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_my.png" group-title="SHAREEXT@_MOVIES",[ID]HBO
+http://iptv12k.com:35461/8022022301/468985/2121
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="[ID] HBO Family id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_family_asia.png" group-title="SHAREEXT@_MOVIES",[ID]HBO_Family
+http://iptv12k.com:35461/8022022301/468985/2120
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="[ID] HBO Hits id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_hits.png" group-title="SHAREEXT@_MOVIES",[ID]HBO_Hits
+http://iptv12k.com:35461/8022022301/468985/2119
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="[ID] HBO Signature id 8k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="SHAREEXT@_MOVIES",[ID]HBO_Signature
+http://iptv12k.com:35461/8022022301/468985/2118
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Warner TV id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png" group-title="SHAREEXT@_MOVIES",[ID]Warner_TV
+http://iptv12k.com:35461/8022022301/468985/2115
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Cinemax id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinemax_asia.png" group-title="SHAREEXT@_MOVIES",[ID]Cinemax
+http://iptv12k.com:35461/8022022301/468985/2114
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",Gazi._TV 
@@ -882,10 +996,6 @@ http://203.154.243.89:21204/nakhon
 https://akudandia.xyz//locs/akudandia-205.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",US_sports
 http://103.102.15.12:8899/stream/channelid/711800493?ticket=CA5272A94BD173E4C6DC2C8388EC911CD6C6A075
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",US_sportsO1
-https://winhometv.xyz/USEE/mpd.m3u8?channel=useesport
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",US_sports02
-https://winhometv.xyz/USEE/mpd.m3u8?channel=useesports2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",O_channel_
 https://akudandia.xyz//locs/akudandia-206.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",(true)BeinSport(rolling)
@@ -917,10 +1027,6 @@ https://cdn.underfront.org/zqfb/tracks-v1a1/mono.m3u8
 https://d33qddlitlsxvc.cloudfront.net/out/v1/9b985e50dc53435a9f3ee5291db9baa3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",SPO_TV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",SPOTV_U
-https://winhometv.xyz/USEE/mpd.m3u8?channel=spotv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@LIVE|SPORTS",SPOTV_2_U
-https://winhometv.xyz/USEE/mpd.m3u8?channel=spotv2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",RCTI_+
 https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",INEWS_+
