@@ -1803,6 +1803,140 @@ http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwmWxk1hIbjWjdW9_AKNQLwQ/ts
 
 
 
+#EXTINF:-1 tvg-ID="EN-HD1 English" tvg-name="beIN 1 PREMIUM HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="SHAREEXT@beIN HD",beIN_1_PREMIUM HD
+http://stariptv.org:8080/nour2020/123456/15563
+#EXTINF:-1 tvg-ID="EN-HD2 English" tvg-name="beIN 2 PREMIUM HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="SHAREEXT@beIN HD",beIN_2_PREMIUM HD
+http://stariptv.org:8080/nour2020/123456/15562
+#EXTINF:-1 tvg-ID="EN-HD3 English" tvg-name="beIN 3 PREMIUM HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="SHAREEXT@beIN HD",beIN_3_PREMIUM HD
+http://stariptv.org:8080/nour2020/123456/15561
+#EXTINF:-1 tvg-ID="" tvg-name="beIN AFC Global HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="SHAREEXT@beIN HD",beIN_AFC_Global HD
+http://stariptv.org:8080/nour2020/123456/165062
+#EXTINF:-1 tvg-ID="" tvg-name="beIN AFC1 HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="SHAREEXT@beIN HD",beIN_AFC1 HD
+http://stariptv.org:8080/nour2020/123456/165063
+#EXTINF:-1 tvg-ID="" tvg-name="beIN AFC2 HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="SHAREEXT@beIN HD",beIN_AFC2 HD
+http://stariptv.org:8080/nour2020/123456/165064
+#EXTINF:-1 tvg-ID="" tvg-name="beIN AFC3 HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="SHAREEXT@beIN HD",beIN_AFC3 HD
+http://stariptv.org:8080/nour2020/123456/165065
+#EXTINF:-1 tvg-ID="EN-HD4 English" tvg-name="AR: beIN 1 HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="SHAREEXT@beIN HD",beIN_1 HD
+http://stariptv.org:8080/nour2020/123456/15560
+#EXTINF:-1 tvg-ID="EN-HD5 English" tvg-name="AR: beIN 2 HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="SHAREEXT@beIN HD",beIN_2 HD
+http://stariptv.org:8080/nour2020/123456/15559
+#EXTINF:-1 tvg-ID="EN-HD6 English" tvg-name="AR: beIN 3 HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="SHAREEXT@beIN HD",beIN_3 HD
+http://stariptv.org:8080/nour2020/123456/15558
+#EXTINF:-1 tvg-ID="EN-HD7 English" tvg-name="AR: beIN 4 HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="SHAREEXT@beIN HD",beIN_4 HD
+http://stariptv.org:8080/nour2020/123456/15557
+#EXTINF:-1 tvg-ID="EN-HD8 English" tvg-name="AR: beIN 5 HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="SHAREEXT@beIN HD",beIN_5 HD
+http://stariptv.org:8080/nour2020/123456/15556
+#EXTINF:-1 tvg-ID="EN-HD9 English" tvg-name="AR: beIN 6 HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="SHAREEXT@beIN HD",beIN_6 HD
+http://stariptv.org:8080/nour2020/123456/15555
+#EXTINF:-1 tvg-ID="EN-OlympicChannel English" tvg-name="AR: beIN 7 HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="SHAREEXT@beIN HD",beIN_7 HD
+http://stariptv.org:8080/nour2020/123456/15720
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN 1 EN HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="SHAREEXT@beIN HD",beIN_1_EN HD
+http://stariptv.org:8080/nour2020/123456/112461
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN 2 EN HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="SHAREEXT@beIN HD",beIN_2_EN HD
+http://stariptv.org:8080/nour2020/123456/112462
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN 3 EN HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="SHAREEXT@beIN HD",beIN_3_EN HD
+http://stariptv.org:8080/nour2020/123456/112463
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN 1 FR HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="SHAREEXT@beIN HD",beIN_1_FR HD
+http://stariptv.org:8080/nour2020/123456/112464
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN 2 FR HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="SHAREEXT@beIN HD",beIN_2_FR HD
+http://stariptv.org:8080/nour2020/123456/112465
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN 3 FR HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="SHAREEXT@beIN HD",beIN_3_FR HD
+http://stariptv.org:8080/nour2020/123456/112466
+#EXTINF:-1 tvg-ID="EN-News_ar English" tvg-name="AR: beIN News HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="SHAREEXT@beIN HD",beIN_News HD
+http://stariptv.org:8080/nour2020/123456/22185
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN GLOBAL HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="SHAREEXT@beIN HD",beIN_GLOBAL HD
+http://stariptv.org:8080/nour2020/123456/22186
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport NBA HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="SHAREEXT@beIN HD",beINSport_NBA HD
+http://stariptv.org:8080/nour2020/123456/150160
+#EXTINF:-1 tvg-ID="EN-SportsHD11 English" tvg-name="AR: beIN Xtra 1 HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="SHAREEXT@beIN HD",beIN_Xtra_1 HD
+http://stariptv.org:8080/nour2020/123456/15721
+#EXTINF:-1 tvg-ID="EN-SportsHD12 English" tvg-name="AR: beIN Xtra 2 HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="SHAREEXT@beIN HD",beIN_Xtra_2 HD
+http://stariptv.org:8080/nour2020/123456/15722
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sport 1 (H.265)" tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="SHAREEXT@SPORT ARABIC",AD_Sport_1
+http://stariptv.org:8080/nour2020/123456/155279
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sport 2 (H.265)" tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="SHAREEXT@SPORT ARABIC",AD_Sport_2
+http://stariptv.org:8080/nour2020/123456/155280
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sport 3 (H.265)" tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="SHAREEXT@SPORT ARABIC",AD_Sport_3 
+http://stariptv.org:8080/nour2020/123456/155281
+#EXTINF:-1 tvg-ID="" tvg-name="AL RABIAA IRAQ SPORT" tvg-logo="http://stariptv.org:80/logo/sport.png" group-title="SHAREEXT@SPORT ARABIC",AL_RABIAA_IRAQ_SPORT
+http://stariptv.org:8080/nour2020/123456/143562
+#EXTINF:-1 tvg-ID="" tvg-name="AD-ASIA-LIVE-event-1" tvg-logo="http://stariptv.org:80/logo/sport.png" group-title="SHAREEXT@SPORT ARABIC",AD-ASIA-LIVE-event-1
+http://stariptv.org:8080/nour2020/123456/143559
+#EXTINF:-1 tvg-ID="" tvg-name="AD-ASIA-LIVE-event-2" tvg-logo="http://stariptv.org:80/logo/sport.png" group-title="SHAREEXT@SPORT ARABIC",AD-ASIA-LIVE-event-2
+http://stariptv.org:8080/nour2020/123456/143560
+#EXTINF:-1 tvg-ID="" tvg-name="Libya Sport TNT" tvg-logo="http://stariptv.org:80/logo/sport.png" group-title="SHAREEXT@SPORT ARABIC",Libya_Sport_TNT
+http://stariptv.org:8080/nour2020/123456/143083
+#EXTINF:-1 tvg-ID="" tvg-name="KSA Sport 1 HD265" tvg-logo="http://stariptv.org:80/logo/sport.png" group-title="SHAREEXT@SPORT ARABIC",KSA_Sport_1 
+http://stariptv.org:8080/nour2020/123456/97805
+#EXTINF:-1 tvg-ID="" tvg-name="KSA Sport 2 HD265" tvg-logo="http://stariptv.org:80/logo/sport.png" group-title="SHAREEXT@SPORT ARABIC",KSA_Sport_2 
+http://stariptv.org:8080/nour2020/123456/97806
+#EXTINF:-1 tvg-ID="" tvg-name="KSA Sport 3 4K" tvg-logo="http://stariptv.org:80/logo/sport.png" group-title="SHAREEXT@SPORT ARABIC",KSA_Sport_3
+http://stariptv.org:8080/nour2020/123456/97807
+#EXTINF:-1 tvg-ID="" tvg-name="KSA Sport 4 HD265" tvg-logo="http://stariptv.org:80/logo/sport.png" group-title="SHAREEXT@SPORT ARABIC",KSA_Sport_4
+http://stariptv.org:8080/nour2020/123456/97808
+#EXTINF:-1 tvg-ID="" tvg-name="SAUDI 24 SPORT HD" tvg-logo="http://stariptv.org:80/logo/sport.png" group-title="SHAREEXT@SPORT ARABIC",SAUDI_24_SPORT HD
+http://stariptv.org:8080/nour2020/123456/100470
+#EXTINF:-1 tvg-ID="" tvg-name="Sharjah Sport HD" tvg-logo="http://stariptv.org:80/logo/sport.png" group-title="SHAREEXT@SPORT ARABIC",Sharjah_Sport HD
+http://stariptv.org:8080/nour2020/123456/141797
+#EXTINF:-1 tvg-ID="" tvg-name="Alkass 1 HD" tvg-logo="http://stariptv.org:80/logo/sport.png" group-title="SHAREEXT@SPORT ARABIC",Alkass_1 HD
+http://stariptv.org:8080/nour2020/123456/96214
+#EXTINF:-1 tvg-ID="" tvg-name="Alkass 2 HD" tvg-logo="http://stariptv.org:80/logo/sport.png" group-title="SHAREEXT@SPORT ARABIC",Alkass_2 HD
+http://stariptv.org:8080/nour2020/123456/96215
+#EXTINF:-1 tvg-ID="" tvg-name="Alkass 4 HD" tvg-logo="http://stariptv.org:80/logo/sport.png" group-title="SHAREEXT@SPORT ARABIC",Alkass_4 HD
+http://stariptv.org:8080/nour2020/123456/96216
+#EXTINF:-1 tvg-ID="" tvg-name="Alkass 5 HD" tvg-logo="http://stariptv.org:80/logo/sport.png" group-title="SHAREEXT@SPORT ARABIC",Alkass_5 HD
+http://stariptv.org:8080/nour2020/123456/96217
+#EXTINF:-1 tvg-ID="" tvg-name="Abu Dhabi Sports 1 HD" tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="SHAREEXT@SPORT ARABIC",Abu_DhabiSports_1 HD
+http://stariptv.org:8080/nour2020/123456/97809
+#EXTINF:-1 tvg-ID="" tvg-name="Abu Dhabi Sports 2 HD" tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="SHAREEXT@SPORT ARABIC",Abu_Dhabi_Sports_2 HD
+http://stariptv.org:8080/nour2020/123456/97810
+#EXTINF:-1 tvg-ID="" tvg-name="Abu Dhabi Sports 3 HD" tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="SHAREEXT@SPORT ARABIC",Abu_Dhabi_Sports_3 HD
+http://stariptv.org:8080/nour2020/123456/97811
+#EXTINF:-1 tvg-ID="" tvg-name="Abu Dhabi Sports 4 HD" tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="SHAREEXT@SPORT ARABIC",Abu_Dhabi_Sports_4 HD
+http://stariptv.org:8080/nour2020/123456/97812
+#EXTINF:-1 tvg-ID="" tvg-name="Dubai Sport 1 HD" tvg-logo="http://stariptv.org:80/logo/sport.png" group-title="SHAREEXT@SPORT ARABIC",Dubai_Sport 1 HD
+http://stariptv.org:8080/nour2020/123456/97813
+#EXTINF:-1 tvg-ID="" tvg-name="Dubai Sport 2 HD" tvg-logo="http://stariptv.org:80/logo/sport.png" group-title="SHAREEXT@SPORT ARABIC",Dubai_Sport 2 HD
+http://stariptv.org:8080/nour2020/123456/97814
+#EXTINF:-1 tvg-ID="" tvg-name="Dubai Sport 3 HD" tvg-logo="http://stariptv.org:80/logo/sport.png" group-title="SHAREEXT@SPORT ARABIC",Dubai_Sport 3 HD
+http://stariptv.org:8080/nour2020/123456/97815
+#EXTINF:-1 tvg-ID="" tvg-name="Dubai Racing 1 HD" tvg-logo="http://stariptv.org:80/logo/sport.png" group-title="SHAREEXT@SPORT ARABIC",Dubai_Racing 1 HD
+http://stariptv.org:8080/nour2020/123456/97816
+#EXTINF:-1 tvg-ID="" tvg-name="Dubai Racing 2 HD" tvg-logo="http://stariptv.org:80/logo/sport.png" group-title="SHAREEXT@SPORT ARABIC",Dubai_Racing 2 HD
+http://stariptv.org:8080/nour2020/123456/97817
+#EXTINF:-1 tvg-ID="" tvg-name="Libya Sport TV" tvg-logo="http://stariptv.org:80/logo/sport.png" group-title="SHAREEXT@SPORT ARABIC",Libya_Sport TV
+http://stariptv.org:8080/nour2020/123456/97818
+#EXTINF:-1 tvg-ID="" tvg-name="WWE HD" tvg-logo="http://stariptv.org:80/logo/sport.png" group-title="SHAREEXT@SPORT ARABIC",WWE_HD
+http://stariptv.org:8080/nour2020/123456/97819
+#EXTINF:-1 tvg-ID="" tvg-name="On Time Sport HD 1" tvg-logo="http://stariptv.org:80/logo/sport.png" group-title="SHAREEXT@SPORT ARABIC",On_Time_Sport HD 1
+http://stariptv.org:8080/nour2020/123456/97820
+#EXTINF:-1 tvg-ID="" tvg-name="On Time Sport HD 2" tvg-logo="http://stariptv.org:80/logo/sport.png" group-title="SHAREEXT@SPORT ARABIC",On_Time_Sport HD 2
+http://stariptv.org:8080/nour2020/123456/97821
+#EXTINF:-1 tvg-ID="" tvg-name="Jordan Sport TV" tvg-logo="http://stariptv.org:80/logo/sport.png" group-title="SHAREEXT@SPORT ARABIC",Jordan_Sport TV
+http://stariptv.org:8080/nour2020/123456/109699
+#EXTINF:-1 tvg-ID="" tvg-name="Zamalik" tvg-logo="http://stariptv.org:80/logo/sport.png" group-title="SHAREEXT@SPORT ARABIC",Zamalik
+http://stariptv.org:8080/nour2020/123456/97822
+#EXTINF:-1 tvg-ID="" tvg-name="Al Ahly TV" tvg-logo="http://stariptv.org:80/logo/sport.png" group-title="SHAREEXT@SPORT ARABIC",Al_Ahly TV
+http://stariptv.org:8080/nour2020/123456/97823
+#EXTINF:-1 tvg-ID="" tvg-name="Time Sport HD" tvg-logo="http://stariptv.org:80/logo/sport.png" group-title="SHAREEXT@SPORT ARABIC",Time_Sport HD
+http://stariptv.org:8080/nour2020/123456/97825
+#EXTINF:-1 tvg-ID="" tvg-name="Nile Sport" tvg-logo="http://stariptv.org:80/logo/sport.png" group-title="SHAREEXT@SPORT ARABIC",Nile_Sport
+http://stariptv.org:8080/nour2020/123456/97824
+#EXTINF:-1 tvg-ID="" tvg-name="Oman Sport HD" tvg-logo="http://stariptv.org:80/logo/sport.png" group-title="SHAREEXT@SPORT ARABIC",Oman_Sport HD
+http://stariptv.org:8080/nour2020/123456/97877
+#EXTINF:-1 tvg-ID="" tvg-name="KWT.Sport HD" tvg-logo="https://watanmedia.seyasi.com/resources/media/images/2013/10/316324_e.png" group-title="SHAREEXT@SPORT ARABIC",KWT_Sport HD
+http://stariptv.org:8080/nour2020/123456/97826
+#EXTINF:-1 tvg-ID="" tvg-name="BAHRAIN SPORT" tvg-logo="http://stariptv.org:80/logo/sport.png" group-title="SHAREEXT@SPORT ARABIC",BAHRAIN_SPORT
+http://stariptv.org:8080/nour2020/123456/66383
+
+
 
 
 
@@ -1945,8 +2079,7 @@ http://194.233.77.149:25461/lokalpremi/Zud2JZxqJI/1002
 http://194.233.77.149:25461/lokalpremi/Zud2JZxqJI/788
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@SUKAN",TVRI_Sport SD
 http://194.233.77.149:25461/lokalpremi/Zud2JZxqJI/967
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@SUKAN",
-WWE_Network
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@SUKAN",WWE_Network
 http://194.233.77.149:25461/lokalpremi/Zud2JZxqJI/994
 
 
@@ -2720,3 +2853,35 @@ http://shareext@urtv.cc:80/live/104595/104595/7185.ts?shareext.ts
 http://shareext@urtv.cc:80/live/104595/104595/8836.ts?shareext.ts
 #EXTINF:-1 tvg-id="" tvg-name="மக்கள் தொலைக்காட்சி" tvg-logo="" group-title="SHAREEXT@LIVE|ASTRO",மக்கள் தொலைக்காட்சி
 http://shareext@urtv.cc:80/live/104595/104595/8995.ts?shareext.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
