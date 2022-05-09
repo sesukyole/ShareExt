@@ -690,8 +690,6 @@ http://axcestv.vip:8080/live/freeview/axcestv/818.ts
 
 
 
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",Gazi._TV 
 http://AllLiveSportsLinks.myftp.org:80/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",Sony_Six._HD 
@@ -2560,6 +2558,67 @@ http://194.233.77.149:25461/lokalpremi/Zud2JZxqJI/93
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: MUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="SHAREEXT@_SPORT(UK)",UK*MUTV
+http://iptv12k.com:35461/8022022301/468985/2385
+#EXTINF:-1 tvg-id="" tvg-name="UK: MUTV Backup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="SHAREEXT@_SPORT(UK)",MUTV Backup
+http://iptv12k.com:35461/8022022301/468985/2384
+#EXTINF:-1 tvg-id="" tvg-name="UK: Boxnation" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51xUI0%2B-ClL.png" group-title="SHAREEXT@_SPORT(UK)",Boxnation
+http://iptv12k.com:35461/8022022301/468985/2382
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 1 backup" tvg-logo="https://sport-tv-guide.live/images/stations/a97.png" group-title="SHAREEXT@_SPORT(UK)",BT_Sport_1 backup
+http://iptv12k.com:35461/8022022301/468985/2381
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 1 HD" tvg-logo="https://i.pinimg.com/originals/9c/17/98/9c1798e1b95e4685732b64f1a29d16a1.jpg" group-title="SHAREEXT@_SPORT(UK)",BT_Sport_1 HD
+http://iptv12k.com:35461/8022022301/468985/2380
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 2 HD" tvg-logo="https://www.pngfind.com/pngs/m/164-1646718_bt-sports-2-logo-hd-png-download.png" group-title="SHAREEXT@_SPORT(UK)",BT_Sport_2 HD
+http://iptv12k.com:35461/8022022301/468985/2379
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 3 HD" tvg-logo="https://1.bp.blogspot.com/-NT0JpdM8_Ko/XPexW-fri_I/AAAAAAAAAxE/2_i5Ev0r1BQjPmFB0u-fOs0H2GmDWdb_wCLcBGAs/w1200-h630-p-k-no-nu/bt-sport-3-bt-sport-3-live-bt-sport-3-live-stream-bt-sport-3-live-streaming-bt-sport-3-hd-bt-sport-3-channel%255B1%255D-min.png" group-title="SHAREEXT@_SPORT(UK)",BT_Sport_3 HD
+http://iptv12k.com:35461/8022022301/468985/2378
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 3 SD" tvg-logo="https://sport-tv-guide.live/images/tv-station-bt-sport-3-108.png" group-title="SHAREEXT@_SPORT(UK)",BT_Sport_3 SD
+http://iptv12k.com:35461/8022022301/468985/2377
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport ESPN" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1491.1436396789.png" group-title="SHAREEXT@_SPORT(UK)",BT_Sport_ESPN
+http://iptv12k.com:35461/8022022301/468985/2376
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sports 2 SD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1540.1565312726.png" group-title="SHAREEXT@_SPORT(UK)",BT_Sports_2_SD
+http://iptv12k.com:35461/8022022301/468985/2372
+#EXTINF:-1 tvg-id="" tvg-name="UK: Chelsea FC" tvg-logo="https://media.info/i/lf/300/1489269064/1163.png" group-title="SHAREEXT@_SPORT(UK)",Chelsea FC
+http://iptv12k.com:35461/8022022301/468985/2371
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eir Sports2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Eirsport1logo.png" group-title="SHAREEXT@_SPORT(UK)",Eir_Sports2
+http://iptv12k.com:35461/8022022301/468985/2368
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 1" tvg-logo="https://media.info/i/lf/0/1447433721/1065.png" group-title="SHAREEXT@_SPORT(UK)",Eurosport 1
+http://iptv12k.com:35461/8022022301/468985/2366
+#EXTINF:-1 tvg-id="" tvg-name="UK: EUROSPORT 1 HD" tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg" group-title="SHAREEXT@_SPORT(UK)",EUROSPORT 1 HD
+http://iptv12k.com:35461/8022022301/468985/2365
+#EXTINF:-1 tvg-id="" tvg-name="UK: EUROSPORT 2 HD" tvg-logo="https://i.pinimg.com/originals/0f/ac/c0/0facc086b37c043d236a11f3c49f2f3c.png" group-title="SHAREEXT@_SPORT(UK)",EUROSPORT_2 HD
+http://iptv12k.com:35461/8022022301/468985/2363
+#EXTINF:-1 tvg-id="" tvg-name="UK: LFC TV HD" tvg-logo="https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/default/0001/21/thumb_20605_default_news_size_5.jpeg" group-title="SHAREEXT@_SPORT(UK)",LFC_TV HD
+http://iptv12k.com:35461/8022022301/468985/2360
+#EXTINF:-1 tvg-id="" tvg-name="UK: Mototrs TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Motors_TV_logo.svg/1280px-Motors_TV_logo.svg.png" group-title="SHAREEXT@_SPORT(UK)",Mototrs_TV
+http://iptv12k.com:35461/8022022301/468985/2357
+#EXTINF:-1 tvg-id="" tvg-name="UK: Premier Sports HD" tvg-logo="https://media.irishpost.co.uk/uploads/2017/05/premier-logo-hd-copy.jpg" group-title="SHAREEXT@_SPORT(UK)",PremierSports HD
+http://iptv12k.com:35461/8022022301/468985/2356
+#EXTINF:-1 tvg-id="" tvg-name="UK: Racing UK" tvg-logo="https://i.ytimg.com/vi/x-XgfFWA-pk/maxresdefault.jpg" group-title="SHAREEXT@_SPORT(UK)",Racing_UK
+http://iptv12k.com:35461/8022022301/468985/2354
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport 1 SD" tvg-logo="https://www.logolynx.com/images/logolynx/8a/8a6abd6379d710038da0c9bdf8fb8d88.png" group-title="SHAREEXT@_SPORT(UK)",SkySport_1 SD
+http://iptv12k.com:35461/8022022301/468985/2352
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Arena HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sky_Sport_Arena_HD_-_Logo_2018.svg/2000px-Sky_Sport_Arena_HD_-_Logo_2018.svg.png" group-title="SHAREEXT@_SPORT(UK)",SkySport_Arena HD
+http://iptv12k.com:35461/8022022301/468985/2351
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1200px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="SHAREEXT@_SPORT(UK)",SkySport_F1 HD
+http://iptv12k.com:35461/8022022301/468985/2350
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Football HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sky_Sport_Football_HD_-_Logo_2018.svg/1280px-Sky_Sport_Football_HD_-_Logo_2018.svg.png" group-title="SHAREEXT@_SPORT(UK)",SkySport_Football HD
+http://iptv12k.com:35461/8022022301/468985/2349
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcmqGYxOCPQpcS39TMDmFc93yEh2Pcd4BxfE8-ILog7k-1L3wA" group-title="SHAREEXT@_SPORT(UK)",SkySport_News
+http://iptv12k.com:35461/8022022301/468985/2348
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ACTION HD" tvg-logo="http://sekdrive.net/wp-content/uploads/2018/08/Sky-Sports-Action-HD-UK.png" group-title="SHAREEXT@_SPORT(UK)",SKYSPORTS_ACTION HD
+http://iptv12k.com:35461/8022022301/468985/2346
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS CRICKET HD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjliNWU0NWEtNDA2Yy00MjZjLWJkZTgtNTJkN2UwNTUwYmFkXkEyXkFqcGdeQXVyMDkwNTkwNg@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="SHAREEXT@_SPORT(UK)",SKYSPORTS_CRICKET HD
+http://iptv12k.com:35461/8022022301/468985/2344
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS GOLF HD" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/03/golf-channel-logo-vector.png" group-title="SHAREEXT@_SPORT(UK)",SKYSPORTS_GOLF HD
+http://iptv12k.com:35461/8022022301/468985/2342
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MAIN EVENT" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1086.1507600158.png" group-title="SHAREEXT@_SPORT(UK)",SKYSPORTS_MAINEVENT
+http://iptv12k.com:35461/8022022301/468985/2341
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MAIN EVENT HD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1086.1507600158.png" group-title="SHAREEXT@_SPORT(UK)",SKYSPORTS_MAIN_EVENT HD
+http://iptv12k.com:35461/8022022301/468985/2340
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS PREMIER LEAGUE HD" tvg-logo="https://www.moddingway.com/screenshots/files/226106/big.jpg" group-title="SHAREEXT@_SPORT(UK)",SKYSPORTS_PREMIER_LEAGUE HD
+http://iptv12k.com:35461/8022022301/468985/2337
 
 
 
