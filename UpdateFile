@@ -689,6 +689,42 @@ http://axcestv.vip:8080/live/freeview/axcestv/818.ts
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",Gazi._TV 
+http://AllLiveSportsLinks.myftp.org:80/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",Sony_Six._HD 
+http://AllLiveSportsLinks.myftp.org:80/hls/sonysix.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",Sony_Ten._1
+http://AllLiveSportsLinks.myftp.org:80/hls/sonyten1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",Sony_Ten._2 
+http://AllLiveSportsLinks.myftp.org:80/hls/sonyten2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",Sony_Ten._3 
+http://AllLiveSportsLinks.myftp.org:80/hls/sonyten3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",StarSports_1.HD 
+http://AllLiveSportsLinks.myftp.org:80/hls/stersports1hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",StarSports_2.HD 
+http://AllLiveSportsLinks.myftp.org:80/hls/starsports2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",StarSports_Select_1.HD 
+http://AllLiveSportsLinks.myftp.org:80/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",StarSports_Select_2.HD 
+http://AllLiveSportsLinks.myftp.org:80/hls/select2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",T_Sports.HD 
+http://AllLiveSportsLinks.myftp.org:80/hls/t-sports.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",Матч!_Страна HD
+https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",Матч!Страна
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=matchstrana
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",Eurosport.-1
+https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",Eurosport.-2
+https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",Viasat._Sport HD
+https://sc.id-tv.kz:443/ViasatSport_34_35.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",Viasat._Sport_HD+
+https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TH: Truesports 2 HD SPORT" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_Truesport2.jpg" group-title="ShareExt@MULTI_Sport",Truesports_2 HD
 http://iptv12k.com:35461/8022022301/468985/4995
 #EXTINF:-1 tvg-id="" tvg-name="TH: Truesports 3 HD	 SPORT" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-3-1072.png" group-title="ShareExt@MULTI_Sport",Truesports_3 HD	
