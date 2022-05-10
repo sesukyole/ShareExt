@@ -4546,6 +4546,93 @@ http://f4.tvxweb.net:8082/35977/video.m3u8?shareext.ts
 http://f4.tvxweb.net:8082/35979/video.m3u8?shareext.ts
 
 
+#EXTINF:-1 tvg-ID="" tvg-name="NETFLIX PREMIUM 1 FHD" tvg-logo="http://iptvru.org:80/logo/netflix.png" group-title="SHAREEXT@NETFLIX_PREM",NETFLIX_PREMIUM_1 FHD
+http://stariptv.org:8080/nour2020/123456/146568
+#EXTINF:-1 tvg-ID="" tvg-name="NETFLIX PREMIUM 2 FHD" tvg-logo="http://iptvru.org:80/logo/netflix.png" group-title="SHAREEXT@NETFLIX_PREM",NETFLIX_PREMIUM_2 FHD
+http://stariptv.org:8080/nour2020/123456/146569
+#EXTINF:-1 tvg-ID="" tvg-name="NETFLIX PREMIUM 3 FHD" tvg-logo="http://iptvru.org:80/logo/netflix.png" group-title="SHAREEXT@NETFLIX_PREM",NETFLIX_PREMIUM_3 FHD
+http://stariptv.org:8080/nour2020/123456/146570
+#EXTINF:-1 tvg-ID="" tvg-name="NETFLIX PREMIUM 4 FHD" tvg-logo="http://iptvru.org:80/logo/netflix.png" group-title="SHAREEXT@NETFLIX_PREM",NETFLIX_PREMIUM_4 FHD
+http://stariptv.org:8080/nour2020/123456/146571
+#EXTINF:-1 tvg-ID="" tvg-name="NETFLIX PREMIUM 5 FHD" tvg-logo="http://iptvru.org:80/logo/netflix.png" group-title="SHAREEXT@NETFLIX_PREM",NETFLIX_PREMIUM_5 FHD
+http://stariptv.org:8080/nour2020/123456/146572
+#EXTINF:-1 tvg-ID="" tvg-name="NETFLIX PREMIUM 6 FHD" tvg-logo="http://iptvru.org:80/logo/netflix.png" group-title="SHAREEXT@NETFLIX_PREM",NETFLIX_PREMIUM_6 FHD
+http://stariptv.org:8080/nour2020/123456/146573
+#EXTINF:-1 tvg-ID="" tvg-name="NETFLIX PREMIUM 7 FHD" tvg-logo="http://iptvru.org:80/logo/netflix.png" group-title="SHAREEXT@NETFLIX_PREM",NETFLIX_PREMIUM_7 FHD
+http://stariptv.org:8080/nour2020/123456/146574
+#EXTINF:-1 tvg-ID="" tvg-name="NETFLIX PREMIUM 8 FHD" tvg-logo="http://iptvru.org:80/logo/netflix.png" group-title="SHAREEXT@NETFLIX_PREM",NETFLIX_PREMIUM_8 FHD
+http://stariptv.org:8080/nour2020/123456/146575
+#EXTINF:-1 tvg-ID="" tvg-name="NETFLIX PREMIUM 9 FHD" tvg-logo="http://iptvru.org:80/logo/netflix.png" group-title="SHAREEXT@NETFLIX_PREM",NETFLIX_PREMIUM_9 FHD
+http://stariptv.org:8080/nour2020/123456/146576
+#EXTINF:-1 tvg-ID="" tvg-name="NETFLIX PREMIUM 10 FHD" tvg-logo="http://iptvru.org:80/logo/netflix.png" group-title="SHAREEXT@NETFLIX_PREM",NETFLIX_PREMIUM_10 FHD
+http://stariptv.org:8080/nour2020/123456/146577
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="beIN MOVIES FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",beINMOVIES_FAMILY
+http://stariptv.org:8080/nour2020/123456/131987
+#EXTINF:-1 tvg-ID="" tvg-name="beIN MOVIES DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",beINMOVIES_DRAMA
+http://stariptv.org:8080/nour2020/123456/131988
+#EXTINF:-1 tvg-ID="" tvg-name="beIN MOVIES ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",beINMOVIES_ACTION
+http://stariptv.org:8080/nour2020/123456/131989
+#EXTINF:-1 tvg-ID="" tvg-name="beIN MOVIES Premiere" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",beINMOVIES_Premiere
+http://stariptv.org:8080/nour2020/123456/131990
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SERIES HD1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",beIN_SERIES HD1
+http://stariptv.org:8080/nour2020/123456/131991
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SERIES HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",beIN_SERIES HD2
+http://stariptv.org:8080/nour2020/123456/131992
+#EXTINF:-1 tvg-ID="" tvg-name="beIN DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",beIN_DRAMA
+http://stariptv.org:8080/nour2020/123456/131993
+#EXTINF:-1 tvg-ID="" tvg-name="beIN bbc earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",bbc_earth
+http://stariptv.org:8080/nour2020/123456/131994
+#EXTINF:-1 tvg-ID="" tvg-name="beIN BARAEM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",BARAEM
+http://stariptv.org:8080/nour2020/123456/131995
+#EXTINF:-1 tvg-ID="" tvg-name="beIN GOURMET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",GOURMET
+http://stariptv.org:8080/nour2020/123456/131997
+#EXTINF:-1 tvg-ID="" tvg-name="beIN JEEM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",JEEM HD
+http://stariptv.org:8080/nour2020/123456/131998
+#EXTINF:-1 tvg-ID="" tvg-name="beIN JENIOR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",JENIOR HD
+http://stariptv.org:8080/nour2020/123456/132000
+#EXTINF:-1 tvg-ID="" tvg-name="beIN  Fox Action Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",FoxAction_Movies HD
+http://stariptv.org:8080/nour2020/123456/132001
+#EXTINF:-1 tvg-ID="" tvg-name="beIN FOX Rewayat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",FOX_Rewayat
+http://stariptv.org:8080/nour2020/123456/132002
+#EXTINF:-1 tvg-ID="" tvg-name="beIN FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",FX HD
+http://stariptv.org:8080/nour2020/123456/132003
+#EXTINF:-1 tvg-ID="" tvg-name="beIN FOX LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",FOX_LIFE
+http://stariptv.org:8080/nour2020/123456/132004
+#EXTINF:-1 tvg-ID="" tvg-name="beIN FOX CRIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",FOX_CRIME
+http://stariptv.org:8080/nour2020/123456/132005
+#EXTINF:-1 tvg-ID="" tvg-name="beIN STAR MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",STAR_MOVIES
+http://stariptv.org:8080/nour2020/123456/132006
+#EXTINF:-1 tvg-ID="" tvg-name="beIN FOX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",FOX_MOVIES
+http://stariptv.org:8080/nour2020/123456/132007
+#EXTINF:-1 tvg-ID="" tvg-name="beIN FOX Family Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",FOX_Family_Movies HD
+http://stariptv.org:8080/nour2020/123456/132008
+#EXTINF:-1 tvg-ID="" tvg-name="beIN FoodNetwork HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",FoodNetwork HD
+http://stariptv.org:8080/nour2020/123456/132009
+#EXTINF:-1 tvg-ID="" tvg-name="beIN HG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",HG HD
+http://stariptv.org:8080/nour2020/123456/132010
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Dream Works" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",DreamWorks
+http://stariptv.org:8080/nour2020/123456/132011
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Travel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",Travel
+http://stariptv.org:8080/nour2020/123456/132012
+#EXTINF:-1 tvg-ID="" tvg-name="beIN CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",CARTOON_NETWORK
+http://stariptv.org:8080/nour2020/123456/132014
+#EXTINF:-1 tvg-ID="" tvg-name="beIN FATAFEAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",FATAFEAT
+http://stariptv.org:8080/nour2020/123456/132015
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",NatGeo_Wild
+http://stariptv.org:8080/nour2020/123456/132016
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Discovery Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",Discovery_Family HD
+http://stariptv.org:8080/nour2020/123456/132017
+#EXTINF:-1 tvg-ID="EN-FOXHD English" tvg-name="beIN FOX MOVIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",FOX_MOVIES_HD
+http://stariptv.org:8080/nour2020/123456/22176
+
+
+
 
 
 
