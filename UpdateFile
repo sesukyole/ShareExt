@@ -108,7 +108,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="|USA| NBA TV HD" tvg-logo="" group-title="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg",NBA TV HD
+#EXTINF:-1 tvg-ID="" tvg-name="|USA| NBA TV HD" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@USA_SPORTS",NBA_TV HD
 http://ultimateiptv.me:8080/Mahdi123/Mahdi1234/5376
 #EXTINF:-1 tvg-ID="" tvg-name="|USA| NFL NETWORK HD" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@USA_SPORTS",NFL NETWORK HD
 http://ultimateiptv.me:8080/Mahdi123/Mahdi1234/5377
