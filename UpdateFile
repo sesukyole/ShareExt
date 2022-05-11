@@ -2447,7 +2447,14 @@ https://lnk.ec/shareext@bola2
 https://lnk.ec/shareext@sport_useespotv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",SPOTV.2
 https://lnk.ec/shareext@sport_useespotv2
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",indosiar_liga1
+https://bagoltvku.my.id/ubaconang/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",CHAMPION-1_bc
+https://bagoltvku.my.id/ubaconang/master-6.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",CHAMPION-2_bc
+https://bagoltvku.my.id/ubaconang/master-7.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",CHAMPION-3_bc
+https://bagoltvku.my.id/ubaconang/master-8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",CHAMPION-1
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwjnfDToGXpfWq34fgyUPtdg/ts
