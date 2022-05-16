@@ -297,6 +297,264 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(01)/index.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-id="ohkHD" tvg-name="OhK!" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",OhK!
+http://axcestv.vip:8080/freeview/axcestv/430
+#EXTINF:-1 tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",BOO
+http://axcestv.vip:8080/freeview/axcestv/462
+#EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="Celestial Movies" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",Celestial_Movies
+http://axcestv.vip:8080/freeview/axcestv/483
+#EXTINF:-1 tvg-id="CCM.MACAN" tvg-name="CCM" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",CCM
+http://axcestv.vip:8080/freeview/axcestv/484
+#EXTINF:-1 tvg-id="SCM.MACAN" tvg-name="Star Chinese Movies" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",StarChinese_Movies
+http://axcestv.vip:8080/freeview/axcestv/485
+#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBO FHD" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",HBO_FHD
+http://axcestv.vip:8080/freeview/axcestv/501
+#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBO (M)" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",HBO(M)
+http://axcestv.vip:8080/freeview/axcestv/502
+#EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",HBO_Hits
+http://axcestv.vip:8080/freeview/axcestv/503
+#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",HBO_Family
+http://axcestv.vip:8080/freeview/axcestv/504
+#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",HBO_Signature
+http://axcestv.vip:8080/freeview/axcestv/505
+#EXTINF:-1 tvg-id="&Flix HD" tvg-name="&Flix HD" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",&Flix HD
+http://axcestv.vip:8080/freeview/axcestv/510
+#EXTINF:-1 tvg-id="And prive HD" tvg-name="&Prive HD" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",&Prive HD
+http://axcestv.vip:8080/freeview/axcestv/511
+#EXTINF:-1 tvg-id="STAR Movies HD" tvg-name="Star Movies" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",Star_Movies
+http://axcestv.vip:8080/freeview/axcestv/512
+#EXTINF:-1 tvg-id="STAR Movies Select HD" tvg-name="Star Movie Select" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",StarMovie_Select
+http://axcestv.vip:8080/freeview/axcestv/513
+#EXTINF:-1 tvg-id="SONY PIX" tvg-name="SONY Pix" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",SONY Pix
+http://axcestv.vip:8080/freeview/axcestv/514
+#EXTINF:-1 tvg-id="" tvg-name="MNX HD" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",MNX HD
+http://axcestv.vip:8080/freeview/axcestv/515
+#EXTINF:-1 tvg-id="ShowCaseMovies" tvg-name="SHOWCASE MOVIES" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",SHOWCASE MOVIES
+http://axcestv.vip:8080/freeview/axcestv/506
+#EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",Cinemax
+http://axcestv.vip:8080/freeview/axcestv/516
+#EXTINF:-1 tvg-id="" tvg-name="MyCinema" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",MyCinema
+http://axcestv.vip:8080/freeview/axcestv/507
+#EXTINF:-1 tvg-id="" tvg-name="MyCinema Asia" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",MyCinema Asia
+http://axcestv.vip:8080/freeview/axcestv/508
+#EXTINF:-1 tvg-id="" tvg-name="MyFamily Cinema" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",MyFamily Cinema
+http://axcestv.vip:8080/freeview/axcestv/509
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",Galaxy
+http://axcestv.vip:8080/freeview/axcestv/517
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",Galaxy_Premium
+http://axcestv.vip:8080/freeview/axcestv/518
+#EXTINF:-1 tvg-id="HITSMovies.MACAN" tvg-name="HITS Movies" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",HITS Movies
+http://axcestv.vip:8080/freeview/axcestv/519
+#EXTINF:-1 tvg-id="" tvg-name="CinemaWorld" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",CinemaWorld
+http://axcestv.vip:8080/freeview/axcestv/520
+#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",Thrill
+http://axcestv.vip:8080/freeview/axcestv/521
+#EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",IMC
+http://axcestv.vip:8080/freeview/axcestv/522
+#EXTINF:-1 tvg-id="" tvg-name="Flik" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",Flik
+http://axcestv.vip:8080/freeview/axcestv/523
+#EXTINF:-1 tvg-id="BioskopIndonesia.MACAN" tvg-name="Bioskop Indonesia" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",Bioskop_Indonesia
+http://axcestv.vip:8080/freeview/axcestv/524
+#EXTINF:-1 tvg-id="KIX.MACAN" tvg-name="KIX" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",KIX
+http://axcestv.vip:8080/freeview/axcestv/525
+#EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="Sony One" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",Sony One
+http://axcestv.vip:8080/freeview/axcestv/576
+#EXTINF:-1 tvg-id="TVN.MACAN" tvg-name="tvN" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",tvN
+http://axcestv.vip:8080/freeview/axcestv/577
+#EXTINF:-1 tvg-id="TVNMovies.MACAN" tvg-name="tvN Movies" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",tvN Movies
+http://axcestv.vip:8080/freeview/axcestv/578
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network (Eng)" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@CARTOON",Cartoon_Network(Eng)
+http://axcestv.vip:8080/freeview/axcestv/566
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network (Ind)" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@CARTOON",Cartoon_Network(Ind)
+http://axcestv.vip:8080/freeview/axcestv/567
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@CARTOON",Dreamworks
+http://axcestv.vip:8080/freeview/axcestv/568
+#EXTINF:-1 tvg-id="Boomerang.MACAN" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@CARTOON",Boomerang
+http://axcestv.vip:8080/freeview/axcestv/569
+#EXTINF:-1 tvg-id="Nickelodeon.MACAN" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@CARTOON",Nickelodeon
+http://axcestv.vip:8080/freeview/axcestv/570
+#EXTINF:-1 tvg-id="NickelodeonJr.MACAN" tvg-name="Nick Jr" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@CARTOON",Nick_Jr
+http://axcestv.vip:8080/freeview/axcestv/571
+#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@CARTOON",Horee
+http://axcestv.vip:8080/freeview/axcestv/572
+#EXTINF:-1 tvg-id="" tvg-name="Zoomoo" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@CARTOON",Zoomoo
+http://axcestv.vip:8080/freeview/axcestv/573
+#EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@CARTOON",My_Kidz
+http://axcestv.vip:8080/freeview/axcestv/574
+#EXTINF:-1 tvg-id="" tvg-name="BabyFirst" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@CARTOON",BabyFirst
+http://axcestv.vip:8080/freeview/axcestv/575
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@CARTOON",Baby_TV
+http://axcestv.vip:8080/freeview/axcestv/625
+#EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@CARTOON",My_Kidz
+http://axcestv.vip:8080/freeview/axcestv/574
+#EXTINF:-1 tvg-id="" tvg-name="BabyFirst" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@CARTOON",BabyFirst
+http://axcestv.vip:8080/freeview/axcestv/575
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-name="AXN" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ENTERTAINMENT",AXN
+http://axcestv.vip:8080/freeview/axcestv/526
+#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ENTERTAINMENT",BBC Lifestyle
+http://axcestv.vip:8080/freeview/axcestv/527
+#EXTINF:-1 tvg-id="HGTV.MACAN" tvg-name="HGTV" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ENTERTAINMENT",HGTV
+http://axcestv.vip:8080/freeview/axcestv/528
+#EXTINF:-1 tvg-id="WarnerTV.MACAN" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ENTERTAINMENT",Warner TV
+http://axcestv.vip:8080/freeview/axcestv/529
+#EXTINF:-1 tvg-id="Lifetime.MACAN" tvg-name="Lifetime" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ENTERTAINMENT",Lifetime
+http://axcestv.vip:8080/freeview/axcestv/530
+#EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount Network" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ENTERTAINMENT",Paramount Network
+http://axcestv.vip:8080/freeview/axcestv/531
+#EXTINF:-1 tvg-id="" tvg-name="Rock Entertainment" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ENTERTAINMENT",Rock Entertainment
+http://axcestv.vip:8080/freeview/axcestv/532
+#EXTINF:-1 tvg-id="" tvg-name="Rock Extreme" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ENTERTAINMENT",Rock Extreme
+http://axcestv.vip:8080/freeview/axcestv/533
+#EXTINF:-1 tvg-id="Hits.MACAN" tvg-name="HITS" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ENTERTAINMENT",HITS
+http://axcestv.vip:8080/freeview/axcestv/534
+#EXTINF:-1 tvg-id="CrimeInvestigation.MACAN" tvg-name="Crime Investigation" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ENTERTAINMENT",Crime Investigation
+http://axcestv.vip:8080/freeview/axcestv/535
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ENTERTAINMENT",Fashion TV
+http://axcestv.vip:8080/freeview/axcestv/536
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@KNOWLEDGE",Love Nature
+http://axcestv.vip:8080/freeview/axcestv/537
+#EXTINF:-1 tvg-id="BBCEarth.MACAN" tvg-name="BBC Earth" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@KNOWLEDGE",BBC Earth
+http://axcestv.vip:8080/freeview/axcestv/538
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@KNOWLEDGE",DMAX
+http://axcestv.vip:8080/freeview/axcestv/539
+#EXTINF:-1 tvg-id="HistoryChannel.id" tvg-name="History" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@KNOWLEDGE",History
+http://axcestv.vip:8080/freeview/axcestv/540
+#EXTINF:-1 tvg-id="NationalGeographicChannel.MACAN" tvg-name="National Geographic" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@KNOWLEDGE",National Geographic
+http://axcestv.vip:8080/freeview/axcestv/541
+#EXTINF:-1 tvg-id="NationalGeographicWild.MACAN" tvg-name="Nat Geo Wild" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@KNOWLEDGE",Nat Geo Wild
+http://axcestv.vip:8080/freeview/axcestv/542
+#EXTINF:-1 tvg-id="AnimalPlanet.MACAN" tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@KNOWLEDGE",Animal Planet
+http://axcestv.vip:8080/freeview/axcestv/543
+#EXTINF:-1 tvg-id="DiscoveryChannel.MACAN" tvg-name="Discovery Channel" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@KNOWLEDGE",Discovery Channel
+http://axcestv.vip:8080/freeview/axcestv/544
+#EXTINF:-1 tvg-id="Discovery Asia" tvg-name="Discovery Asia" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@KNOWLEDGE",Discovery Asia
+http://axcestv.vip:8080/freeview/axcestv/545
+#EXTINF:-1 tvg-id="AsianFoodChannel.MACAN" tvg-name="AFC" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@KNOWLEDGE",AFC
+http://axcestv.vip:8080/freeview/axcestv/546
+#EXTINF:-1 tvg-id="TLC.MACAN" tvg-name="TLC" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@KNOWLEDGE",TLC
+http://axcestv.vip:8080/freeview/axcestv/547
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="BERNAMA" tvg-name="Astro Bernama" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",Bernama
+http://axcestv.vip:8080/freeview/axcestv/447
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",Awani
+http://axcestv.vip:8080/freeview/axcestv/448
+#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",Oasis
+http://axcestv.vip:8080/freeview/axcestv/449
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",Astro_Ceria
+http://axcestv.vip:8080/freeview/axcestv/450
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria [B]" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",Astro_Ceria[B]
+http://axcestv.vip:8080/freeview/axcestv/451
+#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",Astro_Prima
+http://axcestv.vip:8080/freeview/axcestv/452
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",Astro_Ria
+http://axcestv.vip:8080/freeview/axcestv/453
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria [B]" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",Astro_Ria[B]
+http://axcestv.vip:8080/freeview/axcestv/454
+#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna [A]" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",Astro_Warna[A]
+http://axcestv.vip:8080/freeview/axcestv/455
+#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna [B]" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",Astro_Warna[B]
+http://axcestv.vip:8080/freeview/axcestv/456
+#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna [C]" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",Astro_Warna[C]
+http://axcestv.vip:8080/freeview/axcestv/457
+#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra [A]" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",Astro_Citra[A]
+http://axcestv.vip:8080/freeview/axcestv/458
+#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra [B]" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",Astro_Citra[B]
+http://axcestv.vip:8080/freeview/axcestv/459
+#EXTINF:-1 tvg-id="AstroAura.my" tvg-name="Astro Aura" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",Astro_Aura
+http://axcestv.vip:8080/freeview/axcestv/460
+#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Rania" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",Astro_Rania
+http://axcestv.vip:8080/freeview/axcestv/461
+#EXTINF:-1 tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",BOO
+http://axcestv.vip:8080/freeview/axcestv/462
+#EXTINF:-1 tvg-id="AEC" tvg-name="Astro AEC" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",AEC
+http://axcestv.vip:8080/freeview/axcestv/481
+#EXTINF:-1 tvg-id="" tvg-name="TVBJ" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",TVBJ
+http://axcestv.vip:8080/freeview/axcestv/474
+#EXTINF:-1 tvg-id="" tvg-name="TVB Classic" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",TVB_Classic
+http://axcestv.vip:8080/freeview/axcestv/475
+#EXTINF:-1 tvg-id="" tvg-name="Hua Hee Tai" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",HuaHee_Tai
+http://axcestv.vip:8080/freeview/axcestv/476
+#EXTINF:-1 tvg-id="QUANJIA" tvg-name="Quan Jia" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",Quan_Jia
+http://axcestv.vip:8080/freeview/axcestv/477
+#EXTINF:-1 tvg-id="IQIYI" tvg-name="IQiyi" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",IQiyi
+http://axcestv.vip:8080/freeview/axcestv/478
+#EXTINF:-1 tvg-id="" tvg-name="Astro Shuang Xing" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",Shuang_Xing
+http://axcestv.vip:8080/freeview/axcestv/479
+#EXTINF:-1 tvg-id="" tvg-name="Astro Xiao Tai Yang" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",Xiao_Tai_Yang
+http://axcestv.vip:8080/freeview/axcestv/480
+#EXTINF:-1 tvg-id="AOD" tvg-name="Astro AOD 354" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",AOD 354
+http://axcestv.vip:8080/freeview/axcestv/482
+#EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="Celestial Movies" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",Celestial_Movies
+http://axcestv.vip:8080/freeview/axcestv/483
+#EXTINF:-1 tvg-id="CCM.MACAN" tvg-name="CCM" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",CCM
+http://axcestv.vip:8080/freeview/axcestv/484
+#EXTINF:-1 tvg-id="SCM.MACAN" tvg-name="Star Chinese Movies" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",StarChinese_Movies
+http://axcestv.vip:8080/freeview/axcestv/485
+#EXTINF:-1 tvg-id="Animax.MACAN" tvg-name="Animax" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@CARTOON",Animax
+http://axcestv.vip:8080/freeview/axcestv/548
+#EXTINF:-1 tvg-id="Aniplus.id" tvg-name="Aniplus" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@CARTOON",Aniplus
+http://axcestv.vip:8080/freeview/axcestv/549
+#EXTINF:-1 tvg-id="GEMChannel.id" tvg-name="Sony GEM TV" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",Sony GEM TV
+http://axcestv.vip:8080/freeview/axcestv/550
+#EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="Sony One" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",Sony_One
+http://axcestv.vip:8080/freeview/axcestv/576
+#EXTINF:-1 tvg-id="TVN.MACAN" tvg-name="tvN" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",tvN
+http://axcestv.vip:8080/freeview/axcestv/577
+#EXTINF:-1 tvg-id="TVNMovies.MACAN" tvg-name="tvN Movies" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",tvN Movies
+http://axcestv.vip:8080/freeview/axcestv/578
+#EXTINF:-1 tvg-id="Arirang.MACAN" tvg-name="Arirang" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",Arirang
+http://axcestv.vip:8080/freeview/axcestv/579
+#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",KBS World
+http://axcestv.vip:8080/freeview/axcestv/581
+#EXTINF:-1 tvg-id="" tvg-name="K+" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",K+
+http://axcestv.vip:8080/freeview/axcestv/582
+#EXTINF:-1 tvg-id="BollyOne HD" tvg-name="Bollyone HD" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",Bollyone HD
+http://axcestv.vip:8080/freeview/axcestv/584
+#EXTINF:-1 tvg-id="ColorsHindi" tvg-name="Colors HD" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",Colors HD
+http://axcestv.vip:8080/freeview/axcestv/585
+#EXTINF:-1 tvg-id="Thangathirai" tvg-name="BoxOffice Thangathirai" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",BoxOffice_Thangathirai
+http://axcestv.vip:8080/freeview/axcestv/583
+#EXTINF:-1 tvg-id="Astro Vinmeen HD" tvg-name="Astro Vinmeen" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",Vinmeen
+http://axcestv.vip:8080/freeview/axcestv/586
+#EXTINF:-1 tvg-id="Vaanavil" tvg-name="Astro Vaanavil" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",Vaanavil
+http://axcestv.vip:8080/freeview/axcestv/587
+#EXTINF:-1 tvg-id="SUN TV" tvg-name="SUN TV" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",SUN TV
+http://axcestv.vip:8080/freeview/axcestv/588
+#EXTINF:-1 tvg-id="SONY MAX HD" tvg-name="Sony MAX" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",Sony_MAX
+http://axcestv.vip:8080/freeview/axcestv/589
+#EXTINF:-1 tvg-id="Zee.MACAN" tvg-name="ZEE Bioskop" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@ASTRO",ZEE_Bioskop
+http://axcestv.vip:8080/freeview/axcestv/590
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Bali TV(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",Channel 4U(telkom)
