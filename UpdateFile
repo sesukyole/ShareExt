@@ -644,6 +644,8 @@ http://axcestv.vip:8080/freeview/axcestv/620
 http://axcestv.vip:8080/freeview/axcestv/621
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ShareExt@MULTI_Sport",NBA TV
 http://axcestv.vip:8080/freeview/axcestv/622
+#EXTINF:-1 tvg-id="" tvg-name="NBC Golf" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ShareExt@MULTI_Sport",NBC_Golf
+http://axcestv.vip:8080/freeview/axcestv/632
 #EXTINF:-1 tvg-id="" tvg-name="Fight Sport" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ShareExt@MULTI_Sport",Fight Sport
 http://axcestv.vip:8080/freeview/axcestv/623
 #EXTINF:-1 tvg-id="" tvg-name="eGG TV" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ShareExt@MULTI_Sport",eGG TV
