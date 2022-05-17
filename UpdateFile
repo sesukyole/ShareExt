@@ -299,6 +299,120 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(01)/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NET." tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_INDONESIA",NET.
+http://axcestv.vip:8080/freeview/axcestv/463
+#EXTINF:-1 tvg-id="ANTV.MACAN" tvg-name="ANTV" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_INDONESIA",ANTV
+http://axcestv.vip:8080/freeview/axcestv/464
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_INDONESIA",INDOSIAR
+http://axcestv.vip:8080/freeview/axcestv/465
+#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_INDONESIA",TRANS_TV
+http://axcestv.vip:8080/freeview/axcestv/466
+#EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_INDONESIA",TRANS_7
+http://axcestv.vip:8080/freeview/axcestv/467
+#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_INDONESIA",SCTV
+http://axcestv.vip:8080/freeview/axcestv/468
+#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_INDONESIA",MNCTV
+http://axcestv.vip:8080/freeview/axcestv/469
+#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_INDONESIA",RCTI
+http://axcestv.vip:8080/freeview/axcestv/470
+#EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_INDONESIA",GTV
+http://axcestv.vip:8080/freeview/axcestv/471
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_INDONESIA",TVRI
+http://axcestv.vip:8080/freeview/axcestv/472
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_INDONESIA",RTV
+http://axcestv.vip:8080/freeview/axcestv/473
+#EXTINF:-1 tvg-id="" tvg-name="iNews" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_INDONESIA",iNews
+http://axcestv.vip:8080/freeview/axcestv/551
+#EXTINF:-1 tvg-id="" tvg-name="TVOne" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_INDONESIA",TVOne
+http://axcestv.vip:8080/freeview/axcestv/552
+#EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_INDONESIA",KOMPAS_TV
+http://axcestv.vip:8080/freeview/axcestv/553
+#EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_INDONESIA",METRO_TV
+http://axcestv.vip:8080/freeview/axcestv/554
+#EXTINF:-1 tvg-id="" tvg-name="SEA Today" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_INDONESIA",SEA_Today
+http://axcestv.vip:8080/freeview/axcestv/555
+#EXTINF:-1 tvg-id="" tvg-name="BBC World News" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_INDONESIA",BBC_World_News
+http://axcestv.vip:8080/freeview/axcestv/556
+#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_INDONESIA",NHK_World
+http://axcestv.vip:8080/freeview/axcestv/557
+#EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_INDONESIA",CNN_International
+http://axcestv.vip:8080/freeview/axcestv/558
+#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_INDONESIA",CNN_Indonesia
+http://axcestv.vip:8080/freeview/axcestv/559
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_INDONESIA",DW
+http://axcestv.vip:8080/freeview/axcestv/560
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_INDONESIA",Bloomberg
+http://axcestv.vip:8080/freeview/axcestv/561
+#EXTINF:-1 tvg-id="" tvg-name="Channel News Asia" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_INDONESIA",Channel_News_Asia
+http://axcestv.vip:8080/freeview/axcestv/562
+#EXTINF:-1 tvg-id="" tvg-name="Al Quran Al Kareem TV" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_INDONESIA",AlQuran_AlKareem TV
+http://axcestv.vip:8080/freeview/axcestv/563
+#EXTINF:-1 tvg-id="" tvg-name="U Channel" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_INDONESIA",U_Channel
+http://axcestv.vip:8080/freeview/axcestv/564
+#EXTINF:-1 tvg-id="" tvg-name="Tawaf TV" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_INDONESIA",Tawaf TV
+http://axcestv.vip:8080/freeview/axcestv/565
+#EXTINF:-1 tvg-id="" tvg-name="Channel V. Int" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_INDONESIA",Channel_V.Int
+http://axcestv.vip:8080/freeview/axcestv/627
+#EXTINF:-1 tvg-id="" tvg-name="Prambors" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_INDONESIA",Prambors
+http://axcestv.vip:8080/freeview/axcestv/628
+#EXTINF:-1 tvg-id="" tvg-name="i-Konser" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_INDONESIA",i-Konser
+http://axcestv.vip:8080/freeview/axcestv/629
+#EXTINF:-1 tvg-id="" tvg-name="O Channel" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_INDONESIA",O_Channel
+http://axcestv.vip:8080/freeview/axcestv/633
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1 [SD]" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_MALAYSIA LOKAL",TV1[SD]
+http://axcestv.vip:8080/freeview/axcestv/431
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1 [FHD]" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_MALAYSIA LOKAL",TV1[FHD]
+http://axcestv.vip:8080/freeview/axcestv/432
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2 [SD]" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_MALAYSIA LOKAL",TV2[SD]
+http://axcestv.vip:8080/freeview/axcestv/433
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2 [FHD]" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_MALAYSIA LOKAL",TV2[FHD]
+http://axcestv.vip:8080/freeview/axcestv/434
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3 [FHD]" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_MALAYSIA LOKAL",TV3[FHD]
+http://axcestv.vip:8080/freeview/axcestv/435
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3 [HD]" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_MALAYSIA LOKAL",TV3[HD]
+http://axcestv.vip:8080/freeview/axcestv/436
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3 [B]" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_MALAYSIA LOKAL",TV3[B]
+http://axcestv.vip:8080/freeview/axcestv/437
+#EXTINF:-1 tvg-id="" tvg-name="TV6" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_MALAYSIA LOKAL",TV6
+http://axcestv.vip:8080/freeview/axcestv/438
+#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_MALAYSIA LOKAL",NTV7
+http://axcestv.vip:8080/freeview/axcestv/439
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_MALAYSIA LOKAL",8TV
+http://axcestv.vip:8080/freeview/axcestv/440
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_MALAYSIA LOKAL",TV9
+http://axcestv.vip:8080/freeview/axcestv/441
+#EXTINF:-1 tvg-id="TVS" tvg-name="TVS" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_MALAYSIA LOKAL",TVS
+http://axcestv.vip:8080/freeview/axcestv/442
+#EXTINF:-1 tvg-id="TV Okey" tvg-name="Okey" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_MALAYSIA LOKAL",Okey
+http://axcestv.vip:8080/freeview/axcestv/443
+#EXTINF:-1 tvg-id="" tvg-name="Drama Sangat" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_MALAYSIA LOKAL",Drama Sangat
+http://axcestv.vip:8080/freeview/axcestv/444
+#EXTINF:-1 tvg-id="Awesome" tvg-name="Awesome TV" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_MALAYSIA LOKAL",Awesome TV
+http://axcestv.vip:8080/freeview/axcestv/445
+#EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="Alhijrah" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_MALAYSIA LOKAL",Alhijrah
+http://axcestv.vip:8080/freeview/axcestv/446
+#EXTINF:-1 tvg-id="" tvg-name="Channel 5" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_MALAYSIA LOKAL",Channel 5
+http://axcestv.vip:8080/freeview/axcestv/644
+#EXTINF:-1 tvg-id="" tvg-name="Channel 8" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_MALAYSIA LOKAL",Channel 8
+http://axcestv.vip:8080/freeview/axcestv/645
+#EXTINF:-1 tvg-id="" tvg-name="Channel U" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_MALAYSIA LOKAL",Channel U
+http://axcestv.vip:8080/freeview/axcestv/646
+#EXTINF:-1 tvg-id="" tvg-name="Vasantham" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_MALAYSIA LOKAL",Vasantham
+http://axcestv.vip:8080/freeview/axcestv/647
+#EXTINF:-1 tvg-id="" tvg-name="Suria" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@TIPI_MALAYSIA LOKAL",Suria
+http://axcestv.vip:8080/freeview/axcestv/648
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="ohkHD" tvg-name="OhK!" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",OhK!
 http://axcestv.vip:8080/freeview/axcestv/430
 #EXTINF:-1 tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SHAREEXT@MOVIES",BOO
