@@ -4016,6 +4016,53 @@ http://stariptv.org:8080/nour2020/123456/146577
 
 
 
+
+
+#EXTINF:-1 tvg-id="beinmovies1.qa" tvg-name="BeIN Movies 1 HD" tvg-logo="http://vod-logo.net/photos/37546be95cdba347f9dd5109a3d28319.png" group-title="SHAREEXt@beIN Entertainment",BeIN_Movies*1 HD
+http://new-pro.tv:8080/mazen1/123456/2151
+#EXTINF:-1 tvg-id="beinmovies2.qa" tvg-name="BeIN Movies 2 HD" tvg-logo="http://vod-logo.net/photos/4d2552cce9c13ebc5fe1b1ea56b21a89.png" group-title="SHAREEXt@beIN Entertainment",BeIN_Movies*2 HD
+http://new-pro.tv:8080/mazen1/123456/2303
+#EXTINF:-1 tvg-id="beinmovies3.qa" tvg-name="BeIN Movies 3 HD" tvg-logo="http://vod-logo.net/photos/4694d2fd3f944560cbf416450667a99b.png" group-title="SHAREEXt@beIN Entertainment",BeIN_Movies*3 HD
+http://new-pro.tv:8080/mazen1/123456/4068
+#EXTINF:-1 tvg-id="beinmovies4.qa" tvg-name="BeIN Movies 4 HD" tvg-logo="http://vod-logo.net/photos/0ce7f1f84f0ae5587846c71b18bb6b88.png" group-title="SHAREEXt@beIN Entertainment",BeIN_Movies*4 HD
+http://new-pro.tv:8080/mazen1/123456/2712
+#EXTINF:-1 tvg-id="beinseries1.qa" tvg-name="BeIN Series 1 HD" tvg-logo="http://vod-logo.net/photos/6a1e21c06392dea8d7fe9844dfbfe8c3.png" group-title="SHAREEXt@beIN Entertainment",BeIN_Series*1 HD
+http://new-pro.tv:8080/mazen1/123456/6560
+#EXTINF:-1 tvg-id="beinseries2.qa" tvg-name="BeIN Series 2 HD" tvg-logo="http://vod-logo.net/photos/261a246135ba73eb3c4182fefc20734c.png" group-title="SHAREEXt@beIN Entertainment",BeIN_Series*2 HD
+http://new-pro.tv:8080/mazen1/123456/9028
+#EXTINF:-1 tvg-id="beindrama.qa" tvg-name="BeIN Drama 1 HD" tvg-logo="http://vod-logo.net/photos/9b0f5913c92c0d483b3095125ef3a687.png" group-title="SHAREEXt@beIN Entertainment",BeIN_Drama*1 HD
+http://new-pro.tv:8080/mazen1/123456/9031
+#EXTINF:-1 tvg-id="foxmovies.qa" tvg-name="BeIN Fox Movies HD" tvg-logo="http://vod-logo.net/photos/3f57527eed0ef12af2eb44df49551932.png" group-title="SHAREEXt@beIN Entertainment",Fox_Movies*HD
+http://new-pro.tv:8080/mazen1/123456/28015
+#EXTINF:-1 tvg-id="foxmoviesaction.qa" tvg-name="BeIN Fox Action Movies HD" tvg-logo="http://vod-logo.net/photos/7f850de4b9b0989fedec07d413652998.png" group-title="SHAREEXt@beIN Entertainment",Fox_Action_Movies*HD
+http://new-pro.tv:8080/mazen1/123456/28013
+#EXTINF:-1 tvg-id="foxcrime.qa" tvg-name="BeIN Fox Crime HD" tvg-logo="http://vod-logo.net/photos/a686a1424ccd3d1a861da4beb3882ea1.png" group-title="SHAREEXt@beIN Entertainment",Fox_Crime*HD
+http://new-pro.tv:8080/mazen1/123456/45281
+#EXTINF:-1 tvg-id="foxlife.qa" tvg-name="BeIN Fox Life HD" tvg-logo="http://vod-logo.net/photos/ad224f1a0ea9a5c9354cd1f016261264.png" group-title="SHAREEXt@beIN Entertainment",Fox_Life*HD
+http://new-pro.tv:8080/mazen1/123456/45279
+#EXTINF:-1 tvg-id="foxrewayat.qa" tvg-name="BeIN Fox Rewayat HD" tvg-logo="http://vod-logo.net/photos/dbd33d9df603e0bc40c9a6ef8d8949e6.png" group-title="SHAREEXt@beIN Entertainment",Fox_Rewayat*HD
+http://new-pro.tv:8080/mazen1/123456/45280
+#EXTINF:-1 tvg-id="hgtv.qa" tvg-name="BeIN HGTV HD" tvg-logo="http://vod-logo.net/photos/2edbe5df3bbbd503f2c68784e67b5e4b.png" group-title="SHAREEXt@beIN Entertainment",HGTV*HD
+http://new-pro.tv:8080/mazen1/123456/7138
+#EXTINF:-1 tvg-id="" tvg-name="BeIN BBC Earth 4K" tvg-logo="http://vod-logo.net/photos/d1e5a2f0ae6134a27bfd6a1e8ee0f8bb.png" group-title="SHAREEXt@beIN Entertainment",BBC_Earth*4K
+http://new-pro.tv:8080/mazen1/123456/66086
+#EXTINF:-1 tvg-id="fatafeat.qa" tvg-name="BeIN Fatafeat HD" tvg-logo="http://vod-logo.net/photos/1f77aeacd45d3ad504946b32c4860e27.png" group-title="SHAREEXt@beIN Entertainment",BeIN_Fatafeat*HD
+http://new-pro.tv:8080/mazen1/123456/2714
+#EXTINF:-1 tvg-id="baraem.qa" tvg-name="Kids:  BeIN Baraem HD" tvg-logo="http://vod-logo.net/photos/1db1829edbf8b872ea86e23ae48c72df.png" group-title="SHAREEXt@beIN Entertainment",BeIN_Baraem*HD
+http://new-pro.tv:8080/mazen1/123456/2715
+#EXTINF:-1 tvg-id="gourmet.qa" tvg-name="BeIN Gourmet HD" tvg-logo="http://vod-logo.net/photos/e7315a337912666d8aaa07603d6ed5f4.png" group-title="SHAREEXt@beIN Entertainment",BeIN_Gourmet*HD
+http://new-pro.tv:8080/mazen1/123456/7541
+#EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="BeIN Jeem 4K" tvg-logo="http://vod-logo.net/photos/938c77aff20cd628c5b8cbe76615b015.png" group-title="SHAREEXt@beIN Entertainment",Jeem*4K
+http://new-pro.tv:8080/mazen1/123456/66125
+#EXTINF:-1 tvg-id="outdoorchannel.qa" tvg-name="BeIN OutDoor Channel HD" tvg-logo="http://vod-logo.net/photos/c419cf874e42464949d6805506b6edda.png" group-title="SHAREEXt@beIN Entertainment",OutDoor_Channel*HD
+http://new-pro.tv:8080/mazen1/123456/9030
+#EXTINF:-1 tvg-id="bbcearthenglish.qa" tvg-name="BeIN BBC Earth HD" tvg-logo="http://vod-logo.net/photos/d1e5a2f0ae6134a27bfd6a1e8ee0f8bb.png" group-title="SHAREEXt@beIN Entertainment",BBC_Earth*HD
+http://new-pro.tv:8080/mazen1/123456/10723
+
+
+
+
+
 #EXTINF:-1 tvg-ID="" tvg-name="beIN MOVIES FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",beINMOVIES_FAMILY
 http://stariptv.org:8080/nour2020/123456/131987
 #EXTINF:-1 tvg-ID="" tvg-name="beIN MOVIES DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="SHAREEXt@beIN Entertainment",beINMOVIES_DRAMA
