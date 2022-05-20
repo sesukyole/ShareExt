@@ -2384,9 +2384,9 @@ https://akudandia.xyz//locs/akudandia-206.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",(true)BeinSport(rolling)
 http://4digital.ddns.net:11222/ts/0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",ChampionTv1
-https://bagoltvku.my.id/PUNYA-MVTV/master-6.m3u8
+https://bagoltvku.my.id/PUNYA-MVTV/master-6.m3u8|User-Agent=Android Vinebre Software
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",ChampionTv2
-https://bagoltvku.my.id/PUNYA-MVTV/master-7.m3u8
+https://bagoltvku.my.id/PUNYA-MVTV/master-7.m3u8|User-Agent=tv.onlinenasional3/9.8 (Linux;Android 6.0.1) ExoPlayerLib/2.14.0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",ChampionTv3
 https://bagoltvku.my.id/PUNYA-MVTV/master-8.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",Sony.Six_HD 
