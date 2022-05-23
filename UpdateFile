@@ -1763,18 +1763,6 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="Sportv HD BR" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="ShareExt@MULTI_Sport",Sportv HD BR
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/46597
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="Sportv 2 HD BR" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="ShareExt@MULTI_Sport",Sportv 2 HD BR
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/46596
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD BR" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="ShareExt@MULTI_Sport",Premiere Clubes HD BR
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/46579
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD BR" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="ShareExt@MULTI_Sport",Premiere 2 HD BR
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/46573
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD BR" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="ShareExt@MULTI_Sport",Premiere 3 HD BR
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/46574
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",SKYSPORT_PREMIER.LIGA
 http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/282999
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",SkySports_Football
