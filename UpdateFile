@@ -578,7 +578,6 @@ http://live8.cdn.iptv8k.org:80/review_stream/primakbmm23/i.m3u8
 #EXTINF:0 tvg-logo="https://video.toggle.sg/image/11392878/16x9/236/133/136b251885c179748ce154d52f50a25f/zp/cna.png" group-title="ShareExt@Television_MALAYSIAN",Channel NewsAsia
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",MediaCorp
-http://stream.pizztv.com:8000/live/PizzTVaszxtkgtc/omohaktv-apk/243.m3u8|User-Agent=@10086live
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",Astro Awani
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
@@ -1758,9 +1757,9 @@ https://mutixx5hq1liv.akamaized.net/vtv6/index.m3u8
 https://bcovlive-a.akamaihd.net/81662517c7df42848bfa48818a71f1f4/ap-southeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",BWF.02
 https://bcovlive-a.akamaihd.net/8dbe9fecaaf3445da9dc68101293d99c/ap-southeast-1/6271486521001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",BWF.03
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",SPo_tv.2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",BWF.04
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",Spo_tv
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
 
@@ -1985,7 +1984,7 @@ http://203.154.243.89:21203/nakhon
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpGjVM3r/Astro-SHAREEXTgroup.jpg"group-title="SHAREEXT@LIVE|SPORTS",Assp_4
 http://203.154.243.89:21204/nakhon
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",indosiar(liga1/2)
-https://bagoltvku.my.id/PUNYA-MVTV/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Redmi 4 MIUI/V8.0.5.0.0.MBECNDG)
+https://bagoltvku.my.id/PUNYA-MVTV/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",indosiar
 https://akudandia.xyz//locs/akudandia-205.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",O_channel_
