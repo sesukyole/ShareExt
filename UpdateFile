@@ -2413,6 +2413,14 @@ http://39.135.34.132:8080/000000001000/1000000001000004794/1.m3u8?channel-id=yst
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",CCTV5+
 http://39.135.34.132:8080/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",USEE_SPORT_1
+https://www.seulangatv-online.ml/USEE/mpd/get.m3u8?id=useesport
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",USEE_SPORT_2
+https://www.seulangatv-online.ml/USEE/mpd/get.m3u8?id=useesports2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",SPO_TV
+https://www.seulangatv-online.ml/USEE/mpd/get.m3u8?id=spotv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",SPO_TV_2
+https://www.seulangatv-online.ml/USEE/mpd/get.m3u8?id=spotv2
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",AstroSports_3
 http://185.145.43.244:8000/play/a004/index.m3u8
@@ -2486,8 +2494,12 @@ http://mfe.cliptv.az/dash/EuroSport1_SD.ism/playlist.mpd?shareext.ts
 http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd?shareext.ts
 #EXTINF:0 tvg-country="AZ" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Матч!_Боец
 http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd?shareext.ts
-
-
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Match!
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Match!!?
+https://live-2-333.zxz.su/LIVE/LIVE:407384/HLS/1653407947/y7_QCOv_uH0DyESUTqRMyQ/live/407384_7/chunklist.m3u8
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",Match.footbal
+https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
 
 #EXTINF:-1 tvg-id="007.my" tvg-name="SPOTV" tvg-logo="http://tvmalaysia.cc:80/images/021967e724a9e62fa93ac15fdf1413bf.png" group-title="SHAREEXT@LIVE | SPORTS",SPOTV
 http://shareext@urtv.cc:80/live/104595/104595/9033.ts?shareext.ts
