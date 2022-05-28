@@ -2829,8 +2829,6 @@ http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/96465
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",NOW_SPORTS_PRIME
 http://livetv.dnsfor.me/channel.12.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",VTV6
-https://mutixx5hq1liv.akamaized.net/vtv6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",BWF.01
 https://bcovlive-a.akamaihd.net/81662517c7df42848bfa48818a71f1f4/ap-southeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",BWF.02
@@ -3337,101 +3335,101 @@ https://live-2-333.zxz.su/LIVE/LIVE:407384/HLS/1653407947/y7_QCOv_uH0DyESUTqRMyQ
 https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
 
 #EXTINF:-1 tvg-id="007.my" tvg-name="SPOTV" tvg-logo="http://tvmalaysia.cc:80/images/021967e724a9e62fa93ac15fdf1413bf.png" group-title="SHAREEXT@LIVE | SPORTS",SPOTV
-http://iptv.tvmalaysia.cc:80/live/104595/104595/9033.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/9033
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV2" tvg-logo="http://tvmalaysia.cc:80/images/021967e724a9e62fa93ac15fdf1413bf.png" group-title="SHAREEXT@LIVE | SPORTS",SPOTV2
-http://iptv.tvmalaysia.cc:80/live/104595/104595/9034.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/9034
 #EXTINF:-1 tvg-id="astroarena.my" tvg-name="ASTRO Arena HD" tvg-logo="http://tvmalaysia.cc:80/images/9bfeb1c6e3d87c0d27a5d12326aa7a5a.png" group-title="SHAREEXT@LIVE | SPORTS",ASTRO_Arena HD
-http://iptv.tvmalaysia.cc:80/live/104595/104595/6707.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/6707
 #EXTINF:-1 tvg-id="astroarena2.my" tvg-name="Arena 2" tvg-logo="http://tvmalaysia.cc:80/images/4eff0335928a2d0e92f38ea9bb56d72b.png" group-title="SHAREEXT@LIVE | SPORTS",Arena_2
-http://iptv.tvmalaysia.cc:80/live/104595/104595/9028.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/9028
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="http://tvmalaysia.cc:80/images/95994491156dc80e743b181972c4e6d0.png" group-title="SHAREEXT@LIVE | SPORTS",ASTRO_SUPERSPORT HD
-http://iptv.tvmalaysia.cc:80/live/104595/104595/6708.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/6708
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASSP 1" tvg-logo="http://tvmalaysia.cc:80/images/fe80f1bf485eb106f9e91e1c16886b4c.png" group-title="SHAREEXT@LIVE | SPORTS",ASSP_1
-http://iptv.tvmalaysia.cc:80/live/104595/104595/9024.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/9024
 #EXTINF:-1 tvg-id="astrosupersport2.my" tvg-name="ASTRO SUPERSPORT 2 HD" tvg-logo="http://tvmalaysia.cc:80/images/628518d8dfdaa6cc296123a5bdb13c28.png" group-title="SHAREEXT@LIVE | SPORTS",ASTRO_SUPERSPORT_2 HD
-http://iptv.tvmalaysia.cc:80/live/104595/104595/6710.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/6710
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="http://tvmalaysia.cc:80/images/4946045f4dd1aca3a124f25655097c56.png" group-title="SHAREEXT@LIVE | SPORTS",ASSP_2
-http://iptv.tvmalaysia.cc:80/live/104595/104595/9025.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/9025
 #EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="ASTRO SUPERSPORT 3 HD" tvg-logo="http://tvmalaysia.cc:80/images/25afd4f665faabffdd3041b89d69e856.png" group-title="SHAREEXT@LIVE | SPORTS",ASTRO_SUPERSPORT_3 HD
-http://iptv.tvmalaysia.cc:80/live/104595/104595/6711.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/6711
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 3 (LIVE EPL ONLY)" tvg-logo="http://tvmalaysia.cc:80/images/d3ffad6f5889e2a0c59dfaabedcbbc90.png" group-title="SHAREEXT@LIVE | SPORTS",ASSP_3 
-http://iptv.tvmalaysia.cc:80/live/104595/104595/9020.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/9020
 #EXTINF:-1 tvg-id="astrosupersport4.my" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="http://tvmalaysia.cc:80/images/9fa5701dc090214abf85095e751a161d.png" group-title="SHAREEXT@LIVE | SPORTS",ASTRO_SUPERSPORT_4 HD
-http://iptv.tvmalaysia.cc:80/live/104595/104595/6712.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/6712
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="http://tvmalaysia.cc:80/images/20e977b56987835f2dfa4c6b133b9561.png" group-title="SHAREEXT@LIVE | SPORTS",ASSP_4
-http://iptv.tvmalaysia.cc:80/live/104595/104595/9026.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/9026
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="" group-title="SHAREEXT@LIVE | SPORTS",Astro_Supersport_5
-http://iptv.tvmalaysia.cc:80/live/104595/104595/9029.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/9029
 #EXTINF:-1 tvg-id="foxsports1.my" tvg-name="FOX Sports HD" tvg-logo="http://tvmalaysia.cc:80/images/7b12069fe4f3b017933882e7fd2bdf91.png" group-title="SHAREEXT@LIVE | SPORTS",FOX_Sports HD
-http://iptv.tvmalaysia.cc:80/live/104595/104595/6793.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/6793
 #EXTINF:-1 tvg-id="astrocricket.my" tvg-name="ASTRO Cricket" tvg-logo="http://tvmalaysia.cc:80/images/d026d4b7a8a45bbb05249ba5698dc37b.png" group-title="SHAREEXT@LIVE | SPORTS",ASTRO_Cricket
-http://iptv.tvmalaysia.cc:80/live/104595/104595/6717.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/6717
 #EXTINF:-1 tvg-id="beinsportsmax.my" tvg-name="beIN MAX" tvg-logo="http://tvmalaysia.cc:80/images/d339916b681e912fa219a6eae2127dbc.png" group-title="SHAREEXT@LIVE | SPORTS",beIN_MAX
-http://iptv.tvmalaysia.cc:80/live/104595/104595/6748.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/6748
 #EXTINF:-1 tvg-id="" tvg-name="beIN MAX 2" tvg-logo="http://tvmalaysia.cc:80/images/25c358ffb322d20078dcd7507903bfe0.png" group-title="SHAREEXT@LIVE | SPORTS",beIN_MAX 2
-http://iptv.tvmalaysia.cc:80/live/104595/104595/7195.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/7195
 #EXTINF:-1 tvg-id="MY: WWE NETWORK HD" tvg-name="WWE Network" tvg-logo="http://tvmalaysia.cc:80/images/297022c4d9d50d89105c1d86a7c2b2c4.png" group-title="SHAREEXT@LIVE | SPORTS",WWE_Network
-http://iptv.tvmalaysia.cc:80/live/104595/104595/6849.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/6849
 #EXTINF:-1 tvg-id="MY: RUGBYPASS TV HD" tvg-name="Rugby Pass TV" tvg-logo="http://tvmalaysia.cc:80/images/98991a2582751895902809093633b033.png" group-title="SHAREEXT@LIVE | SPORTS",Rugby_Pass TV
-http://iptv.tvmalaysia.cc:80/live/104595/104595/6821.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/6821
 #EXTINF:-1 tvg-id="MY: GOLF CHANNEL HD" tvg-name="Golf Channel HD" tvg-logo="http://tvmalaysia.cc:80/images/1eb1cee8b5e1c96e92721e3ca5ab59d5.jpg" group-title="SHAREEXT@LIVE | SPORTS",Golf_Channel HD
-http://iptv.tvmalaysia.cc:80/live/104595/104595/6796.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/6796
 #EXTINF:-1 tvg-id="" tvg-name="TSN 1" tvg-logo="http://tvmalaysia.cc:80/images/bffcd12bcf6dbb007857e38fc84f6954.png" group-title="SHAREEXT@LIVE | SPORTS",TSN 1
-http://iptv.tvmalaysia.cc:80/live/104595/104595/8923.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/8923
 #EXTINF:-1 tvg-id="" tvg-name="TSN 2" tvg-logo="http://tvmalaysia.cc:80/images/bffcd12bcf6dbb007857e38fc84f6954.png" group-title="SHAREEXT@LIVE | SPORTS",TSN 2
-http://iptv.tvmalaysia.cc:80/live/104595/104595/8924.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/8924
 #EXTINF:-1 tvg-id="" tvg-name="TSN 4" tvg-logo="http://tvmalaysia.cc:80/images/bffcd12bcf6dbb007857e38fc84f6954.png" group-title="SHAREEXT@LIVE | SPORTS",TSN 4
-http://iptv.tvmalaysia.cc:80/live/104595/104595/8926.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/8926
 #EXTINF:-1 tvg-id="" tvg-name="TSN 3" tvg-logo="http://tvmalaysia.cc:80/images/ce83c9dafcbc830749282d5524acfff0.png" group-title="SHAREEXT@LIVE | SPORTS",TSN 3
-http://iptv.tvmalaysia.cc:80/live/104595/104595/8925.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/8925
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Grandstand" tvg-logo="http://tvmalaysia.cc:80/images/00a1963343aee029f0681c170638ecef.png" group-title="SHAREEXT@LIVE | SPORTS",SuperSport_Grandstand
-http://iptv.tvmalaysia.cc:80/live/104595/104595/6572.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/6572
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport PSL" tvg-logo="http://tvmalaysia.cc:80/images/eba84552ef0a472f1627f2e1dbf6c9cd.png" group-title="SHAREEXT@LIVE | SPORTS",SuperSport_PSL
-http://iptv.tvmalaysia.cc:80/live/104595/104595/6573.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/6573
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Premier League" tvg-logo="http://tvmalaysia.cc:80/images/ebf60d1fcc0262145640d812f1bed395.png" group-title="SHAREEXT@LIVE | SPORTS",SuperSport_Premier League
-http://iptv.tvmalaysia.cc:80/live/104595/104595/6574.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/6574
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Football" tvg-logo="http://tvmalaysia.cc:80/images/da567c37e0fb29691cca22df173b38a1.png" group-title="SHAREEXT@LIVE | SPORTS",SuperSport_Football
-http://iptv.tvmalaysia.cc:80/live/104595/104595/6576.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/6576
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Variety 1" tvg-logo="http://tvmalaysia.cc:80/images/da567c37e0fb29691cca22df173b38a1.png" group-title="SHAREEXT@LIVE | SPORTS",SuperSport_Variety 1
-http://iptv.tvmalaysia.cc:80/live/104595/104595/6577.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/6577
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Variety 4" tvg-logo="http://tvmalaysia.cc:80/images/46444ad845a9c8218b1b89bdacb94db5.png" group-title="SHAREEXT@LIVE | SPORTS",SuperSport_Variety 4
-http://iptv.tvmalaysia.cc:80/live/104595/104595/6580.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/6580
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: Supersport Blitz" tvg-logo="http://tvmalaysia.cc:80/images/8f71d3b3bffb6d36ceb62f00466400fe.png" group-title="SHAREEXT@LIVE | SPORTS",Supersport_Blitz
-http://iptv.tvmalaysia.cc:80/live/104595/104595/6584.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/6584
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport MáXimo" tvg-logo="http://tvmalaysia.cc:80/images/019630abd24d8e8864be46b4b6958469.png" group-title="SHAREEXT@LIVE | SPORTS",SuperSport_MáXimo
-http://iptv.tvmalaysia.cc:80/live/104595/104595/6585.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/6585
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Rugby" tvg-logo="http://tvmalaysia.cc:80/images/db23cec4763902ab6e0a85f67a85ec85.png" group-title="SHAREEXT@LIVE | SPORTS",SuperSport_Rugby
-http://iptv.tvmalaysia.cc:80/live/104595/104595/6582.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/6582
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Action" tvg-logo="http://tvmalaysia.cc:80/images/d00cd45de85ca6b516ec4eabc6dee644.png" group-title="SHAREEXT@LIVE | SPORTS",SuperSport_Action
-http://iptv.tvmalaysia.cc:80/live/104595/104595/6581.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/6581
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Motorsport" tvg-logo="http://tvmalaysia.cc:80/images/37f395b028a84d01a369dcf992acf533.png" group-title="SHAREEXT@LIVE | SPORTS",SuperSport_Motorsport
-http://iptv.tvmalaysia.cc:80/live/104595/104595/7142.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/7142
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Golf" tvg-logo="http://tvmalaysia.cc:80/images/e28814adfb6334b34050a52e869942f4.png" group-title="SHAREEXT@LIVE | SPORTS",SuperSport_Golf
-http://iptv.tvmalaysia.cc:80/live/104595/104595/7145.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/7145
 #EXTINF:-1 tvg-id="SA: BEIN SPORTS HD1 ARABIC" tvg-name="BeIN Sport 1" tvg-logo="http://tvmalaysia.cc:80/images/06d5976044ac1e15c86715663c3757f0.png" group-title="SHAREEXT@LIVE | SPORTS",BeINSport_1
-http://iptv.tvmalaysia.cc:80/live/104595/104595/6597.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/6597
 #EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1" tvg-logo="http://tvmalaysia.cc:80/images/7379a7cb006d37f758205bf8dc829abd.jpg" group-title="SHAREEXT@LIVE | SPORTS",BT_Sport_1
-http://iptv.tvmalaysia.cc:80/live/104595/104595/6610.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/6610
 #EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sport 2" tvg-logo="http://tvmalaysia.cc:80/images/dad4a4674cfe73b1c89fc4b407b42a39.jpg" group-title="SHAREEXT@LIVE | SPORTS",BT_Sport_2
-http://iptv.tvmalaysia.cc:80/live/104595/104595/6611.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/6611
 #EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT Sport 3" tvg-logo="http://tvmalaysia.cc:80/images/68bf1684f7f44c02fc3d3a3be13b510f.jpg" group-title="SHAREEXT@LIVE | SPORTS",BT_Sport_3
-http://iptv.tvmalaysia.cc:80/live/104595/104595/6612.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/6612
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News" tvg-logo="http://tvmalaysia.cc:80/images/5e99aed2ec2d9b812674d012bb467ad8.jpg" group-title="SHAREEXT@LIVE | SPORTS",SkySports_News
-http://iptv.tvmalaysia.cc:80/live/104595/104595/6614.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/6614
 #EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1" tvg-logo="http://tvmalaysia.cc:80/images/2f4e8a56c74335dad8c11c742243ea8e.jpg" group-title="SHAREEXT@LIVE | SPORTS",SkySports_F1
-http://iptv.tvmalaysia.cc:80/live/104595/104595/6617.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/6617
 #EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: Sky Sports Golf" tvg-logo="http://tvmalaysia.cc:80/images/48edb52948eec885dc7fcb3aa0115781.png" group-title="SHAREEXT@LIVE | SPORTS",SkySports_Golf
-http://iptv.tvmalaysia.cc:80/live/104595/104595/6618.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/6618
 #EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sports Football" tvg-logo="http://tvmalaysia.cc:80/images/5018ec7514f120bfba08d989ccbc9b65.jpg" group-title="SHAREEXT@LIVE | SPORTS",SkySports_Football
-http://iptv.tvmalaysia.cc:80/live/104595/104595/6620.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/6620
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket" tvg-logo="http://tvmalaysia.cc:80/images/c80ade5bf94d0648997febfd77daad04.png" group-title="SHAREEXT@LIVE | SPORTS",SkySports_Cricket
-http://iptv.tvmalaysia.cc:80/live/104595/104595/6619.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/6619
 #EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="http://tvmalaysia.cc:80/images/00df33989b0bbd6c33616c9c6e22d63b.png" group-title="SHAREEXT@LIVE | SPORTS",MUTV
-http://iptv.tvmalaysia.cc:80/live/104595/104595/7236.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/7236
 #EXTINF:-1 tvg-id="" tvg-name="LFC TV" tvg-logo="http://tvmalaysia.cc:80/images/12d36e8d63d3c1800885615edc4b961b.png" group-title="SHAREEXT@LIVE | SPORTS",LFC TV
-http://iptv.tvmalaysia.cc:80/live/104595/104595/7237.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/7237
 #EXTINF:-1 tvg-id="" tvg-name="FS 1" tvg-logo="http://tvmalaysia.cc:80/images/b4b42aee84ec26d35dc2b750d2b29b86.png" group-title="SHAREEXT@LIVE | SPORTS",FS 1
-http://iptv.tvmalaysia.cc:80/live/104595/104595/9003.ts?shareext.ts
+http://iptv.tvmalaysia.cc:80/104595/104595/9003
 
 
 
