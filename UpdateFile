@@ -11,6 +11,8 @@ https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 https://z0gdu9jmgu.rtmp-now.com/hls/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar_liga1_2
 https://bagoltvku.my.id/PUNYA-MVTV/master.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(kVision)
+http://203.77.246.50:5000/udp/239.1.1.110:5000
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",0_chanel_liga_volley
 https://bagoltvku.my.id/PUNYA-MVTV/master-18.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RCTI+(1080)
@@ -3052,20 +3054,6 @@ http://39.135.34.132:8080/000000001000/1000000001000004794/1.m3u8?channel-id=yst
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",CCTV5+
 http://39.135.34.132:8080/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",USEE_SPORT_1
-https://www.seulangatv-online.ml/USEE/mpd/get.m3u8?id=useesport
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",USEE_SPORT_2
-https://www.seulangatv-online.ml/USEE/mpd/get.m3u8?id=useesports2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",SPO_TV
-https://www.seulangatv-online.ml/USEE/mpd/get.m3u8?id=spotv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",SPO_TV_2
-https://www.seulangatv-online.ml/USEE/mpd/get.m3u8?id=spotv2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE | SPORTS",CHAMPION.1(PDI)
-https://www.seulangatv.xyz/ns/vidio/champ1.m3u8|User-Agent=SeulangaTV
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE | SPORTS",CHAMPION.2(PDI)
-https://www.seulangatv.xyz/ns/vidio/champ2.m3u8|User-Agent=SeulangaTV
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE | SPORTS",CHAMPION.3(PDI)
-https://www.seulangatv.xyz/ns/vidio/champ3.m3u8|User-Agent=SeulangaTV
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE | SPORTS",AstroSports_3
 http://185.145.43.244:8000/play/a004/index.m3u8
