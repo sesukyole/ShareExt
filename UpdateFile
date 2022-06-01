@@ -1043,11 +1043,11 @@ https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8|User-Agent=android-R+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",INEWS_PLUS
 https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8|User-Agent=android-R+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",RCTI.
-http://202.150.161.116:80/RCTI/tracks-v1a1/mono.m3u8?shareext.m3u8
+http://202.150.161.116:80/RCTI/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",MNCTV.
-http://202.150.161.116:80/MNCTV/tracks-v1a1/mono.m3u8?shareext.m3u8
+http://202.150.161.116:80/MNCTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",SCTV.
-http://202.150.161.116:80/SCTV/tracks-v1a1/mono.m3u8?shareext.m3u8
+http://202.150.161.116:80/SCTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",TVRI SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 http://eroz84.wap.sh/local/tvri_sport.m3u8
