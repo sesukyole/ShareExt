@@ -2149,9 +2149,9 @@ http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/96465
 https://lnk.ec/shareext@arena1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",ASTRO.ARENA_2
 https://lnk.ec/shareext@arena2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",U-SPORT$.1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",SPOTV.1
 https://lnk.ec/shareext@sport_useespotv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",U-SPORT$.2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",SPOTV.2
 https://lnk.ec/shareext@sport_useespotv2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",ASTRO.SPORTS.1
 https://lnk.ec/shareext@ASSP_1
@@ -2163,10 +2163,6 @@ https://lnk.ec/shareext@ASSP_3
 https://lnk.ec/shareext@ASSP_4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",ASTRO.SPORTS.5
 https://lnk.ec/shareext@ASSP_5
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",SPOTV.1
-https://lnk.ec/shareext@sport_useespotv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",SPOTV.2
-https://lnk.ec/shareext@sport_useespotv2
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",TVRI_SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
