@@ -32,6 +32,21 @@ https://d2oaub8o4ti3xm.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RCTI+_sd
 https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
 
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Astro.Supersport1_seulangatv
+https://seulangatv.com/sc/sports/get.m3u8?id=assp1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Astro.Supersport2_seulangatv
+https://seulangatv.com/sc/sports/get.m3u8?id=assp2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Astro.Supersport3_seulangatv
+https://seulangatv.com/sc/sports/get.m3u8?id=assp3
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Astro.Supersport4_seulangatv
+https://seulangatv.com/sc/sports/get.m3u8?id=assp4
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Astro.Supersport5_seulangatv
+https://seulangatv.com/sc/sports/get.m3u8?id=assp5
+
+
+
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Lotus_Macau(dec=auto)
 http://nettvpro.live/hls/lotustv.php
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",CCTV_6.MOVIE
