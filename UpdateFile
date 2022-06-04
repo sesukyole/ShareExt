@@ -57,6 +57,38 @@ https://seulangatv.xyz/vd/get.m3u8?id=6686
 https://seulangatv.xyz/vd/get.m3u8?id=6786
 
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",A.SPORTS
+http://221.120.204.4:8080/LOCKLE-A-SPORTS/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Qaz_SPORTS
+http://92.46.127.146:8080/qazsport/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",StarSports.1.hd
+http://208.86.19.13:81/710.stream/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",StarSports.2.hd
+http://208.86.19.13:81/715.stream/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Ten.Sports
+http://208.86.19.13:81/711.stream/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TEN.2
+http://208.86.19.13:81/712.stream/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TEN.3
+http://208.86.19.13:81/713.stream/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TEN.1
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SSC.1
+http://217.74.16.155:8082/local/ar-s/SSC1/tracks-v1a1/mono.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SSC.2
+http://217.74.16.155:8082/local/ar-s/SSC2/tracks-v1a1/mono.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SSC.3
+http://217.74.16.155:8082/local/ar-s/SSC3/tracks-v1a1/mono.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SSC.4
+http://217.74.16.155:8082/local/ar-s/SSC4/tracks-v1a1/mono.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SSC.5
+http://217.74.16.155:8082/local/ar-s/SSC5/tracks-v1a1/mono.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SSC.6
+http://217.74.16.155:8082/local/ar-s/SSC6/tracks-v1a1/mono.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SSC.7
+http://217.74.16.155:8082/local/ar-s/SSC4/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Lotus_Macau(dec=auto)
 http://nettvpro.live/hls/lotustv.php
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",CCTV_6.MOVIE
