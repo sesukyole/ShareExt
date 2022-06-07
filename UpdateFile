@@ -322,7 +322,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 
 
 
-[7/6 13.02] NathanOzzie@KenzoMallory: #EXTINF:-1 tvg-id="net.id" tvg-name="[ID] Net. TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-id.png" group-title=" [VIP] Indonesia",[ID] Net. TV
+#EXTINF:-1 tvg-id="net.id" tvg-name="[ID] Net. TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-id.png" group-title=" [VIP] Indonesia",[ID] Net. TV
 https://ktiptv.cf:443/48268/48268/73605
 #EXTINF:-1 tvg-id="rcti.id" tvg-name="[ID] RCTI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title=" [VIP] Indonesia",[ID] RCTI
 https://ktiptv.cf:443/48268/48268/73606
@@ -376,7 +376,11 @@ https://ktiptv.cf:443/48268/48268/73637
 https://ktiptv.cf:443/48268/48268/73640
 #EXTINF:-1 tvg-id="mnc.shop.smart.id" tvg-name="[ID] MNC Shop Smart" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc-shop-id.png" group-title=" [VIP] Indonesia",[ID] MNC Shop Smart
 https://ktiptv.cf:443/48268/48268/73641
-[7/6 13.09] NathanOzzie@KenzoMallory: #EXTINF:-1 tvg-id="101" tvg-name=" [MY] TV1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm_my_tv1.png" group-title="[VIP] MALAYSIA", [MY] TV1
+
+
+
+
+#EXTINF:-1 tvg-id="101" tvg-name=" [MY] TV1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm_my_tv1.png" group-title="[VIP] MALAYSIA", [MY] TV1
 https://ktiptv.cf:443/48268/48268/25808
 #EXTINF:-1 tvg-id="102" tvg-name="[MY] TV2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm_my_tv2.png" group-title="[VIP] MALAYSIA",[MY] TV2
 https://ktiptv.cf:443/48268/48268/25809
@@ -654,7 +658,11 @@ https://ktiptv.cf:443/48268/48268/719768
 https://ktiptv.cf:443/48268/48268/656682
 #EXTINF:-1 tvg-id="RTMK04" tvg-name="[MY] Berita RTM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/berita-rtm-my.png" group-title="[VIP] MALAYSIA",[MY] Berita RTM
 https://ktiptv.cf:443/48268/48268/793982
-[7/6 13.39] NathanOzzie@KenzoMallory: #EXTINF:-1 tvg-id="celestial.movies.id" tvg-name="[ID] Celestial Movies" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/celestial-movies-hk.png" group-title="[VIP] Movie影视",[ID] Celestial Movies
+
+
+
+
+#EXTINF:-1 tvg-id="celestial.movies.id" tvg-name="[ID] Celestial Movies" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/celestial-movies-hk.png" group-title="[VIP] Movie影视",[ID] Celestial Movies
 https://ktiptv.cf:443/48268/48268/73655
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="[ID] Celestial Classic Movie" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title="[VIP] Movie影视",[ID] Celestial Classic Movie
 https://ktiptv.cf:443/48268/48268/73656
@@ -718,7 +726,11 @@ https://ktiptv.cf:443/48268/48268/73880
 https://ktiptv.cf:443/48268/48268/73881
 #EXTINF:-1 tvg-id="anhui.cn" tvg-name="[ID] Anhui TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/anhui-satellite-tv-cn.png" group-title=" [VIP] Indonesia",[ID] Anhui TV
 https://ktiptv.cf:443/48268/48268/73882
-[7/6 13.49] NathanOzzie@KenzoMallory: #EXTINF:-1 tvg-id="801" tvg-name="[MY] ASTRO ARENA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_arena_my.png" group-title="[VIP]  Sport体育",[MY] ASTRO ARENA HD
+
+
+
+
+#EXTINF:-1 tvg-id="801" tvg-name="[MY] ASTRO ARENA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_arena_my.png" group-title="[VIP]  Sport体育",[MY] ASTRO ARENA HD
 https://ktiptv.cf:443/48268/48268/26308
 #EXTINF:-1 tvg-id="802" tvg-name="[MY] Astro Arena 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/324_144.png" group-title="[VIP]  Sport体育",[MY] Astro Arena 2
 https://ktiptv.cf:443/48268/48268/26306
