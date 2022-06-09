@@ -29,8 +29,8 @@ https://seulangatv.xyz/vd/get.m3u8?id=6685
 https://seulangatv.xyz/vd/get.m3u8?id=6686
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",JUARA_TV.3_seulangatv
 https://seulangatv.xyz/vd/get.m3u8?id=6786
-
-
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",USP_1
+https://lnk.ec/shareext@USP1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",A.SPORTS
 http://221.120.204.4:8080/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Qaz_SPORTS
