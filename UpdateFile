@@ -15,7 +15,8 @@ https://bagoltvku.my.id/PUNYA-MVTV/master.m3u8
 http://203.77.246.50:5000/udp/239.1.1.110:5000
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",0_chanel_liga_volley
 https://bagoltvku.my.id/PUNYA-MVTV/master-18.m3u8
-
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",0_chanel
+https://seulangatv.xyz/vd/get.m3u8?id=206
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BWF.1_live
 https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Bantuntun.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BWF.2_live
@@ -3070,22 +3071,6 @@ http://livetv.dnsfor.me/channel.12.m3u8
 https://bcovlive-a.akamaihd.net/81662517c7df42848bfa48818a71f1f4/ap-southeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",BWF.02
 https://bcovlive-a.akamaihd.net/8dbe9fecaaf3445da9dc68101293d99c/ap-southeast-1/6271486521001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",BWF.o1
-https://lnk.ec/shareext@wbf01
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",BWF.01
-https://lnk.ec/shareext@bwf.o1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",BWF.o2
-https://lnk.ec/shareext@bwf02
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",BWF.02
-https://lnk.ec/shareext@bwf.o2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",BWF.o3
-https://lnk.ec/shareext@bwf03
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",BWF.03
-https://lnk.ec/shareext@bwf.o3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",Us_sports.1
-https://etus.link/shareext-useesport
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",Us_sports.2
-https://etus.link/shareext-useesport2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",SPo_tv.2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",Spo_tv
