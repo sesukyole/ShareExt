@@ -16,6 +16,13 @@ http://203.77.246.50:5000/udp/239.1.1.110:5000
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",0_chanel_liga_volley
 https://bagoltvku.my.id/PUNYA-MVTV/master-18.m3u8
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BWF.1_live
+https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Bantuntun.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BWF.2_live
+https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Bantuntun2.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BWF.3_live
+https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Bdanton3.m3u8
+
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SCTV_seulangatv
 https://seulangatv.xyz/vd/get.m3u8?id=204
