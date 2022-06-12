@@ -10,11 +10,11 @@ https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Fight_KUKURUYU
 https://z0gdu9jmgu.rtmp-now.com/hls/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar_liga1_2
-
+http://tvnid.wapgem.com/vidio/indosiar.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(kVision)
 http://203.77.246.50:5000/udp/239.1.1.110:5000
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",0_chanel_liga_volley
-
+http://tvnid.wapgem.com/vidio/Ochannel.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BWF.1_live
 https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Bantuntun.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BWF.2_live
@@ -3708,6 +3708,9 @@ http://203.154.243.89:21203/nakhon
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpGjVM3r/Astro-SHAREEXTgroup.jpg"group-title="SHAREEXT@LIVE|SPORTS",Assp_4
 http://203.154.243.89:21204/nakhon
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",indosiar(liga1/2)
+http://tvnid.wapgem.com/vidio/indosiar.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",Ochannel_liga.volley
+http://tvnid.wapgem.com/vidio/Ochannel.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",(true)BeinSport(rolling)
 http://4digital.ddns.net:11222/ts/0
