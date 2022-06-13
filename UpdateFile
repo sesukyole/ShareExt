@@ -434,6 +434,104 @@ http://51.79.251.57:2082/Rudy/Rudy/3432
 
 
 
+#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBO " tvg-logo="https://i.imgur.com/6yZ4HtM.png" group-title="SHAREEXT@MOVIES",HBO 
+http://51.79.251.57:2082/Rudy/Rudy/136
+#EXTINF:-1 tvg-id="AjwaTV.id" tvg-name="HBO Hits" tvg-logo="https://i.imgur.com/FJ206VX.png" group-title="SHAREEXT@MOVIES",HBO Hits
+http://51.79.251.57:2082/Rudy/Rudy/137
+#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-name="HBO Family" tvg-logo="https://i.imgur.com/3Rw5EXU.png" group-title="SHAREEXT@MOVIES",HBO Family
+http://51.79.251.57:2082/Rudy/Rudy/139
+#EXTINF:-1 tvg-id="706" tvg-name="HITS" tvg-logo="https://i.imgur.com/HnbvTVC.png" group-title="SHAREEXT@MOVIES",HITS
+http://51.79.251.57:2082/Rudy/Rudy/141
+#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-name="HBO Signature" tvg-logo="https://i.imgur.com/woHZmhr.png" group-title="SHAREEXT@MOVIES",HBO Signature
+http://51.79.251.57:2082/Rudy/Rudy/142
+#EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/1zuSEVe.png" group-title="SHAREEXT@MOVIES",CINEMAX
+http://51.79.251.57:2082/Rudy/Rudy/145
+#EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="Celestial Movies" tvg-logo="https://i.imgur.com/1W8r0IL.png" group-title="SHAREEXT@MOVIES",Celestial Movies
+http://51.79.251.57:2082/Rudy/Rudy/150
+#EXTINF:-1 tvg-id="&Flix HD" tvg-name="FLIK" tvg-logo="https://i.imgur.com/z4gt4i2.png" group-title="SHAREEXT@MOVIES",FLIK
+http://51.79.251.57:2082/Rudy/Rudy/153
+#EXTINF:-1 tvg-id="704" tvg-name="PRIMEtime" tvg-logo="https://i.imgur.com/iC8wV7k.png" group-title="SHAREEXT@MOVIES",PRIMEtime
+http://51.79.251.57:2082/Rudy/Rudy/155
+#EXTINF:-1 tvg-id="" tvg-name="Wau" tvg-logo="https://i.imgur.com/6uGNQSb.png" group-title="SHAREEXT@MOVIES",Wau
+http://51.79.251.57:2082/Rudy/Rudy/156
+#EXTINF:-1 tvg-id="AjwaTV.id" tvg-name="IMC" tvg-logo="https://i.imgur.com/ugY50HZ.png" group-title="SHAREEXT@MOVIES",IMC
+http://51.79.251.57:2082/Rudy/Rudy/161
+#EXTINF:-1 tvg-id="STAR Movies HD" tvg-name="Star Movies" tvg-logo="https://i.imgur.com/VZ3aXCY.png" group-title="SHAREEXT@MOVIES",Star Movies
+http://51.79.251.57:2082/Rudy/Rudy/788
+#EXTINF:-1 tvg-id="TVN.MACAN" tvg-name="GALAXY" tvg-logo="https://i.imgur.com/j9myXNT.png" group-title="SHAREEXT@MOVIES",GALAXY
+http://51.79.251.57:2082/Rudy/Rudy/860
+#EXTINF:-1 tvg-id="TVNMovies.MACAN" tvg-name="GALAXY PREMIUM" tvg-logo="https://i.imgur.com/Lx5Zr6j.png" group-title="SHAREEXT@MOVIES",GALAXY PREMIUM
+http://51.79.251.57:2082/Rudy/Rudy/861
+#EXTINF:-1 tvg-id="SONY PIX" tvg-name="SONY PIX" tvg-logo="https://i.imgur.com/L5c4ASv.png" group-title="SHAREEXT@MOVIES",SONY PIX
+http://51.79.251.57:2082/Rudy/Rudy/877
+#EXTINF:-1 tvg-id="413" tvg-name="Showcase Movies" tvg-logo="https://i.imgur.com/xiiOQcG.png" group-title="SHAREEXT@MOVIES",Showcase Movies
+http://51.79.251.57:2082/Rudy/Rudy/931
+#EXTINF:-1 tvg-id="" tvg-name="Movie Now" tvg-logo="https://i.imgur.com/oJgNOGy.png" group-title="SHAREEXT@MOVIES",Movie Now
+http://51.79.251.57:2082/Rudy/Rudy/968
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies" tvg-logo="https://i.imgur.com/pRwQJYB.png" group-title="SHAREEXT@MOVIES",Hollywood Movies
+http://51.79.251.57:2082/Rudy/Rudy/1008
+#EXTINF:-1 tvg-id="STAR Movies Select HD" tvg-name="Star Movies Select" tvg-logo="https://i.imgur.com/ammYDwJ.png" group-title="SHAREEXT@MOVIES",Star Movies Select
+http://51.79.251.57:2082/Rudy/Rudy/891
+#EXTINF:-1 tvg-id="" tvg-name="MyCinema" tvg-logo="https://i.imgur.com/bioGy1Z.png" group-title="SHAREEXT@MOVIES",MyCinema
+http://51.79.251.57:2082/Rudy/Rudy/1019
+#EXTINF:-1 tvg-id="" tvg-name="MyCinema Asia" tvg-logo="https://i.imgur.com/gXtR1KA.png" group-title="SHAREEXT@MOVIES",MyCinema Asia
+http://51.79.251.57:2082/Rudy/Rudy/1020
+#EXTINF:-1 tvg-id="" tvg-name="MyCinema Family" tvg-logo="https://i.imgur.com/wmRbb2E.png" group-title="SHAREEXT@MOVIES",MyCinema Family
+http://51.79.251.57:2082/Rudy/Rudy/1021
+#EXTINF:-1 tvg-id="241" tvg-name="Astro Box Office" tvg-logo="https://i.imgur.com/LBFGt3E.png" group-title="SHAREEXT@MOVIES",Astro Box Office
+http://51.79.251.57:2082/Rudy/Rudy/133
+#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.imgur.com/Kkjgx02.png" group-title="SHAREEXT@MOVIES",Thrill
+http://51.79.251.57:2082/Rudy/Rudy/1232
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="404" tvg-name="MY: Astro BOO" tvg-logo="https://i.imgur.com/foLs9TO.png" group-title="SHAREEXT@ASTOK_TV",BOO
+http://51.79.251.57:2082/Rudy/Rudy/31
+#EXTINF:-1 tvg-id="128" tvg-name="MY: Dunia Sinema HD" tvg-logo="https://i.imgur.com/pj1OEc3.png" group-title="SHAREEXT@ASTOK_TV",Dunia Sinema HD
+http://51.79.251.57:2082/Rudy/Rudy/33
+#EXTINF:-1 tvg-id="118" tvg-name="MY: Hypp Inspirasi HD" tvg-logo="https://i.imgur.com/bYcl9kq.png" group-title="SHAREEXT@ASTOK_TV",Hypp Inspirasi HD
+http://51.79.251.57:2082/Rudy/Rudy/34
+#EXTINF:-1 tvg-id="301" tvg-name="MY: Hypp YUPP THIRAI" tvg-logo="https://i.imgur.com/iQn16ut.png" group-title="SHAREEXT@ASTOK_TV",Hypp YUPP THIRAI
+http://51.79.251.57:2082/Rudy/Rudy/39
+#EXTINF:-1 tvg-id="304" tvg-name="MY: Astro Xiao Tai Yang" tvg-logo="https://i.imgur.com/4dt4r0G.png" group-title="SHAREEXT@ASTOK_TV",Xiao Tai Yang
+http://51.79.251.57:2082/Rudy/Rudy/56
+#EXTINF:-1 tvg-id="306" tvg-name="MY: Astro Aec" tvg-logo="https://i.ibb.co/hHr5H0c/aec.png" group-title="SHAREEXT@ASTOK_TV",Aec
+http://51.79.251.57:2082/Rudy/Rudy/57
+#EXTINF:-1 tvg-id="307" tvg-name="MY: Astro Shuang Xing" tvg-logo="https://i.imgur.com/WwLelB4.png" group-title="SHAREEXT@ASTOK_TV",Shuang Xing
+http://51.79.251.57:2082/Rudy/Rudy/58
+#EXTINF:-1 tvg-id="308" tvg-name="MY: Astro Quanjia" tvg-logo="https://i.ibb.co/nf47yDP/quan.png" group-title="SHAREEXT@ASTOK_TV",Quanjia
+http://51.79.251.57:2082/Rudy/Rudy/59
+#EXTINF:-1 tvg-id="333" tvg-name="MY: Astro Hua Hee Dai" tvg-logo="https://i.ibb.co/JF5Xnb3/hua.png" group-title="SHAREEXT@ASTOK_TV",Hua Hee Dai
+http://51.79.251.57:2082/Rudy/Rudy/60
+#EXTINF:-1 tvg-id="CHN" tvg-name="MY: TVB XING HE" tvg-logo="https://i.imgur.com/Y95YlVg.png" group-title="SHAREEXT@ASTOK_TV",TVB XING HE
+http://51.79.251.57:2082/Rudy/Rudy/65
+#EXTINF:-1 tvg-id="CHN" tvg-name="MY: TVB CLASSIC" tvg-logo="https://i.imgur.com/3J8hFlu.png" group-title="SHAREEXT@ASTOK_TV",TVB CLASSIC
+http://51.79.251.57:2082/Rudy/Rudy/66
+#EXTINF:-1 tvg-id="CHN" tvg-name="MY: AOD 311" tvg-logo="https://i.ibb.co/0C0B6N1/ojp.png" group-title="SHAREEXT@ASTOK_TV",AOD 311
+http://51.79.251.57:2082/Rudy/Rudy/73
+#EXTINF:-1 tvg-id="353" tvg-name="MY: AOD 353" tvg-logo="https://i.ibb.co/0C0B6N1/ojp.png" group-title="SHAREEXT@ASTOK_TV",AOD 353
+http://51.79.251.57:2082/Rudy/Rudy/75
+#EXTINF:-1 tvg-id="354" tvg-name="MY: AOD 354" tvg-logo="https://i.ibb.co/0C0B6N1/ojp.png" group-title="SHAREEXT@ASTOK_TV",AOD 354
+http://51.79.251.57:2082/Rudy/Rudy/76
+#EXTINF:-1 tvg-id="355" tvg-name="MY: AOD 355" tvg-logo="https://i.ibb.co/0C0B6N1/ojp.png" group-title="SHAREEXT@ASTOK_TV",AOD 355
+http://51.79.251.57:2082/Rudy/Rudy/77
+#EXTINF:-1 tvg-id="BollyOne HD" tvg-name="MY: A BOLLYONE" tvg-logo="https://i.imgur.com/UNkUWk2.png" group-title="SHAREEXT@ASTOK_TV",BOLLYONE
+http://51.79.251.57:2082/Rudy/Rudy/78
+#EXTINF:-1 tvg-id="201" tvg-name="MY: ASTRO VAANAVIL" tvg-logo="https://i.imgur.com/nNkmD0b.png" group-title="SHAREEXT@ASTOK_TV",VAANAVIL
+http://51.79.251.57:2082/Rudy/Rudy/79
+#EXTINF:-1 tvg-id="Astro Vinmeen HD" tvg-name="MY: ASTRO VINMEEN" tvg-logo="https://i.imgur.com/UaJr1TI.png" group-title="SHAREEXT@ASTOK_TV",VINMEEN
+http://51.79.251.57:2082/Rudy/Rudy/80
+#EXTINF:-1 tvg-id="341" tvg-name="MY: COLORS" tvg-logo="https://i.imgur.com/vmw5kdS.png" group-title="SHAREEXT@ASTOK_TV",COLORS
+http://51.79.251.57:2082/Rudy/Rudy/83
+#EXTINF:-1 tvg-id="204" tvg-name="MY: CHUTTI TV" tvg-logo="https://i.imgur.com/RNENF6o.png" group-title="SHAREEXT@ASTOK_TV",CHUTTI TV
+http://51.79.251.57:2082/Rudy/Rudy/84
+#EXTINF:-1 tvg-id="313" tvg-name="MY: ADITHYA" tvg-logo="https://i.imgur.com/jsPTh8D.png" group-title="SHAREEXT@ASTOK_TV",ADITHYA
+http://51.79.251.57:2082/Rudy/Rudy/85
+#EXTINF:-1 tvg-id="221" tvg-name="MY: STAR VIJAY" tvg-logo="https://i.imgur.com/Tubfm0U.png" group-title="SHAREEXT@ASTOK_TV",STAR VIJAY
+http://51.79.251.57:2082/Rudy/Rudy/86
 
 
 
