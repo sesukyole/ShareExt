@@ -3798,11 +3798,14 @@ http://new-pro.tv:8080/mazen1/123456/178391
 
 
 
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",JUARAtv_1
+https://dukun.masuk.id/olahraga/champ1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",JUARAtv_2
+https://dukun.masuk.id/olahraga/champ2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",JUARAtv_3
+https://dukun.masuk.id/olahraga/champ3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",JUARAtv_goal
+https://dukun.masuk.id/olahraga/champgoal.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",True_Sport_1HD
 http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/96463
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@MULTI_Sport",True_Sport_2HD
