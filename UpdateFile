@@ -5028,6 +5028,52 @@ https://cdn.rjdigilink.in/deepamtv/livetv/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV_1綜合
+http://live.tvfix.org/hls/cctv1hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV_2財經
+http://live.tvfix.org/hls/cctv2hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV_3綜藝
+http://live.tvfix.org/hls/cctv3hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV_4中文國際
+http://live.tvfix.org/hls/cctv4hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV_5體育
+http://live.tvfix.org/hls/cctv5hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV_5+體育賽事
+http://live.tvfix.org/hls/cctv5phd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV_6電影
+http://live.tvfix.org/hls/cctv6hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV_7國防軍事
+http://live.tvfix.org/hls/cctv7hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV_8電視劇
+http://live.tvfix.org/hls/cctv8hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV_9記錄
+http://live.tvfix.org/hls/cctv9hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV_10科教
+http://live.tvfix.org/hls/cctv10hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV_11戲曲
+http://live.tvfix.org/hls/cctv11hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV_12社會與法
+http://live.tvfix.org/hls/cctv12hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV_13新聞
+http://live.tvfix.org/hls/cctv13hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV_14少兒
+http://live.tvfix.org/hls/cctv14hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV_15音樂
+http://live.tvfix.org/hls/cctv15hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV_16奧林匹克
+http://live.tvfix.org/hls/cctv16hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV_17,農業農村
+http://live.tvfix.org/hls/cctv17hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",江蘇衛視
+http://live.tvfix.org/hls/jshd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",浙江衛視
+http://live.tvfix.org/hls/brtv1hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",湖南衛視
+http://live.tvfix.org/hls/hunanhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",北京衛視
+http://live.tvfix.org/hls/brtv1hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",東方衛視
+http://live.tvfix.org/hls/dfhd.m3u8
 
 
 
