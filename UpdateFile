@@ -5791,9 +5791,30 @@ http://176.9.17.76:7080/live/stream/8dl627dwai/49.ts?shareext.ts
 
 
 
-
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",Douyu_movie001
+http://hls1a-akm.douyucdn.cn:80/live/dyliveflv3/323876r1ZrsfgSJQ_4000p.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",Douyu_movie002
+http://hls1a-akm.douyucdn.cn:80/live/dyliveflv3/6655271rbSVEqSaf_4000p.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",Douyu_movie003
+http://hls1a-akm.douyucdn.cn:80/live/dyliveflv3/8814650rz82fsTKI_4000p.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",菏泽一套
+http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",菏泽二套
+http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",菏泽三套
+http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",经典功夫台
+https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",金马影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",午夜影院
+https://pull.kktv8.com/livekktv/99592190.flv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",女神影院
+https://pull.kktv8.com/livekktv/99350550.flv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",动作大片
+http://txtest-xp2p.p2p.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",喜剧系列
+http://txtest-xp2p.p2p.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.xs
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="ShareExt@MaNdaRin_CiNeMa_",喜剧电影
 http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
