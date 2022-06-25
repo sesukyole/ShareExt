@@ -245,19 +245,15 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@RIYANCODAY-VIDIO",JUARAtv_1
-https://dukun.masuk.id/terserahguelah/olahraga/champ1.m3u8
+https://dukun.masuk.id/i9vr822vl9v062zyhvqi/olahraga/champ1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@RIYANCODAY-VIDIO",JUARAtv_2
-https://dukun.masuk.id/terserahguelah/olahraga/champ2.m3u8
+https://dukun.masuk.id/i9vr822vl9v062zyhvqi/olahraga/champ2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@RIYANCODAY-VIDIO",JUARAtv_3
-https://dukun.masuk.id/terserahguelah/olahraga/champ3.m3u8
+https://dukun.masuk.id/i9vr822vl9v062zyhvqi/olahraga/champ3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@RIYANCODAY-VIDIO",JUARAtv_goal
-https://dukun.masuk.id/terserahguelah/olahraga/champgoal.m3u8
+https://dukun.masuk.id/i9vr822vl9v062zyhvqi/olahraga/champgoal.m3u8
 
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",HBO
-https://tvn10.xyz/vidio/hbo.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",HBO_HITS
-https://tvn10.xyz/vidio/hbohits.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Sctv_HD(tvn)
 https://tvn10.xyz/vidio/master-1.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Citra_bioskop(tvn)
