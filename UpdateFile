@@ -19,6 +19,15 @@ https://lnk.ec/shareext@hd.id.ts
 https://lnk.ec/shareext@indosiarFHD
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(kVision)
 http://203.77.246.50:5000/udp/239.1.1.110:5000
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",INDOSIAR_DK
+https://dukun.masuk.id/i9vr822vl9v062zyhvqi/lokal/indosiardukun.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",LIVE_1_DK
+https://dukun.masuk.id/i9vr822vl9v062zyhvqi/live/live1.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",LIVE_2_DK
+https://dukun.masuk.id/i9vr822vl9v062zyhvqi/live/live2.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",O_CHANNEL_DK
+https://dukun.masuk.id/i9vr822vl9v062zyhvqi/lokal/ochanneldukun.m3u8
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",0_chanel_liga_volley
 https://tvn10.xyz/vidio/master-13.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MNCTV+
