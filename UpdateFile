@@ -16,14 +16,6 @@ https://dukun.masuk.id/i9vr822vl9v062zyhvqi/vod/the-boss-baby-family-business-20
 https://dukun.masuk.id/i9vr822vl9v062zyhvqi/vod/ip-man-the-awakening-2022.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Dokter_Stanger.Multiverse(2022)
 https://dukun.masuk.id/i9vr822vl9v062zyhvqi/vod/doctor-strange-in-the-multiverse-of-madness-2022.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SukanMNc_1
-https://lnk.ec/shareext@mncsport1.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SukanMNc_2
-https://lnk.ec/shareext@mncsport2.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Usee_sukan1
-https://lnk.ec/shareext@sukan.usee1.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Usee_sukan2
-https://lnk.ec/shareext@sukan.usee2.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Fight_KUKURUYU
 https://z0gdu9jmgu.rtmp-now.com/hls/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar_liga1_2
@@ -37,13 +29,12 @@ https://lnk.ec/shareext@indosiarFHD
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(kVision)
 http://203.77.246.50:5000/udp/239.1.1.110:5000
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",INDOSIAR_DK
-https://dukun.masuk.id/i9vr822vl9v062zyhvqi/lokal/indosiardukun.m3u8
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",LIVE_1_DK
 https://dukun.masuk.id/i9vr822vl9v062zyhvqi/live/live1.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",LIVE_2_DK
 https://dukun.masuk.id/i9vr822vl9v062zyhvqi/live/live2.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",O_CHANNEL_DK
-https://dukun.masuk.id/i9vr822vl9v062zyhvqi/lokal/ochanneldukun.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",0_chanel_liga_volley
 https://tvn10.xyz/vidio/master-13.m3u8
@@ -271,13 +262,12 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@RIYANCODAY-VIDIO",JUARAtv_1
-https://dukun.masuk.id/i9vr822vl9v062zyhvqi/olahraga/champ1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@RIYANCODAY-VIDIO",JUARAtv_2
-https://dukun.masuk.id/i9vr822vl9v062zyhvqi/olahraga/champ2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@RIYANCODAY-VIDIO",JUARAtv_3
-https://dukun.masuk.id/i9vr822vl9v062zyhvqi/olahraga/champ3.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@RIYANCODAY-VIDIO",JUARAtv_goal
-https://dukun.masuk.id/i9vr822vl9v062zyhvqi/olahraga/champgoal.m3u8
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Sctv_HD(tvn)
