@@ -28,6 +28,8 @@ https://lnk.ec/shareext@hd.id.ts
 https://lnk.ec/shareext@indosiarFHD
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(kVision)
 http://203.77.246.50:5000/udp/239.1.1.110:5000
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(ax)
+https://etus.link/shareext-indosiar
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",INDOSIAR_DK
 https://dukun.masuk.id/d534964d27a49e2c4d849bd52eb40644a6d55649d57f074ef2c3fb47311f40c825ae5162-0742dfe70264f4bb1cb7743feac0fec7-1656240748-1656229948/lokal/indosiardukunetdahluapainnih.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",LIVE_1_DK
@@ -172,6 +174,8 @@ http://195.189.60.252:3109/play/a039
 http://195.189.60.252:3109/play/a03a
 
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BOO
+https://etus.link/shareext-astro-boo
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Home_chanel(Thai)
 http://203.154.243.89:28010/pa/hchannel.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",PING_tv(Thai)
