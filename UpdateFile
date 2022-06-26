@@ -31,9 +31,9 @@ http://203.77.246.50:5000/udp/239.1.1.110:5000
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",INDOSIAR_DK
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",LIVE_1_DK
-https://dukun.masuk.id/i9vr822vl9v062zyhvqi/live/live1.m3u8
+https://dukun.masuk.id/d534964d27a49e2c4d849bd52eb40644a6d55649d57f074ef2c3fb47311f40c825ae5162-0742dfe70264f4bb1cb7743feac0fec7-1656240748-1656229948/live/live1.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",LIVE_2_DK
-https://dukun.masuk.id/i9vr822vl9v062zyhvqi/live/live2.m3u8
+https://dukun.masuk.id/d534964d27a49e2c4d849bd52eb40644a6d55649d57f074ef2c3fb47311f40c825ae5162-0742dfe70264f4bb1cb7743feac0fec7-1656240748-1656229948/live/live2.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",O_CHANNEL_DK
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",0_chanel_liga_volley
@@ -262,13 +262,17 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@RIYANCODAY-VIDIO",JUARAtv_1
-
+https://dukun.masuk.id/d534964d27a49e2c4d849bd52eb40644a6d55649d57f074ef2c3fb47311f40c825ae5162-0742dfe70264f4bb1cb7743feac0fec7-1656240748-1656229948/olahraga/champ1etdahluapainnih.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@RIYANCODAY-VIDIO",JUARAtv_2
-
+https://dukun.masuk.id/d534964d27a49e2c4d849bd52eb40644a6d55649d57f074ef2c3fb47311f40c825ae5162-0742dfe70264f4bb1cb7743feac0fec7-1656240748-1656229948/olahraga/champ2etdahluapainnih.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@RIYANCODAY-VIDIO",JUARAtv_3
-
+https://dukun.masuk.id/d534964d27a49e2c4d849bd52eb40644a6d55649d57f074ef2c3fb47311f40c825ae5162-0742dfe70264f4bb1cb7743feac0fec7-1656240748-1656229948/olahraga/champ3etdahluapainnih.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@RIYANCODAY-VIDIO",JUARAtv_goal
-
+https://dukun.masuk.id/d534964d27a49e2c4d849bd52eb40644a6d55649d57f074ef2c3fb47311f40c825ae5162-0742dfe70264f4bb1cb7743feac0fec7-1656240748-1656229948/olahraga/champgoaletdahluapainnih.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",SPOtv
+https://dukun.masuk.id/d534964d27a49e2c4d849bd52eb40644a6d55649d57f074ef2c3fb47311f40c825ae5162-0742dfe70264f4bb1cb7743feac0fec7-1656240748-1656229948/olahraga/spotv1.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",SPOtv-2
+https://dukun.masuk.id/d534964d27a49e2c4d849bd52eb40644a6d55649d57f074ef2c3fb47311f40c825ae5162-0742dfe70264f4bb1cb7743feac0fec7-1656240748-1656229948/olahraga/spotv2.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Sctv_HD(tvn)
 https://tvn10.xyz/vidio/master-1.m3u8
