@@ -32,6 +32,10 @@ http://203.77.246.50:5000/udp/239.1.1.110:5000
 https://etus.link/shareext-indosiar
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",INDOSIAR_DK
 https://dukun.masuk.id/d534964d27a49e2c4d849bd52eb40644a6d55649d57f074ef2c3fb47311f40c825ae5162-0742dfe70264f4bb1cb7743feac0fec7-1656240748-1656229948/lokal/indosiardukunetdahluapainnih.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MNC_$ports
+https://lnk.ec/shareext@mncsport1.m3u8
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",LIVE_1_DK
 https://dukun.masuk.id/d534964d27a49e2c4d849bd52eb40644a6d55649d57f074ef2c3fb47311f40c825ae5162-0742dfe70264f4bb1cb7743feac0fec7-1656240748-1656229948/live/live1.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",LIVE_2_DK
