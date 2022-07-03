@@ -228,6 +228,12 @@ http://195.189.60.252:3109/play/a039
 http://195.189.60.252:3109/play/a03a
 
 
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Boo
+https://aniki.my.id/astro/tvindomobile-astroboo/default_ott.mpd
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Ceria
+https://aniki.my.id/astro/tvindomobile-astroceria/default_ott.mpd
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BOO
 https://etus.link/shareext-astro-boo
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Home_chanel(Thai)
