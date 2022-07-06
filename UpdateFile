@@ -312,13 +312,13 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Champ1_rolling
-https://etslive-2-vidio-com.akamaized.net/exp=1657041007~acl=/hls-p/ingest_6685_*/*~hmac=2788096c4fb8ad030a5cac046decca64f3857f449b902deea41ed437128aaa2f/hls-p/ingest_6685_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1657098606~acl=/hls-p/ingest_6685_*/*~hmac=55f7018f7402982d34215c62f6d1b292213cf1c0aae27c03b87a1ebf1467def3/hls-p/ingest_6685_720p/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Champ2_rolling
-https://etslive-2-vidio-com.akamaized.net/exp=1657041065~acl=/hls-p/ingest_6686_*/*~hmac=b44313d9d5f9a400fbc7a4d8ff759c1a49e906c49be585cddd7694e91c980bb9/hls-p/ingest_6686_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1657098666~acl=/hls-p/ingest_6686_*/*~hmac=72e08b6309834aad049b29fae7212bfce24e0c09522d8e201b397f7bfd0bbe67/hls-p/ingest_6686_720p/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Champ3_rolling
-https://etslive-2-vidio-com.akamaized.net/exp=1657041126~acl=/hls-p/ingest_6786_*/*~hmac=77ecf2fe1bdbdebca5ed8d56291b0f4f26b193a4b279368744e1602b4ec5bb85/hls-p/ingest_6786_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1657098727~acl=/hls-p/ingest_6786_*/*~hmac=f022169f0ad00e08952eddfbb738c63dbaa3e06dbe7ec8c2ba4c1ad3a851edd2/hls-p/ingest_6786_720p/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",ChampGoal_rolling
-https://etslive-2-vidio-com.akamaized.net/exp=1657042085~acl=/hls-p/ingest_9045_*/*~hmac=54e9165b2cfcfe01603c5c65f57907cf3f67c2b1ab543b13cb290c3a2e8a47f7/hls-p/ingest_9045_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1657099686~acl=/hls-p/ingest_9045_*/*~hmac=362d68a83d89c43a46e46df29043999aa1c9b3e3ff64481952b9d043503120e0/hls-p/ingest_9045_720p/index.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Sctv_HD(tvn)
 https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-1.m3u8
