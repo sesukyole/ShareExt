@@ -22,7 +22,14 @@ https://d33j155pv2xyba.cloudfront.net/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",INEWS+
 https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8|User-Agent=android-R+
 
-
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseeSports2
+https://stream-delivery.mapalus.xyz/live/tv/group1/chno/312.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Aff_u19.chanel.1
+https://web-livecdn.fptplay.net/hdevent/fsport01_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Aff_u19.chanel.2
+https://179720687.global.cdnfastest.com/live/may9/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Aff_u19.chanel.3
+http://golive.yn.lt/live/aff/01.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BWF.1_live
 https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Bantuntun.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BWF.2_live
