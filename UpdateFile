@@ -95,64 +95,6 @@ http://210.210.155.35/session/3dc625d6-e3ba-11ec-aead-b82a72d63267/uq2663/h/h22/
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Dunia_Games
 https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/01.m3u8
 
-#EXTINF: -1 tvg-id="430" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png" group-title="ShareExt@Relax", Cricket_HD English
-http://103.139.171.5:5001/live.php?c=Jio_Cricket&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="438" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Hindi.png" group-title="ShareExt@Relax", Cricket_HD Hindi
-http://103.139.171.5:5001/live.php?c=Jio_Cricket_Hindi&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="1160" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_1_HD.png" group-title="ShareExt@Relax", Cricket_1 HD
-http://103.139.171.5:5001/live.php?c=Jio_Cricket_1_HD&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="1161" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_2_HD.png" group-title="ShareExt@Relax", Cricket_2 HD
-http://103.139.171.5:5001/live.php?c=Jio_Cricket_2_HD&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="1166" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_3.png" group-title="ShareExt@Relax", Cricket_3 HD
-http://103.139.171.5:5001/live.php?c=Jio_Cricket_3_HD&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="1272" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_4_HD.png" group-title="ShareExt@Relax", Cricket_4 HD
-http://103.139.171.5:5001/live.php?c=Jio_Cricket_4_HD&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="1709" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_5_HD.png" group-title="ShareExt@Relax", Cricket_5 HD
-http://103.139.171.5:5001/live.php?c=Jio_Cricket_5_HD&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="1711" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_6_HD.png" group-title="ShareExt@Relax", Cricket_6 HD
-http://103.139.171.5:5001/live.php?c=Jio_Cricket_6_HD&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="1156" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Esports_HD.png" group-title="ShareExt@Relax", Esports HD
-http://103.139.171.5:5001/live.php?c=Jio_Esports_HD&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="1156" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png" group-title="ShareExt@Relax", Football_HD Eng
-http://103.139.171.5:5001/live.php?c=Jio_Football&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="1165" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Hindi_HD.png" group-title="ShareExt@Relax", Football_HD Hin
-http://103.139.171.5:5001/live.php?c=Jio_Football_Hindi_HD&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="1239" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Bangali_HD.png" group-title="ShareExt@Relax", Football_HD Bangali
-http://103.139.171.5:5001/live.php?c=Jio_Football_Bangali_HD&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="1237" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Kannada_HD.png" group-title="ShareExt@Relax", Football_HD Kannada
-http://103.139.171.5:5001/live.php?c=Jio_Football_Kannada_HD&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="1236" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Malayalam_HD.png" group-title="ShareExt@Relax", Football_HD Malaya
-http://103.139.171.5:5001/live.php?c=Jio_Football_Malayalam_HD&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="1235" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Tamil_HD.png" group-title="ShareExt@Relax", Football_HD Tamil
-http://103.139.171.5:5001/live.php?c=Jio_Football_Tamil_HD&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="1238" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Telugu_HD.png" group-title="ShareExt@Relax", Football_HD Telugu
-http://103.139.171.5:5001/live.php?c=Jio_Football_Telugu_HD&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="1234" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png" group-title="ShareExt@Relax", Football_1 HD
-http://103.139.171.5:5001/live.php?c=Jio_Football_1&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1167" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_2.png" group-title="ShareExt@Relax", Football_2 HD
-http://103.139.171.5:5001/live.php?c=Jio_Football_2&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1168" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_3.png" group-title="ShareExt@Relax", Football_3 HD
-http://103.139.171.5:5001/live.php?c=Jio_Football_3&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="155" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="ShareExt@Relax", SonySix HD
-http://103.139.171.5:5001/live.php?c=Six_HD&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="ShareExt@Relax", Ten_1 HD
-http://103.139.171.5:5001/live.php?c=Ten_HD&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="891" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="ShareExt@Relax", Ten_2 HD
-http://103.139.171.5:5001/live.php?c=Ten2_HD&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="892" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="ShareExt@Relax", Ten_3 HD
-http://103.139.171.5:5001/live.php?c=Ten3_HD&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="ShareExt@Relax", Ten_4 HD Tamil
-http://103.139.171.5:5001/live.php?c=Ten_4_HD_Tamil&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" group-title="ShareExt@Relax", Ten_4 HD Telugu
-http://103.139.171.5:5001/live.php?c=Ten_4_HD_Telugu&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="204" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="ShareExt@Relax", DD_Sports
-http://103.139.171.5:5001/live.php?c=DD_Sports&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1294" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="ShareExt@Relax", Eurosport
-http://103.139.171.5:5001/live.php?c=Dsports&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1425" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/1Sports.png" group-title="ShareExt@Relax", 1Sports
-http://103.139.171.5:5001/live.php?c=1Sports&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1529" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MI_TV.png" group-title="ShareExt@Relax", MI_TV
-http://103.139.171.5:5001/live.php?c=MI_TV&q=800&e=junk.m3u8
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Astro.Cricket HD
@@ -1501,6 +1443,66 @@ http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/266813
 #EXTINF:-1 tvg-id="" tvg-name="ID: Zee Bioskop" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="ShArEext@Indonesia",Zee Bioskop
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157584
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="beINSports1.id" tvg-name="BeIN Sport 1 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="ShareExt@ASIA_SPORTS",BeINSport_1 ID
+https://nonton.site:8443/mustakim/mustakim/728
+#EXTINF:-1 tvg-id="beINSports2.id" tvg-name="BeIN Sport 2 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" group-title="ShareExt@ASIA_SPORTS",BeINSport_2 ID
+https://nonton.site:8443/mustakim/mustakim/729
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="ESPN" tvg-logo="tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIA_SPORTS",ESPN
+https://nonton.site:8443/mustakim/mustakim/499
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT BOX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwAM7tsGvgCbbv30YAXs2-QDPNkU4TNiQuQ7zAgrtcCA94ZWjd" group-title="ShareExt@ASIA_SPORTS",FIGHT BOX
+https://nonton.site:8443/mustakim/mustakim/501
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sports" tvg-logo="https://imgbbb.com/images/2019/04/30/FightSportsLogo2x.png" group-title="ShareExt@ASIA_SPORTS",Fight Sports
+https://nonton.site:8443/mustakim/mustakim/784
+#EXTINF:-1 tvg-id="ABC.au" tvg-name="SPOTV 1" tvg-logo="https://imgbbb.com/images/2019/04/30/foxsports.png" group-title="ShareExt@ASIA_SPORTS",SPOTV_1
+https://nonton.site:8443/mustakim/mustakim/51
+#EXTINF:-1 tvg-id="ABC.au" tvg-name="Tennis Channel HD" tvg-logo="https://imgbbb.com/images/2019/04/30/fox-sport-21.png" group-title="ShareExt@ASIA_SPORTS",Tennis Channel HD
+https://nonton.site:8443/mustakim/mustakim/102
+#EXTINF:-1 tvg-id="ABC.au" tvg-name="SPOTV 2" tvg-logo="https://imgbbb.com/images/2019/04/30/Fox_Sports_3_logo.png" group-title="ShareExt@ASIA_SPORTS",SPOTV_2
+https://nonton.site:8443/mustakim/mustakim/101
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel FHD" tvg-logo="https://imgbbb.com/images/2019/04/30/golfchannel.png" group-title="ShareExt@ASIA_SPORTS",Golf Channel FHD
+https://nonton.site:8443/mustakim/mustakim/561
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-3_29.png" group-title="ShareExt@ASIA_SPORTS",NBA TV HD
+https://nonton.site:8443/mustakim/mustakim/3099
+#EXTINF:-1 tvg-id="US: AE" tvg-name="ESPN2" tvg-logo="tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIA_SPORTS",ESPN2
+https://nonton.site:8443/mustakim/mustakim/299
+#EXTINF:-1 tvg-id="" tvg-name="Horizon Sports HD" tvg-logo="https://i2.wp.com/www.horizonsports.com/wp-content/uploads/2018/06/logo-horizon_wellness-transp.png" group-title="ShareExt@ASIA_SPORTS",Horizon Sports HD
+https://nonton.site:8443/mustakim/mustakim/46366
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASSP1" tvg-logo="tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIA_SPORTS",MY-ASSP1
+https://nonton.site:8443/mustakim/mustakim/46413
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASSP2" tvg-logo="tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIA_SPORTS",MY-ASSP2
+https://nonton.site:8443/mustakim/mustakim/46414
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASSP3" tvg-logo="tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIA_SPORTS",MY-ASSP3
+https://nonton.site:8443/mustakim/mustakim/46415
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASSP4" tvg-logo="tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIA_SPORTS",MY-ASSP4
+https://nonton.site:8443/mustakim/mustakim/46416
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASSP5" tvg-logo="tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIA_SPORTS",MY-ASSP5
+https://nonton.site:8443/mustakim/mustakim/46417
+#EXTINF:-1 tvg-id="" tvg-name="MY - eGG Network" tvg-logo="tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIA_SPORTS",MY-eGG Network
+https://nonton.site:8443/mustakim/mustakim/37421
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO ARENA HD" tvg-logo="tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIA_SPORTS",ASTRO-ARENA HD
+https://nonton.site:8443/mustakim/mustakim/37422
+#EXTINF:-1 tvg-id="" tvg-name="MY - beIN SPORTS" tvg-logo="tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIA_SPORTS",MY-beINSPORTS
+https://nonton.site:8443/mustakim/mustakim/37432
+#EXTINF:-1 tvg-id="" tvg-name="MY - bEIN MAX" tvg-logo="tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIA_SPORTS",MY-bEIN-MAX
+https://nonton.site:8443/mustakim/mustakim/37433
+#EXTINF:-1 tvg-id="" tvg-name="MY - EUROSPORT HD" tvg-logo="tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIA_SPORTS",MY-EUROSPORT HD
+https://nonton.site:8443/mustakim/mustakim/37434
+#EXTINF:-1 tvg-id="" tvg-name="MY - WWE NETWORK" tvg-logo="tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIA_SPORTS",MY-WWE NETWORK
+https://nonton.site:8443/mustakim/mustakim/37435
+#EXTINF:-1 tvg-id="" tvg-name="MY - GOLF CHANNEL HD" tvg-logo="tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIA_SPORTS",MY-GOLF CHANNEL HD
+https://nonton.site:8443/mustakim/mustakim/37436
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO RUGBY PASS TV" tvg-logo="tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIA_SPORTS",MY-ASTRO RUGBY PASS TV
+https://nonton.site:8443/mustakim/mustakim/37437
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO CRICKET" tvg-logo="tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIA_SPORTS",MY-ASTRO CRICKET
+https://nonton.site:8443/mustakim/mustakim/37438
+#EXTINF:-1 tvg-id="" tvg-name="MY - SPOTV" tvg-logo="tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIA_SPORTS",MY-SPOTV
+https://nonton.site:8443/mustakim/mustakim/37443
 
 
 
