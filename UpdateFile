@@ -14,7 +14,7 @@ https://z0gdu9jmgu.rtmp-now.com/hls/index.m3u8
 https://tvn10.xyz/Meta/master.m3u8|User-Agent=android-12
 EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(kVision)
 http://203.77.246.50:5000/udp/239.1.1.110:5000
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Inews(K-Vision)
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RCTI(K-Vision)
 http://203.77.246.50:5000/udp/239.1.3.80:5000
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",0_chanel_liga_volley
 https://tvn10.xyz/Meta/master-13.m3u8|User-Agent=android-12
@@ -29,10 +29,6 @@ https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8
 http://iptvid.my.id/hmm/useetl1.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseeSports_2 
 http://iptvid.my.id/hmm/useetl2.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseeSports1(tq_mapalus) 
-https://stream-delivery.mapalus.xyz/live/tv/group1/chno/921.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseeSports2(tq_mapalus)
-https://stream-delivery.mapalus.xyz/live/tv/group1/chno/312.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@Relax",ChampionTv1
 https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/olahraga/champ1etdahluapainnih.m3u8
