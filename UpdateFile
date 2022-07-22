@@ -213,11 +213,17 @@ http://195.189.60.252:3109/play/a039
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Setanta_sports_plus_hd
 http://195.189.60.252:3109/play/a03a
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",HBO.(MKC_FC) 
+http://mkcfc.freevar.com/pess/hbo.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",CINEMAX.(MKC_FC)
+http://mkcfc.freevar.com/pess/cin.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",HBO.HITS.(MKC_FC)
+http://mkcfc.freevar.com/pess/hits.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",HBO.FAMILY.(MKC_FC)
+http://mkcfc.freevar.com/pess/fam.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",HBO.SIG.(MKC_FC)
+http://mkcfc.freevar.com/pess/sig.m3u8
 
-
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BOO
-https://etus.link/shareext-astro-boo
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Home_chanel(Thai)
 http://203.154.243.89:28010/pa/hchannel.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",PING_tv(Thai)
