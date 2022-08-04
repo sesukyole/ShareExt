@@ -1764,16 +1764,6 @@ http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/54268
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="EPL: Astro Supersport 1 HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",EPL:AstroSupersport_1 HD
-http://fortv.cc:8080/Ronnie/Ronnie/122349
-#EXTINF:-1 tvg-id="" tvg-name="EPL: Astro Supersport 2 HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",EPL:AstroSupersport_2 HD
-http://fortv.cc:8080/Ronnie/Ronnie/122350
-#EXTINF:-1 tvg-id="" tvg-name="EPL: Astro Supersport 3 HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",EPL:AstroSupersport_3 HD
-http://fortv.cc:8080/Ronnie/Ronnie/122351
-#EXTINF:-1 tvg-id="" tvg-name="EPL: Astro Supersport 4 HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",EPL:AstroSupersport_4 HD
-http://fortv.cc:8080/Ronnie/Ronnie/122352
-#EXTINF:-1 tvg-id="" tvg-name="EPL: Astro Supersport 5 HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",EPL:AstroSupersport_5 HD
-http://fortv.cc:8080/Ronnie/Ronnie/122353
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",BOOLYWOOD HD
@@ -5536,7 +5526,7 @@ http://176.9.17.76:7080/live/stream/8dl627dwai/61.ts?shareext.ts
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Thirlell
 http://176.9.17.76:7080/live/stream/8dl627dwai/62.ts?shareext.ts
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_XXX(18+)
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Drama(18+)
 http://176.9.17.76:7080/live/stream/8dl627dwai/63.ts?shareext.ts
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_XXX1(18+)
