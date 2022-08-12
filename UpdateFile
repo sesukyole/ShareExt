@@ -992,7 +992,14 @@ https://v2.siar.us/tatv/live.sdp/chunks.m3u8
 
 
 
-
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",Sony-Six
+http://0nelivezer0.rbtvnw.com:21190/neptune/sonysix/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",TEN_1
+http://0nelivezer0.rbtvnw.com:21190/neptune/sonyten1/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",TEN_2
+http://0nelivezer0.rbtvnw.com:21190/neptune/sonyten2/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",TEN_'3
+http://0nelivezer0.rbtvnw.com:21190/neptune/sonyten3/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",SPOTV*
 http://tvlive.my.id:25461/kevin/kevin/27
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",SPOTV 2*
