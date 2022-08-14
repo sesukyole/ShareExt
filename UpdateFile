@@ -333,10 +333,13 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Champion_1(tvn_digital)
+https://ott-navigator.my.id/000143-356212-986581/vidionline330/vidio_master.m3u8?channel=championstv1
 http://seulanga-tvnid.my.id/SGTV/master-7.m3u8|User-Agent=android-12
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Champion_2(tvn_digital)
+https://ott-navigator.my.id/000143-356212-986581/vidionline330/vidio_master.m3u8?channel=championstv2
 http://seulanga-tvnid.my.id/SGTV/master-8.m3u8|User-Agent=android-12
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Champion_3(tvn_digital)
+https://ott-navigator.my.id/000143-356212-986581/vidionline330/vidio_master.m3u8?channel=championstv3
 http://seulanga-tvnid.my.id/SGTV/master-9.m3u8|User-Agent=android-12
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Champion_4(tvn_digital)
 http://seulanga-tvnid.my.id/SGTV/master-10.m3u8|User-Agent=android-12
