@@ -10,7 +10,7 @@ https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Fight_KUKURUYU
 https://z0gdu9jmgu.rtmp-now.com/hls/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(ott) 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar 
 https://ott-navigator.my.id/000143-356212-986581/vidionline330/vidio_master.m3u8?channel=indosiar
 http://seulanga-tvnid.my.id/SGTV/master.m3u8|User-Agent=android-12
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(iptv_id) 
@@ -19,7 +19,7 @@ EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-titl
 http://203.77.246.50:5000/udp/239.1.1.110:5000
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RCTI(K-Vision)
 http://203.77.246.50:5000/udp/239.1.3.80:5000
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",O_chanel(ott) 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",O_chanel 
 https://ott-navigator.my.id/000143-356212-986581/vidionline330/vidio_master.m3u8?channel=ochannel
 http://seulanga-tvnid.my.id/SGTV/master-13.m3u8|User-Agent=android-12
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",0_channel(iptv_id) 
@@ -723,6 +723,147 @@ http://rr3.dens.tv/s/s94/index2.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Zee Bioskop
 http://rr2.dens.tv/s/s32/index.m3u8
 
+
+
+
+
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",MYTV Net
+http://tvlive.my.id:25461/mat/mat/1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",MYTV 2
+http://tvlive.my.id:25461/mat/mat/2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",MYTV 3
+http://tvlive.my.id:25461/mat/mat/3
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",MYTV 4
+http://tvlive.my.id:25461/mat/mat/4
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",RCTI
+http://tvlive.my.id:25461/mat/mat/5
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",MNCTV
+http://tvlive.my.id:25461/mat/mat/6
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",TVONE
+http://tvlive.my.id:25461/mat/mat/7
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",GTV
+http://tvlive.my.id:25461/mat/mat/8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Metro TV
+http://tvlive.my.id:25461/mat/mat/9
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Trans TV
+http://tvlive.my.id:25461/mat/mat/10
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Indosiar
+http://tvlive.my.id:25461/mat/mat/11
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",TRANS 7
+http://tvlive.my.id:25461/mat/mat/12
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",SCTV
+http://tvlive.my.id:25461/mat/mat/13
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",ANTV
+http://tvlive.my.id:25461/mat/mat/14
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",NET TV
+http://tvlive.my.id:25461/mat/mat/15
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Kompas TV
+http://tvlive.my.id:25461/mat/mat/16
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",RTV
+http://tvlive.my.id:25461/mat/mat/17
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",INEWS TV
+http://tvlive.my.id:25461/mat/mat/18
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",TVRI Nasional
+http://tvlive.my.id:25461/mat/mat/19
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",JTV
+http://tvlive.my.id:25461/mat/mat/20
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",O Channel
+http://tvlive.my.id:25461/mat/mat/21
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Mentari TV
+http://tvlive.my.id:25461/mat/mat/22
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",CNN Indonesia
+http://tvlive.my.id:25461/mat/mat/23
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",CNBC Indonesia
+http://tvlive.my.id:25461/mat/mat/24
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Berita Satu
+http://tvlive.my.id:25461/mat/mat/25
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Magna Channel
+http://tvlive.my.id:25461/mat/mat/26
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Asian Food Network
+http://tvlive.my.id:25461/mat/mat/260
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Fashion TV
+http://tvlive.my.id:25461/mat/mat/91
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Animal Planet
+http://tvlive.my.id:25461/mat/mat/94
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Bali TV
+http://tvlive.my.id:25461/mat/mat/95
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",TVMU Muhammadiyah
+http://tvlive.my.id:25461/mat/mat/96
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",CNA
+http://tvlive.my.id:25461/mat/mat/85
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",RRI NET
+http://tvlive.my.id:25461/mat/mat/86
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Makkah TV
+http://tvlive.my.id:25461/mat/mat/87
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",The Indonesian Channel
+http://tvlive.my.id:25461/mat/mat/88
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",CGTN Documentary
+http://tvlive.my.id:25461/mat/mat/75
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",TV9 Nusantara
+http://tvlive.my.id:25461/mat/mat/76
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",MTA TV
+http://tvlive.my.id:25461/mat/mat/78
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Rodja TV
+http://tvlive.my.id:25461/mat/mat/79
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",ABC News
+http://tvlive.my.id:25461/mat/mat/80
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",DW English
+http://tvlive.my.id:25461/mat/mat/81
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Rakuten TV
+http://tvlive.my.id:25461/mat/mat/45
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Thrill
+http://tvlive.my.id:25461/mat/mat/48
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",TVN Movies
+http://tvlive.my.id:25461/mat/mat/49
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Celestial Movies
+http://tvlive.my.id:25461/mat/mat/50
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Sinema Indonesia
+http://tvlive.my.id:25461/mat/mat/51
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Rock Entertainment
+http://tvlive.my.id:25461/mat/mat/54
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Hits
+http://tvlive.my.id:25461/mat/mat/56
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",K+
+http://tvlive.my.id:25461/mat/mat/57
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",AXN
+http://tvlive.my.id:25461/mat/mat/58
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Chinese Drama
+http://tvlive.my.id:25461/mat/mat/62
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",KIX
+http://tvlive.my.id:25461/mat/mat/63
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Canal 11
+http://tvlive.my.id:25461/mat/mat/67
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Zoo Moo Asia
+http://tvlive.my.id:25461/mat/mat/68
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Boomerang
+http://tvlive.my.id:25461/mat/mat/69
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Animax
+http://tvlive.my.id:25461/mat/mat/70
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",National Geographic
+http://tvlive.my.id:25461/mat/mat/71
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Nat Geo Wild
+http://tvlive.my.id:25461/mat/mat/72
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Smithsonian Channel
+http://tvlive.my.id:25461/mat/mat/73
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",History Channel
+http://tvlive.my.id:25461/mat/mat/74
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",KBS Korea
+http://tvlive.my.id:25461/mat/mat/82
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Animal Planet
+http://tvlive.my.id:25461/mat/mat/94
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Sony GEM
+http://tvlive.my.id:25461/mat/mat/97
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Hits Movie
+http://tvlive.my.id:25461/mat/mat/98
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Citra Drama
+http://tvlive.my.id:25461/mat/mat/99
+#EXTINF:-1     tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",HBO
+http://tvlive.my.id:25461/mat/mat/259
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Cinemax
+http://tvlive.my.id:25461/mat/mat/276
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@tvlive@ID",Galaxy
+http://tvlive.my.id:25461/mat/mat/364
 
 
 
