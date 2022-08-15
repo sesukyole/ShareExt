@@ -25,7 +25,7 @@ https://bgl20.my.id/emtek/master-13.m3u8|User-Agent=android-12
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",0_channel(iptv_id) 
 http://kunyak.my.id/underground-iptv-team/ochannel.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MentariTV
-https://bgl20.my.id/emtek/master-12.m3u8|User-Agent=android-12
+https://bgl20.my.id/emtek/master-23.m3u8|User-Agent=android-12
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",mentariTv(iptv_id) 
 http://kunyak.my.id/underground-iptv-team/mentaritv.m3u8
@@ -911,6 +911,42 @@ http://31.172.87.52:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8?t
 http://31.172.87.37:2200/EX/Sky_Sports_Cricket_HD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",StarSports-TAMIL
 http://31.172.87.56:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+
+
+#EXTINF:-1 tvg-id="SPOTV.MACAN" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/FsgFTMW/SPOTV.png" group-title="ShareExt@IPTV_Sports",SPOTV
+http://tvlive.my.id:25461/mat/mat/27
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://i.ibb.co/T8HY0rn/SPOTV2.png" group-title="ShareExt@IPTV_Sports",SPOTV 2
+http://tvlive.my.id:25461/mat/mat/28
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="MU TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a0/Mutv_new_logo.png" group-title="ShareExt@IPTV_Sports",MU TV
+http://tvlive.my.id:25461/mat/mat/32
+#EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-name="Eurosports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eurosport_1_Logo_2015.png/800px-Eurosport_1_Logo_2015.png" group-title="ShareExt@IPTV_Sports",Eurosports 1 HD
+http://tvlive.my.id:25461/mat/mat/33
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 1" tvg-logo="https://e7.pngegg.com/pngimages/46/232/png-clipart-abu-dhabi-sports-arab-club-championship-abu-dhabi-tv-television-channel-football-text-sport.png" group-title="ShareExt@IPTV_Sports",AbUDhabi Sports 1
+http://tvlive.my.id:25461/mat/mat/41
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 2" tvg-logo="https://e7.pngegg.com/pngimages/46/232/png-clipart-abu-dhabi-sports-arab-club-championship-abu-dhabi-tv-television-channel-football-text-sport.png" group-title="ShareExt@IPTV_Sports",AbuDhabi Sports 2
+http://tvlive.my.id:25461/mat/mat/42
+#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="Real Madrid TV" tvg-logo="https://w7.pngwing.com/pngs/268/318/png-transparent-santiago-bernabeu-stadium-real-madrid-c-f-la-liga-tour-bernabeu-real-madrid-tv-real-madrid-television-text-logo.png" group-title="ShareExt@IPTV_Sports",Real Madrid TV
+http://tvlive.my.id:25461/mat/mat/43
+#EXTINF:-1 tvg-id="FightSports.MACAN" tvg-name="Fight Sports" tvg-logo="https://i.ibb.co/X2jnCKj/FIGHTSPORTS.png" group-title="ShareExt@IPTV_Sports",Fight Sports
+http://tvlive.my.id:25461/mat/mat/65
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11" tvg-logo="https://seeklogo.com/images/C/canal-11-bahia-blanca-logo-A83C894C54-seeklogo.com.png" group-title="ShareExt@IPTV_Sports",Canal 11
+http://tvlive.my.id:25461/mat/mat/67
+#EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="Sports TV HD" tvg-logo="https://www.logolynx.com/images/logolynx/49/49ebc79edbe4b5571b385790853881de.png" group-title="ShareExt@IPTV_Sports",Sports TV HD
+http://tvlive.my.id:25461/mat/mat/161
+#EXTINF:-1 tvg-id="" tvg-name="Live Event TV 1" tvg-logo="https://www.eyetooth.design/wp-content/uploads/2020/04/live-event-stream-logo-design_colour-1.png" group-title="ShareExt@IPTV_Sports",Live Event TV 1
+http://tvlive.my.id:25461/mat/mat/368
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Live Event TV 2" tvg-logo="https://www.eyetooth.design/wp-content/uploads/2020/04/live-event-stream-logo-design_colour-1.png" group-title="ShareExt@IPTV_Sports",Live Event TV 2
+http://tvlive.my.id:25461/mat/mat/369
+#EXTINF:-1 tvg-id="" tvg-name="Live Event TV 3" tvg-logo="https://www.eyetooth.design/wp-content/uploads/2020/04/live-event-stream-logo-design_colour-1.png" group-title="ShareExt@IPTV_Sports",Live Event TV 3
+http://tvlive.my.id:25461/mat/mat/370
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="Live Event TV 4" tvg-logo="https://www.eyetooth.design/wp-content/uploads/2020/04/live-event-stream-logo-design_colour-1.png" group-title="ShareExt@IPTV_Sports",Live Event TV 4
+http://tvlive.my.id:25461/mat/mat/371
+#EXTINF:-1 tvg-id="" tvg-name="Live Event TV 5" tvg-logo="https://www.eyetooth.design/wp-content/uploads/2020/04/live-event-stream-logo-design_colour-1.png" group-title="ShareExt@IPTV_Sports",Live Event TV 5
+http://tvlive.my.id:25461/mat/mat/372
+
+
+
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",Beinsport_1(arab) 
 http://31.172.87.55:2200//EX/bein1sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",Beinsport_2(arab) 
