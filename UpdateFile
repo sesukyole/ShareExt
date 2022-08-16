@@ -558,6 +558,102 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="MYTV Net" tvg-logo="https://i.ibb.co/jZf0fCq/Mayapada-TV.png" group-title="Shareext@IPTV_Lokal",MYTV Net
+http://tvlive.my.id:25461/mat/mat/1
+#EXTINF:-1 tvg-id="" tvg-name="MYTV 2" tvg-logo="https://i.ibb.co/F6C5xdc/logo-My-TVkenhkovien02-2020040915376.png" group-title="Shareext@IPTV_Lokal",MYTV 2
+http://tvlive.my.id:25461/mat/mat/2
+#EXTINF:-1 tvg-id="" tvg-name="MYTV 3" tvg-logo="https://i.ibb.co/F6C5xdc/logo-My-TVkenhkovien02-2020040915376.png" group-title="Shareext@IPTV_Lokal",MYTV 3
+http://tvlive.my.id:25461/mat/mat/3
+#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="MYTV 4" tvg-logo="https://i.ibb.co/F6C5xdc/logo-My-TVkenhkovien02-2020040915376.png" group-title="Shareext@IPTV_Lokal",MYTV 4
+http://tvlive.my.id:25461/mat/mat/4
+#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SKWrTYL/RCTI.png" group-title="Shareext@IPTV_Lokal",RCTI
+http://tvlive.my.id:25461/mat/mat/5
+#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/qCNrFXj/MNCTV.png" group-title="Shareext@IPTV_Lokal",MNCTV
+http://tvlive.my.id:25461/mat/mat/6
+#EXTINF:-1 tvg-id="TVOne.MACAN" tvg-name="TVONE" tvg-logo="https://i.ibb.co/Hp3TsYs/TVONE.png" group-title="Shareext@IPTV_Lokal",TVONE
+http://tvlive.my.id:25461/mat/mat/7
+#EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="https://i.ibb.co/z299TFW/GTV.png" group-title="Shareext@IPTV_Lokal",GTV
+http://tvlive.my.id:25461/mat/mat/8
+#EXTINF:-1 tvg-id="MetroTV.MACAN" tvg-name="Metro TV" tvg-logo="https://i.ibb.co/fM7661t/METROTV.png" group-title="Shareext@IPTV_Lokal",Metro TV
+http://tvlive.my.id:25461/mat/mat/9
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://i.ibb.co/PM7wL90/TRANSTV.png" group-title="Shareext@IPTV_Lokal",Trans TV
+http://tvlive.my.id:25461/mat/mat/10
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/CPDrYb6/INDOSIAR.png" group-title="Shareext@IPTV_Lokal",Indosiar
+http://tvlive.my.id:25461/mat/mat/11
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/YjJ70r6/TRANS7.png" group-title="Shareext@IPTV_Lokal",TRANS 7
+http://tvlive.my.id:25461/mat/mat/12
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://i.ibb.co/5hYVmZj/SCTV.png" group-title="Shareext@IPTV_Lokal",SCTV
+http://tvlive.my.id:25461/mat/mat/13
+#EXTINF:-1 tvg-id="ANTV.MACAN" tvg-name="ANTV" tvg-logo="https://i.ibb.co/6Nj8BhZ/ANTV.png" group-title="Shareext@IPTV_Lokal",ANTV
+http://tvlive.my.id:25461/mat/mat/14
+#EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NET TV" tvg-logo="https://i.ibb.co/jGGzVSm/NETHD.png" group-title="Shareext@IPTV_Lokal",NET TV
+http://tvlive.my.id:25461/mat/mat/15
+#EXTINF:-1 tvg-id="KompasTv.MACAN" tvg-name="Kompas TV" tvg-logo="https://i.ibb.co/R2h28xF/KOMPASTV.png" group-title="Shareext@IPTV_Lokal",Kompas TV
+http://tvlive.my.id:25461/mat/mat/16
+#EXTINF:-1 tvg-id="RTV.MACAN" tvg-name="RTV" tvg-logo="https://i.ibb.co/DDB1s6w/RTV.png" group-title="Shareext@IPTV_Lokal",RTV
+http://tvlive.my.id:25461/mat/mat/17
+#EXTINF:-1 tvg-id="iNewsTV.MACAN" tvg-name="INEWS TV" tvg-logo="https://i.ibb.co/xGMxrbP/INEWS.png" group-title="Shareext@IPTV_Lokal",INEWS TV
+http://tvlive.my.id:25461/mat/mat/18
+#EXTINF:-1 tvg-id="JTV.MACAN" tvg-name="TVRI Nasional" tvg-logo="https://i.ibb.co/82KRC75/TVRI.png" group-title="Shareext@IPTV_Lokal",TVRI Nasional
+http://tvlive.my.id:25461/mat/mat/19
+#EXTINF:-1 tvg-id="JTV.MACAN" tvg-name="JTV" tvg-logo="https://i.ibb.co/1XKGLtx/JTV.png" group-title="Shareext@IPTV_Lokal",JTV
+http://tvlive.my.id:25461/mat/mat/20
+#EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://i.ibb.co/Hr517NJ/OCHANNEL.png" group-title="Shareext@IPTV_Lokal",O Channel
+http://tvlive.my.id:25461/mat/mat/21
+#EXTINF:-1 tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://cdn.macan.tv/img/mentaritv.png" group-title="Shareext@IPTV_Lokal",Mentari TV
+http://tvlive.my.id:25461/mat/mat/22
+#EXTINF:-1 tvg-id="CNNIndonesia.MACAN" tvg-name="CNN Indonesia" tvg-logo="https://i.ibb.co/rsPZCwk/CNNINDONESIA.png" group-title="Shareext@IPTV_Lokal",CNN Indonesia
+http://tvlive.my.id:25461/mat/mat/23
+#EXTINF:-1 tvg-id="CNBCIndonesia.MACAN" tvg-name="CNBC Indonesia" tvg-logo="https://i.ibb.co/Cmy5Kjq/CNBCINDONESIA.png" group-title="Shareext@IPTV_Lokal",CNBC Indonesia
+http://tvlive.my.id:25461/mat/mat/24
+#EXTINF:-1 tvg-id="" tvg-name="Berita Satu" tvg-logo="https://i.ibb.co/nBC3brt/BERITASATU.png" group-title="Shareext@IPTV_Lokal",Berita Satu
+http://tvlive.my.id:25461/mat/mat/25
+#EXTINF:-1 tvg-id="" tvg-name="Magna Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="Shareext@IPTV_Lokal",Magna Channel
+http://tvlive.my.id:25461/mat/mat/26
+#EXTINF:-1 tvg-id="ZooMooAsia.nz" tvg-name="Zoo Moo Asia" tvg-logo="https://i.ibb.co/xXCpQXy/ZOOMOO.png" group-title="Shareext@IPTV_Lokal",ZooMoo Asia
+http://tvlive.my.id:25461/mat/mat/68
+#EXTINF:-1 tvg-id="NationalGeographicChannel.MACAN" tvg-name="National Geographic" tvg-logo="https://i.ibb.co/HCkJy2p/NATGEO.png" group-title="Shareext@IPTV_Lokal",National Geographic
+http://tvlive.my.id:25461/mat/mat/71
+#EXTINF:-1 tvg-id="NationalGeographicWild.MACAN" tvg-name="Nat Geo Wild" tvg-logo="https://i.ibb.co/cYC62XM/NATGEOWILD.png" group-title="Shareext@IPTV_Lokal",NatGeo Wild
+http://tvlive.my.id:25461/mat/mat/72
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Smithsonian Channel" tvg-logo="https://i.ibb.co/TH5rfJM/SMITHSONIANCHANNEL.png" group-title="Shareext@IPTV_Lokal",Smithsonian Channel
+http://tvlive.my.id:25461/mat/mat/364
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1200px-Rakuten_TV_logo.svg.png" group-title="Shareext@IPTV_Movies",Rakuten TV
+http://tvlive.my.id:25461/mat/mat/45
+#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/187zct9/THRILL.png" group-title="Shareext@IPTV_Movies",Thrill
+http://tvlive.my.id:25461/mat/mat/48
+#EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="Celestial Movies" tvg-logo="https://i.ibb.co/9gjYZ6W/CELESTIALMOVIES.png" group-title="Shareext@IPTV_Movies",Celestial Movies
+http://tvlive.my.id:25461/mat/mat/50
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Indonesia" tvg-logo="https://i.ibb.co/9nnHrv9/SINEMAINDONESIA.png" group-title="Shareext@IPTV_Movies",Sinema Indonesia
+http://tvlive.my.id:25461/mat/mat/51
+#EXTINF:-1 tvg-id="Hits.MACAN" tvg-name="Love Nature" tvg-logo="https://w7.pngwing.com/pngs/390/91/png-transparent-love-nature-illustration-love-nature-4k-resolution-television-blue-ant-media-18-miscellaneous-text-trademark.png" group-title="Shareext@IPTV_Movies",Love Nature
+http://tvlive.my.id:25461/mat/mat/56
+#EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="Cinemax FPT" tvg-logo="https://i.ibb.co/jVhpB6v/CINEMAX.png" group-title="Shareext@IPTV_Movies",Cinemax FPT
+http://tvlive.my.id:25461/mat/mat/58
+#EXTINF:-1 tvg-id="ZooMooAsia.nz" tvg-name="Zoo Moo Asia" tvg-logo="https://i.ibb.co/xXCpQXy/ZOOMOO.png" group-title="Shareext@IPTV_Movies",ZooMoo Asia
+http://tvlive.my.id:25461/mat/mat/68
+#EXTINF:-1 tvg-id="Galaxy.MACAN" tvg-name="Galaxy" tvg-logo="https://i.ibb.co/j3NMYVH/GALAXY.png" group-title="Shareext@IPTV_Movies",Galaxy
+http://tvlive.my.id:25461/mat/mat/363
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Smithsonian Channel" tvg-logo="https://i.ibb.co/TH5rfJM/SMITHSONIANCHANNEL.png" group-title="Shareext@IPTV_Movies",Smithsonian Channel
+http://tvlive.my.id:25461/mat/mat/364
+#EXTINF:-1 tvg-id="HGTV.MACAN" tvg-name="HGTV" tvg-logo="https://i.ibb.co/VCX9J0c/HGTV.png" group-title="Shareext@IPTV_Movies",HGTV
+http://tvlive.my.id:25461/mat/mat/365
+#EXTINF:-1 tvg-id="HistoryChannel.id" tvg-name="History Channel" tvg-logo="https://i.ibb.co/svhGk7n/HISTORY.png" group-title="Shareext@IPTV_Movies",History Channel
+http://tvlive.my.id:25461/mat/mat/366
+#EXTINF:-1 tvg-id="" tvg-name="&Flix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/%26flix_HD_Leap_forth.svg/1024px-%26flix_HD_Leap_forth.svg.png" group-title="Shareext@IPTV_Movies",&Flix HD
+http://tvlive.my.id:25461/mat/mat/367
+#EXTINF:-1 tvg-id="" tvg-name="WB TV" tvg-logo="https://i.ibb.co/9s1xz7g/WARNERTV.png" group-title="Shareext@IPTV_Movies",WB TV
+http://tvlive.my.id:25461/mat/mat/373
+#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBO FPT" tvg-logo="https://i.ibb.co/3sgvjFr/HBO.png" group-title="Shareext@IPTV_Movies",HBO FPT
+http://tvlive.my.id:25461/mat/mat/374
+
+
+
+
 
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Aljazeera Arabic
