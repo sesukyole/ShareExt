@@ -919,31 +919,13 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",Persija_Tv
 http://bravo.kugo.id:1935/persijatv/udp.stream_360p/chunklist_w2108800588.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",Sony-Six
-http://0nelivezer0.rbtvnw.com:21190/neptune/sonysix/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",TEN_1
-http://0nelivezer0.rbtvnw.com:21190/neptune/sonyten1/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",TEN_2
-http://0nelivezer0.rbtvnw.com:21190/neptune/sonyten2/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",TEN_'3
-http://0nelivezer0.rbtvnw.com:21190/neptune/sonyten3/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",StarSports_1
-http://starlive.rbtvnw.com:21190/junosafe/starsports1/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",StarSports_2
-http://starlive.rbtvnw.com:21190/junosafe/starsports2/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",BT_Sports.1_HD
-http://31.172.87.30:2200/EX/BT_Sport_1_HD-uk/tracks-v1a1/mono.m3u8?token=RED_KFLRfpFADvZ57FcKBSIoeA%3D%3D%2C165850382104.9359072311|User-agent=REDLINECLIENT
+http://31.172.87.30:2200/EX/BT_Sport_1_HD-uk/tracks-v1a1/mono.m3u8?token=RED_KFLRfpFADvZ57FcKBSIoeA%3D%3D%2C165850382104.9359072311|User-Agent=REDLINECLIENT
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",BT_Sports.2_HD
 http://31.172.87.30:2200/EX/BT_Sport_2_HD-uk/tracks-v1a1/mono.m3u8?token=RED_KFLRfpFADvZ57FcKBSIoeA%3D%3D%2C165850382104.9359072311|User-agent=REDLINECLIENT
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",BT_Sports.3_HD
 http://31.172.87.30:2200/EX/BT_Sport_3_HD-uk/tracks-v1a1/mono.m3u8?token=RED_KFLRfpFADvZ57FcKBSIoeA%3D%3D%2C165850382104.9359072311|User-agent=REDLINECLIENT
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",bt-sports-1
-https://segumpalnenen.herokuapp.com/index.m3u8?id=bbtsp1
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",bt-sports-2
-https://segumpalnenen.herokuapp.com/index.m3u8?id=bbtsp2
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",bt-sports-3
-https://segumpalnenen.herokuapp.com/index.m3u8?id=bbtsp3
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",StarSports-1_HD
 http://31.172.87.52:2200/R-EX/SPORTS_STAR_SPORTS_1_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",StarSports-2_HD
@@ -952,7 +934,7 @@ http://31.172.87.52:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8?t
 http://31.172.87.37:2200/EX/Sky_Sports_Cricket_HD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",StarSports-TAMIL
 http://31.172.87.56:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-
+http://31.172.87.52:2200/R-EX/SPORTS_SONY_SIX_HD-in/tracks-v1a1/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="SPOTV.MACAN" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/FsgFTMW/SPOTV.png" group-title="ShareExt@IPTV_Sports",SPOTV
 http://tvlive.my.id:25461/mat/mat/27
