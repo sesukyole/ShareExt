@@ -1119,12 +1119,6 @@ http://31.172.87.52:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=RED_Hqqv1c3nXj
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",Sony ten 3🏏🏏
 http://31.172.87.52:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",BT_Sports.1_HD
-http://31.172.87.30:2200/EX/BT_Sport_1_HD-uk/tracks-v1a1/mono.m3u8?token=RED_KFLRfpFADvZ57FcKBSIoeA%3D%3D%2C165850382104.9359072311|User-agent=REDLINECLIENT
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",BT_Sports.2_HD
-http://31.172.87.30:2200/EX/BT_Sport_2_HD-uk/tracks-v1a1/mono.m3u8?token=RED_KFLRfpFADvZ57FcKBSIoeA%3D%3D%2C165850382104.9359072311|User-agent=REDLINECLIENT
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",BT_Sports.3_HD
-http://31.172.87.30:2200/EX/BT_Sport_3_HD-uk/tracks-v1a1/mono.m3u8?token=RED_KFLRfpFADvZ57FcKBSIoeA%3D%3D%2C165850382104.9359072311|User-agent=REDLINECLIENT
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",StarSports-1_HD
 http://31.172.87.52:2200/R-EX/SPORTS_STAR_SPORTS_1_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",StarSports-2_HD
@@ -1133,7 +1127,7 @@ http://31.172.87.52:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8?t
 http://31.172.87.37:2200/EX/Sky_Sports_Cricket_HD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",StarSports-TAMIL
 http://31.172.87.56:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-http://31.172.87.52:2200/R-EX/SPORTS_SONY_SIX_HD-in/tracks-v1a1/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+
 
 #EXTINF:-1 tvg-id="SPOTV.MACAN" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/FsgFTMW/SPOTV.png" group-title="ShareExt@IPTV_Sports",SPOTV
 http://tvlive.my.id:25461/mat/mat/27
