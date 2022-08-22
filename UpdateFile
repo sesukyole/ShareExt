@@ -903,8 +903,6 @@ http://dangguli.live:8080/StarSportsSelect1/index.m3u8
 http://dangguli.live:8080/StarSportsSelect2/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",RedBull
 http://dangguli.live:8080/RedBullTVHD/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",Foxsport-501
-https://networkbest.ru.com/cdn/premium369/playlist.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@IPTV_Sports",MMA_TV
 https://alchimie-mmatv-samsung.amagi.tv/playlist360_p.m3u8
