@@ -227,6 +227,14 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
+EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995009_ico.png?ts=1660430078" group-title="ShareExt@Relax",Astro SuperSport
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
+https://best2.globalweb.ru.com/cdn/premium123/mono.m3u8
+
+
+
+
 
 
 
