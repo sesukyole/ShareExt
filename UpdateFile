@@ -64,6 +64,36 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",StrongmanChampionLeague
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Cctv_5(sports)
+http://tvindexlive01.yn.ysten.com:8080/ysten-business/live/cctv-5/1.m3u8;{User-Agent@0151}
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",OurSports(Taiwan)
+http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Astro.Arena
+http://185.135.157.237:8080/live/geniptvservice/4EYQYcwMU6/92028.m3u8?token=QhNcUUpYElsXAVIHXVkCXFsEUVUIA1cHAgVVAwJSUQYIBwJVWAQIVAMbH0QXTEEBAgttXVQTDwlTVgUCGxJFF1xDa1ldEgpDBA0HVkYUERAKC1cWCgEZEhEPUhANEgNcDQYHEhUSVRlBXEEIBVRsAAYQW1dVEw9eFApaHhVfXjtdVFlRV1QSWxcIEUpGUUAUQVxcQVxdGRIDD0JAVkRVRgMTBQYMARJNF1pcEwpMQR1BXBB5aRMZEgQeQldZQ1kLVxMOElQDRVkXFREPF2dBARASQFFRXFBCQ1wUAxUcEglYSWtTVl5eBFZNWgkKSxFeQVcCBAATGRIMCVhbQ19CO0lYUBIDEglUDBtO
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Beinsports(mly)
+http://185.135.157.237:8080/live/geniptvservice/4EYQYcwMU6/92044.m3u8?token=QhNcUUpYElsXAVIHXVkCXFsEUVUIA1cHAgVVAwJSUQYIBwJVWAQIVAMbH0QXTEEBAgttXVQTDwlTVgUCGxJFF1xDa1ldEgpDBA0HVkYUERAKC1cWCgEZEhEPUhANEgNcDQYHEhUSVRlBXEEIBVRsAAYQW1dVEw9eFApaHhVfXjtdVFlRV1QSWxcIEUpGUUAUQVxcQVxdGRIDD0JAVkRVRgMTBQYMARJNF1pcEwpMQR1BXBB5aRMZEgQeQldZQ1kLVxMOElQDRVkXFREPF2dBARASQFFRXFBCQ1wUAxUcEglYSWtTVl5eBFZNWgkKSxFeQVcCBAATGRIMCVhbQ19CO0lYUBIDEglUDBtO
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RTM.SUKAN
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",OKEY
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Shanghai.Sports
+http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8?shareext
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BTsport.ESPN
+http://93.152.174.144:4000/play/btsportespn/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BTsport.1
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BTsport.2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BTsport.3
+http://93.152.174.144:4000/play/btsport3/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Bt.sport1.sd
+http://31.172.87.52:2200/EX/UKSD_BT_Sport_1_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Bt.sport2.sd
+http://31.172.87.52:2200/EX/UKSD_BT_Sport_2_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Bt.sport3.sd
+http://31.172.87.52:2200/EX/UKSD_BT_Sport_3_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SONY_SIX
 http://31.172.87.52:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-Agent=REDLINECLIENT
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TEN$1
