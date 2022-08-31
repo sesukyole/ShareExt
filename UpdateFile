@@ -82,6 +82,35 @@ http://tv.zonanime.my.id/vidio/championstv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@Relax",ChampionTv3
 http://tv.zonanime.my.id/vidio/championstv3.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",MY:Astro@Arena
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/157485
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",MY:Astro@Arena-2
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/287793
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",MY:Astro@Cricket
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/157565
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",MY:Astro@SuperSport-1
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/146068
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",MY:Astro@SuperSport-2
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/157556
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",MY:Astro@SuperSport-3
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/157557
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",MY:Astro@SuperSport-4
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/157558
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",MY:beIN@Sports
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/157561
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",MY:Egg@Network
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/157484
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",TruePremier@Football 1
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/162591
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",TruePremier@Football 2
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/162592
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",True@Vision-NBA
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/281638
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",ID:FOXSPORTS 1@
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/162517
+
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MU_tv
 https://lnk.ec/shareext@champ1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Eurosports
