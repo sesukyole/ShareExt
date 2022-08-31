@@ -11,7 +11,7 @@ https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Fight_KUKURUYU
 https://z0gdu9jmgu.rtmp-now.com/hls/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(tvN) 
-http://tvn.x10.mx/vidio/master.m3u8
+http://tvn.x10.mx/live/master.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(protv) 
 http://pprotv.com:80/97887222/97887222/39427
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(kv) 
@@ -403,12 +403,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MTV Yo!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995009_ico.png?ts=1660430078" group-title="ShareExt@Relax",trueSport1.tesst
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?=ajax
-https://sport.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8|referer=https://www.movie87hd.com/?=ajax
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995009_ico.png?ts=1660430078" group-title="ShareExt@Relax",Astro SuperSport
-#EXTVLCOPT:http-referrer=Referer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/lb/premium123/index.m3u8?|Referer=https://streamservicehd.click/
 
 
 
@@ -417,70 +411,70 @@ https://ad2017.vhls.ru.com/lb/premium123/index.m3u8?|Referer=https://streamservi
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Champion_1
-http://tvn.x10.mx/vidio/master-7.m3u8
+http://tvn.x10.mx/live/master-7.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Champion_2
-http://tvn.x10.mx/vidio/master-8.m3u8
+http://tvn.x10.mx/live/master-8.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Champion_3
-http://tvn.x10.mx/vidio/master-9.m3u8
+http://tvn.x10.mx/live/master-9.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",ChampionGoal
-http://tvn.x10.mx/vidio/master-10.m3u8
+http://tvn.x10.mx/live/master-10.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Sctv_HD
-http://tvn.x10.mx/vidio/master-1.m3u8
+http://tvn.x10.mx/live/master-1.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Citra_bioskop
-http://tvn.x10.mx/vidio/master-2.m3u8
+http://tvn.x10.mx/live/master-2.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Citra_drama
-http://tvn.x10.mx/vidio/master-3.m3u8
+http://tvn.x10.mx/live/master-3.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",HIP.HIP.Horee
-http://tvn.x10.mx/vidio/master-4.m3u8
+http://tvn.x10.mx/live/master-4.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Citra_Muslim
-http://tvn.x10.mx/vidio/master-5.m3u8
+http://tvn.x10.mx/live/master-5.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",HOREE
-http://tvn.x10.mx/vidio/master-6.m3u8
+http://tvn.x10.mx/live/master-6.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Citra_Dangdut
-ttp://tvn.x10.mx/vidio/master-11.m3u8
+ttp://tvn.x10.mx/live/master-11.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Citra_Entertaiment
-http://tvn.x10.mx/vidio/master-12.m3u8
+http://tvn.x10.mx/live/master-12.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",AjwaTv
-http://tvn.x10.mx/vidio/master-14.m3u8
+http://tvn.x10.mx/live/master-14.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",ANtv
-http://tvn.x10.mx/vidio/master-15.m3u8
+http://tvn.x10.mx/live/master-15.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",RTV
-http://tvn.x10.mx/vidio/master-16.m3u8
+http://tvn.x10.mx/live/master-16.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",ZOOMO
-http://tvn.x10.mx/vidio/master-17.m3u8
+http://tvn.x10.mx/live/master-17.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",tvN
-http://tvn.x10.mx/vidio/master-18.m3u8
+http://tvn.x10.mx/live/master-18.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Zee.bioskop
-http://tvn.x10.mx/vidio/master-19.m3u8
+http://tvn.x10.mx/live/master-19.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Musica
-http://tvn.x10.mx/vidio/master-20.m3u8
+http://tvn.x10.mx/live/master-20.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Radio.Nagaswara
-http://tvn.x10.mx/vidio/master-21.m3u8
+http://tvn.x10.mx/live/master-21.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",LFC
-http://tvn.x10.mx/vidio/master-22.m3u8
+http://tvn.x10.mx/live/master-22.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",MentariTV
-http://tvn.x10.mx/vidio/master-23.m3u8
+http://tvn.x10.mx/live/master-23.m3u8
 
 
 
