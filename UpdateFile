@@ -470,8 +470,14 @@ http://tvn.x10.mx/live/master-20.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Radio.Nagaswara
 http://tvn.x10.mx/live/master-21.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",LFC
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Radio.cakraFM_bandung
 http://tvn.x10.mx/live/master-22.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",LFC
+http://tvn.x10.mx/live/master-31.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",RAN_ENTERTAINMENT
+http://tvn.x10.mx/live/master-32.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",MentariTV
 http://tvn.x10.mx/live/master-23.m3u8
