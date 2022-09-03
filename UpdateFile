@@ -744,6 +744,59 @@ http://tvlive.my.id:25461/mat/mat/364
 
 
 
+#EXTINF:-1 tvg-id="SPOTV.MACAN" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/FsgFTMW/SPOTV.png" group-title="ShareExt@IPTV_Sports",SPOTV
+http://tvlive.my.id:25461/mat/mat/27
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://i.ibb.co/T8HY0rn/SPOTV2.png" group-title="ShareExt@IPTV_Sports",SPOTV 2
+http://tvlive.my.id:25461/mat/mat/28
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="Astro Supersports 1" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="ShareExt@IPTV_Sports",AstroSupersports 1
+http://tvlive.my.id:25461/mat/mat/32
+#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="Astro Supersports 2" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="ShareExt@IPTV_Sports",AstroSupersports 2
+http://tvlive.my.id:25461/mat/mat/33
+#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="Astro Supersports 3" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="ShareExt@IPTV_Sports",AstroSupersports 3
+http://tvlive.my.id:25461/mat/mat/41
+#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="Astro Supersports 4" tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="ShareExt@IPTV_Sports",AstroSupersports 4
+http://tvlive.my.id:25461/mat/mat/42
+#EXTINF:-1 tvg-id="ASSP5.my" tvg-name="Astro Supersports 5" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="ShareExt@IPTV_Sports",AstroSupersports 5
+http://tvlive.my.id:25461/mat/mat/43
+#EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="Bein Sports 1 ID" tvg-logo="https://i.ibb.co/m04SNRx/BEINSPORTS1.png" group-title="ShareExt@IPTV_Sports",BeinSports 1 ID
+http://tvlive.my.id:25461/mat/mat/45
+#EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-name="Bein Sports 3 ID" tvg-logo="https://i.ibb.co/r3QBT9h/BEINSPORTS3.png" group-title="ShareExt@IPTV_Sports",BeinSports 3 ID
+http://tvlive.my.id:25461/mat/mat/48
+#EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="Abu Dhabi Sports 1" tvg-logo="https://e7.pngegg.com/pngimages/46/232/png-clipart-abu-dhabi-sports-arab-club-championship-abu-dhabi-tv-television-channel-football-text-sport.png" group-title="ShareExt@IPTV_Sports",AbuDhabi Sports 1
+http://tvlive.my.id:25461/mat/mat/50
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 2" tvg-logo="https://e7.pngegg.com/pngimages/46/232/png-clipart-abu-dhabi-sports-arab-club-championship-abu-dhabi-tv-television-channel-football-text-sport.png" group-title="ShareExt@IPTV_Sports",AbuDhabi Sports 2
+http://tvlive.my.id:25461/mat/mat/51
+#EXTINF:-1 tvg-id="Hits.MACAN" tvg-name="Sports TV" tvg-logo="https://www.logolynx.com/images/logolynx/49/49ebc79edbe4b5571b385790853881de.png" group-title="ShareExt@IPTV_Sports",SportsTV
+http://tvlive.my.id:25461/mat/mat/56
+#EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="MU TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a0/Mutv_new_logo.png" group-title="ShareExt@IPTV_Sports",MU TV
+http://tvlive.my.id:25461/mat/mat/58
+#EXTINF:-1 tvg-id="FightSports.MACAN" tvg-name="Fight Sports" tvg-logo="https://i.ibb.co/X2jnCKj/FIGHTSPORTS.png" group-title="ShareExt@IPTV_Sports",FightSports
+http://tvlive.my.id:25461/mat/mat/65
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11" tvg-logo="https://seeklogo.com/images/C/canal-11-bahia-blanca-logo-A83C894C54-seeklogo.com.png" group-title="ShareExt@IPTV_Sports",Canal 11
+http://tvlive.my.id:25461/mat/mat/67
+#EXTINF:-1 tvg-id="ZooMooAsia.nz" tvg-name="Real Madrid TV" tvg-logo="https://w7.pngwing.com/pngs/268/318/png-transparent-santiago-bernabeu-stadium-real-madrid-c-f-la-liga-tour-bernabeu-real-madrid-tv-real-madrid-television-text-logo.png" group-title="ShareExt@IPTV_Sports",Real Madrid TV
+http://tvlive.my.id:25461/mat/mat/68
+
+
+
+
+
+#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/187zct9/THRILL.png" group-title="SHAREEXT@MOOVIIE",Thrill$
+http://tvlive.my.id:25461/mat/mat/365
+#EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="Celestial Movies" tvg-logo="https://i.ibb.co/9gjYZ6W/CELESTIALMOVIES.png" group-title="SHAREEXT@MOOVIIE",Celestial Movies$
+http://tvlive.my.id:25461/mat/mat/366
+#EXTINF:-1 tvg-id="" tvg-name="Hits Movies" tvg-logo="https://i.ibb.co/FX2Yj15/HITSMOVIES.png" group-title="SHAREEXT@MOOVIIE",Hit Movies$
+http://tvlive.my.id:25461/mat/mat/368
+#EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-name="AXN" tvg-logo="https://i.ibb.co/dKJt8hM/AXN.png" group-title="SHAREEXT@MOOVIIE",AXN$
+http://tvlive.my.id:25461/mat/mat/372
+#EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="Cinemax FPT" tvg-logo="https://i.ibb.co/jVhpB6v/CINEMAX.png" group-title="SHAREEXT@MOOVIIE",Cinemax$ FPT
+http://tvlive.my.id:25461/mat/mat/373
+#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBO FPT" tvg-logo="https://i.ibb.co/3sgvjFr/HBO.png" group-title="SHAREEXT@MOOVIIE",HBO$ FPT
+http://tvlive.my.id:25461/mat/mat/374
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Indonesia" tvg-logo="https://i.ibb.co/9nnHrv9/SINEMAINDONESIA.png" group-title="SHAREEXT@MOOVIIE",Sinema Indonesia$
+http://tvlive.my.id:25461/mat/mat/384
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1200px-Rakuten_TV_logo.svg.png" group-title="SHAREEXT@MOOVIIE",Rakuten TV$
+http://tvlive.my.id:25461/mat/mat/385
 
 
 
@@ -2100,6 +2153,12 @@ http://5gfksa.ltd:2052/991155/551199/174594
 http://5gfksa.ltd:2052/991155/551199/174592
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/J44JHqnY/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF ➤ DSTV",WWE CHANNEL
 http://5gfksa.ltd:2052/991155/551199/174591
+
+
+
+
+
+
 
 
 
