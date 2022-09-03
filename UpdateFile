@@ -742,34 +742,6 @@ http://tvlive.my.id:25461/mat/mat/364
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Rakuten TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1200px-Rakuten_TV_logo.svg.png" group-title="Shareext@IPTV_Movies",Rakuten TV
-http://tvlive.my.id:25461/mat/mat/45
-#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/187zct9/THRILL.png" group-title="Shareext@IPTV_Movies",Thrill
-http://tvlive.my.id:25461/mat/mat/48
-#EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="Celestial Movies" tvg-logo="https://i.ibb.co/9gjYZ6W/CELESTIALMOVIES.png" group-title="Shareext@IPTV_Movies",Celestial Movies
-http://tvlive.my.id:25461/mat/mat/50
-#EXTINF:-1 tvg-id="" tvg-name="Sinema Indonesia" tvg-logo="https://i.ibb.co/9nnHrv9/SINEMAINDONESIA.png" group-title="Shareext@IPTV_Movies",Sinema Indonesia
-http://tvlive.my.id:25461/mat/mat/51
-#EXTINF:-1 tvg-id="Hits.MACAN" tvg-name="Love Nature" tvg-logo="https://w7.pngwing.com/pngs/390/91/png-transparent-love-nature-illustration-love-nature-4k-resolution-television-blue-ant-media-18-miscellaneous-text-trademark.png" group-title="Shareext@IPTV_Movies",Love Nature
-http://tvlive.my.id:25461/mat/mat/56
-#EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="Cinemax FPT" tvg-logo="https://i.ibb.co/jVhpB6v/CINEMAX.png" group-title="Shareext@IPTV_Movies",Cinemax FPT
-http://tvlive.my.id:25461/mat/mat/58
-#EXTINF:-1 tvg-id="ZooMooAsia.nz" tvg-name="Zoo Moo Asia" tvg-logo="https://i.ibb.co/xXCpQXy/ZOOMOO.png" group-title="Shareext@IPTV_Movies",ZooMoo Asia
-http://tvlive.my.id:25461/mat/mat/68
-#EXTINF:-1 tvg-id="Galaxy.MACAN" tvg-name="Galaxy" tvg-logo="https://i.ibb.co/j3NMYVH/GALAXY.png" group-title="Shareext@IPTV_Movies",Galaxy
-http://tvlive.my.id:25461/mat/mat/363
-#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Smithsonian Channel" tvg-logo="https://i.ibb.co/TH5rfJM/SMITHSONIANCHANNEL.png" group-title="Shareext@IPTV_Movies",Smithsonian Channel
-http://tvlive.my.id:25461/mat/mat/364
-#EXTINF:-1 tvg-id="HGTV.MACAN" tvg-name="HGTV" tvg-logo="https://i.ibb.co/VCX9J0c/HGTV.png" group-title="Shareext@IPTV_Movies",HGTV
-http://tvlive.my.id:25461/mat/mat/365
-#EXTINF:-1 tvg-id="HistoryChannel.id" tvg-name="History Channel" tvg-logo="https://i.ibb.co/svhGk7n/HISTORY.png" group-title="Shareext@IPTV_Movies",History Channel
-http://tvlive.my.id:25461/mat/mat/366
-#EXTINF:-1 tvg-id="" tvg-name="&Flix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/%26flix_HD_Leap_forth.svg/1024px-%26flix_HD_Leap_forth.svg.png" group-title="Shareext@IPTV_Movies",&Flix HD
-http://tvlive.my.id:25461/mat/mat/367
-#EXTINF:-1 tvg-id="" tvg-name="WB TV" tvg-logo="https://i.ibb.co/9s1xz7g/WARNERTV.png" group-title="Shareext@IPTV_Movies",WB TV
-http://tvlive.my.id:25461/mat/mat/373
-#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBO FPT" tvg-logo="https://i.ibb.co/3sgvjFr/HBO.png" group-title="Shareext@IPTV_Movies",HBO FPT
-http://tvlive.my.id:25461/mat/mat/374
 
 
 
@@ -3854,29 +3826,6 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",MALEO TV
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",Jowo
-https://h1.intechmedia.net/intech/ch101.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",INSANTV
-https://h1.intechmedia.net/intech/ch1.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",ASHILLTV
-https://h1.intechmedia.net/intech/ch2.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",SURAUTV
-https://h1.intechmedia.net/intech/ch3.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",AHSANTV
-https://h1.intechmedia.net/intech/ch4.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",MUADZTV
-https://h1.intechmedia.net/intech/ch5.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",rasyaadTV
-https://h1.intechmedia.net/intech/ch6.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",IzzahTV
-https://h1.intechmedia.net/intech/ch7.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",Hijrah tv
-https://h1.intechmedia.net/intech/ch8.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",Al-imanTV
-https://h1.intechmedia.net/intech/ch9.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",Niaga tv
-https://h1.intechmedia.net/intech/ch10.m3u8
 
 
 
