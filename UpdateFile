@@ -487,8 +487,6 @@ http://kunyak.my.id/underground-iptv-team/kompastv.m3u8
 http://kunyak.my.id/underground-iptv-team/tvone.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",net @
 http://kunyak.my.id/underground-iptv-team/net.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",balitv @
-http://kunyak.my.id/underground-iptv-team/balitv.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",daaitv @
 http://kunyak.my.id/underground-iptv-team/daaitv.m3u8
 
@@ -527,12 +525,10 @@ http://kunyak.my.id/underground-iptv-team/rtv.m3u8
 http://tvn.x10.mx/live/master-16.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",ZOOMO
-http://kunyak.my.id/underground-iptv-team/zoomo.m3u8
-http://tvn.x10.mx/live/master-17.m3u8
+##http://tvn.x10.mx/live/master-17.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",tvN
-http://kunyak.my.id/underground-iptv-team/tvn.m3u8
-http://tvn.x10.mx/live/master-18.m3u8
+##http://tvn.x10.mx/live/master-18.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Zee.bioskop
 ##http://tvn.x10.mx/live/master-19.m3u8
