@@ -78,6 +78,12 @@ http://iptvid.my.id/hmm/useetl1.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseeSports_2 
 http://iptvid.my.id/hmm/useetl2.m3u8
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", UseeSport1_backup
+http://mohtarif.online:5555/97887222/97887222/39554?token=HxpcVkcJFg4RUVUEBV0PUFtQUQFRXwIEBAFVVAUFBVYCWQAOAFMCAVBAT0BDEUtRWQhtXlYbDwFYBlQDHRNAFwFKa15QQw4WAltQUANHFRZMDF9SEAMEBFQLVAYGAg1dSBpEXlBDDlpGDg9OEgBBQF0XXFZeZlFXF1oCUxMLWxEIVBgVWw9rUFYPAgxURwMWCUceFVtKRRBbXRRaXR0XBg1MRlZABBYOXRcPDhxHWltNC0ZFSxsPECh3QxoTVE0QAVZHXlsPFg4RFhBAHEdQR2cXV0RGS1BTDFYTFAsTBUZIGllWTD5XW10MBgFEDFZaS0cIFQMbGRAMXA9fRV5HOxRRUBUOD0FYXx8=
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", UseeSport2_backup
+http://mohtarif.online:5555/97887222/97887222/39555?token=HxpcVkcJFg4RUVUEBV0PUFtQUQFRXwIEBAFVVAUFBVYCWQAOAFMCAVBAT0BDEUtRWQhtXlYbDwFYBlQDHRNAFwFKa15QQw4WAltQUANHFRZMDF9SEAMEBFQLVAYGAg1dSBpEXlBDDlpGDg9OEgBBQF0XXFZeZlFXF1oCUxMLWxEIVBgVWw9rUFYPAgxURwMWCUceFVtKRRBbXRRaXR0XBg1MRlZABBYOXRcPDhxHWltNC0ZFSxsPECh3QxoTVE0QAVZHXlsPFg4RFhBAHEdQR2cXV0RGS1BTDFYTFAsTBUZIGllWTD5XW10MBgFEDFZaS0cIFQMbGRAMXA9fRV5HOxRRUBUOD0FYXx8=
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@Relax",ChampionTv1
 http://tv.zonanime.my.id/vidio/championstv1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@Relax",ChampionTv2
@@ -442,17 +448,34 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 
+
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Fight_sports @
+http://mohtarif.online:5555/97887222/97887222/39551?token=HxpcVkcJFg4RUVUEBV0PUFtQUQFRXwIEBAFVVAUFBVYCWQAOAFMCAVBAT0BDEUtRWQhtXlYbDwFYBlQDHRNAFwFKa15QQw4WAltQUANHFRZMDF9SEAMEBFQLVAYGAg1dSBpEXlBDDlpGDg9OEgBBQF0XXFZeZlFXF1oCUxMLWxEIVBgVWw9rUFYPAgxURwMWCUceFVtKRRBbXRRaXR0XBg1MRlZABBYOXRcPDhxHWltNC0ZFSxsPECh3QxoTVE0QAVZHXlsPFg4RFhBAHEdQR2cXV0RGS1BTDFYTFAsTBUZIGllWTD5XW10MBgFEDFZaS0cIFQMbGRAMXA9fRV5HOxRRUBUOD0FYXx8=
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",BeinSports_1 @
+http://mohtarif.online:5555/97887222/97887222/39552?token=HxpcVkcJFg4RUVUEBV0PUFtQUQFRXwIEBAFVVAUFBVYCWQAOAFMCAVBAT0BDEUtRWQhtXlYbDwFYBlQDHRNAFwFKa15QQw4WAltQUANHFRZMDF9SEAMEBFQLVAYGAg1dSBpEXlBDDlpGDg9OEgBBQF0XXFZeZlFXF1oCUxMLWxEIVBgVWw9rUFYPAgxURwMWCUceFVtKRRBbXRRaXR0XBg1MRlZABBYOXRcPDhxHWltNC0ZFSxsPECh3QxoTVE0QAVZHXlsPFg4RFhBAHEdQR2cXV0RGS1BTDFYTFAsTBUZIGllWTD5XW10MBgFEDFZaS0cIFQMbGRAMXA9fRV5HOxRRUBUOD0FYXx8=
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",BeinSport_3 @
+http://mohtarif.online:5555/97887222/97887222/39553?token=HxpcVkcJFg4RUVUEBV0PUFtQUQFRXwIEBAFVVAUFBVYCWQAOAFMCAVBAT0BDEUtRWQhtXlYbDwFYBlQDHRNAFwFKa15QQw4WAltQUANHFRZMDF9SEAMEBFQLVAYGAg1dSBpEXlBDDlpGDg9OEgBBQF0XXFZeZlFXF1oCUxMLWxEIVBgVWw9rUFYPAgxURwMWCUceFVtKRRBbXRRaXR0XBg1MRlZABBYOXRcPDhxHWltNC0ZFSxsPECh3QxoTVE0QAVZHXlsPFg4RFhBAHEdQR2cXV0RGS1BTDFYTFAsTBUZIGllWTD5XW10MBgFEDFZaS0cIFQMbGRAMXA9fRV5HOxRRUBUOD0FYXx8=
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",ChampionTV_1 @
+http://mohtarif.online:5555/97887222/97887222/39556?token=HxpcVkcJFg4RUVUEBV0PUFtQUQFRXwIEBAFVVAUFBVYCWQAOAFMCAVBAT0BDEUtRWQhtXlYbDwFYBlQDHRNAFwFKa15QQw4WAltQUANHFRZMDF9SEAMEBFQLVAYGAg1dSBpEXlBDDlpGDg9OEgBBQF0XXFZeZlFXF1oCUxMLWxEIVBgVWw9rUFYPAgxURwMWCUceFVtKRRBbXRRaXR0XBg1MRlZABBYOXRcPDhxHWltNC0ZFSxsPECh3QxoTVE0QAVZHXlsPFg4RFhBAHEdQR2cXV0RGS1BTDFYTFAsTBUZIGllWTD5XW10MBgFEDFZaS0cIFQMbGRAMXA9fRV5HOxRRUBUOD0FYXx8=
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",ChampionTV_2 @
+http://mohtarif.online:5555/97887222/97887222/39557?token=HxpcVkcJFg4RUVUEBV0PUFtQUQFRXwIEBAFVVAUFBVYCWQAOAFMCAVBAT0BDEUtRWQhtXlYbDwFYBlQDHRNAFwFKa15QQw4WAltQUANHFRZMDF9SEAMEBFQLVAYGAg1dSBpEXlBDDlpGDg9OEgBBQF0XXFZeZlFXF1oCUxMLWxEIVBgVWw9rUFYPAgxURwMWCUceFVtKRRBbXRRaXR0XBg1MRlZABBYOXRcPDhxHWltNC0ZFSxsPECh3QxoTVE0QAVZHXlsPFg4RFhBAHEdQR2cXV0RGS1BTDFYTFAsTBUZIGllWTD5XW10MBgFEDFZaS0cIFQMbGRAMXA9fRV5HOxRRUBUOD0FYXx8=
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",NBA_TV @
+http://mohtarif.online:5555/97887222/97887222/39558?token=HxpcVkcJFg4RUVUEBV0PUFtQUQFRXwIEBAFVVAUFBVYCWQAOAFMCAVBAT0BDEUtRWQhtXlYbDwFYBlQDHRNAFwFKa15QQw4WAltQUANHFRZMDF9SEAMEBFQLVAYGAg1dSBpEXlBDDlpGDg9OEgBBQF0XXFZeZlFXF1oCUxMLWxEIVBgVWw9rUFYPAgxURwMWCUceFVtKRRBbXRRaXR0XBg1MRlZABBYOXRcPDhxHWltNC0ZFSxsPECh3QxoTVE0QAVZHXlsPFg4RFhBAHEdQR2cXV0RGS1BTDFYTFAsTBUZIGllWTD5XW10MBgFEDFZaS0cIFQMbGRAMXA9fRV5HOxRRUBUOD0FYXx8=
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",EGG @
+http://mohtarif.online:5555/97887222/97887222/39559?token=HxpcVkcJFg4RUVUEBV0PUFtQUQFRXwIEBAFVVAUFBVYCWQAOAFMCAVBAT0BDEUtRWQhtXlYbDwFYBlQDHRNAFwFKa15QQw4WAltQUANHFRZMDF9SEAMEBFQLVAYGAg1dSBpEXlBDDlpGDg9OEgBBQF0XXFZeZlFXF1oCUxMLWxEIVBgVWw9rUFYPAgxURwMWCUceFVtKRRBbXRRaXR0XBg1MRlZABBYOXRcPDhxHWltNC0ZFSxsPECh3QxoTVE0QAVZHXlsPFg4RFhBAHEdQR2cXV0RGS1BTDFYTFAsTBUZIGllWTD5XW10MBgFEDFZaS0cIFQMbGRAMXA9fRV5HOxRRUBUOD0FYXx8=
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Champion_1
-http://tvn.x10.mx/live/master-7.m3u8
+##http://tvn.x10.mx/live/master-7.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Champion_2
-http://tvn.x10.mx/live/master-8.m3u8
+##http://tvn.x10.mx/live/master-8.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Champion_3
-http://tvn.x10.mx/live/master-9.m3u8
+##http://tvn.x10.mx/live/master-9.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",ChampionGoal
-http://tvn.x10.mx/live/master-10.m3u8
+##http://tvn.x10.mx/live/master-10.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Sctv_HD
 http://kunyak.my.id/underground-iptv-team/sctv.m3u8
@@ -471,25 +494,25 @@ http://kunyak.my.id/underground-iptv-team/daaitv.m3u8
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Citra_bioskop
-http://tvn.x10.mx/live/master-2.m3u8
+##http://tvn.x10.mx/live/master-2.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Citra_drama
-http://tvn.x10.mx/live/master-3.m3u8
+##http://tvn.x10.mx/live/master-3.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",HIP.HIP.Horee
-http://tvn.x10.mx/live/master-4.m3u8
+##http://tvn.x10.mx/live/master-4.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Citra_Muslim
-http://tvn.x10.mx/live/master-5.m3u8
+##http://tvn.x10.mx/live/master-5.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",HOREE
-http://tvn.x10.mx/live/master-6.m3u8
+##http://tvn.x10.mx/live/master-6.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Citra_Dangdut
-ttp://tvn.x10.mx/live/master-11.m3u8
+##http://tvn.x10.mx/live/master-11.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Citra_Entertaiment
-http://tvn.x10.mx/live/master-12.m3u8
+##http://tvn.x10.mx/live/master-12.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",AjwaTv
 http://kunyak.my.id/underground-iptv-team/ajwatv.m3u8
@@ -512,23 +535,23 @@ http://kunyak.my.id/underground-iptv-team/tvn.m3u8
 http://tvn.x10.mx/live/master-18.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Zee.bioskop
-http://tvn.x10.mx/live/master-19.m3u8
+##http://tvn.x10.mx/live/master-19.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Musica
 http://kunyak.my.id/underground-iptv-team/musica.m3u8
 http://tvn.x10.mx/live/master-20.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Radio.Nagaswara
-http://tvn.x10.mx/live/master-21.m3u8
+##http://tvn.x10.mx/live/master-21.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Radio.cakraFM_bandung
-http://tvn.x10.mx/live/master-22.m3u8
+##http://tvn.x10.mx/live/master-22.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",LFC
-http://tvn.x10.mx/live/master-31.m3u8
+##http://tvn.x10.mx/live/master-31.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",RAN_ENTERTAINMENT
-http://tvn.x10.mx/live/master-32.m3u8
+##http://tvn.x10.mx/live/master-32.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",MentariTV
 http://kunyak.my.id/underground-iptv-team/mentaritv.m3u8
