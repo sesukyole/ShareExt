@@ -78,6 +78,8 @@ http://iptvid.my.id/hmm/useetl1.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseeSports_2 
 http://iptvid.my.id/hmm/useetl2.m3u8
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", UseeSport1_bc
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/49
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", UseeSport1_backup
 http://mohtarif.online:5555/97887222/97887222/39554?token=HxpcVkcJFg4RUVUEBV0PUFtQUQFRXwIEBAFVVAUFBVYCWQAOAFMCAVBAT0BDEUtRWQhtXlYbDwFYBlQDHRNAFwFKa15QQw4WAltQUANHFRZMDF9SEAMEBFQLVAYGAg1dSBpEXlBDDlpGDg9OEgBBQF0XXFZeZlFXF1oCUxMLWxEIVBgVWw9rUFYPAgxURwMWCUceFVtKRRBbXRRaXR0XBg1MRlZABBYOXRcPDhxHWltNC0ZFSxsPECh3QxoTVE0QAVZHXlsPFg4RFhBAHEdQR2cXV0RGS1BTDFYTFAsTBUZIGllWTD5XW10MBgFEDFZaS0cIFQMbGRAMXA9fRV5HOxRRUBUOD0FYXx8=
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", UseeSport2_backup
@@ -90,8 +92,8 @@ http://tv.zonanime.my.id/vidio/championstv1.m3u8
 http://tv.zonanime.my.id/vidio/championstv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@Relax",ChampionTv3
 http://tv.zonanime.my.id/vidio/championstv3.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@Relax",ChampionGoall
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/48
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",MY:Astro@Arena
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/157485
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",MY:Astro@Arena-2
