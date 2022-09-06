@@ -10,9 +10,10 @@ https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Fight_KUKURUYU
 https://z0gdu9jmgu.rtmp-now.com/hls/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(tvn_digital)
+http://tvn.x10.mx/live/master.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar 
 http://kunyak.my.id/underground-iptv-team/indosiar.m3u8
-http://tvn.x10.mx/live/master.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(protv) 
 http://pprotv.com:80/97887222/97887222/39427
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(kv) 
@@ -25,6 +26,7 @@ http://203.77.246.50:5000/udp/239.1.1.110:5000
 http://203.77.246.50:5000/udp/239.1.3.80:5000
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",O_chanel 
 http://kunyak.my.id/underground-iptv-team/ochannel.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",O_chanel(tvn_digital) 
 http://tvn.x10.mx/vidio/master-13.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",O_chanel(kv) 
 http://tvlive.my.id:25461/kevin/kevin/21
@@ -32,8 +34,8 @@ http://tvlive.my.id:25461/kevin/kevin/21
 http://tvlive.my.id:25461/kevin/kevin/22
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MentariTV
 http://kunyak.my.id/underground-iptv-team/mentaritv.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MentariTV(tvn_digital)
 http://tvn.x10.mx/vidio/master-23.m3u8
-
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RCTI(kv)
 http://tvlive.my.id:25461/kevin/kevin/5
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MNCTV(kv)
@@ -465,20 +467,22 @@ http://mohtarif.online:5555/97887222/97887222/39558?token=HxpcVkcJFg4RUVUEBV0PUF
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",EGG @
 http://mohtarif.online:5555/97887222/97887222/39559?token=HxpcVkcJFg4RUVUEBV0PUFtQUQFRXwIEBAFVVAUFBVYCWQAOAFMCAVBAT0BDEUtRWQhtXlYbDwFYBlQDHRNAFwFKa15QQw4WAltQUANHFRZMDF9SEAMEBFQLVAYGAg1dSBpEXlBDDlpGDg9OEgBBQF0XXFZeZlFXF1oCUxMLWxEIVBgVWw9rUFYPAgxURwMWCUceFVtKRRBbXRRaXR0XBg1MRlZABBYOXRcPDhxHWltNC0ZFSxsPECh3QxoTVE0QAVZHXlsPFg4RFhBAHEdQR2cXV0RGS1BTDFYTFAsTBUZIGllWTD5XW10MBgFEDFZaS0cIFQMbGRAMXA9fRV5HOxRRUBUOD0FYXx8=
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Champion_1
-##http://tvn.x10.mx/live/master-7.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Champion_1(tvn_digital)
+http://tvn.x10.mx/live/master-7.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Champion_2
-##http://tvn.x10.mx/live/master-8.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Champion_2(tvn_digital)
+http://tvn.x10.mx/live/master-8.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Champion_3
-##http://tvn.x10.mx/live/master-9.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Champion_3(tvn_digital)
+http://tvn.x10.mx/live/master-9.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",ChampionGoal
-##http://tvn.x10.mx/live/master-10.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",ChampionGoal(tvn_digital)
+http://tvn.x10.mx/live/master-10.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Sctv_HD
 http://kunyak.my.id/underground-iptv-team/sctv.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",sctv(tvn_digital)
 http://tvn.x10.mx/live/master-1.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",kompastv @
@@ -491,66 +495,76 @@ http://kunyak.my.id/underground-iptv-team/net.m3u8
 http://kunyak.my.id/underground-iptv-team/daaitv.m3u8
 
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Citra_bioskop
-##http://tvn.x10.mx/live/master-2.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Citra_bioskop(tvn_digital)
+http://tvn.x10.mx/live/master-2.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Citra_drama
-##http://tvn.x10.mx/live/master-3.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Citra_drama(tvn_digital)
+http://tvn.x10.mx/live/master-3.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",HIP.HIP.Horee
-##http://tvn.x10.mx/live/master-4.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",HIP.HIP.Horee(tvn_digital)
+http://tvn.x10.mx/live/master-4.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Citra_Muslim
-##http://tvn.x10.mx/live/master-5.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Citra_Muslim(tvn_digital)
+http://tvn.x10.mx/live/master-5.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",HOREE
-##http://tvn.x10.mx/live/master-6.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",HOREE(tvn_digital)
+http://tvn.x10.mx/live/master-6.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Citra_Dangdut
-##http://tvn.x10.mx/live/master-11.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Citra_Dangdut(tvn_digital)
+http://tvn.x10.mx/live/master-11.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Citra_Entertaiment
-##http://tvn.x10.mx/live/master-12.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Citra_Entertaiment(tvn_digital)
+http://tvn.x10.mx/live/master-12.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",AjwaTv
 http://kunyak.my.id/underground-iptv-team/ajwatv.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",AjwaTv(tvn_digital)
 http://tvn.x10.mx/live/master-14.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",ANtv
 http://kunyak.my.id/underground-iptv-team/antv.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",ANtv(tvn_digital)
 http://tvn.x10.mx/live/master-15.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",RTV
 http://kunyak.my.id/underground-iptv-team/rtv.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",RTV(tvn_digital)
 http://tvn.x10.mx/live/master-16.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",ZOOMO
-##http://tvn.x10.mx/live/master-17.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",ZOOMO(tvn_digital)
+http://tvn.x10.mx/live/master-17.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",tvN
-##http://tvn.x10.mx/live/master-18.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",tvN(tvn_digital)
+http://tvn.x10.mx/live/master-18.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Zee.bioskop
-##http://tvn.x10.mx/live/master-19.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Zee.bioskop(tvn_digital)
+http://tvn.x10.mx/live/master-19.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Musica
 http://kunyak.my.id/underground-iptv-team/musica.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Musica(tvn_digital)
 http://tvn.x10.mx/live/master-20.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Radio.Nagaswara
-##http://tvn.x10.mx/live/master-21.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Radio.Nagaswara(tvn_digital)
+http://tvn.x10.mx/live/master-21.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Radio.cakraFM_bandung
-##http://tvn.x10.mx/live/master-22.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Radio.cakraFM_bandung(tvn_digital)
+http://tvn.x10.mx/live/master-22.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",LFC
-##http://tvn.x10.mx/live/master-31.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",LFC(tvn_digital)
+http://tvn.x10.mx/live/master-31.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",RAN_ENTERTAINMENT
-##http://tvn.x10.mx/live/master-32.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",RAN_ENTERTAINMENT(tvn_digital)
+http://tvn.x10.mx/live/master-32.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",MentariTV
 http://kunyak.my.id/underground-iptv-team/mentaritv.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",MentariTV(tvn_digital)
 http://tvn.x10.mx/live/master-23.m3u8
 
 
