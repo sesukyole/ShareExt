@@ -22,10 +22,13 @@ http://tvlive.my.id:25461/mat/mat/11
 http://203.77.246.50:5000/udp/239.1.1.110:5000
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RCTI(K-Vision)
 http://203.77.246.50:5000/udp/239.1.3.80:5000
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",O_chanel(tvn_digital) 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",moji/O_chanel(tvn_digital) 
 http://tvn.x10.mx/vidio/master-13.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",O_chanel(kv) 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",moji/O_chanel(kv) 
 http://tvlive.my.id:25461/kevin/kevin/21
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",moji/O_chanel(mt) 
+http://tvlive.my.id:25461/mat/mat/21
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MentariTV(kv)
 http://tvlive.my.id:25461/kevin/kevin/22
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MentariTV(tvn_digital)
@@ -742,9 +745,9 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MY - ASSP1" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@nonton_Sports",USEE.SP1
-http://tvlive.my.id:25461/mat/mat/32
+http://tvlive.my.id:25461/kevin/kevin/32
 #EXTINF:-1 tvg-id="" tvg-name="MY - ASSP1" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@nonton_Sports",USEE.SP2
-http://tvlive.my.id:25461/mat/mat/33
+http://tvlive.my.id:25461/kevin/kevin/33
 #EXTINF:-1 tvg-id="" tvg-name="MY - ASSP1" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@nonton_Sports",ASSP1
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/46413
 #EXTINF:-1 tvg-id="" tvg-name="MY - ASSP2" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@nonton_Sports",ASSP2
