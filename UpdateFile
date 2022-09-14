@@ -12,8 +12,8 @@ https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 https://z0gdu9jmgu.rtmp-now.com/hls/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(tvn_digital)
 http://tvn.x10.mx/live/master.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiarHD-skyindo
-http://103.226.232.199:8008/play/a083/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiarHD
+http://103.226.232.199:9003/play/a0af/index.m3u8
 https://lnk.ec/shareext@indosiarHD.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(kv) 
 http://tvlive.my.id:25461/kevin/kevin/11
@@ -34,13 +34,6 @@ http://tvlive.my.id:25461/mat/mat/21
 http://tvlive.my.id:25461/kevin/kevin/22
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MentariTV(tvn_digital)
 http://tvn.x10.mx/vidio/master-23.m3u8
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Trans7HD-skyindo
-http://103.226.232.199:8008/play/a084/index.m3u8
-https://lnk.ec/shareext@trans7HD.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SctvHD-skyindo
-http://103.226.232.199:8008/play/a08w/index.m3u8
-https://lnk.ec/shareext@sctvHD.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RCTI(kv)
 http://tvlive.my.id:25461/kevin/kevin/5
