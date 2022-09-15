@@ -80,10 +80,15 @@ http://iptvid.my.id/hmm/useetl2.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", UseeSport1_bc
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/49
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseeSports_1-rolling
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/usee.m3u8|User-Agent=4sR2SwYYeg
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseeSports_2-rolling 
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/usee2.m3u8|User-Agent=4sR2SwYYeg
+
+#EXTINF:-1 tvg-id="UseeSports.id" tvg-name="UseeSport  1" tvg-logo="https://i.ibb.co/WKyLMfQ/usee1.png" group-title="ShareExt@Relax",UseeSport1(rolling)
+http://syok.tv:2082/12345/54321/2551
+#EXTINF:-1 tvg-id="UseeSports2.id" tvg-name="UseeSport  2" tvg-logo="https://i.ibb.co/WKyLMfQ/usee1.png" group-title="ShareExt@Relax",UseeSport2(rolling)
+http://syok.tv:2082/12345/54321/2552
+#EXTINF:-1 tvg-id="Champions1.MACAN" tvg-name="Champion TV1" tvg-logo="https://i.imgur.com/xkPu3nt.png" group-title="ShareExt@Relax",Champion.TV1(rolling)
+http://syok.tv:2082/12345/54321/5845
+#EXTINF:-1 tvg-id="Champions2.MACAN" tvg-name="Champion TV2" tvg-logo="https://i.imgur.com/lgW3GlD.png" group-title="ShareExt@Relax",Champion.TV2(rolling)
+http://syok.tv:2082/12345/54321/5846
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@Relax",ChampionTv1
 http://tv.zonanime.my.id/vidio/championstv1.m3u8
