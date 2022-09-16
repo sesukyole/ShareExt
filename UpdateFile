@@ -651,15 +651,40 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@2022_CODAY_USEE",USSP_1
+
+
+#EXTINF:-1 tvg-id="SPOTV.MACAN" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/FsgFTMW/SPOTV.png" group-title="SHAREEXT@2022_CODAY_USEE",SPOTV
+http://tvlive.my.id:25461/mat/mat/27
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://i.ibb.co/T8HY0rn/SPOTV2.png" group-title="SHAREEXT@2022_CODAY_USEE",SPOTV 2
+http://tvlive.my.id:25461/mat/mat/28
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="Astro Supersports 1" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="SHAREEXT@2022_CODAY_USEE",Astro Arena
 http://tvlive.my.id:25461/mat/mat/32
-#https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/usee.m3u8|User-Agent=ngentut
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@2022_CODAY_USEE",USSP_2
+#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="Astro Supersports 2" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="SHAREEXT@2022_CODAY_USEE",Astro Supersports 2
 http://tvlive.my.id:25461/mat/mat/33
-#https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/usee2.m3u8|User-Agent=ngentut
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@2022_CODAY_USEE",SPOtv
+#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="Astro Supersports 3" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="SHAREEXT@2022_CODAY_USEE",Astro Supersports 3
+http://tvlive.my.id:25461/mat/mat/41
+#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="Astro Supersports 4" tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="SHAREEXT@2022_CODAY_USEE",Astro Supersports 4
+http://tvlive.my.id:25461/mat/mat/42
+#EXTINF:-1 tvg-id="ASSP5.my" tvg-name="Astro Supersports 5" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="SHAREEXT@2022_CODAY_USEE",Astro Supersports 5
+http://tvlive.my.id:25461/mat/mat/43
+#EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="Bein Sports 1 ID" tvg-logo="https://i.ibb.co/m04SNRx/BEINSPORTS1.png" group-title="SHAREEXT@2022_CODAY_USEE",Bein Sports 1 ID
+http://tvlive.my.id:25461/mat/mat/45
+#EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-name="Bein Sports 3 ID" tvg-logo="https://i.ibb.co/r3QBT9h/BEINSPORTS3.png" group-title="SHAREEXT@2022_CODAY_USEE",Bein Sports 3 ID
+http://tvlive.my.id:25461/mat/mat/48
+#EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="Abu Dhabi Sports 1" tvg-logo="https://i.ibb.co/xgLRW9m/ADSPORTS1.png" group-title="SHAREEXT@2022_CODAY_USEE",AbuDhabi Sports 1
+http://tvlive.my.id:25461/mat/mat/50
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 2" tvg-logo="https://i.ibb.co/zhN8nYb/ADSPORTS2.png" group-title="SHAREEXT@2022_CODAY_USEE",AbuDhabi Sports 2
+http://tvlive.my.id:25461/mat/mat/51
+#EXTINF:-1 tvg-id="Hits.MACAN" tvg-name="Sports TV" tvg-logo="https://www.logolynx.com/images/logolynx/49/49ebc79edbe4b5571b385790853881de.png" group-title="SHAREEXT@2022_CODAY_USEE",Sports TV
+http://tvlive.my.id:25461/mat/mat/56
+#EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="MU TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a0/Mutv_new_logo.png" group-title="SHAREEXT@2022_CODAY_USEE",MU TV
+http://tvlive.my.id:25461/mat/mat/58
+#EXTINF:-1 tvg-id="FightSports.MACAN" tvg-name="Fight Sports" tvg-logo="https://i.ibb.co/X2jnCKj/FIGHTSPORTS.png" group-title="SHAREEXT@2022_CODAY_USEE",Fight Sports
+http://tvlive.my.id:25461/mat/mat/65
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@2022_CODAY_USEE",SPOtv(bc)
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1658678403~exp=9007200913419394~acl=/99545824f51f4c1592b35314c6ece3b0/*/https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8*~hmac=e94149ba9daa152c0579d62c19e8dd7a84428e76284a0157a12571c1f34ced00
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@2022_CODAY_USEE",SPOtv_2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@2022_CODAY_USEE",SPOtv_2(bc)
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1658678407~exp=9007200913419398~acl=/48eee16919834d3b97df1082a649bcfa/*/https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8*~hmac=3ee27a47c54ec5e20cf36ffc2bc517d5ec801e66db12ed4bd537cf8dda20e085
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_big.png?v=2.0.1.16" group-title="SHAREEXT@2022_CODAY_USEE",RuangTrampil_USEETV 
@@ -745,10 +770,6 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASSP1" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@nonton_Sports",USEE.SP1
-http://tvlive.my.id:25461/kevin/kevin/32
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASSP1" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@nonton_Sports",USEE.SP2
-http://tvlive.my.id:25461/kevin/kevin/33
 #EXTINF:-1 tvg-id="" tvg-name="MY - ASSP1" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@nonton_Sports",ASSP1
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/46413
 #EXTINF:-1 tvg-id="" tvg-name="MY - ASSP2" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@nonton_Sports",ASSP2
@@ -1974,15 +1995,15 @@ https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
 http://tvlive.my.id:25461/mat/mat/27
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://i.ibb.co/T8HY0rn/SPOTV2.png" group-title="ShareExt@IPTV_Sports",SPOTV 2
 http://tvlive.my.id:25461/mat/mat/28
-#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="Astro Supersports 1" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="ShareExt@IPTV_Sports",UseeSport_1
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="Astro Supersports 1" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="ShareExt@IPTV_Sports",astroArena
 http://tvlive.my.id:25461/mat/mat/32
-#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="Astro Supersports 2" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="ShareExt@IPTV_Sports",UseeSport_2
+#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="Astro Supersports 2" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="ShareExt@IPTV_Sports",ASSP_2
 http://tvlive.my.id:25461/mat/mat/33
-#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="Astro Supersports 3" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="ShareExt@IPTV_Sports",Astro.Arena
+#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="Astro Supersports 3" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="ShareExt@IPTV_Sports",ASSP_3
 http://tvlive.my.id:25461/mat/mat/41
-#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="Astro Supersports 4" tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="ShareExt@IPTV_Sports",Astro.ARENA_2
+#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="Astro Supersports 4" tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="ShareExt@IPTV_Sports",ASSP_4
 http://tvlive.my.id:25461/mat/mat/42
-#EXTINF:-1 tvg-id="ASSP5.my" tvg-name="Astro Supersports 5" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="ShareExt@IPTV_Sports",TVRI_SPORTS
+#EXTINF:-1 tvg-id="ASSP5.my" tvg-name="Astro Supersports 5" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="ShareExt@IPTV_Sports",ASSP_5
 http://tvlive.my.id:25461/mat/mat/43
 #EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="Bein Sports 1 ID" tvg-logo="https://i.ibb.co/m04SNRx/BEINSPORTS1.png" group-title="ShareExt@IPTV_Sports",BeinSports 1 ID
 http://tvlive.my.id:25461/mat/mat/45
