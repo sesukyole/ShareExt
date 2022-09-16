@@ -15,7 +15,7 @@ http://tvn.x10.mx/live/master.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiarHD
 http://103.226.232.199:9003/play/a0af/index.m3u8
 https://lnk.ec/shareext@indosiarHD.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiarHD+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiarHD+(dec=auto)
 http://103.226.232.199:8008/play/a083/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(kv) 
 http://tvlive.my.id:25461/kevin/kevin/11
@@ -23,9 +23,9 @@ http://tvlive.my.id:25461/kevin/kevin/11
 http://tvlive.my.id:25461/mat/mat/11
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(kVision)
 http://203.77.246.50:5000/udp/239.1.1.110:5000
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SCTV_HD+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SCTV_HD+(dec=auto)
 http://103.226.232.199:8008/play/a08w/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TRANS_7HD+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TRANS_7HD+(dec=auto)
 http://103.226.232.199:8008/play/a084/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RCTI(K-Vision)
 http://203.77.246.50:5000/udp/239.1.3.80:5000
