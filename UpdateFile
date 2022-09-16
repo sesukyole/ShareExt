@@ -15,6 +15,8 @@ http://tvn.x10.mx/live/master.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiarHD
 http://103.226.232.199:9003/play/a0af/index.m3u8
 https://lnk.ec/shareext@indosiarHD.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiarHD+
+http://103.226.232.199:8008/play/a083/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(kv) 
 http://tvlive.my.id:25461/kevin/kevin/11
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(mt) 
