@@ -1050,6 +1050,37 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/115318
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽India",Fightbox HD_p
+http://103.162.136.235:4500/play/a02w/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽India",Golf Chanell_p
+http://103.162.136.235:4500/play/a02v/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽India",RT Sports_p
+http://103.162.136.235:4500/play/a03c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽India",Six HD_p
+http://103.162.136.235:4500/play/a01a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽India",SonyTen 1 HD_p
+http://103.162.136.235:4500/play/a018/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽India",SonyTen 2 HD_p
+http://103.162.136.235:4500/play/a00o/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽India",SonyTen 3 HD_p
+http://103.162.136.235:4500/play/a01d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽India",StarSports 1 HD_p
+http://103.162.136.235:4500/play/a015/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽India",StarSports 1 Hindi HD_p
+http://103.162.136.235:4500/play/a017/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽India",StarSports 2 HD_p
+http://103.162.136.235:4500/play/a016/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽India",StarSports 3_p
+http://103.162.136.235:4500/play/a013/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽India",StarSelect 1 HD_p
+http://103.162.136.235:4500/play/a00v/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽India",StarSelect 2 HD_p
+http://103.162.136.235:4500/play/a00w/index.m3u8
+
+
 #EXTINF:-1 tvg-id="ddsports.in" tvg-name="DD Sports IN" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽India",DD Sports
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136518
 #EXTINF:-1 tvg-id="" tvg-name="GEO Super HD IN" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽India",GEO Super HD
@@ -1075,6 +1106,50 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136555
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽US Sports",DAZN F1 HD
+http://154.54.220.247:51323/play/a03d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽US Sports",DAZN LaLiga2 HD
+http://154.54.220.247:51323/play/a034/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽US Sports",DAZN LaLigaHD
+http://154.54.220.247:51323/play/a030/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽US Sports",LigaSmartBank2HD
+http://154.54.220.247:51323/play/a037/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽US Sports",LigaSmartBankHD
+http://154.54.220.247:51323/play/a036/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽US Sports",M+ LaLiga HD
+http://154.54.220.247:51323/play/a032/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽US Sports",M+LCAMPEONES
+http://154.54.220.247:51323/play/a03c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽US Sports",TOROS HD
+http://154.54.220.247:51323/play/a03e/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽US Sports",WinSports_p
+http://190.131.228.59:8000/play/a04m/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽US Sports",WinSports+HD_p
+http://190.131.228.59:8000/play/a0e2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽US Sports",TyC Sports_p
+http://190.131.228.59:8000/play/a05v/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽US Sports",TNT.SPORTS 2
+http://190.131.228.59:8000/play/a059/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽US Sports",GOL.TV
+http://190.131.228.59:8000/play/a05u/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽US Sports",FoxSports_p
+http://190.131.228.59:8000/play/a05r/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽US Sports",FoxSports2_p
+http://190.131.228.59:8000/play/a065/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽US Sports",FoxSports3_p
+http://190.131.228.59:8000/play/a066/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽US Sports",ESPN CO
+http://190.131.228.59:8000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽US Sports",ESPN HD_p
+http://190.131.228.59:8000/play/a0g2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽US Sports",ESPN 2 HD_p
+http://190.131.228.59:8000/play/a0g4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN⚽US Sports",ESPN3 HD_p
+http://190.131.228.59:8000/play/a0g3/index.m3u8
 
 
 #EXTINF:-1 tvg-id="beIN Sports (English)" tvg-name="beIN Sports Connect HD US" tvg-logo="http://www.apkindirx.com/wp-content/uploads/2017/10/unnamed-10.png" group-title="SHAREEXT@SUKAN⚽US Sports",beINSports Connect HD
