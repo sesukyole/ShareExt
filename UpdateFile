@@ -683,6 +683,10 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 http://tvlive.my.id:25461/mat/mat/27
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://i.ibb.co/T8HY0rn/SPOTV2.png" group-title="SHAREEXT@2022_CODAY_USEE",SPOTV 2
 http://tvlive.my.id:25461/mat/mat/28
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13" group-title="SHAREEXT@2022_CODAY_USEE",US-1 
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/usee.m3u8|user-agent=f77hLja8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13" group-title="SHAREEXT@2022_CODAY_USEE",US-2 
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/usee2.m3u8|user-agent=f77hLja8
 #EXTINF:-1 tvg-id="ASSP1.my" tvg-name="Astro Supersports 1" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="SHAREEXT@2022_CODAY_USEE",Astro Arena
 http://tvlive.my.id:25461/mat/mat/32
 #EXTINF:-1 tvg-id="ASSP2.my" tvg-name="Astro Supersports 2" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="SHAREEXT@2022_CODAY_USEE",Astro Supersports 2
