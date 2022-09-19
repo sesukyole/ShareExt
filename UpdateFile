@@ -31,7 +31,7 @@ http://5gfksa.ltd:2052/991155/551199/205554
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Fight_KUKURUYU
 https://z0gdu9jmgu.rtmp-now.com/hls/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(tvn_digital)
-http://tvn.x10.mx/live/master.m3u8
+http://tvn.x10.mx/playlist/master.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiarHD
 http://103.226.232.199:9003/play/a0af/index.m3u8
 https://lnk.ec/shareext@indosiarHD.m3u8
@@ -50,7 +50,7 @@ http://103.226.232.199:8008/play/a084/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RCTI(K-Vision)
 http://203.77.246.50:5000/udp/239.1.3.80:5000
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",moji/O_chanel(tvn_digital) 
-http://tvn.x10.mx/vidio/master-13.m3u8
+http://tvn.x10.mx/playlist/master-13.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",moji/O_chanel(kv) 
 http://tvlive.my.id:25461/kevin/kevin/21
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",moji/O_chanel(mt) 
@@ -59,7 +59,7 @@ http://tvlive.my.id:25461/mat/mat/21
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MentariTV(kv)
 http://tvlive.my.id:25461/kevin/kevin/22
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MentariTV(tvn_digital)
-http://tvn.x10.mx/vidio/master-23.m3u8
+http://tvn.x10.mx/playlist/master-23.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RCTI(kv)
 http://tvlive.my.id:25461/kevin/kevin/5
@@ -461,86 +461,81 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MTV Yo!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",tesst.1
-#EXTVLCOPT:http-user-agent=babi
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/champ1etdahluapainnih|User-Agent=babi
+
 
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Champion_1(tvn_digital)
-http://tvn.x10.mx/live/master-7.m3u8
+http://tvn.x10.mx/playlist/master-7.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Champion_2(tvn_digital)
-http://tvn.x10.mx/live/master-8.m3u8
+http://tvn.x10.mx/playlist/master-8.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Champion_3(tvn_digital)
-http://tvn.x10.mx/live/master-9.m3u8
+http://tvn.x10.mx/playlist/master-9.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",ChampionGoal(tvn_digital)
-http://tvn.x10.mx/live/master-10.m3u8
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Sctv_HD
-http://kunyak.my.id/underground-iptv-team/sctv.m3u8
+http://tvn.x10.mx/playlist/master-10.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",sctv(tvn_digital)
-http://tvn.x10.mx/live/master-1.m3u8
+http://tvn.x10.mx/playlist/master-1.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Citra_bioskop(tvn_digital)
-http://tvn.x10.mx/live/master-2.m3u8
+http://tvn.x10.mx/playlist/master-2.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Citra_drama(tvn_digital)
-http://tvn.x10.mx/live/master-3.m3u8
+http://tvn.x10.mx/playlist/master-3.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",HIP.HIP.Horee(tvn_digital)
-http://tvn.x10.mx/live/master-4.m3u8
+http://tvn.x10.mx/playlist/master-4.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Citra_Muslim(tvn_digital)
-http://tvn.x10.mx/live/master-5.m3u8
+http://tvn.x10.mx/playlist/master-5.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",HOREE(tvn_digital)
-http://tvn.x10.mx/live/master-6.m3u8
+http://tvn.x10.mx/playlist/master-6.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Citra_Dangdut(tvn_digital)
-http://tvn.x10.mx/live/master-11.m3u8
+http://tvn.x10.mx/playlist/master-11.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Citra_Entertaiment(tvn_digital)
-http://tvn.x10.mx/live/master-12.m3u8
+http://tvn.x10.mx/playlist/master-12.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",AjwaTv(tvn_digital)
-http://tvn.x10.mx/live/master-14.m3u8
+http://tvn.x10.mx/playlist/master-14.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",ANtv(tvn_digital)
-http://tvn.x10.mx/live/master-15.m3u8
+http://tvn.x10.mx/playlist/master-15.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",RTV(tvn_digital)
-http://tvn.x10.mx/live/master-16.m3u8
+http://tvn.x10.mx/playlist/master-16.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",ZOOMO(tvn_digital)
-http://tvn.x10.mx/live/master-17.m3u8
+http://tvn.x10.mx/playlist/master-17.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",tvN(tvn_digital)
-http://tvn.x10.mx/live/master-18.m3u8
+http://tvn.x10.mx/playlist/master-18.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Zee.bioskop(tvn_digital)
-http://tvn.x10.mx/live/master-19.m3u8
+http://tvn.x10.mx/playlist/master-19.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Musica(tvn_digital)
-http://tvn.x10.mx/live/master-20.m3u8
+http://tvn.x10.mx/playlist/master-20.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Radio.Nagaswara(tvn_digital)
-http://tvn.x10.mx/live/master-21.m3u8
+http://tvn.x10.mx/playlist/master-21.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Radio.cakraFM_bandung(tvn_digital)
-http://tvn.x10.mx/live/master-22.m3u8
+http://tvn.x10.mx/playlist/master-22.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",LFC(tvn_digital)
-http://tvn.x10.mx/live/master-31.m3u8
+http://tvn.x10.mx/playlist/master-31.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",RAN_ENTERTAINMENT(tvn_digital)
-http://tvn.x10.mx/live/master-32.m3u8
+http://tvn.x10.mx/playlist/master-32.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",MentariTV(tvn_digital)
-http://tvn.x10.mx/live/master-23.m3u8
+http://tvn.x10.mx/playlist/master-23.m3u8
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",AFN$
