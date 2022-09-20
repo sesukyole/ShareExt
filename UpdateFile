@@ -1292,11 +1292,11 @@ http://iptvtree.net:8080/ace2524d/15a571c413/12002
 
 
 
-#EXTINF:-1,BT Sport 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@ENGLANDof_Sukan",BT Sport1
 http://iptvtree.net:8080/ace2524d/15a571c413/270
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@ENGLANDof_Sukan",BT Sport 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@ENGLANDof_Sukan",BT Sport2
 http://iptvtree.net:8080/ace2524d/15a571c413/273
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@ENGLANDof_Sukan",BT Sport 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@ENGLANDof_Sukan",BT Sport3
 http://iptvtree.net:8080/ace2524d/15a571c413/271
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@ENGLANDof_Sukan",BT Sport ESPN
 http://iptvtree.net:8080/ace2524d/15a571c413/1124
