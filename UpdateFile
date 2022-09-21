@@ -32,11 +32,6 @@ http://5gfksa.ltd:2052/991155/551199/205554
 https://z0gdu9jmgu.rtmp-now.com/hls/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(tvn_digital)
 http://tvn.x10.mx/playlist/master.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiarHD
-http://103.226.232.199:9003/play/a0af/index.m3u8
-https://lnk.ec/shareext@indosiarHD.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiarHD+(dec=auto)
-http://103.226.232.199:8008/play/a083/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(kv) 
 http://tvlive.my.id:25461/kevin/kevin/11
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(mt) 
@@ -108,13 +103,13 @@ http://iptvid.my.id/hmm/useetl2.m3u8
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/49
 
 #EXTINF:-1 tvg-id="UseeSports.id" tvg-name="UseeSport  1" tvg-logo="https://i.ibb.co/WKyLMfQ/usee1.png" group-title="ShareExt@Relax",UseeSport1(rolling)
-http://syok.tv:2082/qwe123/qwe123/2551
+http://syok.tv:2082/588007/588007/2551
 #EXTINF:-1 tvg-id="UseeSports2.id" tvg-name="UseeSport  2" tvg-logo="https://i.ibb.co/WKyLMfQ/usee1.png" group-title="ShareExt@Relax",UseeSport2(rolling)
-http://syok.tv:2082/qwe123/qwe123/2552
+http://syok.tv:2082/588007/588007/2552
 #EXTINF:-1 tvg-id="Champions1.MACAN" tvg-name="Champion TV1" tvg-logo="https://i.imgur.com/xkPu3nt.png" group-title="ShareExt@Relax",Champion.TV1(rolling)
-http://syok.tv:2082/qwe123/qwe123/5845
+http://syok.tv:2082/588007/588007/5845
 #EXTINF:-1 tvg-id="Champions2.MACAN" tvg-name="Champion TV2" tvg-logo="https://i.imgur.com/lgW3GlD.png" group-title="ShareExt@Relax",Champion.TV2(rolling)
-http://syok.tv:2082/qwe123/qwe123/5846
+http://syok.tv:2082/588007/588007/5846
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@Relax",ChampionTv1
 http://tv.zonanime.my.id/vidio/championstv1.m3u8
