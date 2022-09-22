@@ -34,6 +34,8 @@ https://z0gdu9jmgu.rtmp-now.com/hls/index.m3u8
 http://tvn.x10.mx/playlist/master.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(protv)
 http://pprotv.com:80/fahad70/fahad70/39427
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(anime)
+http://tv.zonanime.my.id/vidio/indosiar.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(kv) 
 http://tvlive.my.id:25461/kevin/kevin/11
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(mt) 
@@ -114,8 +116,16 @@ http://iptvid.my.id/hmm/useetl1.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseeSports_2 
 http://iptvid.my.id/hmm/useetl2.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", UseeSport1_bc
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/49
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="Astro Supersports 1" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="ShareExt@Relax",useeSport@1*
+http://tvlive.my.id:25461/mat/mat/32
+#EXTINF:-1 tvg-id="ASSP5.my" tvg-name="Astro Supersports 5" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="ShareExt@Relax",useeSport#2*
+http://tvlive.my.id:25461/mat/mat/43
+
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="Astro Supersports 1" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="ShareExt@Relax",useeSport@1$
+http://tvlive.my.id:25461/kevin/kevin/32
+#EXTINF:-1 tvg-id="ASSP5.my" tvg-name="Astro Supersports 5" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="ShareExt@Relax",useeSport#2$
+http://tvlive.my.id:25461/kevin/kevin/43
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", FightSport(protv)
 http://pprotv.com:80/fahad70/fahad70/39551
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", beINSports 1 ID(protv)
@@ -150,8 +160,6 @@ http://tv.zonanime.my.id/vidio/championstv1.m3u8
 http://tv.zonanime.my.id/vidio/championstv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@Relax",ChampionTv3
 http://tv.zonanime.my.id/vidio/championstv3.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@Relax",ChampionGoall
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/48
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RCTI+bc
 https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
@@ -412,6 +420,8 @@ http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115328
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TraceSport.TH
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115318
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BOOLYWOOD_MOVIES
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",LotusMacau_澳门莲花
 http://120.84.96.53:808/hls/24/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Tvb(cartoon)_翡翠台
@@ -707,16 +717,16 @@ http://tvlive.my.id:25461/mat/mat/26
 http://tvlive.my.id:25461/mat/mat/27
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://i.ibb.co/T8HY0rn/SPOTV2.png" group-title="SHAREEXT@2022_CODAY_USEE",SPOTV 2
 http://tvlive.my.id:25461/mat/mat/28
-#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="Astro Supersports 1" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="SHAREEXT@2022_CODAY_USEE",Astro Arena
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="Astro Supersports 1" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="SHAREEXT@2022_CODAY_USEE",useeSport#1
 http://tvlive.my.id:25461/mat/mat/32
+#EXTINF:-1 tvg-id="ASSP5.my" tvg-name="Astro Supersports 5" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="SHAREEXT@2022_CODAY_USEE",useeSport#2
+http://tvlive.my.id:25461/mat/mat/43
 #EXTINF:-1 tvg-id="ASSP2.my" tvg-name="Astro Supersports 2" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="SHAREEXT@2022_CODAY_USEE",Astro Supersports 2
 http://tvlive.my.id:25461/mat/mat/33
 #EXTINF:-1 tvg-id="ASSP3.my" tvg-name="Astro Supersports 3" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="SHAREEXT@2022_CODAY_USEE",Astro Supersports 3
 http://tvlive.my.id:25461/mat/mat/41
 #EXTINF:-1 tvg-id="ASSP4.my" tvg-name="Astro Supersports 4" tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="SHAREEXT@2022_CODAY_USEE",Astro Supersports 4
 http://tvlive.my.id:25461/mat/mat/42
-#EXTINF:-1 tvg-id="ASSP5.my" tvg-name="Astro Supersports 5" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="SHAREEXT@2022_CODAY_USEE",Astro Supersports 5
-http://tvlive.my.id:25461/mat/mat/43
 #EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="Bein Sports 1 ID" tvg-logo="https://i.ibb.co/m04SNRx/BEINSPORTS1.png" group-title="SHAREEXT@2022_CODAY_USEE",Bein Sports 1 ID
 http://tvlive.my.id:25461/mat/mat/45
 #EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-name="Bein Sports 3 ID" tvg-logo="https://i.ibb.co/r3QBT9h/BEINSPORTS3.png" group-title="SHAREEXT@2022_CODAY_USEE",Bein Sports 3 ID
@@ -1189,55 +1199,55 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/115318
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: TEN CRICKET" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket-300x93.png" group-title="T20 World Cup",TEN CRICKET
+#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: TEN CRICKET" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket-300x93.png" group-title="T20 World Cup",TEN CRICKET_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/26399
-#EXTINF:-1 tvg-id="" tvg-name="T-20 WC:  GAZI TV" tvg-logo="https://i.imgur.com/tX7IMuk.png" group-title="T20 World Cup",GAZI TV
+#EXTINF:-1 tvg-id="" tvg-name="T-20 WC:  GAZI TV" tvg-logo="https://i.imgur.com/tX7IMuk.png" group-title="T20 World Cup",GAZI TV_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/26398
-#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/200px-PTV_Sports.png" group-title="T20 World Cup",PTV SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/200px-PTV_Sports.png" group-title="T20 World Cup",PTV SPORTS_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/17534
-#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: A Sportd FHD" tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/A-sportshdLogo.png" group-title="T20 World Cup",A Sportd FHD
+#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: A Sportd FHD" tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/A-sportshdLogo.png" group-title="T20 World Cup",A Sportd FHD_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/17536
-#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: A Sports ARY" tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/A-sportshdLogo.png" group-title="T20 World Cup",A Sports ARY
+#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: A Sports ARY" tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/A-sportshdLogo.png" group-title="T20 World Cup",A Sports ARY_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/17537
-#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: TEN SPORTS PK" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="T20 World Cup",TEN SPORTS PK
+#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: TEN SPORTS PK" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="T20 World Cup",TEN SPORTS PK_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/1011
-#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: GEO SUPER" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="T20 World Cup",GEO SUPER
+#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: GEO SUPER" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="T20 World Cup",GEO SUPER_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/1012
-#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: FoX Sports 501" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Fs1AU_HD.png" group-title="T20 World Cup",FoX Sports 501
+#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: FoX Sports 501" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Fs1AU_HD.png" group-title="T20 World Cup",FoX Sports 501_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/17535
-#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: SUPERSPORT CRICKET" tvg-logo="https://supersport-cms-prod.azureedge.net/media/t2knfhmd/cricket-8.png" group-title="T20 World Cup",SUPERSPORT CRICKET
+#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: SUPERSPORT CRICKET" tvg-logo="https://supersport-cms-prod.azureedge.net/media/t2knfhmd/cricket-8.png" group-title="T20 World Cup",SUPERSPORT CRICKET_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/18257
-#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: Astro Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="T20 World Cup",Astro Cricket
+#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: Astro Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="T20 World Cup",Astro Cricket_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/17528
-#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: WILLOW CRICKET HD" tvg-logo="https://www.cricexec.com/wp-content/uploads/2021/09/Willow-tv-logo.png" group-title="T20 World Cup",WILLOW CRICKET HD
+#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: WILLOW CRICKET HD" tvg-logo="https://www.cricexec.com/wp-content/uploads/2021/09/Willow-tv-logo.png" group-title="T20 World Cup",WILLOW CRICKET HD_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/17538
-#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: Willow Xtra" tvg-logo="https://i.imgur.com/22Exx9z.png" group-title="T20 World Cup",Willow Xtra
+#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: Willow Xtra" tvg-logo="https://i.imgur.com/22Exx9z.png" group-title="T20 World Cup",Willow Xtra_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/17527
-#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: Star Sports Hindi 1 HD" tvg-logo="https://i.ibb.co/RPSmQPV/T20.jpg" group-title="T20 World Cup",StarSports Hindi 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: Star Sports Hindi 1 HD" tvg-logo="https://i.ibb.co/RPSmQPV/T20.jpg" group-title="T20 World Cup",StarSports Hindi 1 HD_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/17520
-#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: STAR SPORTS 1 HD 1080 H.264" tvg-logo="https://i.ibb.co/RPSmQPV/T20.jpg" group-title="T20 World Cup",STARSPORTS 1 HD 1080 H.264
+#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: STAR SPORTS 1 HD 1080 H.264" tvg-logo="https://i.ibb.co/RPSmQPV/T20.jpg" group-title="T20 World Cup",STARSPORTS 1 HD 1080 H.264_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/17522
-#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: STAR SPORTS 2 HD 1080 H.264" tvg-logo="https://i.ibb.co/RPSmQPV/T20.jpg" group-title="T20 World Cup",STARSPORTS 2 HD 1080 H.264
+#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: STAR SPORTS 2 HD 1080 H.264" tvg-logo="https://i.ibb.co/RPSmQPV/T20.jpg" group-title="T20 World Cup",STARSPORTS 2 HD 1080 H.264_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/17523
-#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: Star Sports 2 HD" tvg-logo="https://i.ibb.co/RPSmQPV/T20.jpg" group-title="T20 World Cup",StarSports 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: Star Sports 2 HD" tvg-logo="https://i.ibb.co/RPSmQPV/T20.jpg" group-title="T20 World Cup",StarSports 2 HD_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/17521
-#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: Sky Sports Cricket HD" tvg-logo="https://i.ibb.co/RPSmQPV/T20.jpg" group-title="T20 World Cup",SkySports Cricket HD
+#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: Sky Sports Cricket HD" tvg-logo="https://i.ibb.co/RPSmQPV/T20.jpg" group-title="T20 World Cup",SkySports Cricket HD_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/17524
-#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: Sky Sports Cricket FHD" tvg-logo="https://i.ibb.co/RPSmQPV/T20.jpg" group-title="T20 World Cup",SkySports Cricket FHD
+#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: Sky Sports Cricket FHD" tvg-logo="https://i.ibb.co/RPSmQPV/T20.jpg" group-title="T20 World Cup",SkySports Cricket FHD_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/17525
-#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: Super Sport GrandStand" tvg-logo="https://i.ibb.co/RPSmQPV/T20.jpg" group-title="T20 World Cup",SuperSport GrandStand
+#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: Super Sport GrandStand" tvg-logo="https://i.ibb.co/RPSmQPV/T20.jpg" group-title="T20 World Cup",SuperSport GrandStand_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/17526
-#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: SONY SIX SD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="T20 World Cup",SONY SIX SD
+#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: SONY SIX SD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="T20 World Cup",SONY SIX SD_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/1466
-#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: TEN 1 HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="T20 World Cup",TEN 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: TEN 1 HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="T20 World Cup",TEN 1 HD_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/1468
-#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: TEN 2 HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="T20 World Cup",TEN 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: TEN 2 HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="T20 World Cup",TEN 2 HD_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/1469
-#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: TEN 3 HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="T20 World Cup",TEN 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: TEN 3 HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="T20 World Cup",TEN 3 HD_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/1470
-#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: RTA SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rta-sport-af.png" group-title="T20 World Cup",RTA SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: RTA SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rta-sport-af.png" group-title="T20 World Cup",RTA SPORTS_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/11266
-#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: SPORTSMAX CRICKET" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportsmax-1705.png" group-title="T20 World Cup",SPORTSMAX CRICKET
+#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: SPORTSMAX CRICKET" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportsmax-1705.png" group-title="T20 World Cup",SPORTSMAX CRICKET_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/11562
 
 
@@ -1245,54 +1255,55 @@ http://bandookk.xyz:8000/cricket2022/cricket2022/11562
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sport 01" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SKYSport 01
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233083/index.m3u8#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sport 02" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SKYSport 02
+#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sport 01" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SKYSport 01_dec=auto
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233083/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sport 02" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SKYSport 02_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/23529
-#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sport 03" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SKYSport 03
+#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sport 03" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SKYSport 03_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/23530
-#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sport 04" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SKYSport 04
+#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sport 04" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SKYSport 04_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/23531
-#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sport 05" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SKYSport 05
+#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sport 05" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SKYSport 05_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/23532
-#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sport 06" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SKYSport 06
+#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sport 06" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SKYSport 06_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/23533
-#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sport 07" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SKYSport 07
+#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sport 07" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SKYSport 07_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/23534
-#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sport 08" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SKYSport 08
+#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sport 08" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SKYSport 08_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/23535
-#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sport 09" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SKYSport 09
+#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sport 09" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SKYSport 09_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/23536
-#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sport SELECT" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SKYSport SELECT
+#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sport SELECT" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SKYSport SELECT_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/23537
-#EXTINF:-1 tvg-id="" tvg-name="NZ | Spark Sport 01 (Match Time Only)" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SparkSport 01(Match Time Only)
+#EXTINF:-1 tvg-id="" tvg-name="NZ | Spark Sport 01 (Match Time Only)" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SparkSport 01(Match Time Only)_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/23538
-#EXTINF:-1 tvg-id="" tvg-name="NZ | Spark Sport 02 (Match Time Only)" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SparkSport 02(Match Time Only)
+#EXTINF:-1 tvg-id="" tvg-name="NZ | Spark Sport 02 (Match Time Only)" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SparkSport 02(Match Time Only)_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/23539
-#EXTINF:-1 tvg-id="" tvg-name="NZ | Spark Sport 03 (Match Time Only)" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SparkSport 03(Match Time Only)
+#EXTINF:-1 tvg-id="" tvg-name="NZ | Spark Sport 03 (Match Time Only)" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SparkSport 03(Match Time Only)_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/23540
-#EXTINF:-1 tvg-id="" tvg-name="NZ | Spark Sport 04 (Match Time Only)" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SparkSport 04(Match Time Only)
+#EXTINF:-1 tvg-id="" tvg-name="NZ | Spark Sport 04 (Match Time Only)" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SparkSport 04(Match Time Only)_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/23541
-#EXTINF:-1 tvg-id="" tvg-name="NZ | Spark Sport 05 (Match Time Only)" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SparkSport 05(Match Time Only)
+#EXTINF:-1 tvg-id="" tvg-name="NZ | Spark Sport 05 (Match Time Only)" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SparkSport 05(Match Time Only)_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/23542
-#EXTINF:-1 tvg-id="" tvg-name="NZ | Spark Sport 06 (Match Time Only)" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SparkSport 06(Match Time Only)
+#EXTINF:-1 tvg-id="" tvg-name="NZ | Spark Sport 06 (Match Time Only)" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SparkSport 06(Match Time Only)_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/23543
-#EXTINF:-1 tvg-id="" tvg-name="NZ | Spark Sport 07 (Match Time Only)" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SparkSport 07(Match Time Only)
+#EXTINF:-1 tvg-id="" tvg-name="NZ | Spark Sport 07 (Match Time Only)" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SparkSport 07(Match Time Only)_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/23544
-#EXTINF:-1 tvg-id="" tvg-name="NZ | Spark Sport 08 (Match Time Only)" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SparkSport 08(Match Time Only)
+#EXTINF:-1 tvg-id="" tvg-name="NZ | Spark Sport 08 (Match Time Only)" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SparkSport 08(Match Time Only)_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/23545
-#EXTINF:-1 tvg-id="" tvg-name="NZ | Spark Sport 09 (Match Time Only)" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SparkSport 09(Match Time Only)
+#EXTINF:-1 tvg-id="" tvg-name="NZ | Spark Sport 09 (Match Time Only)" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SparkSport 09(Match Time Only)_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/23546
-#EXTINF:-1 tvg-id="" tvg-name="NZ | Spark Sport 10 (Match Time Only)" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SparkSport 10(Match Time Only)
+#EXTINF:-1 tvg-id="" tvg-name="NZ | Spark Sport 10 (Match Time Only)" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",SparkSport 10(Match Time Only)_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/23547
-#EXTINF:-1 tvg-id="" tvg-name="NZ | Firstlight" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",Firstlight
+#EXTINF:-1 tvg-id="" tvg-name="NZ | Firstlight" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",Firstlight_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/23548
-#EXTINF:-1 tvg-id="" tvg-name="NZ | Māori Television" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",Māori Television
+#EXTINF:-1 tvg-id="" tvg-name="NZ | Māori Television" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",Māori Television_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/23549
-#EXTINF:-1 tvg-id="" tvg-name="NZ | TVSN" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",TVSN
+#EXTINF:-1 tvg-id="" tvg-name="NZ | TVSN" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",TVSN_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/23550
-#EXTINF:-1 tvg-id="" tvg-name="NZ | Wairarapa TV" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",Wairarapa TV
+#EXTINF:-1 tvg-id="" tvg-name="NZ | Wairarapa TV" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",Wairarapa TV_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/23551
-#EXTINF:-1 tvg-id="" tvg-name="NZ | Zoo Moo" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",Zoo Moo
+#EXTINF:-1 tvg-id="" tvg-name="NZ | Zoo Moo" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NEW ZEALAND",Zoo Moo_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/23552
 
 
@@ -1300,55 +1311,55 @@ http://bandookk.xyz:8000/cricket2022/cricket2022/23552
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT CRICKET" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORT CRICKET
+#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT CRICKET" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORT CRICKET_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/920
-#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT VARIETY 1" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORT VARIETY 1
+#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT VARIETY 1" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORT VARIETY 1_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/921
-#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT VARIETY 2" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORT VARIETY 2
+#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT VARIETY 2" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORT VARIETY 2_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/922
-#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT VARIETY 3" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORT VARIETY 3
+#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT VARIETY 3" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORT VARIETY 3_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/923
-#EXTINF:-1 tvg-id="" tvg-name="AF:  SUPERSPORT VARIETY 4" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORT VARIETY 4
+#EXTINF:-1 tvg-id="" tvg-name="AF:  SUPERSPORT VARIETY 4" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORT VARIETY 4_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/924
-#EXTINF:-1 tvg-id="" tvg-name="AF:  SUPERSPORT LA LIGA" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORT LALIGA
+#EXTINF:-1 tvg-id="" tvg-name="AF:  SUPERSPORT LA LIGA" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORT LALIGA_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/925
-#EXTINF:-1 tvg-id="" tvg-name="AF:  SUPERSPORT RUGBY" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORT RUGBY
+#EXTINF:-1 tvg-id="" tvg-name="AF:  SUPERSPORT RUGBY" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORT RUGBY_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/926
-#EXTINF:-1 tvg-id="" tvg-name="AF:  SUPERSPORT GOLF" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORT GOLF
+#EXTINF:-1 tvg-id="" tvg-name="AF:  SUPERSPORT GOLF" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORT GOLF_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/927
-#EXTINF:-1 tvg-id="" tvg-name="AF:  SUPERSPORT GRANDSTAND" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORT GRANDSTAND
+#EXTINF:-1 tvg-id="" tvg-name="AF:  SUPERSPORT GRANDSTAND" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORT GRANDSTAND_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/928
-#EXTINF:-1 tvg-id="" tvg-name="AF:  SUPERSPORT PREMIER LEAGUE" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORT PREMIERLEAGUE
+#EXTINF:-1 tvg-id="" tvg-name="AF:  SUPERSPORT PREMIER LEAGUE" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORT PREMIERLEAGUE_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/929
-#EXTINF:-1 tvg-id="" tvg-name="AF:  SUPERSPORT FOOTBALL" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORT FOOTBALL
+#EXTINF:-1 tvg-id="" tvg-name="AF:  SUPERSPORT FOOTBALL" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORT FOOTBALL_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/930
-#EXTINF:-1 tvg-id="" tvg-name="AF:  SUPERSPORT TENNIS" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORT TENNIS
+#EXTINF:-1 tvg-id="" tvg-name="AF:  SUPERSPORT TENNIS" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORT TENNIS_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/931
-#EXTINF:-1 tvg-id="" tvg-name="AF:  SUPERSPORT BLITZ" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORT BLITZ
+#EXTINF:-1 tvg-id="" tvg-name="AF:  SUPERSPORT BLITZ" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORT BLITZ_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/932
-#EXTINF:-1 tvg-id="" tvg-name="AF:  SUPERSPORT MaXiMO" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORT MaXiMO
+#EXTINF:-1 tvg-id="" tvg-name="AF:  SUPERSPORT MaXiMO" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORT MaXiMO_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/933
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORTS PSL" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORTS PSL
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORTS PSL" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORTS PSL_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/5350
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORTS 3 HD" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORTS 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORTS 3 HD" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORTS 3 HD_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/5351
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORTS 4 HD" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORTS 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORTS 4 HD" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORTS 4 HD_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/5352
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORTS 5 HD" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORTS 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORTS 5 HD" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORTS 5 HD_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/5353
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORTS 6 HD" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORTS 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORTS 6 HD" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORTS 6 HD_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/5354
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORTS 7 HD" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORTS 7 HD
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORTS 7 HD" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORTS 7 HD_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/5355
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORTS 8 HD" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORTS 8 HD
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORTS 8 HD" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORTS 8 HD_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/5356
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORTS 9 HD" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORTS 9 HD
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORTS 9 HD" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORTS 9 HD_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/5357
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORTS 10 HD" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORTS 10 HD
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORTS 10 HD" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORTS 10 HD_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/5358
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORTS 11 HD" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORTS 11 HD
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORTS 11 HD" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORTS 11 HD_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/5359
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORTS 12 HD" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORTS 12 HD
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORTS 12 HD" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="DSTV",SUPERSPORTS 12 HD_dec=auto
 http://bandookk.xyz:8000/cricket2022/cricket2022/5360
 
 
@@ -3839,15 +3850,17 @@ https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
 http://tvlive.my.id:25461/mat/mat/27
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://i.ibb.co/T8HY0rn/SPOTV2.png" group-title="ShareExt@IPTV_Sports",SPOTV 2
 http://tvlive.my.id:25461/mat/mat/28
-#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="Astro Supersports 1" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="ShareExt@IPTV_Sports",astroArena
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="Astro Supersports 1" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="ShareExt@IPTV_Sports",useeSport@1
 http://tvlive.my.id:25461/mat/mat/32
+#EXTINF:-1 tvg-id="ASSP5.my" tvg-name="Astro Supersports 5" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="ShareExt@IPTV_Sports",useeSport#2
+http://tvlive.my.id:25461/mat/mat/43
 #EXTINF:-1 tvg-id="ASSP2.my" tvg-name="Astro Supersports 2" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="ShareExt@IPTV_Sports",ASSP_2
 http://tvlive.my.id:25461/mat/mat/33
 #EXTINF:-1 tvg-id="ASSP3.my" tvg-name="Astro Supersports 3" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="ShareExt@IPTV_Sports",ASSP_3
 http://tvlive.my.id:25461/mat/mat/41
 #EXTINF:-1 tvg-id="ASSP4.my" tvg-name="Astro Supersports 4" tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="ShareExt@IPTV_Sports",ASSP_4
 http://tvlive.my.id:25461/mat/mat/42
-#EXTINF:-1 tvg-id="ASSP5.my" tvg-name="Astro Supersports 5" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="ShareExt@IPTV_Sports",ASSP_5
+#EXTINF:-1 tvg-id="ASSP5.my" tvg-name="Astro Supersports 5" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="ShareExt@IPTV_Sports",useeSport#2
 http://tvlive.my.id:25461/mat/mat/43
 #EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="Bein Sports 1 ID" tvg-logo="https://i.ibb.co/m04SNRx/BEINSPORTS1.png" group-title="ShareExt@IPTV_Sports",BeinSports 1 ID
 http://tvlive.my.id:25461/mat/mat/45
