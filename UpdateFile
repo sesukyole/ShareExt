@@ -116,15 +116,6 @@ http://iptvid.my.id/hmm/useetl1.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseeSports_2 
 http://iptvid.my.id/hmm/useetl2.m3u8
 
-#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="Astro Supersports 1" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="ShareExt@Relax",useeSport@1*
-http://tvlive.my.id:25461/mat/mat/32
-#EXTINF:-1 tvg-id="ASSP5.my" tvg-name="Astro Supersports 5" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="ShareExt@Relax",useeSport#2*
-http://tvlive.my.id:25461/mat/mat/43
-
-#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="Astro Supersports 1" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="ShareExt@Relax",useeSport@1$
-http://tvlive.my.id:25461/kevin/kevin/32
-#EXTINF:-1 tvg-id="ASSP5.my" tvg-name="Astro Supersports 5" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="ShareExt@Relax",useeSport#2$
-http://tvlive.my.id:25461/kevin/kevin/43
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", FightSport(protv)
 http://pprotv.com:80/fahad70/fahad70/39551
@@ -711,15 +702,15 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 
 
 
-#EXTINF:-1 tvg-id="SPOTV.MACAN" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/FsgFTMW/SPOTV.png" group-title="SHAREEXT@2022_CODAY_USEE",beinPremium_1
+#EXTINF:-1 tvg-id="SPOTV.MACAN" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/FsgFTMW/SPOTV.png" group-title="SHAREEXT@2022_CODAY_USEE",Supersports_football
 http://tvlive.my.id:25461/mat/mat/26
 #EXTINF:-1 tvg-id="SPOTV.MACAN" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/FsgFTMW/SPOTV.png" group-title="SHAREEXT@2022_CODAY_USEE",SPOTV
 http://tvlive.my.id:25461/mat/mat/27
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://i.ibb.co/T8HY0rn/SPOTV2.png" group-title="SHAREEXT@2022_CODAY_USEE",SPOTV 2
 http://tvlive.my.id:25461/mat/mat/28
-#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="Astro Supersports 1" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="SHAREEXT@2022_CODAY_USEE",useeSport#1
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="Astro Supersports 1" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="SHAREEXT@2022_CODAY_USEE",astroSport_1
 http://tvlive.my.id:25461/mat/mat/32
-#EXTINF:-1 tvg-id="ASSP5.my" tvg-name="Astro Supersports 5" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="SHAREEXT@2022_CODAY_USEE",useeSport#2
+#EXTINF:-1 tvg-id="ASSP5.my" tvg-name="Astro Supersports 5" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="SHAREEXT@2022_CODAY_USEE",SS_football
 http://tvlive.my.id:25461/mat/mat/43
 #EXTINF:-1 tvg-id="ASSP2.my" tvg-name="Astro Supersports 2" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="SHAREEXT@2022_CODAY_USEE",Astro Supersports 2
 http://tvlive.my.id:25461/mat/mat/33
@@ -3917,17 +3908,15 @@ https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
 http://tvlive.my.id:25461/mat/mat/27
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://i.ibb.co/T8HY0rn/SPOTV2.png" group-title="ShareExt@IPTV_Sports",SPOTV 2
 http://tvlive.my.id:25461/mat/mat/28
-#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="Astro Supersports 1" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="ShareExt@IPTV_Sports",useeSport@1
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="Astro Supersports 1" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="ShareExt@IPTV_Sports",ASSP_1
 http://tvlive.my.id:25461/mat/mat/32
-#EXTINF:-1 tvg-id="ASSP5.my" tvg-name="Astro Supersports 5" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="ShareExt@IPTV_Sports",useeSport#2
-http://tvlive.my.id:25461/mat/mat/43
 #EXTINF:-1 tvg-id="ASSP2.my" tvg-name="Astro Supersports 2" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="ShareExt@IPTV_Sports",ASSP_2
 http://tvlive.my.id:25461/mat/mat/33
 #EXTINF:-1 tvg-id="ASSP3.my" tvg-name="Astro Supersports 3" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="ShareExt@IPTV_Sports",ASSP_3
 http://tvlive.my.id:25461/mat/mat/41
 #EXTINF:-1 tvg-id="ASSP4.my" tvg-name="Astro Supersports 4" tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="ShareExt@IPTV_Sports",ASSP_4
 http://tvlive.my.id:25461/mat/mat/42
-#EXTINF:-1 tvg-id="ASSP5.my" tvg-name="Astro Supersports 5" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="ShareExt@IPTV_Sports",useeSport#2
+#EXTINF:-1 tvg-id="ASSP5.my" tvg-name="Astro Supersports 5" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="ShareExt@IPTV_Sports",SS-football
 http://tvlive.my.id:25461/mat/mat/43
 #EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="Bein Sports 1 ID" tvg-logo="https://i.ibb.co/m04SNRx/BEINSPORTS1.png" group-title="ShareExt@IPTV_Sports",BeinSports 1 ID
 http://tvlive.my.id:25461/mat/mat/45
