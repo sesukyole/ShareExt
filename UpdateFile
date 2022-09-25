@@ -38,8 +38,6 @@ http://pprotv.com:80/fahad70/fahad70/39427
 http://tv.zonanime.my.id/vidio/indosiar.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(kv) 
 http://tvlive.my.id:25461/kevin/kevin/11
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(mt) 
-http://tvlive.my.id:25461/mat/mat/11
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(kVision)
 http://203.77.246.50:5000/udp/239.1.1.110:5000
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SCTV(protv)
@@ -65,8 +63,6 @@ http://203.77.246.50:5000/udp/239.1.3.80:5000
 http://tvn.x10.mx/playlist/master-13.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",moji/O_chanel(kv) 
 http://tvlive.my.id:25461/kevin/kevin/21
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",moji/O_chanel(mt) 
-http://tvlive.my.id:25461/mat/mat/21
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MentariTV(kv)
 http://tvlive.my.id:25461/kevin/kevin/22
@@ -105,7 +101,6 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1661229313~exp=9007200915970304~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_2/chunklist.m3u8*~hmac=5add8fefae5ca1c5c402eff5e90762353478fee6f5607d4894ab420efd0a7b7f
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Badminton3(live)
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Badminton4(live)
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MNCTV+
 https://d33j155pv2xyba.cloudfront.net/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8|User-Agent=android-R+
@@ -675,76 +670,6 @@ http://tvn.x10.mx/playlist/master-32.m3u8
 http://tvn.x10.mx/playlist/master-23.m3u8
 
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",AFN$
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/31
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",All_The_K-POP$
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/73
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",ANTV$
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/4
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",CBS News$
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/85
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",CNN Indonesia$
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/22
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",DAAI TV$
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/5
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Discovery Channel$
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/29
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",DW News$
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/24
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Elshinta$
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/75
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",GTV$
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/19
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",HITS$
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/52
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",HITS Movie
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/51
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Horee$
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/43
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",IMC$
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/36
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Kompas TV$
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/12
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",MetroTV$
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/11
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Moji$
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/7
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",NaTGeo$Wild
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/65
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",NBC$News
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/84
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",NET.$
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/3
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",$Nickelodeon
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/38
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",$ONE TV Asia
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/55
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Rock Entertainment$
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/61
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Rock Extreme$
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/60
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",RTV$
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",SCTV$
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/1
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",SEA Today$
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/23
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",TechStorm$
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/81
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Trans TV$
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/15
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Trans7$
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/14
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",TV$ Edukasi
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/44
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",tvN$
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/69
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",$tvN Movies
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/70
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",TVRI$
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/6
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",ZooMoo$
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/40
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" tvg-id=".SHINTA" tvg-name"[CODAY] SCTV _VIDIO" group-title="SHAREEXT@RIYANCODAY-VIDIO",SCTV_VIDIO
@@ -813,35 +738,35 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13" group-title="SHAREEXT@2022_CODAY_USEE",ustv-2 
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/usee2.m3u8|user-agent=f77hLja8
 #EXTINF:-1 tvg-id="SPOTV.MACAN" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/FsgFTMW/SPOTV.png" group-title="SHAREEXT@2022_CODAY_USEE",Supersports_PL
-http://tvlive.my.id:25461/mat/mat/26
+http://tvlive.my.id:25461/kevin/kevin/26
 #EXTINF:-1 tvg-id="SPOTV.MACAN" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/FsgFTMW/SPOTV.png" group-title="SHAREEXT@2022_CODAY_USEE",SPOTV
-http://tvlive.my.id:25461/mat/mat/27
+http://tvlive.my.id:25461/kevin/kevin/27
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://i.ibb.co/T8HY0rn/SPOTV2.png" group-title="SHAREEXT@2022_CODAY_USEE",SPOTV 2
-http://tvlive.my.id:25461/mat/mat/28
+http://tvlive.my.id:25461/kevin/kevin/28
 #EXTINF:-1 tvg-id="ASSP1.my" tvg-name="Astro Supersports 1" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="SHAREEXT@2022_CODAY_USEE",astroSport_1
-http://tvlive.my.id:25461/mat/mat/32
+http://tvlive.my.id:25461/kevin/kevin/32
 #EXTINF:-1 tvg-id="ASSP5.my" tvg-name="Astro Supersports 5" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="SHAREEXT@2022_CODAY_USEE",SS_premierLiguea
-http://tvlive.my.id:25461/mat/mat/43
+http://tvlive.my.id:25461/kevin/kevin/43
 #EXTINF:-1 tvg-id="ASSP2.my" tvg-name="Astro Supersports 2" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="SHAREEXT@2022_CODAY_USEE",AstroSupersports.3
-http://tvlive.my.id:25461/mat/mat/33
+http://tvlive.my.id:25461/kevin/kevin/33
 #EXTINF:-1 tvg-id="ASSP3.my" tvg-name="Astro Supersports 3" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="SHAREEXT@2022_CODAY_USEE",championtv.2
-http://tvlive.my.id:25461/mat/mat/41
-#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="Astro Supersports 4" tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="SHAREEXT@2022_CODAY_USEE",championtv.3
-http://tvlive.my.id:25461/mat/mat/42
+http://tvlive.my.id:25461/kevin/kevin/41
+#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="Astro Supersports 4" tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="SHAREEXT@2022_CODAY_USEE",championtv.goal
+http://tvlive.my.id:25461/kevin/kevin/42
 #EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="Bein Sports 1 ID" tvg-logo="https://i.ibb.co/m04SNRx/BEINSPORTS1.png" group-title="SHAREEXT@2022_CODAY_USEE",Bein Sports 1 ID
-http://tvlive.my.id:25461/mat/mat/45
+http://tvlive.my.id:25461/kevin/kevin/45
 #EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-name="Bein Sports 3 ID" tvg-logo="https://i.ibb.co/r3QBT9h/BEINSPORTS3.png" group-title="SHAREEXT@2022_CODAY_USEE",Bein Sports 3 ID
-http://tvlive.my.id:25461/mat/mat/48
+http://tvlive.my.id:25461/kevin/kevin/48
 #EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="Abu Dhabi Sports 1" tvg-logo="https://i.ibb.co/xgLRW9m/ADSPORTS1.png" group-title="SHAREEXT@2022_CODAY_USEE",AbuDhabi Sports 1
-http://tvlive.my.id:25461/mat/mat/50
+http://tvlive.my.id:25461/kevin/kevin/50
 #EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 2" tvg-logo="https://i.ibb.co/zhN8nYb/ADSPORTS2.png" group-title="SHAREEXT@2022_CODAY_USEE",AbuDhabi Sports 2
-http://tvlive.my.id:25461/mat/mat/51
+http://tvlive.my.id:25461/kevin/kevin/51
 #EXTINF:-1 tvg-id="Hits.MACAN" tvg-name="Sports TV" tvg-logo="https://www.logolynx.com/images/logolynx/49/49ebc79edbe4b5571b385790853881de.png" group-title="SHAREEXT@2022_CODAY_USEE",Sports TV
-http://tvlive.my.id:25461/mat/mat/56
+http://tvlive.my.id:25461/kevin/kevin/56
 #EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="MU TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a0/Mutv_new_logo.png" group-title="SHAREEXT@2022_CODAY_USEE",MU TV
-http://tvlive.my.id:25461/mat/mat/58
+http://tvlive.my.id:25461/kevin/kevin/58
 #EXTINF:-1 tvg-id="FightSports.MACAN" tvg-name="Fight Sports" tvg-logo="https://i.ibb.co/X2jnCKj/FIGHTSPORTS.png" group-title="SHAREEXT@2022_CODAY_USEE",Fight Sports
-http://tvlive.my.id:25461/mat/mat/65
+http://tvlive.my.id:25461/kevin/kevin/65
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@2022_CODAY_USEE",SPOtv(bc)
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1658678403~exp=9007200913419394~acl=/99545824f51f4c1592b35314c6ece3b0/*/https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8*~hmac=e94149ba9daa152c0579d62c19e8dd7a84428e76284a0157a12571c1f34ced00
@@ -3565,65 +3490,65 @@ http://5gfksa.ltd:2052/991155/551199/205635
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MYTV Net" tvg-logo="https://i.ibb.co/jZf0fCq/Mayapada-TV.png" group-title="Shareext@IPTV_Lokal",MYTV Net
-http://tvlive.my.id:25461/mat/mat/1
+http://tvlive.my.id:25461/kevin/kevin/1
 #EXTINF:-1 tvg-id="" tvg-name="MYTV 2" tvg-logo="https://i.ibb.co/F6C5xdc/logo-My-TVkenhkovien02-2020040915376.png" group-title="Shareext@IPTV_Lokal",MYTV 2
-http://tvlive.my.id:25461/mat/mat/2
+http://tvlive.my.id:25461/kevin/kevin/2
 #EXTINF:-1 tvg-id="" tvg-name="MYTV 3" tvg-logo="https://i.ibb.co/F6C5xdc/logo-My-TVkenhkovien02-2020040915376.png" group-title="Shareext@IPTV_Lokal",MYTV 3
-http://tvlive.my.id:25461/mat/mat/3
+http://tvlive.my.id:25461/kevin/kevin/3
 #EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="MYTV 4" tvg-logo="https://i.ibb.co/F6C5xdc/logo-My-TVkenhkovien02-2020040915376.png" group-title="Shareext@IPTV_Lokal",MYTV 4
-http://tvlive.my.id:25461/mat/mat/4
+http://tvlive.my.id:25461/kevin/kevin/4
 #EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SKWrTYL/RCTI.png" group-title="Shareext@IPTV_Lokal",RCTI
-http://tvlive.my.id:25461/mat/mat/5
+http://tvlive.my.id:25461/kevin/kevin/5
 #EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/qCNrFXj/MNCTV.png" group-title="Shareext@IPTV_Lokal",MNCTV
-http://tvlive.my.id:25461/mat/mat/6
+http://tvlive.my.id:25461/kevin/kevin/6
 #EXTINF:-1 tvg-id="TVOne.MACAN" tvg-name="TVONE" tvg-logo="https://i.ibb.co/Hp3TsYs/TVONE.png" group-title="Shareext@IPTV_Lokal",TVONE
-http://tvlive.my.id:25461/mat/mat/7
+http://tvlive.my.id:25461/kevin/kevin/7
 #EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="https://i.ibb.co/z299TFW/GTV.png" group-title="Shareext@IPTV_Lokal",GTV
-http://tvlive.my.id:25461/mat/mat/8
+http://tvlive.my.id:25461/kevin/kevin/8
 #EXTINF:-1 tvg-id="MetroTV.MACAN" tvg-name="Metro TV" tvg-logo="https://i.ibb.co/fM7661t/METROTV.png" group-title="Shareext@IPTV_Lokal",Metro TV
-http://tvlive.my.id:25461/mat/mat/9
+http://tvlive.my.id:25461/kevin/kevin/9
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://i.ibb.co/PM7wL90/TRANSTV.png" group-title="Shareext@IPTV_Lokal",Trans TV
-http://tvlive.my.id:25461/mat/mat/10
+http://tvlive.my.id:25461/kevin/kevin/10
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/CPDrYb6/INDOSIAR.png" group-title="Shareext@IPTV_Lokal",Indosiar
-http://tvlive.my.id:25461/mat/mat/11
+http://tvlive.my.id:25461/kevin/kevin/11
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/YjJ70r6/TRANS7.png" group-title="Shareext@IPTV_Lokal",TRANS 7
-http://tvlive.my.id:25461/mat/mat/12
+http://tvlive.my.id:25461/kevin/kevin/12
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://i.ibb.co/5hYVmZj/SCTV.png" group-title="Shareext@IPTV_Lokal",SCTV
-http://tvlive.my.id:25461/mat/mat/13
+http://tvlive.my.id:25461/kevin/kevin/13
 #EXTINF:-1 tvg-id="ANTV.MACAN" tvg-name="ANTV" tvg-logo="https://i.ibb.co/6Nj8BhZ/ANTV.png" group-title="Shareext@IPTV_Lokal",ANTV
-http://tvlive.my.id:25461/mat/mat/14
+http://tvlive.my.id:25461/kevin/kevin/14
 #EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NET TV" tvg-logo="https://i.ibb.co/jGGzVSm/NETHD.png" group-title="Shareext@IPTV_Lokal",NET TV
-http://tvlive.my.id:25461/mat/mat/15
+http://tvlive.my.id:25461/kevin/kevin/15
 #EXTINF:-1 tvg-id="KompasTv.MACAN" tvg-name="Kompas TV" tvg-logo="https://i.ibb.co/R2h28xF/KOMPASTV.png" group-title="Shareext@IPTV_Lokal",Kompas TV
-http://tvlive.my.id:25461/mat/mat/16
+http://tvlive.my.id:25461/kevin/kevin/16
 #EXTINF:-1 tvg-id="RTV.MACAN" tvg-name="RTV" tvg-logo="https://i.ibb.co/DDB1s6w/RTV.png" group-title="Shareext@IPTV_Lokal",RTV
-http://tvlive.my.id:25461/mat/mat/17
+http://tvlive.my.id:25461/kevin/kevin/17
 #EXTINF:-1 tvg-id="iNewsTV.MACAN" tvg-name="INEWS TV" tvg-logo="https://i.ibb.co/xGMxrbP/INEWS.png" group-title="Shareext@IPTV_Lokal",INEWS TV
-http://tvlive.my.id:25461/mat/mat/18
+http://tvlive.my.id:25461/kevin/kevin/18
 #EXTINF:-1 tvg-id="JTV.MACAN" tvg-name="TVRI Nasional" tvg-logo="https://i.ibb.co/82KRC75/TVRI.png" group-title="Shareext@IPTV_Lokal",TVRI Nasional
-http://tvlive.my.id:25461/mat/mat/19
+http://tvlive.my.id:25461/kevin/kevin/19
 #EXTINF:-1 tvg-id="JTV.MACAN" tvg-name="JTV" tvg-logo="https://i.ibb.co/1XKGLtx/JTV.png" group-title="Shareext@IPTV_Lokal",JTV
-http://tvlive.my.id:25461/mat/mat/20
+http://tvlive.my.id:25461/kevin/kevin/20
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://i.ibb.co/Hr517NJ/OCHANNEL.png" group-title="Shareext@IPTV_Lokal",O Channel
-http://tvlive.my.id:25461/mat/mat/21
+http://tvlive.my.id:25461/kevin/kevin/21
 #EXTINF:-1 tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://cdn.macan.tv/img/mentaritv.png" group-title="Shareext@IPTV_Lokal",Mentari TV
-http://tvlive.my.id:25461/mat/mat/22
+http://tvlive.my.id:25461/kevin/kevin/22
 #EXTINF:-1 tvg-id="CNNIndonesia.MACAN" tvg-name="CNN Indonesia" tvg-logo="https://i.ibb.co/rsPZCwk/CNNINDONESIA.png" group-title="Shareext@IPTV_Lokal",CNN Indonesia
-http://tvlive.my.id:25461/mat/mat/23
+http://tvlive.my.id:25461/kevin/kevin/23
 #EXTINF:-1 tvg-id="CNBCIndonesia.MACAN" tvg-name="CNBC Indonesia" tvg-logo="https://i.ibb.co/Cmy5Kjq/CNBCINDONESIA.png" group-title="Shareext@IPTV_Lokal",CNBC Indonesia
-http://tvlive.my.id:25461/mat/mat/24
+http://tvlive.my.id:25461/kevin/kevin/24
 #EXTINF:-1 tvg-id="" tvg-name="Berita Satu" tvg-logo="https://i.ibb.co/nBC3brt/BERITASATU.png" group-title="Shareext@IPTV_Lokal",Berita Satu
-http://tvlive.my.id:25461/mat/mat/25
+http://tvlive.my.id:25461/kevin/kevin/25
 #EXTINF:-1 tvg-id="" tvg-name="Magna Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="Shareext@IPTV_Lokal",Magna Channel
-http://tvlive.my.id:25461/mat/mat/26
+http://tvlive.my.id:25461/kevin/kevin/26
 #EXTINF:-1 tvg-id="ZooMooAsia.nz" tvg-name="Zoo Moo Asia" tvg-logo="https://i.ibb.co/xXCpQXy/ZOOMOO.png" group-title="Shareext@IPTV_Lokal",ZooMoo Asia
-http://tvlive.my.id:25461/mat/mat/68
+http://tvlive.my.id:25461/kevin/kevin/68
 #EXTINF:-1 tvg-id="NationalGeographicChannel.MACAN" tvg-name="National Geographic" tvg-logo="https://i.ibb.co/HCkJy2p/NATGEO.png" group-title="Shareext@IPTV_Lokal",National Geographic
-http://tvlive.my.id:25461/mat/mat/71
+http://tvlive.my.id:25461/kevin/kevin/71
 #EXTINF:-1 tvg-id="NationalGeographicWild.MACAN" tvg-name="Nat Geo Wild" tvg-logo="https://i.ibb.co/cYC62XM/NATGEOWILD.png" group-title="Shareext@IPTV_Lokal",NatGeo Wild
-http://tvlive.my.id:25461/mat/mat/72
+http://tvlive.my.id:25461/kevin/kevin/72
 #EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Smithsonian Channel" tvg-logo="https://i.ibb.co/TH5rfJM/SMITHSONIANCHANNEL.png" group-title="Shareext@IPTV_Lokal",Smithsonian Channel
-http://tvlive.my.id:25461/mat/mat/364
+http://tvlive.my.id:25461/kevin/kevin/364
 
 
 
@@ -3636,71 +3561,71 @@ https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
 
 
 #EXTINF:-1 tvg-id="SPOTV.MACAN" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/FsgFTMW/SPOTV.png" group-title="ShareExt@IPTV_Sports",SPOTV
-http://tvlive.my.id:25461/mat/mat/27
+http://tvlive.my.id:25461/kevin/kevin/27
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://i.ibb.co/T8HY0rn/SPOTV2.png" group-title="ShareExt@IPTV_Sports",SPOTV 2
-http://tvlive.my.id:25461/mat/mat/28
+http://tvlive.my.id:25461/kevin/kevin/28
 #EXTINF:-1 tvg-id="ASSP1.my" tvg-name="Astro Supersports 1" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="ShareExt@IPTV_Sports",ASSP_1
-http://tvlive.my.id:25461/mat/mat/32
+http://tvlive.my.id:25461/kevin/kevin/32
 #EXTINF:-1 tvg-id="ASSP2.my" tvg-name="Astro Supersports 2" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="ShareExt@IPTV_Sports",ASSP_3
-http://tvlive.my.id:25461/mat/mat/33
+http://tvlive.my.id:25461/kevin/kevin/33
 #EXTINF:-1 tvg-id="ASSP3.my" tvg-name="Astro Supersports 3" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="ShareExt@IPTV_Sports",Championtv_2
-http://tvlive.my.id:25461/mat/mat/41
+http://tvlive.my.id:25461/kevin/kevin/41
 #EXTINF:-1 tvg-id="ASSP4.my" tvg-name="Astro Supersports 4" tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="ShareExt@IPTV_Sports",Championtv_3
-http://tvlive.my.id:25461/mat/mat/42
+http://tvlive.my.id:25461/kevin/kevin/42
 #EXTINF:-1 tvg-id="ASSP5.my" tvg-name="Astro Supersports 5" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="ShareExt@IPTV_Sports",SS-premierLigea
-http://tvlive.my.id:25461/mat/mat/43
+http://tvlive.my.id:25461/kevin/kevin/43
 #EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="Bein Sports 1 ID" tvg-logo="https://i.ibb.co/m04SNRx/BEINSPORTS1.png" group-title="ShareExt@IPTV_Sports",BeinSports 1 ID
-http://tvlive.my.id:25461/mat/mat/45
+http://tvlive.my.id:25461/kevin/kevin/45
 #EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-name="Bein Sports 3 ID" tvg-logo="https://i.ibb.co/r3QBT9h/BEINSPORTS3.png" group-title="ShareExt@IPTV_Sports",BeinSports 3 ID
-http://tvlive.my.id:25461/mat/mat/48
+http://tvlive.my.id:25461/kevin/kevin/48
 #EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="Abu Dhabi Sports 1" tvg-logo="https://e7.pngegg.com/pngimages/46/232/png-clipart-abu-dhabi-sports-arab-club-championship-abu-dhabi-tv-television-channel-football-text-sport.png" group-title="ShareExt@IPTV_Sports",AbuDhabi Sports 1
-http://tvlive.my.id:25461/mat/mat/50
+http://tvlive.my.id:25461/kevin/kevin/50
 #EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 2" tvg-logo="https://e7.pngegg.com/pngimages/46/232/png-clipart-abu-dhabi-sports-arab-club-championship-abu-dhabi-tv-television-channel-football-text-sport.png" group-title="ShareExt@IPTV_Sports",AbuDhabi Sports 2
-http://tvlive.my.id:25461/mat/mat/51
+http://tvlive.my.id:25461/kevin/kevin/51
 #EXTINF:-1 tvg-id="Hits.MACAN" tvg-name="Sports TV" tvg-logo="https://www.logolynx.com/images/logolynx/49/49ebc79edbe4b5571b385790853881de.png" group-title="ShareExt@IPTV_Sports",SportsTV
-http://tvlive.my.id:25461/mat/mat/56
+http://tvlive.my.id:25461/kevin/kevin/56
 #EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="MU TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a0/Mutv_new_logo.png" group-title="ShareExt@IPTV_Sports",MU TV
-http://tvlive.my.id:25461/mat/mat/58
+http://tvlive.my.id:25461/kevin/kevin/58
 #EXTINF:-1 tvg-id="FightSports.MACAN" tvg-name="Fight Sports" tvg-logo="https://i.ibb.co/X2jnCKj/FIGHTSPORTS.png" group-title="ShareExt@IPTV_Sports",FightSports
-http://tvlive.my.id:25461/mat/mat/65
+http://tvlive.my.id:25461/kevin/kevin/65
 #EXTINF:-1 tvg-id="" tvg-name="Canal 11" tvg-logo="https://seeklogo.com/images/C/canal-11-bahia-blanca-logo-A83C894C54-seeklogo.com.png" group-title="ShareExt@IPTV_Sports",Canal 11
-http://tvlive.my.id:25461/mat/mat/67
+http://tvlive.my.id:25461/kevin/kevin/67
 #EXTINF:-1 tvg-id="ZooMooAsia.nz" tvg-name="Real Madrid TV" tvg-logo="https://w7.pngwing.com/pngs/268/318/png-transparent-santiago-bernabeu-stadium-real-madrid-c-f-la-liga-tour-bernabeu-real-madrid-tv-real-madrid-television-text-logo.png" group-title="ShareExt@IPTV_Sports",Real Madrid TV
-http://tvlive.my.id:25461/mat/mat/68
+http://tvlive.my.id:25461/kevin/kevin/68
 
 
 
 
 
 #EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/187zct9/THRILL.png" group-title="SHAREEXT@MOOVIIE",Thrill$
-http://tvlive.my.id:25461/mat/mat/365
+http://tvlive.my.id:25461/kevin/kevin/365
 #EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="Celestial Movies" tvg-logo="https://i.ibb.co/9gjYZ6W/CELESTIALMOVIES.png" group-title="SHAREEXT@MOOVIIE",Celestial Movies$
-http://tvlive.my.id:25461/mat/mat/366
+http://tvlive.my.id:25461/kevin/kevin/366
 #EXTINF:-1 tvg-id="" tvg-name="Hits Movies" tvg-logo="https://i.ibb.co/FX2Yj15/HITSMOVIES.png" group-title="SHAREEXT@MOOVIIE",Hit Movies$
-http://tvlive.my.id:25461/mat/mat/368
+http://tvlive.my.id:25461/kevin/kevin/368
 #EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-name="AXN" tvg-logo="https://i.ibb.co/dKJt8hM/AXN.png" group-title="SHAREEXT@MOOVIIE",AXN$
-http://tvlive.my.id:25461/mat/mat/372
+http://tvlive.my.id:25461/kevin/kevin/372
 #EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="Cinemax FPT" tvg-logo="https://i.ibb.co/jVhpB6v/CINEMAX.png" group-title="SHAREEXT@MOOVIIE",Cinemax$ FPT
-http://tvlive.my.id:25461/mat/mat/373
+http://tvlive.my.id:25461/kevin/kevin/373
 #EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBO FPT" tvg-logo="https://i.ibb.co/3sgvjFr/HBO.png" group-title="SHAREEXT@MOOVIIE",HBO$ FPT
-http://tvlive.my.id:25461/mat/mat/374
+http://tvlive.my.id:25461/kevin/kevin/374
 #EXTINF:-1 tvg-id="" tvg-name="Sinema Indonesia" tvg-logo="https://i.ibb.co/9nnHrv9/SINEMAINDONESIA.png" group-title="SHAREEXT@MOOVIIE",Sinema Indonesia$
-http://tvlive.my.id:25461/mat/mat/384
+http://tvlive.my.id:25461/kevin/kevin/384
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1200px-Rakuten_TV_logo.svg.png" group-title="SHAREEXT@MOOVIIE",Rakuten TV$
-http://tvlive.my.id:25461/mat/mat/385
+http://tvlive.my.id:25461/kevin/kevin/385
 
 #EXTINF:-1 tvg-id="Galaxy.MACAN" tvg-name="Galaxy" tvg-logo="https://i.ibb.co/j3NMYVH/GALAXY.png" group-title="SHAREEXT@MOOVIIE", Galaxy$
-http://tvlive.my.id:25461/mat/mat/368
+http://tvlive.my.id:25461/kevin/kevin/368
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Drama Sangat Malaysia" tvg-logo="https://2.bp.blogspot.com/-u7s-SxiwboY/XobRBMpjo6I/AAAAAAAApmg/vaGLfLV8sEMOhCAd5n6HK_JiuZdptTWUQCLcBGAsYHQ/s1600/drama-sangat-tv-channel-logo.png" group-title="SHAREEXT@MOOVIIE",DramaSangat$Malaysia
-http://tvlive.my.id:25461/mat/mat/369
+http://tvlive.my.id:25461/kevin/kevin/369
 #EXTINF:-1 tvg-id="" tvg-name="TLC FPT" tvg-logo="https://i.ibb.co/q5Drt1t/TLC.png" group-title="SHAREEXT@MOOVIIE",TLC FPT
-http://tvlive.my.id:25461/mat/mat/106
+http://tvlive.my.id:25461/kevin/kevin/106
 #EXTINF:-1 tvg-id="HistoryChannel.id" tvg-name="History Channel Asia" tvg-logo="https://i.ibb.co/svhGk7n/HISTORY.png" group-title="SHAREEXT@MOOVIIE",History Channel Asia
-http://tvlive.my.id:25461/mat/mat/161
+http://tvlive.my.id:25461/kevin/kevin/161
 #EXTINF:-1 tvg-id="HGTV.MACAN" tvg-name="HGTV" tvg-logo="https://i.ibb.co/VCX9J0c/HGTV.png" group-title="SHAREEXT@MOOVIIE",HGTV
-http://tvlive.my.id:25461/mat/mat/363
+http://tvlive.my.id:25461/kevin/kevin/363
 #EXTINF:-1 tvg-id="ZooMooAsia.nz" tvg-name="Zoo Moo Asia" tvg-logo="https://i.ibb.co/xXCpQXy/ZOOMOO.png" group-title="SHAREEXT@MOOVIIE",Zoo Moo Asia
-http://tvlive.my.id:25461/mat/mat/364
+http://tvlive.my.id:25461/kevin/kevin/364
 
 
 
