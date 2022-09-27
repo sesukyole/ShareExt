@@ -132,29 +132,43 @@ http://pprotv.com:80/fahad70/fahad70/39558
 http://pprotv.com:80/fahad70/fahad70/39559
 
 #EXTINF:-1 tvg-id="UseeSports.id" tvg-name="UseeSport  1" tvg-logo="https://i.ibb.co/WKyLMfQ/usee1.png" group-title="ShareExt@Relax",UseeSport1(rolling)
+http://bgltv.my.id:8080/live/NewApk/HMTV/198.ts
 http://syok.tv:2082/12345/54321/2551
 #EXTINF:-1 tvg-id="UseeSports2.id" tvg-name="UseeSport  2" tvg-logo="https://i.ibb.co/WKyLMfQ/usee1.png" group-title="ShareExt@Relax",UseeSport2(rolling)
+http://bgltv.my.id:8080/live/NewApk/HMTV/199.ts
 http://syok.tv:2082/12345/54321/2552
 #EXTINF:-1 tvg-id="Champions1.MACAN" tvg-name="Champion TV1" tvg-logo="https://i.imgur.com/xkPu3nt.png" group-title="ShareExt@Relax",Champion.TV1(rolling)
+http://bgltv.my.id:8080/live/NewApk/HMTV/200.ts
 http://syok.tv:2082/12345/54321/5845
 #EXTINF:-1 tvg-id="Champions2.MACAN" tvg-name="Champion TV2" tvg-logo="https://i.imgur.com/lgW3GlD.png" group-title="ShareExt@Relax",Champion.TV2(rolling)
+http://bgltv.my.id:8080/live/NewApk/HMTV/201.ts
 http://syok.tv:2082/12345/54321/5846
+#EXTINF:-1 tvg-id="Champions2.MACAN" tvg-name="Champion TV2" tvg-logo="https://i.imgur.com/lgW3GlD.png" group-title="ShareExt@Relax",Champion.TV3(rolling)
+http://bgltv.my.id:8080/live/NewApk/HMTV/202.ts
+
 
 #EXTINF:-1 tvg-id="warnertv.my" tvg-name="MY:RTM Sport" tvg-logo="https://i.ibb.co/zVKhdjR/rtm.png" group-title="ShareExt@Relax",RTM Sport(rolling)
 http://syok.tv:2082/12345/54321/119
 #EXTINF:-1 tvg-id="801" tvg-name="MY: Astro Arena[A]" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="ShareExt@Relax",AstroArena(rolling)
+http://bgltv.my.id:8080/live/NewApk/HMTV/219.ts
 http://syok.tv:2082/12345/54321/121
 #EXTINF:-1 tvg-id="802" tvg-name="MY: Astro Arena 2" tvg-logo="https://i.imgur.com/JS5Kve6.png" group-title="ShareExt@Relax",AstroArena 2(rolling)
+http://bgltv.my.id:8080/live/NewApk/HMTV/220.ts
 http://syok.tv:2082/12345/54321/123
 #EXTINF:-1 tvg-id="811" tvg-name="MY: Astro Super Sport 1" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="ShareExt@Relax",Astro SuperSport 1(rolling)
+http://bgltv.my.id:8080/live/NewApk/HMTV/214.ts
 http://syok.tv:2082/12345/54321/124
 #EXTINF:-1 tvg-id="812" tvg-name="MY: Astro Super Sport 2" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="ShareExt@Relax",Astro SuperSport 2(rolling)
+http://bgltv.my.id:8080/live/NewApk/HMTV/215.ts
 http://syok.tv:2082/12345/54321/125
 #EXTINF:-1 tvg-id="813" tvg-name="MY: Astro Super Sport 3" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="ShareExt@Relax",Astro SuperSport 3(rolling)
+http://bgltv.my.id:8080/live/NewApk/HMTV/216.ts
 http://syok.tv:2082/12345/54321/126
 #EXTINF:-1 tvg-id="814" tvg-name="MY: Astro Super Sport 4" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="ShareExt@Relax",Astro SuperSport 4(rolling)
+http://bgltv.my.id:8080/live/NewApk/HMTV/217.ts
 http://syok.tv:2082/12345/54321/127
 #EXTINF:-1 tvg-id="815" tvg-name="MY: Astro Super Sport 5(B)" tvg-logo="https://i.imgur.com/bzQyCno.png" group-title="ShareExt@Relax",Astro SuperSport 5(rolling)
+http://bgltv.my.id:8080/live/NewApk/HMTV/218.ts
 http://syok.tv:2082/12345/54321/641
 
 
@@ -484,10 +498,13 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",.champ1(0tt/tivimate)
+http://bgltv.my.id:8080/live/NewApk/HMTV/200.ts
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/champ1etdahlluapainnih|user-agent=d918211I1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",.champ2(0tt/tivimate)
+http://bgltv.my.id:8080/live/NewApk/HMTV/201.ts
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/champ2etdahlluapainnih|user-agent=d918211I1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",.champ3(0tt/tivimate)
+http://bgltv.my.id:8080/live/NewApk/HMTV/202.ts
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/champ3etdahlluapainnih|user-agent=d918211I1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",.champGoal(0tt/tivimate)
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/champgoaletdahlluapainnih|user-agent=d918211I1
@@ -734,8 +751,10 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13" group-title="SHAREEXT@2022_CODAY_USEE",ustv-1 
+http://bgltv.my.id:8080/live/NewApk/HMTV/198.ts
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/usee.m3u8|user-agent=f77hLjia8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13" group-title="SHAREEXT@2022_CODAY_USEE",ustv-2 
+http://bgltv.my.id:8080/live/NewApk/HMTV/199.ts
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/usee2.m3u8|user-agent=f77hLjia8
 #EXTINF:-1 tvg-id="SPOTV.MACAN" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/FsgFTMW/SPOTV.png" group-title="SHAREEXT@2022_CODAY_USEE",Supersports_PL
 http://tvlive.my.id:25461/kevin/kevin/26
