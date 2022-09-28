@@ -105,34 +105,6 @@ http://pprotv.com:80/fahad70/fahad70/39558
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", eGG TV(protv)
 http://pprotv.com:80/fahad70/fahad70/39559
 
-#EXTINF:-1 tvg-id="UseeSports.id" tvg-name="UseeSport  1" tvg-logo="https://i.ibb.co/WKyLMfQ/usee1.png" group-title="ShareExt@Relax",UseeSport1(rolling)
-http://syok.tv:2082/12345/54321/2551
-#EXTINF:-1 tvg-id="UseeSports2.id" tvg-name="UseeSport  2" tvg-logo="https://i.ibb.co/WKyLMfQ/usee1.png" group-title="ShareExt@Relax",UseeSport2(rolling)
-http://syok.tv:2082/12345/54321/2552
-#EXTINF:-1 tvg-id="Champions1.MACAN" tvg-name="Champion TV1" tvg-logo="https://i.imgur.com/xkPu3nt.png" group-title="ShareExt@Relax",Champion.TV1(rolling)
-http://syok.tv:2082/12345/54321/5845
-#EXTINF:-1 tvg-id="Champions2.MACAN" tvg-name="Champion TV2" tvg-logo="https://i.imgur.com/lgW3GlD.png" group-title="ShareExt@Relax",Champion.TV2(rolling)
-http://syok.tv:2082/12345/54321/5846
-
-
-#EXTINF:-1 tvg-id="warnertv.my" tvg-name="MY:RTM Sport" tvg-logo="https://i.ibb.co/zVKhdjR/rtm.png" group-title="ShareExt@Relax",RTM Sport(rolling)
-http://syok.tv:2082/12345/54321/119
-#EXTINF:-1 tvg-id="801" tvg-name="MY: Astro Arena[A]" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="ShareExt@Relax",AstroArena(rolling)
-http://syok.tv:2082/12345/54321/121
-#EXTINF:-1 tvg-id="802" tvg-name="MY: Astro Arena 2" tvg-logo="https://i.imgur.com/JS5Kve6.png" group-title="ShareExt@Relax",AstroArena 2(rolling)
-http://syok.tv:2082/12345/54321/123
-#EXTINF:-1 tvg-id="811" tvg-name="MY: Astro Super Sport 1" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="ShareExt@Relax",Astro SuperSport 1(rolling)
-http://syok.tv:2082/12345/54321/124
-#EXTINF:-1 tvg-id="812" tvg-name="MY: Astro Super Sport 2" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="ShareExt@Relax",Astro SuperSport 2(rolling)
-http://syok.tv:2082/12345/54321/125
-#EXTINF:-1 tvg-id="813" tvg-name="MY: Astro Super Sport 3" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="ShareExt@Relax",Astro SuperSport 3(rolling)
-http://syok.tv:2082/12345/54321/126
-#EXTINF:-1 tvg-id="814" tvg-name="MY: Astro Super Sport 4" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="ShareExt@Relax",Astro SuperSport 4(rolling)
-http://syok.tv:2082/12345/54321/127
-#EXTINF:-1 tvg-id="815" tvg-name="MY: Astro Super Sport 5(B)" tvg-logo="https://i.imgur.com/bzQyCno.png" group-title="ShareExt@Relax",Astro SuperSport 5(rolling)
-http://syok.tv:2082/12345/54321/641
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@Relax",ChampionTv1
 http://tv.zonanime.my.id/vidio/championstv1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@Relax",ChampionTv2
@@ -148,7 +120,6 @@ https://vcdn2.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-
 https://vcdn2.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",INEWS
 https://vcdn2.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=7-mp4a_96000=2.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",SonyTen$1 HD
@@ -695,9 +666,8 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13" group-title="SHAREEXT@2022_CODAY_USEE",ustv-1 
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/usee1.m3u8|User-Agent=242950805
+
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13" group-title="SHAREEXT@2022_CODAY_USEE",ustv-2 
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/usee2.m3u8|User-Agent=1831616754
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@2022_CODAY_USEE",SPOtv(bc)
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1658678403~exp=9007200913419394~acl=/99545824f51f4c1592b35314c6ece3b0/*/https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8*~hmac=e94149ba9daa152c0579d62c19e8dd7a84428e76284a0157a12571c1f34ced00
