@@ -829,6 +829,17 @@ http://stream.semerutv.link:7780/freebies/EOti98qsWH/133
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@Stream_Sports",BEINsports_premier 1
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@Stream_Sports",BEINsports_premier 2
+http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@Stream_Sports",BEINsports_premier 3
+http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@Stream_Sports",BEINsports_ENGLISH 1
+http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
+
 #EXTINF:-1 tvg-id="" tvg-name="My: Astro SuperSport 1 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/811_300.png" group-title="SHAREEXT@Stream_Sports",Astro-SuperSport 1 HD(dec=auto)
 http://shareext@xtv.ooo:8080/demo/demo123/229522
 #EXTINF:-1 tvg-id="" tvg-name="My: Astro SuperSport 2 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png" group-title="SHAREEXT@Stream_Sports",Astro-SuperSport 2 HD(dec=auto)
