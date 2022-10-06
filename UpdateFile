@@ -444,6 +444,13 @@ http://54.151.201.145:5566/GG/Live/RcTi/mpegts
 http://54.151.201.145:5566/GG/Live/GtV/mpegts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",INEWS+
 http://54.151.201.145:5566/GG/Live/INEWS/mpegts
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",champTv_1(tvn_digital)
+http://tvn.x10.mx/1/master-30.m3u8?dl=1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",champTv_2(tvn_digital)
+http://tvn.x10.mx/1/master-31.m3u8?dl=1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",champTv_3(tvn_digital)
+http://tvn.x10.mx/1/master-32.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",Astro*Cricket HD
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/115614
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@RIYANCODAY-VIDIO",ASTROSUPERSPORTS 1 HD
