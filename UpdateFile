@@ -1011,6 +1011,114 @@ http://14.192.129.138:8000/play/ASD/index.m3u8
 
 
 
+#EXTINF:-1 xui-id="134" tvg-id="SkyBundesliga9.de" tvg-name="DE | Sky Bundesliga 9 HD+ (MATCHDAY)" tvg-logo="http://boomtivi.xyz/images/logos/DE/SkySportBundesliga9HD.png" group-title="SHAREEXT@DENMARK_SKY SPORT",Sky Bundesliga 9 HD+ (MATCHDAY)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjMHEKnXtOv6ls4eBDFY4Sk
+#EXTINF:-1 xui-id="137" tvg-id="SkyBundesliga10.de" tvg-name="DE | Sky Bundesliga 10 HD+ (MATCHDAY)" tvg-logo="http://boomtivi.xyz/images/logos/DE/SkySportBundesliga10HD.png" group-title="SHAREEXT@DENMARK_SKY SPORT",Sky Bundesliga 10 HD+ (MATCHDAY)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SlFiIMGHHPp_cFQRMvRy310
+#EXTINF:-1 xui-id="146" tvg-id="DAZN1HD" tvg-name="DE | DAZN Bar 1 HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/DAZN1.png" group-title="SHAREEXT@DENMARK_SKY SPORT",DAZN Bar 1 HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
+#EXTINF:-1 xui-id="148" tvg-id="DAZN2HD" tvg-name="DE | DAZN Bar 2 HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/DAZN2.png" group-title="SHAREEXT@DENMARK_SKY SPORT",DAZN Bar 2 HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl4PR2-6eZEHuOmWnlPbYOc
+#EXTINF:-1 xui-id="149" tvg-id="Eurosport1.de" tvg-name="DE | Eurosport 1 HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/Eurosport1HD.png" group-title="SHAREEXT@DENMARK_SKY SPORT",Eurosport 1 HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StsB60XRHQki2IRJSwyUIc0
+#EXTINF:-1 xui-id="150" tvg-id="Sky1.de" tvg-name="DE | Eurosport 2 HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/Eurosport2HD.png" group-title="SHAREEXT@DENMARK_SKY SPORT",Eurosport 2 HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StKrxXztnrfEGmivohJSVmE
+#EXTINF:-1 xui-id="152" tvg-id="Eurosport2Xtra.de" tvg-name="DE | Eurosport 2Xtra HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/Eurosport2HDExtra.png" group-title="SHAREEXT@DENMARK_SKY SPORT",Eurosport 2Xtra HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SnAfUrS0jI2D2AtirN9YF2A
+#EXTINF:-1 xui-id="154" tvg-id="Sport1HD.de" tvg-name="DE | Sport1" tvg-logo="http://boomtivi.xyz/images/logos/DE/Sport1HD.png" group-title="SHAREEXT@DENMARK_SKY SPORT",Sport1
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SrIEZ6snbsNvwTWuNVj02wU
+#EXTINF:-1 xui-id="155" tvg-id="SPORT1plus.de" tvg-name="DE | Sport1+" tvg-logo="http://boomtivi.xyz/images/logos/DE/Sports1+HD.png" group-title="SHAREEXT@DENMARK_SKY SPORT",Sport1+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Ss7XMe2T7HJFI2Jg9rmJ-MQ
+#EXTINF:-1 xui-id="156" tvg-id="" tvg-name="DE | Auto Motor Sport" tvg-logo="http://boomtivi.xyz/images/logos/DE/AutoMotorSportHD.png" group-title="SHAREEXT@DENMARK_SKY SPORT",AutoMotor Sport
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StnlWqpUjxgMvydBwZBiLCg
+#EXTINF:-1 xui-id="157" tvg-id="MotorVision.de" tvg-name="DE | Motorvision TV" tvg-logo="http://boomtivi.xyz/images/logos/DE/Motorvision.png" group-title="SHAREEXT@DENMARK_SKY SPORT",Motorvision TV
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SpzJKOjCzaNc0b5W-5cl7CY
+#EXTINF:-1 xui-id="165" tvg-id="SkySport3.de" tvg-name="DE | Sky Sport 3 HD+ (MATCHDAY)" tvg-logo="http://boomtivi.xyz/images/logos/DE/SkySport3HD.png" group-title="SHAREEXT@DENMARK_SKY SPORT",SkySport 3 HD+ (MATCHDAY)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SnqnHZOvZPwAHy_IZnYtlUM
+#EXTINF:-1 xui-id="167" tvg-id="SkySport4.de" tvg-name="DE | Sky Sport 4 HD+ (MATCHDAY)" tvg-logo="http://boomtivi.xyz/images/logos/DE/SkySport4HD.png" group-title="SHAREEXT@DENMARK_SKY SPORT",SkySport 4 HD+ (MATCHDAY)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SteSm2aEhYfLYgx9vyyo4wM
+#EXTINF:-1 xui-id="169" tvg-id="SkySport5.de" tvg-name="DE | Sky Sport 5 HD+ (MATCHDAY)" tvg-logo="http://boomtivi.xyz/images/logos/DE/SkySport5HD.png" group-title="SHAREEXT@DENMARK_SKY SPORT",SkySport 5 HD+ (MATCHDAY)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StT_cpChzWhmhQ8rvS_f_Mo
+#EXTINF:-1 xui-id="171" tvg-id="SkySport6.de" tvg-name="DE | Sky Sport 6 HD+ (MATCHDAY)" tvg-logo="http://boomtivi.xyz/images/logos/DE/SkySport6HD.png" group-title="SHAREEXT@DENMARK_SKY SPORT",SkySport 6 HD+ (MATCHDAY)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sv4n0gATRCooeN7eWAp-3xE
+#EXTINF:-1 xui-id="179" tvg-id="SkySport10.de" tvg-name="DE | Sky Sport 10 HD+ (MATCHDAY)" tvg-logo="http://boomtivi.xyz/images/logos/DE/SkySport10HD.png" group-title="SHAREEXT@DENMARK_SKY SPORT",SkySport 10 HD+ (MATCHDAY)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1So5v0KwAKdQQhKMqlSCv4H8
+#EXTINF:-1 xui-id="184" tvg-id="SkyBundesliga2.de" tvg-name="DE | Sky Bundesliga 2 HD+ (MATCHDAY)" tvg-logo="http://boomtivi.xyz/images/logos/DE/SkySportBundesliga3HD.png" group-title="SHAREEXT@DENMARK_SKY SPORT",Sky Bundesliga 2 HD+ (MATCHDAY)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SkS3yzd9eVnrhskwvjzBwsQ
+#EXTINF:-1 xui-id="186" tvg-id="SkyBundesliga3.de" tvg-name="DE | Sky Bundesliga 3 HD+ (MATCHDAY)" tvg-logo="http://boomtivi.xyz/images/logos/DE/SkySportBundesliga3HD.png" group-title="SHAREEXT@DENMARK_SKY SPORT",Sky Bundesliga 3 HD+ (MATCHDAY)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1ShWB6z3c5N9ZPuhUzdDea18
+#EXTINF:-1 xui-id="188" tvg-id="SkyBundesliga4.de" tvg-name="DE | Sky Bundesliga 4 HD+ (MATCHDAY)" tvg-logo="http://boomtivi.xyz/images/logos/DE/SkySportBundesliga4HD.png" group-title="SHAREEXT@DENMARK_SKY SPORT",Sky Bundesliga 4 HD+ (MATCHDAY)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sg2o_l7SfDQvVJGJUvtTbSE
+#EXTINF:-1 xui-id="190" tvg-id="SkyBundesliga5.de" tvg-name="DE | Sky Bundesliga 5 HD+ (MATCHDAY)" tvg-logo="http://boomtivi.xyz/images/logos/DE/SkySportBundesliga5HD.png" group-title="SHAREEXT@DENMARK_SKY SPORT",Sky Bundesliga 5 HD+ (MATCHDAY)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SvsIw_SHbXFkJrgaTAi-6t8
+#EXTINF:-1 xui-id="192" tvg-id="SkyBundesliga6.de" tvg-name="DE | Sky Bundesliga 6 HD+ (MATCHDAY)" tvg-logo="http://boomtivi.xyz/images/logos/DE/SkySportBundesliga6HD.png" group-title="SHAREEXT@DENMARK_SKY SPORT",Sky Bundesliga 6 HD+ (MATCHDAY)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sgi7blviMZGYd_7TIx8v0Kg
+#EXTINF:-1 xui-id="194" tvg-id="SkyBundesliga7.de" tvg-name="DE | Sky Bundesliga 7 HD+ (MATCHDAY)" tvg-logo="http://boomtivi.xyz/images/logos/DE/SkySportBundesliga7HD.png" group-title="SHAREEXT@DENMARK_SKY SPORT",Sky Bundesliga 7 HD+ (MATCHDAY)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SmSY0IPqhBlY-mBrUgA0FC4
+#EXTINF:-1 xui-id="196" tvg-id="SkyBundesliga8.de" tvg-name="DE | Sky Bundesliga 8 HD+ (MATCHDAY)" tvg-logo="http://boomtivi.xyz/images/logos/DE/SkySportBundesliga8HD.png" group-title="SHAREEXT@DENMARK_SKY SPORT",Sky Bundesliga 8 HD+ (MATCHDAY)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SkofY_wajwdwmhyfpZPpyWA
+#EXTINF:-1 xui-id="35441" tvg-id="" tvg-name="DE | FC Bayern TV" tvg-logo="http://boomtivi.xyz/images/logos/DE/FCBayern.png" group-title="SHAREEXT@DENMARK_SKY SPORT",FC Bayern TV
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SuC9rYFIy0mVJ7QIycjZmc9i9WZDsBeysX4H8Ujkh8sy
+#EXTINF:-1 xui-id="70004" tvg-id="SKYBUHD" tvg-name="DE | Sky Bundesliga HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/SkySportBundesliga1HD.png" group-title="SHAREEXT@DENMARK_SKY SPORT",Sky Bundesliga HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StkDAvdaGkE2ZL55MyZPaRlYCCgWucWe5VgT6cQa8FzW
+#EXTINF:-1 xui-id="70005" tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/Sky_Sport_Tennis.png" group-title="SHAREEXT@DENMARK_SKY SPORT",SkySport Tennis HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StkDAvdaGkE2ZL55MyZPaRmemVdxHtqVMoXocC4AZ6Lp
+#EXTINF:-1 xui-id="70011" tvg-id="SkySportTopEvent.de" tvg-name="DE | Sky Sport Top Event HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/Sky_Sport_Topevent.png" group-title="SHAREEXT@DENMARK_SKY SPORT",SkySport Top Event HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SlHDSiLXnhNEc7d0YtkYjfz8l_CXH8SkopTQLd4zAsMF
+#EXTINF:-1 xui-id="92778" tvg-id="SkySportF1.de" tvg-name="DE | Sky Sport F1 HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/SkySportF1.png" group-title="SHAREEXT@DENMARK_SKY SPORT",SkySport F1 HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SuwnUwS0hF-cBrhE84qXm6ztaUhDTbNJ21_V_XlOVk4V
+#EXTINF:-1 xui-id="211721" tvg-id="" tvg-name="DE | Sky Sport Mix HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/Sky_Sport_Mix.png" group-title="SHAREEXT@DENMARK_SKY SPORT",SkySport Mix HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sg74P7E2KVZTmncTKfs-ok6WuwGDTPPED7MIqoUnkWRW
+#EXTINF:-1 xui-id="211723" tvg-id="SkySportGolf.de" tvg-name="DE | Sky Sport Golf HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/Sky_Sport_Golf.png" group-title="SHAREEXT@DENMARK_SKY SPORT",SkySport Golf HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sg74P7E2KVZTmncTKfs-ok5esmmyvQnwIXm7WWdjvQl4
+#EXTINF:-1 xui-id="211790" tvg-id="SkySportPremierLeague.de" tvg-name="DE | Sky Sport Premier League HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/Sky_Sport_Premier.png" group-title="SHAREEXT@DENMARK_SKY SPORT",SkySport PremierLeague HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sg74P7E2KVZTmncTKfs-ok66TR4WskgVMgVBV84udfR9
+
+
+
+
+
+
+#EXTINF:-1 xui-id="173875" tvg-id="NovasportsStart.gr" tvg-name="GR | Nova Sports Start" tvg-logo="http://boomtivi.xyz/images/logos/GR/novaspstart.png" group-title="SHAREEXT@SPORTS_GRIECHENLAND",Nova Sports Start
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-GjqT3a75ko46LKD1eben_
+#EXTINF:-1 xui-id="173864" tvg-id="NovasportsNews.gr" tvg-name="GR | Nova Sports News" tvg-logo="http://boomtivi.xyz/images/logos/GR/nova.png" group-title="SHAREEXT@SPORTS_GRIECHENLAND",Nova Sports News
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-E3z4mr2cUBJB0UFX4CMCV
+#EXTINF:-1 xui-id="173944" tvg-id="NovasportsPrime.gr" tvg-name="GR | Nova Sport Prime" tvg-logo="http://boomtivi.xyz/images/logos/GR/novaspprime.png" group-title="SHAREEXT@SPORTS_GRIECHENLAND",Nova Sport Prime
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SiNbpNnLSCs2raDBBlJ75L12xCcWfMUpyovA8KCk83tc
+#EXTINF:-1 xui-id="173874" tvg-id="" tvg-name="GR | Nova Sports 24" tvg-logo="http://boomtivi.xyz/images/logos/GR/nova.png" group-title="SHAREEXT@SPORTS_GRIECHENLAND",Nova Sports 24
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e_jYvBG1pdG0CJssJ4y_7Fk
+#EXTINF:-1 xui-id="173867" tvg-id="NovaSports1.gr" tvg-name="GR | Nova Sports 1" tvg-logo="http://boomtivi.xyz/images/logos/GR/novasp1.png" group-title="SHAREEXT@SPORTS_GRIECHENLAND",Nova Sports 1
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEooxeg3onklIL
+#EXTINF:-1 xui-id="173868" tvg-id="NovaSports2.gr" tvg-name="GR | Nova Sports 2" tvg-logo="http://boomtivi.xyz/images/logos/GR/novasp2.png" group-title="SHAREEXT@SPORTS_GRIECHENLAND",Nova Sports 2
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-UHY4EFXaTL62Eh947HkO8
+#EXTINF:-1 xui-id="173869" tvg-id="NovaSports3.gr" tvg-name="GR | Nova Sports 3" tvg-logo="http://boomtivi.xyz/images/logos/GR/novasp3.png" group-title="SHAREEXT@SPORTS_GRIECHENLAND",Nova Sports 3
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8yactgLcAekKc29ct9hkkd
+#EXTINF:-1 xui-id="173870" tvg-id="NovaSports4.gr" tvg-name="GR | Nova Sports 4" tvg-logo="http://boomtivi.xyz/images/logos/GR/novasp4.png" group-title="SHAREEXT@SPORTS_GRIECHENLAND",Nova Sports 4
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e_lG-wVaWwzTuOyVlirmrrk
+#EXTINF:-1 xui-id="173871" tvg-id="NovaSports5.gr" tvg-name="GR | Nova Sports 5" tvg-logo="http://boomtivi.xyz/images/logos/GR/novasp5.png" group-title="SHAREEXT@SPORTS_GRIECHENLAND",Nova Sports 5
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-zSIvQVCNzM6PzAwwDSc-9
+#EXTINF:-1 xui-id="173872" tvg-id="Novasports6.gr" tvg-name="GR | Nova Sports 6" tvg-logo="http://boomtivi.xyz/images/logos/GR/novasp6.png" group-title="SHAREEXT@SPORTS_GRIECHENLAND",Nova Sports 6
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8knmYox6b33BuDPJjeF2_K
+#EXTINF:-1 xui-id="173865" tvg-id="EuroSport1.gr" tvg-name="GR | Eurosport 1" tvg-logo="http://boomtivi.xyz/images/logos/GR/eurosport1.png" group-title="SHAREEXT@SPORTS_GRIECHENLAND",Eurosport 1
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e961RndFsW58KcNMelMyUCM
+#EXTINF:-1 xui-id="173866" tvg-id="EuroSport2.gr" tvg-name="GR | Eurosport 2" tvg-logo="http://boomtivi.xyz/images/logos/GR/eurosport2.png" group-title="SHAREEXT@SPORTS_GRIECHENLAND",Eurosport 2
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9j7AJO6rfLrxWX01JPOxHU
+#EXTINF:-1 xui-id="173876" tvg-id="" tvg-name="GR | ERT Sports" tvg-logo="http://boomtivi.xyz/images/logos/GR/" group-title="SHAREEXT@SPORTS_GRIECHENLAND",ERT Sports
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9jtraVRz6iHM_8NQhlSHTY
+#EXTINF:-1 xui-id="173877" tvg-id="" tvg-name="GR | ERT Sports 2" tvg-logo="http://boomtivi.xyz/images/logos/GR/" group-title="SHAREEXT@SPORTS_GRIECHENLAND",ERT Sports 2
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9FuP5ddhsO8x5xueGLG8_x
+#EXTINF:-1 xui-id="173878" tvg-id="" tvg-name="GR | ERT Sports 3" tvg-logo="http://boomtivi.xyz/images/logos/GR/" group-title="SHAREEXT@SPORTS_GRIECHENLAND",ERT Sports 3
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e_470r6_RoEIoZkkgPydTiQ
+#EXTINF:-1 xui-id="173879" tvg-id="" tvg-name="GR | ERT Sports 4" tvg-logo="http://boomtivi.xyz/images/logos/GR/" group-title="SHAREEXT@SPORTS_GRIECHENLAND",ERT Sports 4
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8KsgWYTZnbyDhLVt4xCYBw
+#EXTINF:-1 xui-id="173880" tvg-id="" tvg-name="GR | ERT Sports 5" tvg-logo="http://boomtivi.xyz/images/logos/GR/" group-title="SHAREEXT@SPORTS_GRIECHENLAND",ERT Sports 5
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e_dRcX-iPgxJuMNLcOHGvCi
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="My: Astro SuperSport 1 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/811_300.png" group-title="SHAREEXT@MY | MALAYSIA",AstroSuperSport 1 HD(dec=auto)
 http://shareext@xtv.ooo:8080/demo/demo123/229522
