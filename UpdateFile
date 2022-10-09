@@ -123,12 +123,16 @@ https://vcdn2.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_9
 https://vcdn2.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=7-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",SonyTen$1 HD
+http://50.7.237.4:8080/TEN1HD/tracks-v1a1/index.m3u8
 http://103.179.246.243:8000/play/a00e
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",SonyTen$2 HD
+http://50.7.237.4:8080/TEN2HD/tracks-v1a1/index.m3u8
 http://103.179.246.243:8000/play/a01a
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",SonyTen$3 HD
+http://50.7.237.4:8080/TEN3HD/tracks-v1a1/index.m3u8
 http://103.179.246.243:8000/play/a00k
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",SIX$HD
+http://50.7.237.4:8080/SONYSIXHD/tracks-v1a1/index.m3u8
 http://103.179.246.243:8000/play/a00f
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",StarS Hin 1$ HD
 http://103.179.246.243:8000/play/a026
