@@ -83,9 +83,9 @@ http://iptvid.my.id/hmm/useetl1.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseeSports_2 
 http://iptvid.my.id/hmm/useetl2.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13" group-title="ShareExt@Relax",useSport-1(rolling) 
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/usee1.m3u8|User-Agent=dhdsbosuasx
+http://180.211.90.134:8000/play/a059
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13" group-title="ShareExt@Relax",useSport-2(rolling)
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/usee2.m3u8|User-Agent=dhdsbosuasz
+http://180.211.90.134:8000/play/a05b
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", FightSport(protv)
 http://pprotv.com:80/fahad70/fahad70/39551
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", beINSports 1 ID(protv)
@@ -124,28 +124,12 @@ https://vcdn2.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=7-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",SonyTen$1 HD
 http://50.7.237.4:8080/TEN1HD/tracks-v1a1/index.m3u8
-http://103.179.246.243:8000/play/a00e
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",SonyTen$2 HD
 http://50.7.237.4:8080/TEN2HD/tracks-v1a1/index.m3u8
-http://103.179.246.243:8000/play/a01a
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",SonyTen$3 HD
 http://50.7.237.4:8080/TEN3HD/tracks-v1a1/index.m3u8
-http://103.179.246.243:8000/play/a00k
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",SIX$HD
 http://50.7.237.4:8080/SONYSIXHD/tracks-v1a1/index.m3u8
-http://103.179.246.243:8000/play/a00f
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",StarS Hin 1$ HD
-http://103.179.246.243:8000/play/a026
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",StarSports 1 $HD
-http://103.179.246.243:8000/play/a00c
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",StarSporTs 2$ HD
-http://103.179.246.243:8000/play/a00d
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",StarSports 3$
-http://103.179.246.243:8000/play/a00l
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",StarSports S 1$ HD
-http://103.179.246.243:8000/play/a018
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",StarSports S 2 $HD
-http://103.179.246.243:8000/play/a019
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",Gaora Sports
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",Golf Network
