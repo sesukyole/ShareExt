@@ -83,7 +83,7 @@ http://iptvid.my.id/hmm/useetl1.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseeSports_2 
 http://iptvid.my.id/hmm/useetl2.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13" group-title="ShareExt@Relax",useSport-1(rolling) 
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/usee1.m3u8|User-Agent=dhdsbosuasz
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/usee1.m3u8|User-Agent=dhdsbosuasx
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13" group-title="ShareExt@Relax",useSport-2(rolling)
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/usee2.m3u8|User-Agent=dhdsbosuasz
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", FightSport(protv)
@@ -112,7 +112,7 @@ http://tv.zonanime.my.id/vidio/championstv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@Relax",ChampionTv3
 http://tv.zonanime.my.id/vidio/championstv3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@Relax",ChampionTvGoal(rolling)
-https://etslive-2-vidio-com.akamaized.net/exp=1665245436~acl=/hls-p/ingest_9045_*/*~hmac=5086a5ec376c09dba9c5d946cbde91ce98d322b4edb4682fc00727125a8fba73/hls-p/ingest_9045_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1665288651~acl=/hls-p/ingest_9045_*/*~hmac=c324f49d7fc81ae7cd1662a7126e66205982ce01044ab2a210deb0b8dde0c723/hls-p/ingest_9045_720p/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RCTI+bc
 https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MNCTV+bc
