@@ -36,6 +36,8 @@ http://5gfksa.ltd:2052/991155/551199/205554
 https://z0gdu9jmgu.rtmp-now.com/hls/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(tvn_digital)
 http://tvn.x10.mx/1/master.m3u8?dl=1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(mk)
+http://cdn.makanja.xyz/paylist/indosiar.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(stream)
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/2
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar(protv)
@@ -46,8 +48,12 @@ http://tv.zonanime.my.id/vidio/indosiar.m3u8
 http://203.77.246.50:5000/udp/239.1.1.110:5000
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RTV(stream)
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RTV(mk)
+http://cdn.makanja.xyz/paylist/rtv.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SCTV(protv)
 http://pprotv.com:80/fahad70/fahad70/39428
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SCTV(mk)
+http://cdn.makanja.xyz/paylist/sctv.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",NET.(protv)
 http://pprotv.com:80/fahad70/fahad70/39426
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ANTV(protv)
@@ -58,8 +64,12 @@ http://pprotv.com:80/fahad70/fahad70/39434
 http://pprotv.com:80/fahad70/fahad70/39435
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TRANS TV(protv)
 http://pprotv.com:80/fahad70/fahad70/39429
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TRANSTV(mk)
+http://cdn.makanja.xyz/paylist/transtv.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TRANS 7(protv)
 http://pprotv.com:80/fahad70/fahad70/39533
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TRANS7(mk)
+http://cdn.makanja.xyz/paylist/trans7.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RCTI(protv)
 http://pprotv.com:80/fahad70/fahad70/22298
 
@@ -67,6 +77,8 @@ http://pprotv.com:80/fahad70/fahad70/22298
 http://203.77.246.50:5000/udp/239.1.3.80:5000
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",moji/O_chanel(tvn_digital) 
 http://tvn.x10.mx/1/master-13.m3u8?dl=1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",moji(mk)
+http://cdn.makanja.xyz/paylist/moji.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MentariTV(tvn_digital)
 http://tvn.x10.mx/1/master-22.m3u8?dl=1
 
