@@ -454,7 +454,14 @@ http://tvn.x10.mx/1/master-32.m3u8?dl=1
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1658678403~exp=9007200913419394~acl=/99545824f51f4c1592b35314c6ece3b0/*/https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8*~hmac=e94149ba9daa152c0579d62c19e8dd7a84428e76284a0157a12571c1f34ced00
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@TVn_id.TV_DIGITAL",SPOtv_2*
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1658678407~exp=9007200913419398~acl=/48eee16919834d3b97df1082a649bcfa/*/https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8*~hmac=3ee27a47c54ec5e20cf36ffc2bc517d5ec801e66db12ed4bd537cf8dda20e085
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",ASSP.1
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115615&extension=ts&play_token
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",ASSP.2
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115616&extension=ts&play_token
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",ASSP.3
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115617&extension=ts&play_token
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",ASSP.4
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115618&extension=ts&play_token
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",BEINSPORT-1
 https://rmvberantakan.com/sport/bein/bein1.m3u8
@@ -520,7 +527,7 @@ http://89.187.175.143:80/3048/index.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",sctv
 http://tvn.x10.mx/1/master-1.m3u8?dl=1
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Citra_bioskop
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Citra_dangdut
 http://tvn.x10.mx/1/master-2.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Citra_drama
 http://tvn.x10.mx/1/master-3.m3u8?dl=1
@@ -530,7 +537,7 @@ http://tvn.x10.mx/1/master-4.m3u8?dl=1
 http://tvn.x10.mx/1/master-5.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",HOREE
 http://tvn.x10.mx/1/master-6.m3u8?dl=1
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Citra_Dangdut
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Citra_bioskop
 http://tvn.x10.mx/1/master-11.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Citra_Entertaiment
 http://tvn.x10.mx/1/master-12.m3u8?dl=1
