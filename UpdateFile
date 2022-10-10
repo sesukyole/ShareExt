@@ -487,7 +487,7 @@ http://50.7.237.4:8080/TEN1HD/tracks-v1a1/index.m3u8
 http://50.7.237.4:8080/TEN2HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",TEN_3
 http://50.7.237.4:8080/TEN3HD/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",TEN_4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",TEN_4_decoder=auto
 http://103.151.43.102:8800/play/a05t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",SIX_HD
 http://50.7.237.4:8080/SONYSIXHD/tracks-v1a1/index.m3u8
