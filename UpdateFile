@@ -388,7 +388,10 @@ http://tvn.x10.mx/1/master-30.m3u8?dl=1
 http://tvn.x10.mx/1/master-31.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",champTv_3
 http://tvn.x10.mx/1/master-32.m3u8?dl=1
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Astro_arena_2
+http://198.16.64.10:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Astro_golf
+http://198.16.64.10:8278/Astrogolf/playlist.m3u8?tid=ME0E1209799712097997&ct=19225&tsum=b3a5a85654e70c92ffd9f877528cf62b
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@TVn_id.TV_DIGITAL",SPOtv*
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1658678403~exp=9007200913419394~acl=/99545824f51f4c1592b35314c6ece3b0/*/https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8*~hmac=e94149ba9daa152c0579d62c19e8dd7a84428e76284a0157a12571c1f34ced00
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SHAREEXT@TVn_id.TV_DIGITAL",SPOtv_2*
@@ -416,6 +419,17 @@ http://31.172.87.51:2200/EX/UKSD_BT_Sport_3_SD-uk/tracks-v1a1/mono.m3u8?token=RE
 https://rmvberantakan.com/sport/bein/bein1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",BEINSPORT-2
 https://rmvberantakan.com/sport/bein/bein2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",TNT.SPORTS_1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",TNT.SPORTS_2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",TNT.SPORTS_3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",TNT.SPORTS_4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",TNT.SPORTS_5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",SUPERSPORT_VARIETY-2
 http://31.172.87.50:2200/AFR-EX/SuperSport_Variety_2_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",SUPERSPORT_VARIETY-3
