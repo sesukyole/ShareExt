@@ -614,45 +614,31 @@ http://23.237.10.66:16495
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",sctv
-http://tvn.x10.mx/1/master-1.m3u8?dl=1
+http://tvn.x10.mx/1/master-12.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Citra_dangdut
 http://tvn.x10.mx/1/master-2.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Citra_drama
-http://tvn.x10.mx/1/master-3.m3u8?dl=1
+http://tvn.x10.mx/1/master-1.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",HIP.HIP.Horee
-http://tvn.x10.mx/1/master-4.m3u8?dl=1
+http://tvn.x10.mx/1/master-2.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Citra_Muslim
-http://tvn.x10.mx/1/master-5.m3u8?dl=1
+http://tvn.x10.mx/1/master-3.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",HOREE
-http://tvn.x10.mx/1/master-6.m3u8?dl=1
+http://tvn.x10.mx/1/master-4.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Citra_bioskop
-http://tvn.x10.mx/1/master-11.m3u8?dl=1
+http://tvn.x10.mx/1/master.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Citra_Entertaiment
-http://tvn.x10.mx/1/master-12.m3u8?dl=1
+http://tvn.x10.mx/1/master-6.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",AjwaTv
-http://tvn.x10.mx/1/master-13.m3u8?dl=1
+http://tvn.x10.mx/1/master-7.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",ANtv
 http://tvn.x10.mx/1/master-15.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",RTV
-http://tvn.x10.mx/1/master-29.m3u8?dl=1
+http://tvn.x10.mx/1/master-10.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",ZOOMO
-http://tvn.x10.mx/1/master-16.m3u8?dl=1
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",tvN
-http://tvn.x10.mx/1/master-17.m3u8?dl=1
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Zee.bioskop
-http://tvn.x10.mx/1/master-18.m3u8?dl=1
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Musica
-http://tvn.x10.mx/1/master-19.m3u8?dl=1
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Radio.Nagaswara
-http://tvn.x10.mx/1/master-20.m3u8?dl=1
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Radio.cakraFM_bandung
-http://tvn.x10.mx/1/master-21.m3u8?dl=1
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",LFC
-http://tvn.x10.mx/1/master-28.m3u8?dl=1
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",tvOne
-http://tvn.x10.mx/1/master-25.m3u8?dl=1
+http://tvn.x10.mx/1/master-8.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",MentariTV
-http://tvn.x10.mx/1/master-22.m3u8?dl=1
+http://tvn.x10.mx/1/master-9.m3u8?dl=1
 
 
 
