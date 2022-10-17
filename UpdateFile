@@ -11,6 +11,26 @@ https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 https://live.olelive.com:4443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",CCTV_5Plus.
 https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Arena" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png" group-title="ShareExt@Relax",Astro@Arena
+http://iptvtree.net:8080/F11682/82ca5fbd/157485
+#EXTINF:-1 tvg-id="" tvg-name="Astro Arena 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/7806170b5ef2464530dcaedcbe3e9a42.jpg" group-title="ShareExt@Relax",Astro@Arena_2
+http://iptvtree.net:8080/F11682/82ca5fbd/287793
+#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/edc8a9c38c820781eb4785f4e5ee89ca.png" group-title="ShareExt@Relax",Astro@Cricket
+http://iptvtree.net:8080/F11682/82ca5fbd/157565
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="ShareExt@Relax",Astro@SuperSport_1
+http://iptvtree.net:8080/F11682/82ca5fbd/146068
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="ShareExt@Relax",Astro@SuperSport_2
+http://iptvtree.net:8080/F11682/82ca5fbd/157556
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="ShareExt@Relax",Astro@SuperSport_3
+http://iptvtree.net:8080/F11682/82ca5fbd/157557
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="ShareExt@Relax",Astro@SuperSport_4
+http://iptvtree.net:8080/F11682/82ca5fbd/157558
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/661d6fd8993dd9aaf43e249d036e9eb3.jpg" group-title="ShareExt@Relax",beIN@Sports
+http://iptvtree.net:8080/F11682/82ca5fbd/157561
+#EXTINF:-1 tvg-id="" tvg-name="Egg Network" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/4ffb0c9edc5497748d07145b50118c10.png" group-title="ShareExt@Relax",Egg@Network
+http://iptvtree.net:8080/F11682/82ca5fbd/157484
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ASTRO SUPERSPORTS_1 FHD
 http://5gfksa.ltd:2052/991155/551199/205543
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ASTRO SUPERSPORTS_2 FHD
