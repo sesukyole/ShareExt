@@ -466,6 +466,32 @@ http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54248
 #EXTINF:-1 tvg-ID="" tvg-name="MY: Astro RUGBY PASS TV" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",MY:RUGBY PASS TV+
 http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54163
 
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Nash Sport HD" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",RU:Nash Sport HD
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/51508
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Futbol 1" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",RU:Futbol 1
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/48994
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Futbol 2" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",RU:Futbol 2
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/51488
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Futbol 3" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",RU:Futbol 3
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/51489
+#EXTINF:-1 tvg-ID="" tvg-name="RU: EUROSPORT 2 HD" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",RU:EUROSPORT 2 HD
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/51495
+#EXTINF:-1 tvg-ID="" tvg-name="RU: EUROSPORT HD" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",RU:EUROSPORT HD
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/51494
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Russian Xtreme" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",RU:Russian Xtreme
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/51503
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Match Footbol 3" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",RU:Match Footbol 3
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/52807
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Match Footbol 1" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",RU:Match Footbol 1
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/52808
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Match Footbol 2" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",RU:Match Footbol 2
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/52809
+#EXTINF:-1 tvg-ID="" tvg-name="RU: Match TV" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",RU:Match TV
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/52880
+#EXTINF:-1 tvg-ID="" tvg-name="RU: KHL prime FHD" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",RU:KHL prime FHD
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54659
+#EXTINF:-1 tvg-ID="" tvg-name="RU: KHL TV" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",RU:KHL TV
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54660
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Astro_arena_2
 http://198.16.64.10:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482
