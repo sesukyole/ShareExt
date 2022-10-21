@@ -432,6 +432,41 @@ http://54.151.201.145:5566/GG/Live/ucee1/mpegts
 http://54.151.201.145:5566/GG/Live/ucee2/mpegts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",TVRI_SPORTS.HD
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX SPORTS 1 HD" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",MY:FOXSPORTS 1+HD
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54250
+#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX SPORTS 2 HD" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",MY:FOXSPORTS 2+HD
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/52858
+#EXTINF:-1 tvg-ID="" tvg-name="MY: SkyNet Golf HD" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",MY:SkyNet Golf+HD
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54265
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 1 FHD" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",ASTROSUPERSPORTS 1+FHD
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/52859
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 2 FHD" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",ASTROSUPERSPORTS 2+FHD
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/52860
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 3 FHD" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",MY:ASTROSUPERSPORTS 3+FHD
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/52861
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 4 FHD" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",MY:ASTROSUPERSPORTS 4+FHD
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/52862
+#EXTINF:-1 tvg-ID="" tvg-name="MY: GNIX SPORTS HD" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",MY:GNIX SPORTS+HD
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54170
+#EXTINF:-1 tvg-ID="" tvg-name="MY: Astro EUROSPORT HD" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",MY:EUROSPORT+HD
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54188
+#EXTINF:-1 tvg-ID="" tvg-name="MY: Astro ARENA HD" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Astro ARENA+HD
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54189
+#EXTINF:-1 tvg-ID="" tvg-name="MY: Astro bEIN MAX" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",MY:bEIN MAX
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54193
+#EXTINF:-1 tvg-ID="" tvg-name="MY: eGG Network" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",MY:eGG Network
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54223
+#EXTINF:-1 tvg-ID="" tvg-name="MY: WWE Network" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",MY:WWE Network
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54238
+#EXTINF:-1 tvg-ID="" tvg-name="MY: Astro Cricket" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Astro Cricket+
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54242
+#EXTINF:-1 tvg-ID="" tvg-name="MY: EUROSPORT HD" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",MY:EUROSPORT HD+
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54248
+#EXTINF:-1 tvg-ID="" tvg-name="MY: Astro RUGBY PASS TV" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",MY:RUGBY PASS TV+
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54163
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Astro_arena_2
 http://198.16.64.10:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",BT_SPORTS ESPN
