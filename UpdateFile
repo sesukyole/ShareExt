@@ -641,6 +641,15 @@ http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/19203/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",ESPN_4
 http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/19204/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",HBO
+http://mxmu03.wanicelife.com:8880/6mk010008/19724649/60473
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",HBO Family
+http://mxmu03.wanicelife.com:8880/6mk010008/19724649/60474
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",HBO Hits
+http://mxmu03.wanicelife.com:8880/6mk010008/19724649/60458
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",HBO Signature
+http://mxmu03.wanicelife.com:8880/6mk010008/19724649/60456
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",StarChinese_Movies
 http://23.237.10.66:16010
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",CCTV4
