@@ -68,6 +68,11 @@ http://tvn.x10.mx/1/master-10.m3u8?dl=1
 http://tv.zonanime.my.id/vidio/ochannel.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",moji/O_chanel(tvn_digital) 
 http://tvn.x10.mx/1/master-13.m3u8?dl=1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",moji/O_chanel(A) 
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/ochanneldukunetdahluapainnih.m3u8|User-Agent=dhdsbosuxsdn
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",moji/O_chanel(B) 
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/ochannel1|User-Agent=dhdsbosuxsdn
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",mentariTV(tvn_digital) 
 http://tvn.x10.mx/1/master-9.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Badminton1(Spotv)
@@ -86,6 +91,16 @@ http://iptvid.my.id/hmm/useetl2.m3u8
 http://180.211.90.134:8000/play/a059
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13" group-title="ShareExt@Relax",useSport-2(rolling)
 http://180.211.90.134:8000/play/a05b
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13" group-title="ShareExt@Relax",useSport_1(ROlling)
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/usee1.m3u8|User-Agent=dhdsbosuxsdn
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13" group-title="ShareExt@Relax",useSport_2(ROlling)
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/usee2.m3u8|User-Agent=dhdsbosuxsdn
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@Relax",ChampionTv1(ROLLING)
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/champ1etdahlluapainnih?|User-Agent=dhdsbosuxsdn
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@Relax",ChampionTv2(ROLLING)
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/champ2etdahlluapainnih?|User-Agent=dhdsbosuxsdn
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@Relax",ChampionTv3(ROLLING)
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/champ3etdahlluapainnih?|User-Agent=dhdsbosuxsdn
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@Relax",ChampionTv1
 http://tv.zonanime.my.id/vidio/championstv1.m3u8
