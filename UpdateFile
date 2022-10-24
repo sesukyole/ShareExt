@@ -1059,6 +1059,25 @@ http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E8COZ1dS1TkCF7x0fLJ0S2k
 #EXTINF:-1 xui-id="3336491" tvg-id="" tvg-name="PH: Premier Tennis HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN_DUNIA",PH:Premier Tennis HD
 http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E0CViQZl4u7YuhKJkXKvfGk
 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN_DUNIA",A SportsHD_play
+http://103.157.249.125:201/play/a07c/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN_DUNIA",Geo Super_play
+http://103.157.249.125:201/play/a022/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN_DUNIA",KSA Sports 1 HD_play
+http://103.157.249.125:201/play/a063/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN_DUNIA",KSA Sports 2 HD_play
+http://103.157.249.125:201/play/a064/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN_DUNIA",KSA Sports 3_play
+http://103.157.249.125:201/play/a065/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN_DUNIA",KSA Sports 4_play
+http://103.157.249.125:201/play/a066/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN_DUNIA",PTV SPORTS SD_play
+http://103.157.249.125:201/play/a09d/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@SUKAN_DUNIA",Ten Sports_play 
+http://103.157.249.125:201/play/a041/index.m3u8
+
+
+
 
 
 
