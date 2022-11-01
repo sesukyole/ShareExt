@@ -4218,6 +4218,90 @@ https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/161
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="IND: &TV HD" tvg-logo="http://iptv.4ktezz.top:25461/images/ayqiw968dVvC9jy144gUX4AycIB5ikH3.png" group-title="SHAREEXT@INDIA TV",Suvarna Plus
+http://89.187.179.108:8080/SUVARNA/PLUS/KAN/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="IND: &TV HD" tvg-logo="http://iptv.4ktezz.top:25461/images/ayqiw968dVvC9jy144gUX4AycIB5ikH3.png" group-title="SHAREEXT@INDIA TV",STARMAA TV HD IN TELUGU 
+http://89.187.179.108:8080/MAATVHD/LOCAL/TEL/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="IND: &TV HD" tvg-logo="http://iptv.4ktezz.top:25461/images/ayqiw968dVvC9jy144gUX4AycIB5ikH3.png" group-title="SHAREEXT@INDIA TV",STAR SUVARNA HD IN KANNADA 
+.http://89.187.179.108:8080/SuvarnaTV-Kannada/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="IND: &TV HD" tvg-logo="http://iptv.4ktezz.top:25461/images/ayqiw968dVvC9jy144gUX4AycIB5ikH3.png" group-title="SHAREEXT@INDIA TV",STARMAA MOVIES  IN TELUGU 
+http://89.187.179.108:8080/MaaMovies-telu/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="IND: &TV HD" tvg-logo="http://iptv.4ktezz.top:25461/images/ayqiw968dVvC9jy144gUX4AycIB5ikH3.png" group-title="SHAREEXT@INDIA TV",Gemini Movies 
+http://89.187.179.108:8080/GeminiMovies-telu/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="IND: &TV HD" tvg-logo="http://iptv.4ktezz.top:25461/images/ayqiw968dVvC9jy144gUX4AycIB5ikH3.png" group-title="SHAREEXT@INDIA TV",Starmaa music 
+http://89.187.179.108:8080/MaaMusic-telu/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="IND: &TV HD" tvg-logo="http://iptv.4ktezz.top:25461/images/ayqiw968dVvC9jy144gUX4AycIB5ikH3.png" group-title="SHAREEXT@INDIA TV",Starmaa Gold
+http://89.187.179.108:8080/MaaGold-telu/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="IND: &TV HD" tvg-logo="http://iptv.4ktezz.top:25461/images/ayqiw968dVvC9jy144gUX4AycIB5ikH3.png" group-title="SHAREEXT@INDIA TV",Etv TELUGU 
+http://89.187.179.108:8080/ETVHD/LOCAL/TEL/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="IND: &TV HD" tvg-logo="http://iptv.4ktezz.top:25461/images/ayqiw968dVvC9jy144gUX4AycIB5ikH3.png" group-title="SHAREEXT@INDIA TV",Geminitvhd
+http://89.187.179.108:8080/GEMINITVHD/LOCAL/TEL/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: &TV HD" tvg-logo="http://iptv.4ktezz.top:25461/images/ayqiw968dVvC9jy144gUX4AycIB5ikH3.png" group-title="SHAREEXT@INDIA TV",&TV HD
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/100909
+#EXTINF:-1 tvg-id="" tvg-name="IND: B4U KARAK" tvg-logo="http://iptv.4ktezz.top:25461/images/SHgHOwBDM1xZhSc1ltK0zXVd61to9r8t.png" group-title="SHAREEXT@INDIA TV",B4U KARAK
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/100910
+#EXTINF:-1 tvg-id="" tvg-name="IND: STAR PLUS HD" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",STARPLUS HD
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/100912
+#EXTINF:-1 tvg-id="" tvg-name="IND: ZEE TV CANADA" tvg-logo="http://iptv.4ktezz.top:25461/images/3yOL0FSSRefV1DHK0rOrLtMKTBEVYbtp.png" group-title="SHAREEXT@INDIA TV",ZEETV CANADA
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/100914
+#EXTINF:-1 tvg-id="" tvg-name="IND: SONY SAB HD" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",SONY SAB HD
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/100919
+#EXTINF:-1 tvg-id="" tvg-name="IND: SONY PAL" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",SONY PAL
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/100921
+#EXTINF:-1 tvg-id="" tvg-name="IND: STAR BHARAT (UK)" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",STAR BHARAT(UK)
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/100922
+#EXTINF:-1 tvg-id="" tvg-name="IND: & PICTURES HD" tvg-logo="http://iptv.4ktezz.top:25461/images/L5fUDs9QkmqnYpBFGO1MoCHGZFI1CXEe.png" group-title="SHAREEXT@INDIA TV",& PICTURES HD
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/100926
+#EXTINF:-1 tvg-id="" tvg-name="IND: B4U Kadak" tvg-logo="http://iptv.4ktezz.top:25461/images/TyV9qa8o2RYvf48tq1demFzCzrA9yR8k.png" group-title="SHAREEXT@INDIA TV",B4U Kadak
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/100931
+#EXTINF:-1 tvg-id="" tvg-name="IND: ENTER 10" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",ENTER 10
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/100932
+#EXTINF:-1 tvg-id="" tvg-name="IND: BOLLYWOOD CLASSIC" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",BOLLYWOOD CLASSIC
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/100935
+#EXTINF:-1 tvg-id="" tvg-name="IND: WILLOW CRICKET HD" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",WILLOW CRICKET HD
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/100936
+#EXTINF:-1 tvg-id="" tvg-name="IND: STAR SPORTS 2 HD" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",STARSPORTS 2 HD
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/100937
+#EXTINF:-1 tvg-id="" tvg-name="IND: SONY SIX HD" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",SONY SIX HD
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/100938
+#EXTINF:-1 tvg-id="" tvg-name="IND: DSPORTS" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",DSPORTS
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/100942
+#EXTINF:-1 tvg-id="" tvg-name="IND: DSPORTS 1" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",DSPORTS 1
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/100943
+#EXTINF:-1 tvg-id="" tvg-name="IND: Discovery HINDI" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Discovery HINDI
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/100945
+#EXTINF:-1 tvg-id="" tvg-name="IND: Discovery Science HINDI" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Discovery Science HINDI
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/100946
+#EXTINF:-1 tvg-id="" tvg-name="IND: CARTOON NETWORK" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",CARTOON NETWORK
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/100951
+#EXTINF:-1 tvg-id="" tvg-name="IND: B4U Music" tvg-logo="http://iptv.4ktezz.top:25461/images/sikE5qR2fnNtWumYORy5SGxtZy2cyevt.png" group-title="SHAREEXT@INDIA TV",B4U Music
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/100954
+#EXTINF:-1 tvg-id="" tvg-name="IND: Zee Cinema HD" tvg-logo="http://iptv.4ktezz.top:25461/images/yfbnJYfha32xYhbJNmHpYI3F3ELYlPnP.png" group-title="SHAREEXT@INDIA TV",Zee Cinema HD
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/100966
+#EXTINF:-1 tvg-id="" tvg-name="IND: ZEE ACTION" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",ZEE ACTION
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/100972
+#EXTINF:-1 tvg-id="" tvg-name="IND: ZEE BOLLYWOOD" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",ZEE BOLLYWOOD
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/100973
+#EXTINF:-1 tvg-id="" tvg-name="IND: NAT GEO" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",NATGEO
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/100985
+#EXTINF:-1 tvg-id="" tvg-name="IND: NICK JR" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",NICK JR
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/100989
+#EXTINF:-1 tvg-id="" tvg-name="IND :  ZEE TV" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",ZEE TV
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/100997
+#EXTINF:-1 tvg-id="" tvg-name="IN : Star World Premier HD" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",StarWorld Premier HD
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/100998
+#EXTINF:-1 tvg-id="" tvg-name="IN : & xplore HD" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",& xplore HD
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/100999
+#EXTINF:-1 tvg-id="" tvg-name="IND: B4U Plus" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",B4U Plus
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/101009
+#EXTINF:-1 tvg-id="" tvg-name="IND: Shraddha MH One" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Shraddha MH One
+http://line.365tv.xyz:8060/lucky/jfdnndsfs/101051
+
+
+
+
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",VANIPLUSE TV
 http://live.singamcloud.in:1935/vanipluse/vanipluse/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",TAMIL TV
