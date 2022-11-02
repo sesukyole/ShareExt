@@ -85,9 +85,9 @@ https://d33j155pv2xyba.cloudfront.net/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8|User-Agent=android-R+
 https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8|User-Agent=android-R+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseeSports_1
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/usee1.m3u8|User-Agent=dhdsbosuasdb
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseeSports_2 
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/usee2.m3u8|User-Agent=dhdsbosuasdb
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@Relax",ChampionTv1
 http://tv.zonanime.my.id/vidio/championstv1.m3u8
@@ -918,6 +918,40 @@ http://portal.geniptv.com:8080/live/tolgax1x/JNKsdsadsa1a/18549.m3u8
 
 
 
+
+
+
+
+
+#EXTINF:-1 xui-id="175067" tvg-id="" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/38_es.jpg" group-title="SHAREEXT@DEPORTES LATINOS ( LIVE )",ELEVEN SPORTS 1 HD
+http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o67eCKd1-ReRWyaKaxExNmeE/ts
+#EXTINF:-1 xui-id="175073" tvg-id="" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/39_es.jpg" group-title="SHAREEXT@DEPORTES LATINOS ( LIVE )",ELEVEN SPORTS 2 HD
+http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o66_av8qClrUYmp_D3YsM5pA/ts
+#EXTINF:-1 xui-id="175078" tvg-id="" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/40_es.jpg" group-title="SHAREEXT@DEPORTES LATINOS ( LIVE )",ELEVEN SPORTS 3 HD
+http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o6-7q8sU-moRJ8m2Mkv3mE-I/ts
+#EXTINF:-1 xui-id="175082" tvg-id="" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/41_es.jpg" group-title="SHAREEXT@DEPORTES LATINOS ( LIVE )",ELEVEN SPORTS 4 HD
+http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o6ziyPw-DsLEQ_vp_owfELN0/ts
+#EXTINF:-1 xui-id="175086" tvg-id="" tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/42_es.jpg" group-title="SHAREEXT@DEPORTES LATINOS ( LIVE )",ELEVEN SPORTS 5 HD
+http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o6yEvxMwGoC2Qe8o3XFatEKA/ts
+#EXTINF:-1 xui-id="175089" tvg-id="" tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/43_es.jpg" group-title="SHAREEXT@DEPORTES LATINOS ( LIVE )",ELEVEN SPORTS 6 HD
+http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o64FELjY6rTm9mGefKjt9uBo/ts
+
+#EXTINF:-1 xui-id="35051" tvg-id="" tvg-name="US beIN Sports 1 FHD" tvg-logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optiaU-4_52HlSgu0TiWZBMcu3qk_HLbUGnWyLN5hMJM90tPHNDK5m2gQvjD2PMz-tUw.png" group-title="SHAREEXT@DEPORTES LATINOS ( LIVE )",US:beINSports 1 FHD
+http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o6_bZbY5VTxrHoSjVNv09Zuk/ts
+#EXTINF:-1 xui-id="35052" tvg-id="BEINSP2" tvg-name="US: beIN Sports 2 FHD" tvg-logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optiaU-4_52HlSgu0TiWZBMcu3qk_HLbUGnWyLN5hMJM90tPHNDK5m2gQvjD2PMz-tUw.png" group-title="SHAREEXT@DEPORTES LATINOS ( LIVE )",US:beINSports 2 FHD
+http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o6xxrxSUy_2E_v6vm2XgCW5M/ts
+#EXTINF:-1 xui-id="35053" tvg-id="" tvg-name="US beIN Sports 3 FHD" tvg-logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optiaU-4_52HlSgu0TiWZBMcu3qk_HLbUGnWyLN5hMJM90tPHNDK5m2gQvjD2PMz-tUw.png" group-title="SHAREEXT@DEPORTES LATINOS ( LIVE )",US:beINSports 3 FHD
+http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o6xnPXkWU7zZehQZzVB5zaUI/ts
+#EXTINF:-1 xui-id="35056" tvg-id="BEINSP4" tvg-name="US: beIN Sports 4 HD" tvg-logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optiaU-4_52HlSgu0TiWZBMcu3qk_HLbUGnWyLN5hMJM90tPHNDK5m2gQvjD2PMz-tUw.png" group-title="SHAREEXT@DEPORTES LATINOS ( LIVE )",US:beINSports 4 HD
+http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o67JkSBm-XXBGcIndkm8G8HE/ts
+#EXTINF:-1 xui-id="35057" tvg-id="BEINSP5" tvg-name="US: beIN Sports 5 HD" tvg-logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optiaU-4_52HlSgu0TiWZBMcu3qk_HLbUGnWyLN5hMJM90tPHNDK5m2gQvjD2PMz-tUw.png" group-title="SHAREEXT@DEPORTES LATINOS ( LIVE )",US:beINSports 5 HD
+http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o66qpQjzDrNJbKfYSkRN5NfE/ts
+#EXTINF:-1 xui-id="35058" tvg-id="BEINSP6" tvg-name="US: beIN Sports 6 HD" tvg-logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optiaU-4_52HlSgu0TiWZBMcu3qk_HLbUGnWyLN5hMJM90tPHNDK5m2gQvjD2PMz-tUw.png" group-title="SHAREEXT@DEPORTES LATINOS ( LIVE )",US:beINSports 6 HD
+http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o60tM0qDM0YCEAfPpR-Qos3s/ts
+#EXTINF:-1 xui-id="35059" tvg-id="BEINSP7" tvg-name="US: beIN Sports 7 HD" tvg-logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optiaU-4_52HlSgu0TiWZBMcu3qk_HLbUGnWyLN5hMJM90tPHNDK5m2gQvjD2PMz-tUw.png" group-title="SHAREEXT@DEPORTES LATINOS ( LIVE )",US:beINSports 7 HD
+http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o64peM6fOqbTtVxuYQ-l_09w/ts
+#EXTINF:-1 xui-id="35060" tvg-id="BEINSP8" tvg-name="US: beIN Sports 8 HD" tvg-logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optiaU-4_52HlSgu0TiWZBMcu3qk_HLbUGnWyLN5hMJM90tPHNDK5m2gQvjD2PMz-tUw.png" group-title="SHAREEXT@DEPORTES LATINOS ( LIVE )",US:beINSports 8 HD
+http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o66q3trzgWRbZohjERHBz4jU/ts
 
 #EXTINF:-1 tvg-id="" tvg-name="DEP56: Barca TV | HD" tvg-logo="http://dns.k4livetv.com:8080/images/a908334cd9f9514af8ab28380b8184a0.png" group-title="SHAREEXT@DEPORTES LATINOS ( LIVE )",BarcaTV | HD
 http://dns.k4livetv.com:8080/Palomino2EC6/zjjyu8GCj5GE/279011
