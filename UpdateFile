@@ -654,8 +654,31 @@ http://destiny4k.com:2086/live/darkside/t2z7marsRY/2710.ts
 
 
 
-#EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-name="Astro Super Sports 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest/scale-to-width-down/78?cb=20180622074639" group-title="SHAREEXT@SUPERSPORTS",Astro SuperSports 1 HD
-htt
+
+
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD 1" tvg-logo="https://watchindia.net/images/channels/Star_Sports_1_HD.png" group-title="SHAREEXT@INDIE_Sports",StarSports 1 HD 
+http://watchindia.net:8880/live/vvv/vvv/808.ts
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sports 1 HD Hindi 1" tvg-logo="https://watchindia.net/images/channels/Star_Sports_1_HD_Hindi.png" group-title="SHAREEXT@INDIE_Sports",StarSports 1 HD Hindi 
+http://watchindia.net:8880/live/vvv/vvv/1072.ts
+#EXTINF:-1 tvg-id="star.sports.2.in" tvg-name="Star Sports 2 HD 1" tvg-logo="https://watchindia.net/images/channels/Star_Sports_2_HD.png" group-title="SHAREEXT@INDIE_Sports",StarSports 2 HD 
+http://watchindia.net:8880/live/vvv/vvv/1069.ts
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD 1" tvg-logo="https://watchindia.net/images/channels/Star_Sports_Select_1_HD.png" group-title="SHAREEXT@INDIE_Sports",StarSports Select 1 HD 
+http://watchindia.net:8880/live/vvv/vvv/1070.ts
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/Star_Sports_Select_2_HD.png" group-title="SHAREEXT@INDIE_Sports",StarSports Select 2 HD
+http://watchindia.net:8880/live/vvv/vvv/1071.ts
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="Sony Six HD 1" tvg-logo="https://watchindia.net/images/channels/Sony_Six_HD.png" group-title="SHAREEXT@INDIE_Sports",Sony Six HD 
+http://watchindia.net:8880/live/vvv/vvv/1763.ts
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 HD 1" tvg-logo="https://watchindia.net/images/channels/Sony_Ten_1_HD.png" group-title="SHAREEXT@INDIE_Sports",SonyTen 1 HD 
+http://watchindia.net:8880/live/vvv/vvv/1756.ts
+#EXTINF:-1 tvg-id="sony.ten.2.in" tvg-name="Sony Ten 2 HD" tvg-logo="https://watchindia.net/images/channels/Sony_Ten_2_HD.png" group-title="SHAREEXT@INDIE_Sports",SonyTen 2 HD
+http://watchindia.net:8880/live/vvv/vvv/1757.ts
+#EXTINF:-1 tvg-id="sony.ten.3.in" tvg-name="Sony Ten 3 HD" tvg-logo="https://watchindia.net/images/channels/Sony_Ten_3_HD.png" group-title="SHAREEXT@INDIE_Sports",SonyTen 3 HD
+http://watchindia.net:8880/live/vvv/vvv/1758.ts
+#EXTINF:-1 tvg-id="ddsports.in" tvg-name="DD Sports" tvg-logo="https://watchindia.net/images/channels/sports/DD_Sports.png" group-title="SHAREEXT@INDIE_Sports",DD Sports
+http://watchindia.net:8880/live/vvv/vvv/2380.ts
+#EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="Willow HD 1" tvg-logo="https://watchindia.net/images/channels/Willow_HD.png" group-title="SHAREEXT@INDIE_Sports",Willow HD 
+http://watchindia.net:8880/live/vvv/vvv/1067.ts
+
 
 
 
