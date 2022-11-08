@@ -556,7 +556,8 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 http://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",BLUEtv_play_2
 http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",GroovyTv
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",StarChinese_Movies
 http://23.237.10.66:16010
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",CCTV4
