@@ -428,6 +428,13 @@ https://bcovlive-a.akamaihd.net/8dbe9fecaaf3445da9dc68101293d99c/ap-southeast-1/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",TVRI_SPORTS.HD
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",J_sport_1_HD
+http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",J.sport_2_HD
+http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",J.sport_3_HD
+http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
+
 #EXTINF:-1 tvg-ID="" tvg-name="MY: FOX SPORTS 1 HD" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",ASTRO.5+HD
 http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54250
 #EXTINF:-1 tvg-ID="" tvg-name="MY: FOX SPORTS 2 HD" tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",MY:FOXSPORTS 2+HD
