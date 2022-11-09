@@ -5148,6 +5148,40 @@ http://f4.tvxweb.net:8082/35979/video.m3u8?shareext.ts
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1  FHD" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg" group-title="SHAREEXT@CINESKY=HBO=LATIN",CINESKY 1 FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/923651
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2 FHD" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg" group-title="SHAREEXT@CINESKY=HBO=LATIN",CINESKY 2 FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/923652
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 3  FHD" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg" group-title="SHAREEXT@CINESKY=HBO=LATIN",CINESKY 3 FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/923653
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 4 FHD" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg" group-title="SHAREEXT@CINESKY=HBO=LATIN",CINESKY 4 FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/923654
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 5 FHD" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg" group-title="SHAREEXT@CINESKY=HBO=LATIN",CINESKY 5 FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/923655
+
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://imagizer.imageshack.com/img921/4025/uUdg5m.png" group-title="SHAREEXT@CINESKY=HBO=LATIN",CINEMAX HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5048
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="https://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png" group-title="SHAREEXT@CINESKY=HBO=LATIN",HBO HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/355046
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI HD" tvg-logo="https://1.bp.blogspot.com/-iDOUNw5LOkk/Xk8wvRpCdNI/AAAAAAAACJU/pBSJbJCTe8QU0img-Ad3NJlUVfXGKfapQCK4BGAYYCw/s400/HBO%2BMUND.png" group-title="SHAREEXT@CINESKY=HBO=LATIN",HBO MUNDI HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5087
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="SHAREEXT@CINESKY=HBO=LATIN",HBO PLUS HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/923015
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD" tvg-logo="https://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png" group-title="SHAREEXT@CINESKY=HBO=LATIN",HBO POP HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5089
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME HD" tvg-logo="https://3.bp.blogspot.com/-wpkT1kBB508/XmQfxsbum-I/AAAAAAAACTI/CWh7uRsUWmsEWbF8du8SchSJrkHM3-EAwCK4BGAYYCw/s400/HBO%2BXTRE.png" group-title="SHAREEXT@CINESKY=HBO=LATIN",HBO XTREME HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5088
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD" tvg-logo="https://1.bp.blogspot.com/-lDifYsJ1bkU/Xk70YgIlO9I/AAAAAAAACFY/H1zNEDSJMCwy4RC_c_8ol0eGstwkb4R7gCLcBGAsYHQ/s1600/hbo2.png" group-title="SHAREEXT@CINESKY=HBO=LATIN",HBO 2 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5078
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY HD" tvg-logo="https://i.imgur.com/alOqjXS.png" group-title="SHAREEXT@CINESKY=HBO=LATIN",HBO FAMILY HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5079
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="https://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png" group-title="SHAREEXT@CINESKY=HBO=LATIN",HBO FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/355045
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="beIN Movies Premiere 1 HD" tvg-logo="http://fauconteam.com/logo/beinmoviespremierehd.png" group-title="ShAREEXT@BEIN ENTERTAIMENT",beIN Movies Premiere 1 HD
 http://line.365tv.xyz:8060/lucky/jfdnndsfs/97220
 #EXTINF:-1 tvg-id="" tvg-name="beIN Movies Action 2 HD" tvg-logo="http://fauconteam.com/logo/beinmoviesaction2.png" group-title="ShAREEXT@BEIN ENTERTAIMENT",beIN Movies Action 2 HD
