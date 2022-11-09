@@ -831,7 +831,8 @@ http://iptvid.my.id/hmm/nhkw.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",FORMOSA
 http://iptvid.my.id/hmm/formosa.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",NICKELODEON
-http://iptvid.my.id/hmm/nickelodeon.m3u8#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",LIFETIME
+http://iptvid.my.id/hmm/nickelodeon.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",LIFETIME
 http://iptvid.my.id/hmm/lifetime.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="ShareExt@USEETV",INSERT
 http://iptvid.my.id/hmm/insert.m3u8
@@ -1018,6 +1019,44 @@ http://watchindia.net:8880/live/vvv/vvv/1758.ts
 http://watchindia.net:8880/live/vvv/vvv/2380.ts
 #EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="Willow HD 1" tvg-logo="https://watchindia.net/images/channels/Willow_HD.png" group-title="SHAREEXT@INDIE_Sports",Willow HD 
 http://watchindia.net:8880/live/vvv/vvv/1067.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY ESPN" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/sony-entertainment-television-in.png" group-title="SHAREEXT@INDIE_Sports",SONY ESPN*
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044045
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY SIX" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/sony-six-hd-in.png" group-title="SHAREEXT@INDIE_Sports",SONY SIX*
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044054
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY TEN 1" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/sony-ten-1-in.png" group-title="SHAREEXT@INDIE_Sports",SONY TEN 1*
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044055
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY TEN 2" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/sony-ten-2-in.png" group-title="SHAREEXT@INDIE_Sports",SONY TEN 2*
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044056
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY TEN 3" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/sony-ten-3-in.png" group-title="SHAREEXT@INDIE_Sports",SONY TEN 3*
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044057
+#EXTINF:-1 tvg-id="" tvg-name="IN: TEN 1" tvg-logo="https://asiagrandiptv.us/logo/ten1.png" group-title="SHAREEXT@INDIE_Sports",TEN 1*
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044095
+#EXTINF:-1 tvg-id="" tvg-name="IN: TEN 2" tvg-logo="https://xplanetiptv.com/Logotv/countries/india/countrypic.png" group-title="SHAREEXT@INDIE_Sports",TEN 2*
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044096
+#EXTINF:-1 tvg-id="" tvg-name="IN: TEN 3" tvg-logo="https://xplanetiptv.com/Logotv/countries/india/countrypic.png" group-title="SHAREEXT@INDIE_Sports",TEN 3*
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044097
+#EXTINF:-1 tvg-id="" tvg-name="IN: TEN GOLF" tvg-logo="https://asiagrandiptv.us/logo/tengolf.png" group-title="SHAREEXT@INDIE_Sports",TEN GOLF*
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044098
+#EXTINF:-1 tvg-id="" tvg-name="IN: WILLOW CRICKET" tvg-logo="https://asiagrandiptv.us/logo/willowcricket.png" group-title="SHAREEXT@INDIE_Sports",WILLOW CRICKET*
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044128
+#EXTINF:-1 tvg-id="" tvg-name="IN: T SPORT BANGLA" tvg-logo="https://xplanetiptv.com/Logotv/countries/india/countrypic.png" group-title="SHAREEXT@INDIE_Sports",T SPORT BANGLA*
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1043707
+#EXTINF:-1 tvg-id="" tvg-name="IN: TEN SPORTS" tvg-logo="https://asiagrandiptv.us/logo/tensports.png" group-title="SHAREEXT@INDIE_Sports",TEN SPORTS*
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1043710
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS 1" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/star-sports-1-in.png" group-title="SHAREEXT@INDIE_Sports",STARSPORTS 1*
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1043709
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS 2" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/star-sports-2-in.png" group-title="SHAREEXT@INDIE_Sports",STARSPORTS 2*
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1043713
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORT 3" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/star-sports-3-in.png" group-title="SHAREEXT@INDIE_Sports",STARSPORT 3*
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1043708
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS SELECT 1" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/star-sports-select-1-in.png" group-title="SHAREEXT@INDIE_Sports",STARSPORTS SELECT 1*
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1043712
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS SELECT 2" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/star-sports-select-2-in.png" group-title="SHAREEXT@INDIE_Sports",STARSPORTS SELECT 2*
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1043711
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/dd-sports-in.png" group-title="SHAREEXT@INDIE_Sports",DD SPORTS*
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1043714
+
 
 
 
@@ -2119,6 +2158,84 @@ http://dns.k4livetv.com:8080/Palomino2EC6/zjjyu8GCj5GE/279104
 http://dns.k4livetv.com:8080/Palomino2EC6/zjjyu8GCj5GE/279107
 #EXTINF:-1 tvg-id="" tvg-name="DEP199: Espn Deportes HD" tvg-logo="http://dns.k4livetv.com:8080/images/6fc08878f3be999a9671861377b14a21.png" group-title="SHAREEXT@DEPORTES LATINOS ( LIVE )",Espn Deportes HD
 http://dns.k4livetv.com:8080/Palomino2EC6/zjjyu8GCj5GE/279155
+
+
+
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/WHWkVN.png" group-title="SHAREEXT@CANAIS | ESPORTES",BAND SPORTS HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5044
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://imagizer.imageshack.com/img921/9168/ZCxqJS.png" group-title="SHAREEXT@CANAIS | ESPORTES",ESPN HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5064
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2 HD" tvg-logo="https://imagizer.imageshack.com/img923/3127/lvs3XC.png" group-title="SHAREEXT@CANAIS | ESPORTES",ESPN 2 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5062
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 3 HD" tvg-logo="https://imagizer.imageshack.com/img922/1584/5vkptX.png" group-title="SHAREEXT@CANAIS | ESPORTES",ESPN 3 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/465906
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN 4 HD" tvg-logo="https://imagizer.imageshack.com/img922/9148/ZWlkp3.png" group-title="SHAREEXT@CANAIS | ESPORTES",ESPN 4 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/465909
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/UAoPlB.png" group-title="SHAREEXT@CANAIS | ESPORTES",ESPN EXTRA HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5065
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/bbuhzx.png" group-title="SHAREEXT@CANAIS | ESPORTES",FOXSPORTS 2 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5071
+#EXTINF:-1 tvg-id="" tvg-name="NHK HD (JAPONES)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/1024px-NHK_logo.svg.png" group-title="SHAREEXT@CANAIS | ESPORTES",NHK HD (JAPONES)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/923382
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="http://logocanais.ddns.net/Logo/OFF1.png" group-title="SHAREEXT@CANAIS | ESPORTES",OFF HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5098
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://imagizer.imageshack.com/img922/3338/HOOHC6.png" group-title="SHAREEXT@CANAIS | ESPORTES",SPORTV 2 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5110
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://imagizer.imageshack.com/img922/3338/HOOHC6.png" group-title="SHAREEXT@CANAIS | ESPORTES",SPORTV 3 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5111
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="https://imagizer.imageshack.com/img922/3338/HOOHC6.png" group-title="SHAREEXT@CANAIS | ESPORTES",SPORTV HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5112
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/DX99xs.png" group-title="SHAREEXT@CANAIS | ESPORTES",WOOHOO HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5532
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE HD" tvg-logo="https://imagizer.imageshack.com/img923/8510/tM7GEt.png" group-title="SHAREEXT@CANAIS | ESPORTES",COMBATE HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5049
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES* | GOLF CHANNEL MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="SHAREEXT@CANAIS | ESPORTES",GOLF CHANNEL MEXICO
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059410
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FOX SPORTS 3 MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png" group-title="SHAREEXT@CANAIS | ESPORTES",FOXSPORTS 3 MEXICO
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059411
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES* | FOX SPORTS 2 MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/640px-2015_Fox_sports_logo.svg.png" group-title="SHAREEXT@CANAIS | ESPORTES",FOXSPORTS 2 MEXICO
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059412
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FOX SPORTS MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="SHAREEXT@CANAIS | ESPORTES",FOXSPORTS MEXICO
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059413
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | DIRECTV SPORTS" tvg-logo="http://visi4k.site:8080/images/cf7e1a2ef1f43c236edc1892386e7201.png" group-title="SHAREEXT@CANAIS | ESPORTES",DIRECTV SPORTS
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059418
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | CLARO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1024px-Claro_Sports_logo.svg.png" group-title="SHAREEXT@CANAIS | ESPORTES",CLARO SPORTS
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059419
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | CDO PREMIUM" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/06/cdo.png" group-title="SHAREEXT@CANAIS | ESPORTES",CDO PREMIUM
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059420
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FOX SPORTS SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="SHAREEXT@CANAIS | ESPORTES",FOXSPORTS SUR
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059421
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FOX SPORTS 2 SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/640px-2015_Fox_sports_logo.svg.png" group-title="SHAREEXT@CANAIS | ESPORTES",FOXSPORTS 2 SUR
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059422
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FOX SPORTS 3 SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png" group-title="SHAREEXT@CANAIS | ESPORTES",FOXSPORTS 3 SUR
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059423
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | GOLTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="SHAREEXT@CANAIS | ESPORTES",GOLTV
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059428
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | BEIN SPORTS Ñ" tvg-logo="http://visi4k.site:8080/images/8d3c9ae4362687a0705ca9631736c123.jpg" group-title="SHAREEXT@CANAIS | ESPORTES",BEINSPORTS Ñ
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059429
+#EXTINF:-1 tvg-id="" tvg-name="Deportes SD | ADRENALINA" tvg-logo="http://playlistone.site:8080/images/52b985145ae9fbd61c101003af8a1a81.jpg" group-title="SHAREEXT@CANAIS | ESPORTES",ADRENALINA
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059442
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES SD  | BEIN SPORTS" tvg-logo="http://visi4k.site:8080/images/e6b22ecd6d1e8a6a2b779ab71854444c.jpg" group-title="SHAREEXT@CANAIS | ESPORTES",BEINSPORTS
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059443
+#EXTINF:-1 tvg-id="" tvg-name="Deportes SD | Claro Sports 1" tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CANAIS | ESPORTES",ClaroSports 1
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059444
+#EXTINF:-1 tvg-id="" tvg-name="Deportes SD | Claro Sports 2" tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CANAIS | ESPORTES",ClaroSports 2
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059445
+#EXTINF:-1 tvg-id="" tvg-name="Deportes SD | Claro Sports 3" tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CANAIS | ESPORTES",ClaroSports 3
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059446
+#EXTINF:-1 tvg-id="" tvg-name="Deportes SD | Claro Sports 4" tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CANAIS | ESPORTES",ClaroSports 4
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059447
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TYC SPORTS LOCAL" tvg-logo="https://xplanetiptv.com/Logotv/countries/argentina/tyc-sports-ar.png" group-title="SHAREEXT@CANAIS | ESPORTES",ARG:TYC SPORTS LOCAL
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1061294
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT SPORTS" tvg-logo="https://xplanetiptv.com/Logotv/countries/argentina/tnt-sports-ar.png" group-title="SHAREEXT@CANAIS | ESPORTES",ARG:TNT SPORTS
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1061295
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS PREMIUM" tvg-logo="https://xplanetiptv.com/Logotv/countries/argentina/fox-sports-premium-ar.png" group-title="SHAREEXT@CANAIS | ESPORTES",ARG:FOXSPORTS PREMIUM
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1061296
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS" tvg-logo="https://asiagrandiptv.us/logo/foxsports.png" group-title="SHAREEXT@CANAIS | ESPORTES",ARG:FOXSPORTS
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1061297
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORT 2" tvg-logo="https://asiagrandiptv.us/logo/foxsport2.png" group-title="SHAREEXT@CANAIS | ESPORTES",ARG:FOXSPORT 2
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1061298
+
 
 
 
