@@ -361,6 +361,108 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/qC5NGhR/indosiar-home-tv.png" group-title="SHAREEXT@LOKAL_ID",INDOSIAR
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/3.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/dPFnbkz/trans7-home-tv.png" group-title="SHAREEXT@LOKAL_ID",TRANS 7
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/1.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="SHAREEXT@LOKAL_ID",TRANS TV
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/2.ts
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://i.ibb.co/hFC9nw1/sctv-home-tv.png" group-title="SHAREEXT@LOKAL_ID",SCTV
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/4.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://i.ibb.co/wLWjY5G/rcti-home-tv.png" group-title="SHAREEXT@LOKAL_ID",RCTI
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/5.ts
+#EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/HGkQ2YB/mnctv-home-tv.png" group-title="SHAREEXT@LOKAL_ID",MNC TV
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/6.ts
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/gZLhrBt/gtv-home-tv.png" group-title="SHAREEXT@LOKAL_ID",GTV
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/7.ts
+#EXTINF:-1 tvg-id="" tvg-name="iNEWS" tvg-logo="https://i.ibb.co/KWttnf1/inews-home-tv.png" group-title="SHAREEXT@LOKAL_ID",iNEWS
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/8.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://i.ibb.co/478Nqtp/antv-home-tv.png" group-title="SHAREEXT@LOKAL_ID",ANTV
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/9.ts
+#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://i.ibb.co/mJjQDnj/nettv-home-tv.png" group-title="SHAREEXT@LOKAL_ID",NET TV
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/11.ts
+#EXTINF:-1 tvg-id="" tvg-name="BERITA SATU" tvg-logo="https://i.ibb.co/FxD8rj8/beritasatu-home-tv.png" group-title="SHAREEXT@LOKAL_ID",BERITA SATU
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/12.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://i.ibb.co/Ptrwg6d/tvone-home-tv.png" group-title="SHAREEXT@LOKAL_ID",TV ONE
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/10.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://i.ibb.co/Qmh4NMJ/rtv-home-tv.png" group-title="SHAREEXT@LOKAL_ID",RTV
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/13.ts
+#EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="https://i.ibb.co/M9c0sy2/metrotv-home-tv.png" group-title="SHAREEXT@LOKAL_ID",METRO TV
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/14.ts
+#EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV" tvg-logo="https://i.ibb.co/R3Hyxc1/kompastv-home-tv.png" group-title="SHAREEXT@LOKAL_ID",KOMPAS TV
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/15.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://i.ibb.co/d5tmxwX/tvri-home-tv.png" group-title="SHAREEXT@LOKAL_ID",TVRI
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/16.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN INDONESIA" tvg-logo="https://i.ibb.co/sVBJdNZ/cnn-indo-home-tv.png" group-title="SHAREEXT@LOKAL_ID",CNN INDONESIA
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/17.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNBC INDONESIA" tvg-logo="https://i.ibb.co/h8y058y/cnbc-indo-home-tv.png" group-title="SHAREEXT@LOKAL_ID",CNBC INDONESIA
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/18.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNATIONAL" tvg-logo="https://i.ibb.co/6v3g0pz/Cnn-inter-hometv.png" group-title="SHAREEXT@LOKAL_ID",CNN INTERNATIONAL
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/121.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNBC ASIA" tvg-logo="https://i.ibb.co/5kMzFWq/Cnbc-asia-hometv.png" group-title="SHAREEXT@LOKAL_ID",CNBC ASIA
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/122.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARIRANG" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@LOKAL_ID",ARIRANG
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/131.ts
+#EXTINF:-1 tvg-id="" tvg-name="RODJA TV" tvg-logo="https://i.ibb.co/m5TzKYB/rodjatv-home-tv.png" group-title="SHAREEXT@LOKAL_ID",RODJA TV
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/132.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAKKAH TV" tvg-logo="https://i.ibb.co/TPH12f8/alquran-alkareem-home-tv.png" group-title="SHAREEXT@LOKAL_ID",MAKKAH TV
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/133.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAWAF TV" tvg-logo="https://i.ibb.co/qkSYHSc/tawaftv-home-tv.png" group-title="SHAREEXT@LOKAL_ID",TAWAF TV
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/134.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTA TV" tvg-logo="https://i.ibb.co/jTKmK7t/mtatv-home-tv.png" group-title="SHAREEXT@LOKAL_ID",MTA TV
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/135.ts
+#EXTINF:-1 tvg-id="" tvg-name="MUI TV" tvg-logo="https://i.ibb.co/9TpsBmN/tvmui-home-tv.png" group-title="SHAREEXT@LOKAL_ID",MUI TV
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/136.ts
+#EXTINF:-1 tvg-id="" tvg-name="MQTV" tvg-logo="https://i.ibb.co/XWP6xdz/mqtv-home-tv.png" group-title="SHAREEXT@LOKAL_ID",MQTV
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/137.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV9" tvg-logo="https://i.ibb.co/8KHJMng/tv9-home-tv.png" group-title="SHAREEXT@LOKAL_ID",TV9
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/138.ts
+#EXTINF:-1 tvg-id="" tvg-name="MUHAMMADIYAH TV" tvg-logo="https://i.ibb.co/GFmCccF/muhammadiyahtv-home-tv.png" group-title="SHAREEXT@LOKAL_ID",MUHAMMADIYAH TV
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/139.ts
+#EXTINF:-1 tvg-id="" tvg-name="SALINGSAPA" tvg-logo="https://i.ibb.co/jkMBTJ9/Salingsapa.png" group-title="SHAREEXT@LOKAL_ID",SALINGSAPA
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/140.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALBAHJAH" tvg-logo="https://i.ibb.co/Gp7ydwW/Albahjah.png" group-title="SHAREEXT@LOKAL_ID",ALBAHJAH
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/141.ts
+#EXTINF:-1 tvg-id="" tvg-name="WESAL TV" tvg-logo="https://wesaltv.id/wp-content/uploads/2019/08/travel-umroh-wesaltv-logo.png" group-title="SHAREEXT@LOKAL_ID",WESAL TV
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/142.ts
+#EXTINF:-1 tvg-id="" tvg-name="SALAM TV" tvg-logo="https://i.ibb.co/Z6V0yVK/Salam-tv.png" group-title="SHAREEXT@LOKAL_ID",SALAM TV
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/143.ts
+#EXTINF:-1 tvg-id="" tvg-name="REFORMED 21" tvg-logo="https://i.ibb.co/yWyyXPB/reformed-home-tv.png" group-title="SHAREEXT@LOKAL_ID",REFORMED 21
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/144.ts
+#EXTINF:-1 tvg-id="" tvg-name="U CHANNEL" tvg-logo="https://i.postimg.cc/prmmPhyj/i-Am.png" group-title="SHAREEXT@LOKAL_ID",U CHANNEL
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/145.ts
+#EXTINF:-1 tvg-id="" tvg-name="AJWA TV" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@LOKAL_ID",AJWA TV
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/1158.ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/8P2SJM7/hbo-fam-home-tv.png" group-title="SHAREEXT@馃幀MOVIES",HBO FAMILY
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/23.ts
+#EXTINF:-1 tvg-id="" tvg-name="HITS" tvg-logo="https://i.ibb.co/5rB27Sm/hits-home-tv.png" group-title="SHAREEXT@馃幀MOVIES",HITS
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/40.ts
+#EXTINF:-1 tvg-id="" tvg-name="HITS MOVIES" tvg-logo="https://i.ibb.co/T4CMHky/Hits-movies-home-tv.png" group-title="SHAREEXT@馃幀MOVIES",HITS MOVIES
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/41.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY CINEMA" tvg-logo="https://i.ibb.co/dgPMHc0/My-cinema-encep.png" group-title="SHAREEXT@馃幀MOVIES",MY CINEMA
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/47.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY CINEMA ASIA" tvg-logo="https://i.ibb.co/G0chGsR/My-cinema-asia.png" group-title="SHAREEXT@馃幀MOVIES",MY CINEMA ASIA
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/48.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY FAMILY CHANNEL" tvg-logo="https://i.ibb.co/cYC2cmR/My-family-channel.png" group-title="SHAREEXT@馃幀MOVIES",MY FAMILY CHANNEL
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/49.ts
+#EXTINF:-1 tvg-id="" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://i.ibb.co/Df5t6mP/blue-ant-enter-home-tv.png" group-title="SHAREEXT@馃幀MOVIES",ROCK ENTERTAINMENT
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/78.ts
+#EXTINF:-1 tvg-id="" tvg-name="ROCK EXTREME" tvg-logo="https://i.ibb.co/hKL9phL/blue-ant-ext-home-tv.png" group-title="SHAREEXT@馃幀MOVIES",ROCK EXTREME
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/79.ts
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://i.ibb.co/Q9DVNPD/love-nature-home-tv.png" group-title="SHAREEXT@馃幀MOVIES",LOVE NATURE
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/93.ts
+#EXTINF:-1 tvg-id="" tvg-name="SMITHSONIAN" tvg-logo="https://i.ibb.co/X751BzW/smithsonian-home-tv.png" group-title="SHAREEXT@馃幀MOVIES",SMITHSONIAN
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/94.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAX" tvg-logo="https://i.ibb.co/ZJGKFy9/animax-home-tv.png" group-title="SHAREEXT@馃幀MOVIES",ANIMAX
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/114.ts
+
+
+
 
 
 
