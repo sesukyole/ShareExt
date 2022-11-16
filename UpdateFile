@@ -75,12 +75,6 @@ https://live.olelive.com:4443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",CCTV_5Plus.
 https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ASSP_5hd
-https://iplogger.com/2b5fx4?shareext@assp5/ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",HubPremier_1
-https://yip.su/HubPrem?shareext.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",HubPremier_2
-https://ezstat.ru/HubPrem2?shareext.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Arena" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png" group-title="ShareExt@Relax",Astro@Arena
 http://iptvtree.net:8080/F11682/82ca5fbd/157485
