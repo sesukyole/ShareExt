@@ -36,6 +36,15 @@ http://iptvid.my.id/hmm/spotv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",FIGHTSPORT_Us
 http://iptvid.my.id/hmm/fightsport.m3u8 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",ChampionTv_1
+http://xtv.ooo:8080/live/Mohammad/Mohammad123/228341.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",ChampionTv_2
+http://xtv.ooo:8080/live/Mohammad/Mohammad123/228244.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",BeinSport1_id
+http://xtv.ooo:8080/live/Mohammad/Mohammad123/228245.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",BeinSport_3_id
+http://xtv.ooo:8080/live/Mohammad/Mohammad123/228246.ts
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RCTI+_vcdn
 https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MNCTV+_vcdn
@@ -53,6 +62,15 @@ https://bcovlive-a.akamaihd.net/88ed787ac7a249bf9a4135156d9f1781/ap-northeast-1/
 https://bcovlive-a.akamaihd.net/f210a9077e364c959f45e56990e8aeef/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",SPOTV_NOW_4
 https://bcovlive-a.akamaihd.net/c9053e496b884f45806493074da15f6e/ap-northeast-1/6271486521001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DIGI SPORT 1" tvg-logo="https://static.wixstatic.com/media/0e2b3e_353a02b12dea4fdeb128d63b82f31938~mv2.png" group-title="ShareExt@Relax",Digi.Sport 1
+http://ip.opentv.ma/play/live.php?mac=00:1a:79:35:f3:94&stream=179647&extension=ts&play_token=xWWYLznPFN
+#EXTINF:-1 tvg-id="" tvg-name="DIGI SPORT 2" tvg-logo="https://static.wixstatic.com/media/0e2b3e_f94ad20ec697442fbc4d5c4c437e61c7~mv2.png" group-title="ShareExt@Relax",Digi.Sport 2
+http://ip.opentv.ma/play/live.php?mac=00:1a:79:35:f3:94&stream=179648&extension=ts&play_token=JHGdrlPpyW
+#EXTINF:-1 tvg-id="" tvg-name="DIGI SPORT 3" tvg-logo="https://static.wixstatic.com/media/0e2b3e_6b6f4d2d431e4ce1881f65c308270c09~mv2.jpg" group-title="ShareExt@Relax",Digi.Sport 3
+http://ip.opentv.ma/play/live.php?mac=00:1a:79:35:f3:94&stream=179649&extension=ts&play_token=ml4YlX4Zsh
+#EXTINF:-1 tvg-id="" tvg-name="DIGI SPORT 4" tvg-logo="https://static.wixstatic.com/media/0e2b3e_f6bb104e1b204d1e98f4814ceff31000~mv2.png" group-title="ShareExt@Relax",Digi.Sport 4
+http://ip.opentv.ma/play/live.php?mac=00:1a:79:35:f3:94&stream=179650&extension=ts&play_token=hWELDyzhOB
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",Tennis(Taiwan)
 http://50.7.220.74:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
