@@ -229,10 +229,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/qC5NGhR/indosiar-home-tv.png" group-title="SHAREEXT@LOKAL_ID",INDOSIAR
 http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/3.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@LOKAL_ID",SEEU_1
-https://lnk.in.ua/dpv5fs?shareext@useeSport1.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@LOKAL_ID",SEEU_2
-https://lnk.in.ua/wzdcjm?shareext@useeSport2.ts
 #EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/dPFnbkz/trans7-home-tv.png" group-title="SHAREEXT@LOKAL_ID",TRANS 7
 http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/1.ts
 #EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="SHAREEXT@LOKAL_ID",TRANS TV
@@ -1425,44 +1421,6 @@ http://185.71.66.45:88/220263509778434/220263509778434/1898
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽All Sports",ASTROSuperSportⓧ FHD
-http://platinumxmedia.xyz:8080/Tony_Start/4MLTwvyNKhtY/92053
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽All Sports",ASTROSuperSport 2ⓧ FHD
-http://platinumxmedia.xyz:8080/Tony_Start/4MLTwvyNKhtY/92003
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽All Sports",ASTROSuperSport 3ⓧ FHD
-http://platinumxmedia.xyz:8080/Tony_Start/4MLTwvyNKhtY/92034
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽All Sports",ASTROSuperSport 4ⓧ FHD
-http://platinumxmedia.xyz:8080/Tony_Start/4MLTwvyNKhtY/92022
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽All Sports",ASTROSuperSport 5ⓧ FHD
-http://platinumxmedia.xyz:8080/Tony_Start/4MLTwvyNKhtY/92012
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽All Sports",ASTRO Cricketⓧ HD
-http://platinumxmedia.xyz:8080/Tony_Start/4MLTwvyNKhtY/40339
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽All Sports",ASTRO Arenaⓧ FHD
-http://platinumxmedia.xyz:8080/Tony_Start/4MLTwvyNKhtY/92028
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽All Sports",ASTRO Arena 2ⓧ FHD
-http://platinumxmedia.xyz:8080/Tony_Start/4MLTwvyNKhtY/130090
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽All Sports",MY|beINSportsⓧ HD
-http://platinumxmedia.xyz:8080/Tony_Start/4MLTwvyNKhtY/92044
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽All Sports",MY|beINSports 3ⓧ HD
-http://platinumxmedia.xyz:8080/Tony_Start/4MLTwvyNKhtY/92037
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽All Sports",MY|eGG Networkⓧ HD
-http://platinumxmedia.xyz:8080/Tony_Start/4MLTwvyNKhtY/92027
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽All Sports",MY|Eurosportⓧ HD
-http://platinumxmedia.xyz:8080/Tony_Start/4MLTwvyNKhtY/92001
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽All Sports",MY|Golf Channelⓧ HD
-http://platinumxmedia.xyz:8080/Tony_Start/4MLTwvyNKhtY/92017
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽All Sports",RTM TV Okeyⓧ
-http://platinumxmedia.xyz:8080/Tony_Start/4MLTwvyNKhtY/92047
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽All Sports",MY|Rugby Pass TVⓧ
-http://platinumxmedia.xyz:8080/Tony_Start/4MLTwvyNKhtY/104270
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽All Sports",MY|SpoTVⓧ HD
-http://platinumxmedia.xyz:8080/Tony_Start/4MLTwvyNKhtY/104231
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽All Sports",MY|WWE Networkⓧ HD
-http://platinumxmedia.xyz:8080/Tony_Start/4MLTwvyNKhtY/91996
 
 
 #EXTINF:-1 tvg-id="C94.api.telerama.fr" tvg-name="FR:InfoSport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/infosport-plus-fr.png" group-title="SHAREEXT@⚽All Sports",FR:InfoSport
@@ -3311,18 +3269,6 @@ http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54517
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@Stream_Sports",ELEVEN.SPORT_1
-http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@Stream_Sports",ELEVEN.SPORT_2
-http://213.13.19.35/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@Stream_Sports",ELEVEN.SPORT_3
-http://213.13.19.35/shls/LIVE$Eleven_Sports_3_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@Stream_Sports",ELEVEN.SPORT_4
-http://213.13.19.35/shls/LIVE$Eleven_Sports_4_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@Stream_Sports",ELEVEN.SPORT_5
-http://213.13.19.35/shls/LIVE$Eleven_Sports_5_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@Stream_Sports",ELEVEN.SPORT_6
-http://213.13.19.35/shls/LIVE$Eleven_Sports_6_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@Stream_Sports",BEINsports_premier 1
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
@@ -5144,8 +5090,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE|SPORTS",J_sport_4
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE|SPORTS",ZQ_sportd.
-https://six.zqprem.com/zqfb/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE|SPORTS",TVRI_SPORTS.
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
@@ -5738,90 +5682,6 @@ https://edge6a.v2h-cdn.com/appt3/Happy.stream_360p/chunklist_w481673367.m3u8
 https://edge6a.v2h-cdn.com/appt7/BANTERG.stream_720p/chunklist_w1995657440.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CZpwYc2/Thaiiilanddd-Logo.png"group-title="SHAREEXT@THAiLandTv",Major Channel Mix
 https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist_w25876149.m3u8
-
-
-
-
-
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_cartoons
-http://176.9.17.76:7080/live/stream/8dl627dwai/51.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_BabyRiky
-http://176.9.17.76:7080/live/stream/8dl627dwai/52.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Basme
-http://176.9.17.76:7080/live/stream/8dl627dwai/53.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_DeepMusic
-http://176.9.17.76:7080/live/stream/8dl627dwai/56.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Marvel
-http://176.9.17.76:7080/live/stream/8dl627dwai/57.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_ManeMix
-http://176.9.17.76:7080/live/stream/8dl627dwai/58.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_OldMovies
-http://176.9.17.76:7080/live/stream/8dl627dwai/59.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_InfoMedia(18+)
-http://176.9.17.76:7080/live/stream/8dl627dwai/60.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Collection
-http://176.9.17.76:7080/live/stream/8dl627dwai/61.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Thirlell
-http://176.9.17.76:7080/live/stream/8dl627dwai/62.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Drama(18+)
-http://176.9.17.76:7080/live/stream/8dl627dwai/63.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_XXX1(18+)
-http://176.9.17.76:7080/live/stream/8dl627dwai/64.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_XXX2(18+)
-http://176.9.17.76:7080/live/stream/8dl627dwai/65.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_XXX3(18+)
-http://176.9.17.76:7080/live/stream/8dl627dwai/66.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_XXX4(18+)
-http://176.9.17.76:7080/live/stream/8dl627dwai/67.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_INSURA
-http://176.9.17.76:7080/live/stream/8dl627dwai/68.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_JCVD
-http://176.9.17.76:7080/live/stream/8dl627dwai/69.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_MR.BEAN
-http://176.9.17.76:7080/live/stream/8dl627dwai/70.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_XXX5(18+)
-http://176.9.17.76:7080/live/stream/8dl627dwai/71.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Doundc
-http://176.9.17.76:7080/live/stream/8dl627dwai/80.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Science
-http://176.9.17.76:7080/live/stream/8dl627dwai/81.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_KidsMovies
-http://176.9.17.76:7080/live/stream/8dl627dwai/82.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Premium2
-http://176.9.17.76:7080/live/stream/8dl627dwai/83.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Paranormal
-http://176.9.17.76:7080/live/stream/8dl627dwai/84.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Action
-http://176.9.17.76:7080/live/stream/8dl627dwai/34.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Comedy
-http://176.9.17.76:7080/live/stream/8dl627dwai/35.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Horror
-http://176.9.17.76:7080/live/stream/8dl627dwai/36.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Sci_fi
-http://176.9.17.76:7080/live/stream/8dl627dwai/37.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Movies
-http://176.9.17.76:7080/live/stream/8dl627dwai/38.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Western
-http://176.9.17.76:7080/live/stream/8dl627dwai/39.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_History
-http://176.9.17.76:7080/live/stream/8dl627dwai/40.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Premium
-http://176.9.17.76:7080/live/stream/8dl627dwai/41.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Documentar
-http://176.9.17.76:7080/live/stream/8dl627dwai/44.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Christmas
-http://176.9.17.76:7080/live/stream/8dl627dwai/45.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Stand_Up
-http://176.9.17.76:7080/live/stream/8dl627dwai/46.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Star
-http://176.9.17.76:7080/live/stream/8dl627dwai/47.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_Rololol
-http://176.9.17.76:7080/live/stream/8dl627dwai/48.ts?shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" group-title="SHAREEXT@VSVHD_ROMANIAtv",VSVHD_RomanianMusic
-http://176.9.17.76:7080/live/stream/8dl627dwai/49.ts?shareext.ts
-
-
 
 
 
