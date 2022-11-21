@@ -31,6 +31,18 @@ http://iptvid.my.id/hmm/spotv.m3u8
 http://iptvid.my.id/hmm/spotv2.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",FIGHTSPORT_Us
 http://iptvid.my.id/hmm/fightsport.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",assp-1
+http://starshare.live:8080/live/24321463/35245125/5480.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",assp-2
+http://starshare.live:8080/live/24321463/35245125/5481.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",assp-3
+http://starshare.live:8080/live/24321463/35245125/5482.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",assp-4
+http://starshare.live:8080/live/24321463/35245125/5483.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",assp-5
+http://starshare.live:8080/live/24321463/35245125/75408.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",AstroArena
+http://starshare.live:8080/live/24321463/35245125/5479.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",ChampionTv_1(dec=auto)
 http://xtv.ooo:8080/Mohammad/Mohammad123/228341
