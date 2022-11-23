@@ -1,7 +1,7 @@
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",CVMtv
+http://xone8.1222908.net:80/live/18C7E71BB37968F5ACBDA341D8B9E900/351448.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",WORLDCUP_CENTRAL
 http://destiny4k.com:2086/live/darkside/t2z7marsRY/2701.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",SPORRTV.1_Portugal
@@ -316,8 +316,16 @@ http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",J.sport_3_HD
 http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",CVMtv
+http://xone8.1222908.net:80/live/18C7E71BB37968F5ACBDA341D8B9E900/351448.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",TVJ.sports
+http://xone8.1222908.net:80/live/18C7E71BB37968F5ACBDA341D8B9E900/351437.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",FLOW_SPORTS
+http://xone8.1222908.net:80/live/18C7E71BB37968F5ACBDA341D8B9E900/351440.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",ESPN
+http://xone8.1222908.net:80/live/18C7E71BB37968F5ACBDA341D8B9E900/351444.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",ESPN_2
+http://xone8.1222908.net:80/live/18C7E71BB37968F5ACBDA341D8B9E900/351445.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Astro_arena_2
 http://198.16.64.10:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482
