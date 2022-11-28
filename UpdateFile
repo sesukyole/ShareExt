@@ -11,8 +11,6 @@ https://v-px.mybtv.net/live/39.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",CCTV_16_china
 http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",SuperSport_worldCup_Central
-https://vkvsd78.mycdn.me/hls/3209804188391.m3u8/sig/0nIb2mK1QvY/expires/1669629663918/srcIp/122.176.137.187/urls/45.136.20.64/clientType/13/srcAg/CHROME/mid/4546249829351/video.m3u8?shareext@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",Direct_Sports
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",MBC_korea
@@ -21,52 +19,14 @@ http://123.254.72.24:1935/tvlive/livestream2/chunklist_w431937155.m3u8
 http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",VTV6_vietnam
 http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",ASTRO.W.CUP
-https://02ip.ru/astro?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",INDOSIAR_digital
-https://02ip.ru/indosiar?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",MOJI_digital
-https://ezstat.ru/MOJI?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",SIGNAL_SPORTS.1MAX REPLAY  
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218033
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",SIGNAL_SPORTS.2MAX REPLAY  
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218034
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",SIGNAL_SPORTS.3MAX REPLAY 
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218035
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",SIGNAL_SPORTS.4MAX REPLAY 
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218036
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",|WC|Alkaz Sports 1
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1053342&extension=ts&play_token=pk7zRQATRG
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",|WC|TRT sport
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1051562&extension=ts&play_token=w75Z03EM6A
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",|WC|Alkaz_Sports-1
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218731
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",|WC|Alkaz_Sports-2
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218732
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",WC|FS 1
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/2406.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",WC|Sport 18
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/2405.ts
-#EXTINF:-1 tvg-id="" tvg-name="TF1 HD WORLD  CUP 2022" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmMNUwfWasjov27Zk5RDv22vLZPkfXz3dEJmpXEPE7e0p_ZF4BH80TBTbJVov2FnIwSNw&usqp=CAU"group-title="SHAREEXT@⚽WORLDCUP2022",TF1 HD WORLDCUP 2022
-http://11121314.org:8000/RQH29rxr8F/fTjzEdp8EF/451153
-#EXTINF:-1 tvg-id="" tvg-name="|UK| ITV 1 HD" tvg-logo="http://11121314.org:8000/images/a4a73e3b96db3c888f3fee1519656ae9.png" group-title="SHAREEXT@⚽WORLDCUP2022",|UK|ITV 1 HD
-http://11121314.org:8000/RQH29rxr8F/fTjzEdp8EF/431898
-#EXTINF:-1 tvg-id="" tvg-name="ALKASS ONE HD" tvg-logo="http://11121314.org:8000/images/632361f8a7cc8295fd11a3f3fdfbc715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",ALKASS ONE HD
-http://11121314.org:8000/RQH29rxr8F/fTjzEdp8EF/8977
-#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 1 HD" tvg-logo="http://w.bs-share.com:8000/images/e81774dcb9e7cc16fb7eb134fb35810b.png"group-title="SHAREEXT@⚽WORLDCUP2022",CA:TSN 1 HD
-http://11121314.org:8000/RQH29rxr8F/fTjzEdp8EF/73005
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",|WC|BEINSPORTS MAX 1 HD
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216922
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",|WC|BEINSPORTS MAX 2 HD
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216923
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",|WC|BEINSPORTS MAX 3 HD
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216924
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",|WC|BEINSPORTS MAX 4 HD
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216925
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",|WC|BEINSPORTS MAX 5 HD
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216926
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",|WC|BEINSPORTS MAX 6 HD
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216927
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",TSN_1_usa
 http://rtv-murcia-live.globalmest.com/stream/abr/k1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",TSN_1_720p
@@ -95,8 +55,6 @@ http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/256
 http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/260
 #EXTINF:-1 tvg-ID="" tvg-name="USA: Fox Soccer Plus" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",USA:FoxSoccer Plus
 http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/50068
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",ChampionTv_1(auto)
 http://xtv.ooo:8080/live/Mohammad/Mohammad123/228341.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",ChampionTv_2(auto)
