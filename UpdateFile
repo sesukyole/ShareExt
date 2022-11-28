@@ -63,6 +63,14 @@ http://185.236.229.13:4000/play/a040
 http://115.186.148.250:8000/play/a00s
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",Band_Sports HD
 http://23.237.10.66:16082
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",RU_futball.1
+http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/48994
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",TYGON_1
+http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/52808
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",RTM_TV2
+http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/54175
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",Astro.Arena
+http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/54189
 #EXTINF:-1 tvg-ID="" tvg-name="FR_BeIN_SPORTS_1_HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",FR_BeIN_SPORTS_1_FHD
 http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/73
 #EXTINF:-1 tvg-ID="" tvg-name="FR_BeIN_SPORTS_1_HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",FR_BeIN_SPORTS_6_HD
