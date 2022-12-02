@@ -416,16 +416,61 @@ http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",J.sport_3_HD
 http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",CVMtv
-http://xone8.1222908.net:80/live/18C7E71BB37968F5ACBDA341D8B9E900/351448.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",TVJ.sports
-http://xone8.1222908.net:80/live/18C7E71BB37968F5ACBDA341D8B9E900/351437.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",FLOW_SPORTS
-http://xone8.1222908.net:80/live/18C7E71BB37968F5ACBDA341D8B9E900/351440.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",ESPN
-http://xone8.1222908.net:80/live/18C7E71BB37968F5ACBDA341D8B9E900/351444.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",ESPN_2
-http://xone8.1222908.net:80/live/18C7E71BB37968F5ACBDA341D8B9E900/351445.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",RUSH Sports HD
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/42414
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",TVJ Sports Network HD
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/42413
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",FlowSports 1 HD [Premier League]
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/28096
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",FlowSports 2 HD [Premier League]
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/28095
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",FuboSports 1 HD US
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/120187
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",FuboSports 2 HD US
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/120186
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",FuboSports 3 HD US
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/120185
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Flowsports RUSH Event 1 FHD
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/118708
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Flowsports RUSH Event 2 FHD
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/118709
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Flowsports RUSH Event 3 FHD
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/118710
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",PTV.SPORTS HD (Ebravo)
+http://175.107.244.52:4457/play/a08g/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",KSA.Sports 1 HD
+http://175.107.244.52:4457/play/a06a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",KSA.Sports 2 HD 
+http://175.107.244.52:4457/play/a06b/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",KSA.Sports 3 HD  
+http://175.107.244.52:4457/play/a06c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",KSA.Sports 4 HD  
+http://175.107.244.52:4457/play/a06d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Golf.Channel (Ebravo)
+http://175.107.244.52:4457/play/a071/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Euro.Sports 1  (Ebravo)
+http://175.107.244.52:4457/play/a06v/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Euro.Sports 2  (Ebravo)
+http://175.107.244.52:4457/play/a06w/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Extreme.Sports (Ebravo)
+http://175.107.244.52:4457/play/a06t/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",BeinSports.1(Ebravo)
+http://175.107.244.52:4457/play/a070/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",BeinSports.2(Ebravo)
+http://175.107.244.52:4457/play/a06z/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",BeinSports.3(Ebravo)
+http://175.107.244.52:4457/play/a06x/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",BeinSports.3 Arabic(Ebravo)
+http://175.107.244.52:4457/play/a06y/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",ADsports 1
+http://175.107.244.52:4457/play/a062/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",ADsports 2
+http://175.107.244.52:4457/play/a063/index.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Astro_arena_2
 http://198.16.64.10:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482
