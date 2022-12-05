@@ -387,6 +387,53 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@馃嚠馃嚛indonesianCANAL",INDOSIAR
+https://bit.ly/shareextindosiar|User-Agent=dayos.player
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@馃嚠馃嚛indonesianCANAL",SCTV-US
+https://bit.ly/shareextsctvusee|User-Agent=dayos.player
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@馃嚠馃嚛indonesianCANAL",ANTV-US
+https://bit.ly/shareextantvusee|User-Agent=dayos.player
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@馃嚠馃嚛indonesianCANAL",RCTI-+
+https://bit.ly/shareextrctiplus|User-Agent=dayos.player
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@馃嚠馃嚛indonesianCANAL",MNCTV-+
+https://bit.ly/shareextmnctvplus|User-Agent=dayos.player
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@馃嚠馃嚛indonesianCANAL",INEWS-+
+https://bit.ly/shareextinewsplus|User-Agent=dayos.player
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@馃嚠馃嚛indonesianCANAL",GTV-+
+https://bit.ly/shareextgtvplus|User-Agent=dayos.player
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@馃嚠馃嚛indonesianCANAL",RCTII
+https://bit.ly/shareextrcti|User-Agent=dayos.player
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@馃嚠馃嚛indonesianCANAL",GTVV
+https://bit.ly/shareextgtv|User-Agent=dayos.player
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@馃嚠馃嚛indonesianCANAL",MOJI-US
+https://bit.ly/shareextmojiusee|User-Agent=dayos.player
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@馃嚠馃嚛indonesianCANAL",MENTARI-US
+https://bit.ly/shareextmentariusee|User-Agent=dayos.player
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@馃嚠馃嚛indonesianCANAL",TVONE
+https://bit.ly/shareexttvone|User-Agent=dayos.player
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@馃嚠馃嚛indonesianCANAL",TRANSTV
+https://bit.ly/shareexttranstv|User-Agent=dayos.player
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@馃嚠馃嚛indonesianCANAL",TRANS7
+https://bit.ly/shareexttrans7|User-Agent=dayos.player
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@馃嚠馃嚛indonesianCANAL",NETTV
+https://bit.ly/shareextnettv|User-Agent=dayos.player
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@馃嚠馃嚛indonesianCANAL",INDOSIAR-ANALOG
+https://bit.ly/shareextindosiaranalog|User-Agent=dayos.player
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@馃嚠馃嚛indonesianCANAL",SCTVV
+https://bit.ly/shareextsctv|User-Agent=dayos.player
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@馃嚠馃嚛indonesianCANAL",TVONE-US
+https://bit.ly/shareexttvoneusee|User-Agent=dayos.player
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@馃嚠馃嚛indonesianCANAL",KOMPASTV
+https://bit.ly/shareextkompastv|User-Agent=dayos.player
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@馃嚠馃嚛indonesianCANAL",METROTV
+https://bit.ly/shareextmetrotv|User-Agent=dayos.player
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@馃嚠馃嚛indonesianCANAL",ANTV-US
+https://bit.ly/shareextanTvUsee|User-Agent=dayos.player
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@馃嚠馃嚛indonesianCANAL",MOJII-USS
+https://bit.ly/shareextMOJIusee|User-Agent=dayos.player
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@馃嚠馃嚛indonesianCANAL",Champions TV 1鈸� HD
 http://daddyserver.com:8080/@blades41/qTyguNhMRK/92780
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@馃嚠馃嚛indonesianCANAL",ABC Australia鈸� 
