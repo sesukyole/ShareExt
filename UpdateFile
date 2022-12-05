@@ -161,7 +161,9 @@ https://ezstat.ru/INEWS?shareext.ts
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SCTV_TVN.DIGITAL.ID
 http://tvnid.wapgem.com/sctv.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",INDOSIAR_LIGA.1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",INDOSIAR_LIGA.1(dec=auto)
+http://xtv.ooo:8080/Mohammad/Mohammad123/228289
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",INDOSIAR_TVN.DIGOTAL.ID
 http://tvnid.wapgem.com/indosiar.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar_video
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
