@@ -414,7 +414,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@馃嚠馃嚛indonesianCANAL",Champions TV 1鈸� HD
 http://daddyserver.com:8080/@blades41/qTyguNhMRK/92780
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@馃嚠馃嚛indonesianCANAL",BOLA_LIGA.1.HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@馃嚠馃嚛indonesianCANAL",BOLA_LIGA.1.HD_dec=auto
 https://bit.ly/shareextindosiarL1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@馃嚠馃嚛indonesianCANAL",UseeSport.1
 https://bit.ly/shareextUseeSport
@@ -940,8 +940,20 @@ http://daddyserver.com:8080/@blades41/qTyguNhMRK/104240
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Champion.1_dec=auto
+https://bit.ly/shareextChampion1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Champion.2_dec=auto
+https://bit.ly/shareextChampion2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Rcti_dec=auto
+https://maper.info/shareextRCTI
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Mnctv_dec=auto
+https://maper.info/shareextMNCTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Inews_dec=auto
+https://maper.info/shareextINEWS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Indosiar.Lg.1_dec=auto
+https://bit.ly/shareextindosiarL1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",SCTV.WC_dec=auto
+https://bit.ly/shareextSctv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",ElTa.1_taiwan
 https://bit.ly/shareextElta1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDVFKd0/Shareext-TVN-id-DIGITALtv.jpg" group-title="SHAREEXT@TVn_id.TV_DIGITAL",ElTa.2_taiwan
