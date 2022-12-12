@@ -166,6 +166,83 @@ http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=10491
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1053342&extension=ts&play_token=pk7zRQATRG
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",Trt Spor_turkey
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1051562&extension=ts&play_token=w75Z03EM6A
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",Astro.WCup@
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",beINSPORTS MAX 1 HD@ 
+http://webtv360.org:8000/EsPHxP8Nz7uPAyjmRPK7aCMpXjrrEmzP/LJtJgGfVjI/170477 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",beINSPORTS MAX 2 HD@ 
+http://webtv360.org:8000/EsPHxP8Nz7uPAyjmRPK7aCMpXjrrEmzP/LJtJgGfVjI/170478 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",beINSPORTS MAX 3 HD@ 
+http://webtv360.org:8000/EsPHxP8Nz7uPAyjmRPK7aCMpXjrrEmzP/LJtJgGfVjI/170479 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",TSN 3 HD@ 
+http://beams-tv.stream:80/beams-iptv1@protonmail.com/GYkidccfzv/10246 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",TSN 4 HD@ 
+http://beams-tv.stream:80/beams-iptv1@protonmail.com/GYkidccfzv/10247 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",TSN 5 HD@ 
+http://beams-tv.stream:80/beams-iptv1@protonmail.com/GYkidccfzv/10248 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",CCTV16-4K-25PHLG源@ 
+http://live.cooltv.top/tv/aishang.php?id=cctv164k 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",咪咕体育-4K-HLG源@ 
+http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",咪咕体育-4K-HLG源-3@ 
+http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8? 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",CCTV5-高清(1)@ 
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8? 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",CCTV5-高清(2)@ 
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8? 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",CCTV5-高清(4)@ 
+http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",CCTV5-高清(5)@ 
+http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",五星体育(1)@ 
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",五星体育(2)@ 
+http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",广东体育@ 
+http://120.84.96.73:808/hls/22/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",广东体育（备@ 
+http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",广东体育(备2)@ 
+http://120.84.96.26:808/hls/22/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",广东体育(备3)@ 
+http://120.84.96.33:808/hls/22/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",CCTV4K-25P-HLG源@ 
+http://live.cooltv.top/tv/cctv4k_backup.php 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",bbc1@ 
+http://50.7.220.74:8278/bbc1_antik/playlist.m3u8?tid=MF9F5104188751041887&ct=19317&tsum=d9d161255fab7747b92a36b17e6fcf9a 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",elta2@ 
+http://50.7.220.74:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",BTV纪实科教-8KSDR源@ 
+http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",苏州4K@ 
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",CCTV4K-25P-HLG源@ 
+http://159.75.85.63:8280/cctv4k.php 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",4K-TEST@ 
+https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/telegram/introduce.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",爱上4K@ 
+http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",咪咕4K-HLG源-备用2@ 
+http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",Clarity4K@ 
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",爱自然@ 
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",MUZZIK ZZ4000 4K@ 
+http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",loupe 4K@ 
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",斗鱼4K@ 
+http://epg.112114.xyz/douyu/9249162 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",南国都市@ 
+http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",南国都市(备)@ 
+https://justsometime.gztv.com/sec/shenghuos.m3u8
+
+
+
+
+
 
 
 
@@ -208,6 +285,11 @@ http://usee.yurend.web.id/usee/USEEPRIME.m3u8
 http://usee.yurend.web.id/usee/SPOTV.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV.2_usee
 http://usee.yurend.web.id/usee/SPOTV2.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",HubPremier_1
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348097&extension=ts&play_token=FzoklzfqN1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",HubPremier_2
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=FzoklzfqN1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV_philipina
 http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/463657
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV.2_philipina
