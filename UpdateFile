@@ -212,6 +212,21 @@ http://usee.yurend.web.id/usee/SPOTV2.m3u8
 http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/463657
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV.2_philipina
 http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/463656
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BeinSports.1 HD_PH
+http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/143973
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BeinSports.2 HD_PH
+http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/143974
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",beINSports.3_PH
+http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/463617
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",FightSports_PH
+http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/141603
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",One.Sports_PH
+http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/463643
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",One.Sports+_PH
+http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/463644
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",PremierSports.HD_PH
+http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/463651
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Badminton1(Spotv)
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1658610734~exp=9007200913351725~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_2/chunklist.m3u8*~hmac=1a391d24f8a3fe045b6553920daa8fcfec1bfac57cf53b142ba3d75745b816f8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Badminton2(SPOtv2)
