@@ -184,22 +184,30 @@ https://ezstat.ru/mncSport_2?shareext.ts
 https://ezstat.ru/mncSport_3?shareext.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", INEWS
 https://ezstat.ru/INEWS?shareext.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", INEWS_usee
+http://usee.yurend.web.id/usee/INEWS.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",sctv_video
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SCTV_Video
-
+https://k.ksa.my.id/ksa.m3u8?a=c38a7b272f9c6d07b2c3&b=769e18d2eae69a34056d&c=606f050f137c26cc67bb
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",INDOSIAR_LIGA.1(dec=auto)
 http://xtv.ooo:8080/Mohammad/Mohammad123/228289
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar_video
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",USEE.1
-
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=useesport&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",USEE.2
-
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=useesports2&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",seeu_1
 https://bit.ly/shareextUseesport1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",seeu_2
 https://bit.ly/shareextUseesport2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseePrime_usee
+http://usee.yurend.web.id/usee/USEEPRIME.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV_usee
+http://usee.yurend.web.id/usee/SPOTV.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV.2_usee
+http://usee.yurend.web.id/usee/SPOTV2.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Badminton1(Spotv)
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1658610734~exp=9007200913351725~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_2/chunklist.m3u8*~hmac=1a391d24f8a3fe045b6553920daa8fcfec1bfac57cf53b142ba3d75745b816f8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Badminton2(SPOtv2)
@@ -259,7 +267,8 @@ https://bcovlive-a.akamaihd.net/88ed787ac7a249bf9a4135156d9f1781/ap-northeast-1/
 https://bcovlive-a.akamaihd.net/f210a9077e364c959f45e56990e8aeef/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",SPOTV_NOW_4
 https://bcovlive-a.akamaihd.net/c9053e496b884f45806493074da15f6e/ap-northeast-1/6271486521001/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",sportstv
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DIGI SPORT 1" tvg-logo="https://static.wixstatic.com/media/0e2b3e_353a02b12dea4fdeb128d63b82f31938~mv2.png" group-title="ShareExt@Relax",Digi.Sport 1
 http://ip.opentv.ma/play/live.php?mac=00:1a:79:35:f3:94&stream=179647&extension=ts&play_token=xWWYLznPFN
 #EXTINF:-1 tvg-id="" tvg-name="DIGI SPORT 2" tvg-logo="https://static.wixstatic.com/media/0e2b3e_f94ad20ec697442fbc4d5c4c437e61c7~mv2.png" group-title="ShareExt@Relax",Digi.Sport 2
