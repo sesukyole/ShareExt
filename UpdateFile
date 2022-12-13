@@ -74,10 +74,6 @@ http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
 http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",SCTV.FHD
 https://02ip.ru/sctvFHD?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",ASTRO_WC.1_LIVE
-https://02ip.ru/astroWC1?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",ASTRO_WC.2_LIVE
-https://02ip.ru/astroWC2?shareext.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",ASTROSPORT.WC.1_UHD	
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/348094
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",ASTROSPORT.WC.2_UHD
@@ -114,28 +110,6 @@ http://45.232.210.1:8062/play/a08b/index.m3u8
 http://45.232.210.1:8062/play/a094/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",FOX_SPORT_3
 http://45.232.210.1:8062/play/a095/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",RU_futball.1
-http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/48994
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",TYGON_1
-http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/52808
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",RTM_TV2
-http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/54175
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",Astro.Arena
-http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/54189
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",Astro.Arena_2
-https://02ip.ru/Arena2?shareext.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR_BeIN_SPORTS_1_HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",FR_BeIN_SPORTS_1_FHD
-http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/73
-#EXTINF:-1 tvg-ID="" tvg-name="FR_BeIN_SPORTS_1_HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",FR_BeIN_SPORTS_6_HD
-http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/3682
-#EXTINF:-1 tvg-ID="" tvg-name="UK_FOX_SPORTS" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",FOX_SPORTS_1
-http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/1529
-#EXTINF:-1 tvg-ID="" tvg-name="UK_ITV_1" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",UK_ITV_1
-http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/256
-#EXTINF:-1 tvg-ID="" tvg-name="UK_BBC_1_HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",UK_BBC_1_HD
-http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/260
-#EXTINF:-1 tvg-ID="" tvg-name="USA: Fox Soccer Plus" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",USA:FoxSoccer Plus
-http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/50068
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",ChampionTv_1(auto)
 http://xtv.ooo:8080/live/Mohammad/Mohammad123/228341.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@⚽WORLDCUP2022",ChampionTv_2(auto)
@@ -3033,78 +3007,6 @@ https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 https://live-2-333.zxz.su/LIVE/LIVE:407384/HLS/1653407947/y7_QCOv_uH0DyESUTqRMyQ/live/407384_7/chunklist.m3u8
 #EXTINF:0 tvg-country="AZ" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@LIVE|SPORTS",Match.footbal.
 https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="IND: &TV HD" tvg-logo="http://iptv.4ktezz.top:25461/images/ayqiw968dVvC9jy144gUX4AycIB5ikH3.png" group-title="SHAREEXT@INDIA TV",&TV HD
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/100909
-#EXTINF:-1 tvg-id="" tvg-name="IND: B4U KARAK" tvg-logo="http://iptv.4ktezz.top:25461/images/SHgHOwBDM1xZhSc1ltK0zXVd61to9r8t.png" group-title="SHAREEXT@INDIA TV",B4U KARAK
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/100910
-#EXTINF:-1 tvg-id="" tvg-name="IND: STAR PLUS HD" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",STARPLUS HD
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/100912
-#EXTINF:-1 tvg-id="" tvg-name="IND: ZEE TV CANADA" tvg-logo="http://iptv.4ktezz.top:25461/images/3yOL0FSSRefV1DHK0rOrLtMKTBEVYbtp.png" group-title="SHAREEXT@INDIA TV",ZEETV CANADA
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/100914
-#EXTINF:-1 tvg-id="" tvg-name="IND: SONY SAB HD" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",SONY SAB HD
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/100919
-#EXTINF:-1 tvg-id="" tvg-name="IND: SONY PAL" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",SONY PAL
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/100921
-#EXTINF:-1 tvg-id="" tvg-name="IND: STAR BHARAT (UK)" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",STAR BHARAT(UK)
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/100922
-#EXTINF:-1 tvg-id="" tvg-name="IND: & PICTURES HD" tvg-logo="http://iptv.4ktezz.top:25461/images/L5fUDs9QkmqnYpBFGO1MoCHGZFI1CXEe.png" group-title="SHAREEXT@INDIA TV",& PICTURES HD
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/100926
-#EXTINF:-1 tvg-id="" tvg-name="IND: B4U Kadak" tvg-logo="http://iptv.4ktezz.top:25461/images/TyV9qa8o2RYvf48tq1demFzCzrA9yR8k.png" group-title="SHAREEXT@INDIA TV",B4U Kadak
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/100931
-#EXTINF:-1 tvg-id="" tvg-name="IND: ENTER 10" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",ENTER 10
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/100932
-#EXTINF:-1 tvg-id="" tvg-name="IND: BOLLYWOOD CLASSIC" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",BOLLYWOOD CLASSIC
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/100935
-#EXTINF:-1 tvg-id="" tvg-name="IND: WILLOW CRICKET HD" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",WILLOW CRICKET HD
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/100936
-#EXTINF:-1 tvg-id="" tvg-name="IND: STAR SPORTS 2 HD" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",STARSPORTS 2 HD
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/100937
-#EXTINF:-1 tvg-id="" tvg-name="IND: SONY SIX HD" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",SONY SIX HD
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/100938
-#EXTINF:-1 tvg-id="" tvg-name="IND: DSPORTS" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",DSPORTS
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/100942
-#EXTINF:-1 tvg-id="" tvg-name="IND: DSPORTS 1" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",DSPORTS 1
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/100943
-#EXTINF:-1 tvg-id="" tvg-name="IND: Discovery HINDI" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Discovery HINDI
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/100945
-#EXTINF:-1 tvg-id="" tvg-name="IND: Discovery Science HINDI" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Discovery Science HINDI
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/100946
-#EXTINF:-1 tvg-id="" tvg-name="IND: CARTOON NETWORK" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",CARTOON NETWORK
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/100951
-#EXTINF:-1 tvg-id="" tvg-name="IND: B4U Music" tvg-logo="http://iptv.4ktezz.top:25461/images/sikE5qR2fnNtWumYORy5SGxtZy2cyevt.png" group-title="SHAREEXT@INDIA TV",B4U Music
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/100954
-#EXTINF:-1 tvg-id="" tvg-name="IND: Zee Cinema HD" tvg-logo="http://iptv.4ktezz.top:25461/images/yfbnJYfha32xYhbJNmHpYI3F3ELYlPnP.png" group-title="SHAREEXT@INDIA TV",Zee Cinema HD
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/100966
-#EXTINF:-1 tvg-id="" tvg-name="IND: ZEE ACTION" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",ZEE ACTION
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/100972
-#EXTINF:-1 tvg-id="" tvg-name="IND: ZEE BOLLYWOOD" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",ZEE BOLLYWOOD
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/100973
-#EXTINF:-1 tvg-id="" tvg-name="IND: NAT GEO" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",NATGEO
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/100985
-#EXTINF:-1 tvg-id="" tvg-name="IND: NICK JR" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",NICK JR
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/100989
-#EXTINF:-1 tvg-id="" tvg-name="IND :  ZEE TV" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",ZEE TV
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/100997
-#EXTINF:-1 tvg-id="" tvg-name="IN : Star World Premier HD" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",StarWorld Premier HD
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/100998
-#EXTINF:-1 tvg-id="" tvg-name="IN : & xplore HD" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",& xplore HD
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/100999
-#EXTINF:-1 tvg-id="" tvg-name="IND: B4U Plus" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",B4U Plus
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/101009
-#EXTINF:-1 tvg-id="" tvg-name="IND: Shraddha MH One" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Shraddha MH One
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/101051
-
-
-
-
-
-
 
 
 
