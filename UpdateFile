@@ -335,6 +335,79 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5361
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SHAREEXT@CRICKET",PTV SPORTS_dec=auto
+http://xtv.ooo:8080/345529766/157811576/167567
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SHAREEXT@CRICKET",PK:PTV SPORTS HD_dec=auto
+http://xtv.ooo:8080/345529766/157811576/217968
+#EXTINF:-1 tvg-id="" tvg-name="PK | Geo Super HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png" group-title="SHAREEXT@CRICKET",PK|GeoSuper HD_dec=auto
+http://xtv.ooo:8080/345529766/157811576/167568
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="PK: TEN SPORTS" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="SHAREEXT@CRICKET",PK:TEN SPORTS_dec=auto
+http://xtv.ooo:8080/345529766/157811576/167569
+#EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 1)" tvg-logo="http://logo.xsmarters.com/logo/ASPORTSARY.jfif" group-title="SHAREEXT@CRICKET",PK:A Sports HD(Server 1)_dec=auto
+http://xtv.ooo:8080/345529766/157811576/219689
+#EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 2)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="SHAREEXT@CRICKET",PK:A Sports HD(Server 2)_dec=auto
+http://xtv.ooo:8080/345529766/157811576/221417
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN | Ten 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="SHAREEXT@CRICKET",Ten 1 HD_dec=auto
+http://xtv.ooo:8080/345529766/157811576/167570
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN | Ten 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="SHAREEXT@CRICKET",Ten 2 HD_dec=auto
+http://xtv.ooo:8080/345529766/157811576/167571
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN | Ten 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="SHAREEXT@CRICKET",Ten 3 HD_dec=auto
+http://xtv.ooo:8080/345529766/157811576/167572
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 4" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@CRICKET",Sony Ten 4_dec=auto
+http://xtv.ooo:8080/345529766/157811576/167595
+#EXTINF:-1 tvg-id="" tvg-name="CRI: Ten Cricket" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png" group-title="SHAREEXT@CRICKET",Ten Cricket_dec=auto
+http://xtv.ooo:8080/345529766/157811576/167587
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 Hindi" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="SHAREEXT@CRICKET",STARSPORTS 1 Hindi_dec=auto
+http://xtv.ooo:8080/345529766/157811576/167573
+#EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="IN: Star Sports tamil 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@CRICKET",StarSports tamil 1_dec=auto
+http://xtv.ooo:8080/345529766/157811576/167574
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN | Star Sports 1 HD" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="SHAREEXT@CRICKET",StarSports 1 HD_dec=auto
+http://xtv.ooo:8080/345529766/157811576/167575
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IN | Star Sports 2 HD" tvg-logo="https://static.epg.best/in/StarSports2.in.png" group-title="SHAREEXT@CRICKET",StarSports 2 HD_dec=auto
+http://xtv.ooo:8080/345529766/157811576/167576
+#EXTINF:-1 tvg-id="starsports3.in" tvg-name="IN | Star Sports 3 HD" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="SHAREEXT@CRICKET",StarSports 3 HD_dec=auto
+http://xtv.ooo:8080/345529766/157811576/167577
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN | STAR SPORTS SELECT 1" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="SHAREEXT@CRICKET",STARSPORTS SELECT 1_dec=auto
+http://xtv.ooo:8080/345529766/157811576/167578
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN | STAR SPORTS SELECT 2" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="SHAREEXT@CRICKET",STARSPORTS SELECT 2_dec=auto
+http://xtv.ooo:8080/345529766/157811576/167579
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="IN | SONY SIX HD" tvg-logo="https://static.epg.best/in/SonySIX.in.png" group-title="SHAREEXT@CRICKET",SONY SIX HD_dec=auto
+http://xtv.ooo:8080/345529766/157811576/167580
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="IN | Astro Cricket HD" tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png" group-title="SHAREEXT@CRICKET",AstroCricket HD_dec=auto
+http://xtv.ooo:8080/345529766/157811576/167581
+#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="SuperSport Cricket" tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png" group-title="SHAREEXT@CRICKET",SuperSport Cricket_dec=auto
+http://xtv.ooo:8080/345529766/157811576/167592
+#EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="AU: FOX CRICKET 501" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SHAREEXT@CRICKET",FOX CRICKET 501_dec=auto
+http://xtv.ooo:8080/345529766/157811576/167593
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket" tvg-logo="https://cpng.pikpng.com/pngl/s/345-3458751_sky-sports-cricket-hd-live-online-sky-sports.png" group-title="SHAREEXT@CRICKET",SkySports Cricket_dec=auto
+http://xtv.ooo:8080/345529766/157811576/167594
+#EXTINF:-1 tvg-id="" tvg-name="IN | Willow Xtra" tvg-logo="https://5gtv.online:2053/logo/willowxtra1.png" group-title="SHAREEXT@CRICKET",Willow Xtra_dec=auto
+http://xtv.ooo:8080/345529766/157811576/167582
+#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="IN: Willow Cricket HD" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="SHAREEXT@CRICKET",Willow Cricket HD_dec=auto
+http://xtv.ooo:8080/345529766/157811576/167583
+#EXTINF:-1 tvg-id="" tvg-name="BS | beIN SPORT CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/13-HD.png/120px-13-HD.png" group-title="SHAREEXT@CRICKET",beINSPORT CRICKET_dec=auto
+http://xtv.ooo:8080/345529766/157811576/167584
+#EXTINF:-1 tvg-id="dsport.in" tvg-name="IN: EUROPSPORT HD" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" group-title="SHAREEXT@CRICKET",IN:EUROPSPORT HD_dec=auto
+http://xtv.ooo:8080/345529766/157811576/167585
+#EXTINF:-1 tvg-id="" tvg-name="IN: 1SPORTS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@CRICKET",IN:1SPORTS_dec=auto
+http://xtv.ooo:8080/345529766/157811576/167586
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Sports" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@CRICKET",IN:DD Sports_dec=auto
+http://xtv.ooo:8080/345529766/157811576/167588
+#EXTINF:-1 tvg-id="" tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SHAREEXT@CRICKET",T-SPORTS_dec=auto
+http://xtv.ooo:8080/345529766/157811576/167590
+#EXTINF:-1 tvg-id="" tvg-name="AFG: RTA SPORTS" tvg-logo="https://rtasportswear.com/wp-content/uploads/2020/03/logo-copy-300x123.png" group-title="SHAREEXT@CRICKET",AFG:RTA SPORTS_dec=auto
+http://xtv.ooo:8080/345529766/157811576/167591
+#EXTINF:-1 tvg-id="" tvg-name="IND: jio Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Reliance_Jio_Logo_%28October_2015%29.svg/1200px-Reliance_Jio_Logo_%28October_2015%29.svg.png" group-title="SHAREEXT@CRICKET",IND:jio Cricket_dec=auto
+http://xtv.ooo:8080/345529766/157811576/206297
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="UK: BT Sport 2 CRICKET" tvg-logo="https://cdn6.aptoide.com/imgs/0/4/2/042b850e2b3895e1e4dc4728a87cd185_icon.png" group-title="SHAREEXT@CRICKET",BTSport 2_dec=auto
+http://xtv.ooo:8080/345529766/157811576/206566
+#EXTINF:-1 tvg-id="" tvg-name="PK: MAQ TV CRICKET" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@CRICKET",PK:MAQ TV_dec=auto
+http://xtv.ooo:8080/345529766/157811576/207190
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE_Sports",Sony.Sports.5 HD_
 http://clientportal.link:80/CZ40WC484/iGW0Kw998/18805
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE_Sports",StarSports.1 HD_
@@ -2593,6 +2666,155 @@ https://edge6a.v2h-cdn.com/appt7/BANTERG.stream_720p/chunklist_w1995657440.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CZpwYc2/Thaiiilanddd-Logo.png"group-title="SHAREEXT@THAiLandTv",Major Channel Mix
 https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist_w25876149.m3u8
 
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BOLLYWOOD MOVIES 00" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",BOLLYWOOD MOVIES 00_dec=auto
+http://xtv.ooo:8080/345529766/157811576/250345
+#EXTINF:-1 tvg-id="" tvg-name="01 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.zoneflix.club/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",01 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/250346
+#EXTINF:-1 tvg-id="" tvg-name="02 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.zoneflix.club/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",02 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/250347
+#EXTINF:-1 tvg-id="" tvg-name="03 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.otvplayer.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",03 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/250348
+#EXTINF:-1 tvg-id="" tvg-name="04 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.otvplayer.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",04 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/250349
+#EXTINF:-1 tvg-id="" tvg-name="05 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplex.net/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",05 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/250350
+#EXTINF:-1 tvg-id="" tvg-name="06 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplex.net/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",06 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/250351
+#EXTINF:-1 tvg-id="" tvg-name="07 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.pkiptv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",07 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/250352
+#EXTINF:-1 tvg-id="" tvg-name="08 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.pkiptv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",08 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/250353
+#EXTINF:-1 tvg-id="" tvg-name="09 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplex.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",09 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/250354
+#EXTINF:-1 tvg-id="" tvg-name="10 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplex.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",10 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/250355
+#EXTINF:-1 tvg-id="" tvg-name="11 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplexiptv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",11 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/250356
+#EXTINF:-1 tvg-id="" tvg-name="12 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplexiptv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",12 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/250357
+#EXTINF:-1 tvg-id="" tvg-name="13 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",13 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/250358
+#EXTINF:-1 tvg-id="" tvg-name="14 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",14 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/250359
+#EXTINF:-1 tvg-id="" tvg-name="15 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",15 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251340
+#EXTINF:-1 tvg-id="" tvg-name="16 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",16 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251341
+#EXTINF:-1 tvg-id="" tvg-name="17 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",17 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251342
+#EXTINF:-1 tvg-id="" tvg-name="18 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",18 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251343
+#EXTINF:-1 tvg-id="" tvg-name="19 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",19 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251344
+#EXTINF:-1 tvg-id="" tvg-name="20 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",20 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251345
+#EXTINF:-1 tvg-id="" tvg-name="21 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",21 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251346
+#EXTINF:-1 tvg-id="" tvg-name="22 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",22 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251347
+#EXTINF:-1 tvg-id="" tvg-name="23 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",23 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251348
+#EXTINF:-1 tvg-id="" tvg-name="24 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",24 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251349
+#EXTINF:-1 tvg-id="" tvg-name="25 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",25 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251350
+#EXTINF:-1 tvg-id="" tvg-name="26 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",26 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251351
+#EXTINF:-1 tvg-id="" tvg-name="27 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",27 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251352
+#EXTINF:-1 tvg-id="" tvg-name="28 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",28 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251353
+#EXTINF:-1 tvg-id="" tvg-name="29 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",29 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251354
+#EXTINF:-1 tvg-id="" tvg-name="30 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",30 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251561
+#EXTINF:-1 tvg-id="" tvg-name="31 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",31 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251562
+#EXTINF:-1 tvg-id="" tvg-name="32 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",32 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251563
+#EXTINF:-1 tvg-id="" tvg-name="33 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",33 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251564
+#EXTINF:-1 tvg-id="" tvg-name="34 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",34 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251565
+#EXTINF:-1 tvg-id="" tvg-name="35 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",35 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251566
+#EXTINF:-1 tvg-id="" tvg-name="36 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",36 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251567
+#EXTINF:-1 tvg-id="" tvg-name="37 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",37 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251568
+#EXTINF:-1 tvg-id="" tvg-name="38 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",38 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251569
+#EXTINF:-1 tvg-id="" tvg-name="39 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",39 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251570
+#EXTINF:-1 tvg-id="" tvg-name="40 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",40 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251571
+#EXTINF:-1 tvg-id="" tvg-name="41 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",41 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251572
+#EXTINF:-1 tvg-id="" tvg-name="42 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",42 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251573
+#EXTINF:-1 tvg-id="" tvg-name="43 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",43 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251574
+#EXTINF:-1 tvg-id="" tvg-name="44 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",44 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251575
+#EXTINF:-1 tvg-id="" tvg-name="45 ***" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",45 ***_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251576
+#EXTINF:-1 tvg-id="" tvg-name="46 ***" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",46 ***_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251577
+#EXTINF:-1 tvg-id="" tvg-name="47 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",47 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251578
+#EXTINF:-1 tvg-id="" tvg-name="48 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",48 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251579
+#EXTINF:-1 tvg-id="" tvg-name="49 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",49 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251580
+#EXTINF:-1 tvg-id="" tvg-name="50 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",50 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251581
+#EXTINF:-1 tvg-id="" tvg-name="51 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",51 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251582
+#EXTINF:-1 tvg-id="" tvg-name="52 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",52 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251583
+#EXTINF:-1 tvg-id="" tvg-name="53 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",53 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251584
+#EXTINF:-1 tvg-id="" tvg-name="54 ***" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",54 ***_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251585
+#EXTINF:-1 tvg-id="" tvg-name="55 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",55 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251586
+#EXTINF:-1 tvg-id="" tvg-name="56 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",56 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251587
+#EXTINF:-1 tvg-id="" tvg-name="57 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",57 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251588
+#EXTINF:-1 tvg-id="" tvg-name="58 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",58 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251589
+#EXTINF:-1 tvg-id="" tvg-name="59 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",59 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251590
+#EXTINF:-1 tvg-id="" tvg-name="60 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="SHAREEXT@BOLLYWOOD MOVIES",60 BOLLYWOOD MOVIES_dec=auto
+http://xtv.ooo:8080/345529766/157811576/251591
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="01 HOLLYWOOD ACTION 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title="SHAREEXT@HOLLYWOOD ACTION MOVIES",01 HOLLYWOOD ACTION_dec=auto
+http://xtv.ooo:8080/345529766/157811576/285183
+#EXTINF:-1 tvg-id="" tvg-name="02 HOLLYWOOD ACTION 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title="SHAREEXT@HOLLYWOOD ACTION MOVIES",02 HOLLYWOOD ACTION_dec=auto
+http://xtv.ooo:8080/345529766/157811576/301092
+#EXTINF:-1 tvg-id="" tvg-name="03 HOLLYWOOD ACTION 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title="SHAREEXT@HOLLYWOOD ACTION MOVIES",03 HOLLYWOOD ACTION_dec=auto
+http://xtv.ooo:8080/345529766/157811576/301093
+#EXTINF:-1 tvg-id="" tvg-name="04 HOLLYWOOD ACTION 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title="SHAREEXT@HOLLYWOOD ACTION MOVIES",04 HOLLYWOOD ACTION_dec=auto
+http://xtv.ooo:8080/345529766/157811576/301094
+#EXTINF:-1 tvg-id="" tvg-name="05 HOLLYWOOD ACTION 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title="SHAREEXT@HOLLYWOOD ACTION MOVIES",05 HOLLYWOOD ACTION_dec=auto
+http://xtv.ooo:8080/345529766/157811576/301095
+#EXTINF:-1 tvg-id="" tvg-name="06 HOLLYWOOD ACTION 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title="SHAREEXT@HOLLYWOOD ACTION MOVIES",06 HOLLYWOOD ACTION_dec=auto
+http://xtv.ooo:8080/345529766/157811576/301096
+#EXTINF:-1 tvg-id="" tvg-name="07 HOLLYWOOD ACTION 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title="SHAREEXT@HOLLYWOOD ACTION MOVIES",07 HOLLYWOOD ACTION_dec=auto
+http://xtv.ooo:8080/345529766/157811576/301097
+#EXTINF:-1 tvg-id="" tvg-name="08 HOLLYWOOD ACTION 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title="SHAREEXT@HOLLYWOOD ACTION MOVIES",08 HOLLYWOOD ACTION_dec=auto
+http://xtv.ooo:8080/345529766/157811576/301098
+#EXTINF:-1 tvg-id="" tvg-name="09 HOLLYWOOD ACTION 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title="SHAREEXT@HOLLYWOOD ACTION MOVIES",09 HOLLYWOOD ACTION_dec=auto
+http://xtv.ooo:8080/345529766/157811576/301099
 
 
 
