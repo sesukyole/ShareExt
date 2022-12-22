@@ -51,6 +51,17 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348097&extension=ts&play_token=FzoklzfqN1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",HubPremier_2
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=FzoklzfqN1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Astro_arena
+http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/54189.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ASSP.1
+http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52859.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SUPERSPORTS_2
+http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52860.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SUPERSPORTS_3
+http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52861.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ASSP.4
+http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52862.ts
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV_philipina
 http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/463657
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV.2_philipina
