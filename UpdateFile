@@ -33,10 +33,6 @@ https://iplis.ru/indosiarCubmuShareext
 http://xtv.ooo:8080/Mohammad/Mohammad123/228289
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar_video
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",LIGA.1_Live.only
-https://punya.livestreaming.repl.co/liga15.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BRI.LIGA.1_Live.only
-https://raw.githubusercontent.com/shabrina0401/bernabeu/main/BRI/bri1.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",USEE.1
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=useesport&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",USEE.2
@@ -134,32 +130,6 @@ https://vcdn2.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_9
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",INEWS+_vcdn
 https://vcdn2.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=6-mp4a_96000=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",SetantaSports 🇺🇦
-http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/272/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",SetantaSports 1 🇺🇦
-http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/19430/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",SetantaSports 2 🇺🇦
-http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/19431/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",SetantaSports 3 🇺🇦
-http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/19432/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",SetantaSports + 🇺🇦
-http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5068/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",SetantaSports 2 HD 🇷🇺
-http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/270/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",МАТЧ Футбол 2 HD 🇷🇺
-http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/530/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",МАТЧ Футбол 3 HD 🇷🇺
-http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/522/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",SPORT RU 🇷🇺
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",X SPORT 🇷🇺
-http://iptv.prosto.tv:7000/ch109/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",KBP SPORT 🇷🇺
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",BELARUS 5 🇧🇾
-http://82.209.197.187:8080/udp/239.0.100.9:1234
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",BELARUS 5_p 🇧🇾
-http://37.17.14.149:8901/play/a004/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",Beinsport.1_indihome
 https://devds.site/api/indihoy/hls.m3u8?ch=bein1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",Beinsport.2_indihome
