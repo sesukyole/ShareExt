@@ -17,12 +17,26 @@ https://maper.info/SHAREEXTmncsport
 https://maper.info/SHAREEXTmnssports1HD
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", MNC_SPORT_2
 https://maper.info/SHAREEXTmncsport2
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", INEWS_ua
-https://anv-livechannel-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd-avc1_149952=1.m3u8|User-Agent=android-R+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", INEWS+
+https://anv-livechannel-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8|User-Agent=android-R+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", RCTI+
+https://anv-livechannel-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8|User-Agent=android-R+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", MNCTV+
+https://anv-livechannel-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8|user-agent=android-R+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", GTV+
+https://anv-livechannel-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8|user-agent=android-R+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", INEWS_usee
 http://usee.yurend.web.id/usee/INEWS.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",sctv_video
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SCTV.HD
+https://anon.devds.site/link.php?hash=aHR0cHM6Ly9pbGlrZS5zcXVkaW5jLndvcmtlcnMuZGV2L3BsYXkubTN1OD9pZD0yMDQma2V5PXZpZGlvJnR5cGU9aGxz
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MOJi.vid
+https://anon.devds.site/link.php?hash=aHR0cHM6Ly9zZXVsYW5nYXR2LmNvbS9ZQU5HLU5ZVVJJLUFOQUstREFKSkFML3ZpZGlvSExTLzIwNi5tM3U4
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MOJI.VID
+https://anon.devds.site/link.php?hash=aHR0cHM6Ly9pbGlrZS5zcXVkaW5jLndvcmtlcnMuZGV2L3BsYXkubTN1OD9pZD0yMDYma2V5PXZpZGlvJnR5cGU9aGxz
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar.HD
+https://anon.devds.site/link.php?hash=aHR0cHM6Ly9pbGlrZS5zcXVkaW5jLndvcmtlcnMuZGV2L3BsYXkubTN1OD9pZD0yMDUma2V5PXZpZGlvJnR5cGU9aGxz
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",INDOSIAR_LIGA.1(dec=auto)
 http://xtv.ooo:8080/Mohammad/Mohammad123/228289
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar_video
@@ -69,6 +83,8 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348097&extension=ts&play_token=FzoklzfqN1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",HubPremier_2
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=FzoklzfqN1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BTV
+https://anon.devds.site/link.php?hash=aHR0cHM6Ly9saXZlZnRhLm1hbGltYXJjZG4uY29tL3R2a2VkZ2UvYnR2LnN0cmVhbS9jaHVua2xpc3QubTN1OA==
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Astro_arena
 http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/54189.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ASSP.1
