@@ -9,7 +9,7 @@ https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
 https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SKYNET.SPORTS_HD
 http://4digital.ddns.net:11224/ts/0
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TRUE2.SPORTS_HD
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TRUE1.SPORTS_HD
 http://4digital.ddns.net:11222/ts/0
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", MNC_SPORT
 https://maper.info/SHAREEXTmncsport
@@ -77,6 +77,8 @@ http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension
 https://livefta.malimarcdn.com/tvkedge/btv.stream/chunklist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Astro_arena
 http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/54189.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Astro_Arena_2
+http://198.16.64.10:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ASSP.1
 http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52859.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SUPERSPORTS_2
