@@ -421,7 +421,74 @@ http://alstv.xyz/usee/galaxy.m3u8
 http://alstv.xyz/usee/galaxypremium.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",MY.FAMILY.MOVIE
 http://alstv.xyz/usee/myfamily.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",FOX_Movies(arb)
+http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=348064&extension=ts&play_token=w1Gs5vyU6z
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",Fox.Movies.Action(arb)
+http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=14447&extension=ts&play_token=SzSdQEwOue
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",HBO_twn
+http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",HBO.Family_twn
+http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",HBO.SIG_twn
+http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",HBO_SIGNATURE_twn
+http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",HBO_HITS_twn
+http://50.7.220.74:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=17874&tsum=4c27530a08ffe34dd956619fd0f36a22
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",HBO_p
+http://45.232.210.1:8062/play/a0b3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",HBO.2_p
+http://45.232.210.1:8062/play/a08f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",HBO.Family_p
+http://45.232.210.1:8062/play/a08i/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",HBO.+_p
+http://45.232.210.1:8062/play/a08g/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",CINEMAX.twn
+http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",Cinemax_Twn
+http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",AXN_twn
+http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",BOO.my
+http://50.7.220.74:8278/Boo/playlist.m3u8?tid=m13c9739e046716729882&ct=17910&tsum=385e1887564e255d1164e639259d5793
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",WarnerTV.my
+http://198.16.64.10:8278/WarnerTV/playlist.m3u8?tid=MADA9911440699114406&ct=19225&tsum=19bde622e34ceabf296cf92a9a1adede
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",ROCK_ACTION_dens
+http://210.210.155.35/dr9445/h/h15/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",ROCK_ENTER_dens
+http://210.210.155.35/dr9445/h/h16/index.m3u8_dens
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",MY.CINEMA_dens
+http://210.210.155.35/uq2663/h/h192/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",MY.CINEMA.ASIA_dens
+http://210.210.155.35/uq2663/h/h193/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Asia
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",MY.CINEMA.EUROPE_dens
+http://210.210.155.35/uq2663/h/h18/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Europe_HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",MY.FAMILY.CHANEL_dens
+http://210.210.155.35/uq2663/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Family_Channel_Trial-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",Moviesphere Free
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",BOX Movie
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?bySCTV|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",Family Flix
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",Movies Hub
+https://dje6yassknq8t.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",RedBox Spotlight
+https://spotlight-redbox.amagi.tv:443/playlist240p.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",RedBox Comedy
+https://comedy-redbox.amagi.tv:443/playlist1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",Gravitas_Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",My time Movies Network
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",FilmRise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",Rakuten Action Movies
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",STIRR Horror Movies
+https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",STIRR Movies
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 
 
 
