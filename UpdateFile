@@ -55,6 +55,26 @@ https://no2.openhd.lol/ddy1/premium125/tracks-v1a1/mono.m3u8
 https://no2.openhd.lol/ddy1/premium126/tracks-v1a1/mono.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",AstroSukan_5
 https://no2.openhd.lol/ddy1/premium43/tracks-v1a1/mono.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BT_SPORT_1
+https://no2.openhd.lol/ddy1/premium31/tracks-v1a1/mono.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BT_SPORT_2
+https://no2.openhd.lol/ddy1/premium32/tracks-v1a1/mono.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BT_SPORT_3
+https://no2.openhd.lol/ddy1/premium33/tracks-v1a1/mono.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BT_SPORT_4
+https://no2.openhd.lol/ddy1/premium34/tracks-v1a1/mono.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Beinsport_english.1
+https://no2.openhd.lol/ddy1/premium61/tracks-v1a1/mono.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Beinsport_Turke_1
+https://no2.openhd.lol/ddy1/premium62/tracks-v1a1/mono.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Beinsport_Turke_2
+https://no2.openhd.lol/ddy1/premium63/tracks-v1a1/mono.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Beinsport_Turke_3
+https://no2.openhd.lol/ddy1/premium64/tracks-v1a1/mono.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Beinsport_Turke_4
+https://no2.openhd.lol/ddy1/premium67/tracks-v1a1/mono.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Skysport_Cricket
+https://no2.openhd.lol/ddy1/premium65/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MUtv
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
