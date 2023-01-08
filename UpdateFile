@@ -66,56 +66,12 @@ http://diygz.f3322.org:9090/hls/19/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",StarSport.3_dec=auto
 http://208.86.19.13:81/7322.stream/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",AstroSukan_1
-https://no2.openhd.lol/ddy1/premium123/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",AstroSukan_2
-https://no2.openhd.lol/ddy1/premium124/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",AstroSukan_3
-https://no2.openhd.lol/ddy1/premium125/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",AstroSukan_4
-https://no2.openhd.lol/ddy1/premium126/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",AstroSukan_5
-https://no2.openhd.lol/ddy1/premium43/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BT_SPORT_1
-https://no2.openhd.lol/ddy1/premium31/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BT_SPORT_2
-https://no2.openhd.lol/ddy1/premium32/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BT_SPORT_3
-https://no2.openhd.lol/ddy1/premium33/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BT_SPORT_4
-https://no2.openhd.lol/ddy1/premium34/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Beinsport_english.1
-https://no2.openhd.lol/ddy1/premium61/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Beinsport_Turke_1
-https://no2.openhd.lol/ddy1/premium62/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Beinsport_Turke_2
-https://no2.openhd.lol/ddy1/premium63/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Beinsport_Turke_3
-https://no2.openhd.lol/ddy1/premium64/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Beinsport_Turke_4
-https://no2.openhd.lol/ddy1/premium67/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Skysport_Cricket
-https://no2.openhd.lol/ddy1/premium65/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ESPN
-https://no2.openhd.lol/ddy1/premium81/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ESPN_2
-https://no2.openhd.lol/ddy1/premium82/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",LALIGA TV
-https://no2.openhd.lol/ddy1/premium84/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ARENA_PREMIUM_1
-https://no2.openhd.lol/ddy1/premium134/tracks-v1a1/mono.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BeinPremium_1_arb
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BeinPremium_2_arb
 http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BeinPremium_3_arb
 http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SK_2
-https://no2.openhd.lol/ddy1/premium102/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SK_3
-https://no2.openhd.lol/ddy1/premium103/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SK_4
-https://no2.openhd.lol/ddy1/premium104/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MUtv
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
@@ -591,10 +547,6 @@ http://clientsportals.com:2095/eJAfShUQ/berGMA69/54215
 https://maper.info/GalaxyPrem-Shareext
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",BOO
 https://anon.devds.site/link.php?hash=aHR0cDovLzE3Mi4xMDcuOTQuMjQzOjkwMDAvbGl2ZS9wcmVtaXVtL2ZyZWUvMjQxMzIudHM=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",GALAXY
-http://alstv.xyz/usee/galaxy.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",GALAXY_PREMIUM
-http://alstv.xyz/usee/galaxypremium.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",MY.FAMILY.MOVIE
 http://alstv.xyz/usee/myfamily.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",FOX_Movies(arb)
