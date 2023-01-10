@@ -27,6 +27,9 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8|u
 https://anv-livechannel-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8|user-agent=android-R+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", INEWS_anon
 https://anon.devds.site/link.php?hash=aHR0cDovL2lwdHYxMmsuY29tOjM1NDYxL2xpdmUvNzA2MTMxMjE4MDUyLzExNTc2OTk0MC8xNzk5LnRz
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", INEWS_HD
+https://2no.co/Inews-Shareext
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",sctv_video
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_cubmu
@@ -39,6 +42,10 @@ http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=useesport&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",USEE.2
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=useesports2&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
+
+
+
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RTM_1_dec=native
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",0KEY_dec=native
@@ -509,9 +516,20 @@ http://clientsportals.com:2095/eJAfShUQ/berGMA69/54217
 http://clientsportals.com:2095/eJAfShUQ/berGMA69/54215
 
 
-
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",HBO•
+https://2no.co/HBO-Shareext
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",HBO•FAMILY•
+https://2no.co/HBOfam-Shareext
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",HBO•HITS•
+https://2no.co/HBOhits-Shareext
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",HBO•SIGNATURE•
+https://2no.co/HBOsig-Shareext
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",CINEMAX•
+https://2no.co/Cinemax-Shareext
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",HIT•MOVIES•
+https://2no.co/HITmovies-Shareext
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",MNC•ENTERTAINDMENT•
+https://2no.co/MNCenter-Shareext
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",🇮🇩CelestialClassicMovies
 http://rr2.dens.tv/s/s31/index.m3u8
