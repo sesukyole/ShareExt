@@ -7,9 +7,9 @@
 https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Admin@Group
 https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",true/BEIN.1_true
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",true.1_true
 http://4digital.ddns.net:11224/ts/0
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",true/BEIN.2_true
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",true.2_true
 http://4digital.ddns.net:11222/ts/0
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", MNC_SPORT
 https://maper.info/SHAREEXTmncsport
@@ -223,21 +223,6 @@ http://txm1.flysat.live:2089/9152894094/3603122011/203422
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",STARSPORTS TAMIL
 http://txm1.flysat.live:2089/9152894094/3603122011/203421
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Okey
-https://anon.devds.site/link.php?hash=aHR0cDovL214dTAzLndhbmljZWxpZmUuY29tOjg4ODAvbGl2ZS80OG1mMDMwMjIyLzY5MTkxMjEzLzcxMDYwLnRz
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Arena_2
-https://anon.devds.site/link.php?hash=aHR0cDovL214dTAzLndhbmljZWxpZmUuY29tOjg4ODAvbGl2ZS80OG1mMDMwMjIyLzY5MTkxMjEzLzcxMTAyLnRz
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Soccer.chanell
-https://anon.devds.site/link.php?hash=aHR0cDovL214dTAzLndhbmljZWxpZmUuY29tOjg4ODAvbGl2ZS80OG1mMDMwMjIyLzY5MTkxMjEzLzYwNDcxLnRz
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Hbo
-https://anon.devds.site/link.php?hash=aHR0cDovL214dTAzLndhbmljZWxpZmUuY29tOjg4ODAvbGl2ZS80OG1mMDMwMjIyLzY5MTkxMjEzLzYwNDczLnRz
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Hbo.Family
-https://anon.devds.site/link.php?hash=aHR0cDovL214dTAzLndhbmljZWxpZmUuY29tOjg4ODAvbGl2ZS80OG1mMDMwMjIyLzY5MTkxMjEzLzYwNDc0LnRz
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Hbo.hits
-https://anon.devds.site/link.php?hash=aHR0cDovL214dTAzLndhbmljZWxpZmUuY29tOjg4ODAvbGl2ZS80OG1mMDMwMjIyLzY5MTkxMjEzLzYwNDU4LnRz
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",HBO.sig
-https://anon.devds.site/link.php?hash=aHR0cDovL214dTAzLndhbmljZWxpZmUuY29tOjg4ODAvbGl2ZS80OG1mMDMwMjIyLzY5MTkxMjEzLzYwNDU2LnRz
-
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",HOOLYWOOD_MOVIES
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Lotus_Macau(dec=auto)
@@ -340,12 +325,6 @@ https://devds.site/api/v.m3u8?ch=tvri
 https://devds.site/api/v.m3u8?ch=tvone
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",SPOTV
-http://alstv.xyz/usee/spotv.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",SPOTV_2
-http://alstv.xyz/usee/spotv2.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",USEEPRIME
-http://alstv.xyz/usee/useeprime.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",RCTI_+
 https://d2s97x1gdf3esf.cloudfront.net/out/v1/c1c8f8c23f4e40f089a96ebda156816a/index.m3u8|user-agent=android-R+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",MNCTV_+
