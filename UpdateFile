@@ -1609,27 +1609,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/36879
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",Extreme Sports RU
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5361
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",SetantaSports 🇺🇦
-http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/272/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",SetantaSports 1 🇺🇦
-http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/19430/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",SetantaSports 2 🇺🇦
-http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/19431/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",SetantaSports 3 🇺🇦
-http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/19432/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",SetantaSports + 🇺🇦
-http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5068/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",SetantaSports 2 HD 🇷🇺
-http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/270/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",МАТЧ Футбол 2 HD 🇷🇺
-http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/530/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",МАТЧ Футбол 3 HD 🇷🇺
-http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/522/index.m3u8
-
-
-
-
-
 
 
 
@@ -1722,42 +1701,6 @@ http://clientportal.link:80/CZ40WC484/iGW0Kw998/10253
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIE_Sports",PTV.Sports_
 http://clientportal.link:80/CZ40WC484/iGW0Kw998/10244
 
-#EXTINF:-1 tvg-id="" tvg-name="IN: SONY ESPN" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/sony-entertainment-television-in.png" group-title="SHAREEXT@INDIE_Sports",SONY ESPN*
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044045
-#EXTINF:-1 tvg-id="" tvg-name="IN: SONY SIX" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/sony-six-hd-in.png" group-title="SHAREEXT@INDIE_Sports",SONY SIX*
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044054
-#EXTINF:-1 tvg-id="" tvg-name="IN: SONY TEN 1" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/sony-ten-1-in.png" group-title="SHAREEXT@INDIE_Sports",SONY TEN 1*
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044055
-#EXTINF:-1 tvg-id="" tvg-name="IN: SONY TEN 2" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/sony-ten-2-in.png" group-title="SHAREEXT@INDIE_Sports",SONY TEN 2*
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044056
-#EXTINF:-1 tvg-id="" tvg-name="IN: SONY TEN 3" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/sony-ten-3-in.png" group-title="SHAREEXT@INDIE_Sports",SONY TEN 3*
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044057
-#EXTINF:-1 tvg-id="" tvg-name="IN: TEN 1" tvg-logo="https://asiagrandiptv.us/logo/ten1.png" group-title="SHAREEXT@INDIE_Sports",TEN 1*
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044095
-#EXTINF:-1 tvg-id="" tvg-name="IN: TEN 2" tvg-logo="https://xplanetiptv.com/Logotv/countries/india/countrypic.png" group-title="SHAREEXT@INDIE_Sports",TEN 2*
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044096
-#EXTINF:-1 tvg-id="" tvg-name="IN: TEN 3" tvg-logo="https://xplanetiptv.com/Logotv/countries/india/countrypic.png" group-title="SHAREEXT@INDIE_Sports",TEN 3*
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044097
-#EXTINF:-1 tvg-id="" tvg-name="IN: TEN GOLF" tvg-logo="https://asiagrandiptv.us/logo/tengolf.png" group-title="SHAREEXT@INDIE_Sports",TEN GOLF*
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044098
-#EXTINF:-1 tvg-id="" tvg-name="IN: WILLOW CRICKET" tvg-logo="https://asiagrandiptv.us/logo/willowcricket.png" group-title="SHAREEXT@INDIE_Sports",WILLOW CRICKET*
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044128
-#EXTINF:-1 tvg-id="" tvg-name="IN: T SPORT BANGLA" tvg-logo="https://xplanetiptv.com/Logotv/countries/india/countrypic.png" group-title="SHAREEXT@INDIE_Sports",T SPORT BANGLA*
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1043707
-#EXTINF:-1 tvg-id="" tvg-name="IN: TEN SPORTS" tvg-logo="https://asiagrandiptv.us/logo/tensports.png" group-title="SHAREEXT@INDIE_Sports",TEN SPORTS*
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1043710
-#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS 1" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/star-sports-1-in.png" group-title="SHAREEXT@INDIE_Sports",STARSPORTS 1*
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1043709
-#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS 2" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/star-sports-2-in.png" group-title="SHAREEXT@INDIE_Sports",STARSPORTS 2*
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1043713
-#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORT 3" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/star-sports-3-in.png" group-title="SHAREEXT@INDIE_Sports",STARSPORT 3*
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1043708
-#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS SELECT 1" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/star-sports-select-1-in.png" group-title="SHAREEXT@INDIE_Sports",STARSPORTS SELECT 1*
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1043712
-#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS SELECT 2" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/star-sports-select-2-in.png" group-title="SHAREEXT@INDIE_Sports",STARSPORTS SELECT 2*
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1043711
-#EXTINF:-1 tvg-id="" tvg-name="IN: DD SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/dd-sports-in.png" group-title="SHAREEXT@INDIE_Sports",DD SPORTS*
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1043714
 
 
 
