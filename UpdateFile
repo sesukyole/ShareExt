@@ -429,8 +429,6 @@ https://d-rcti.rctiplus.id/RCTI2022-avc1_2500000=7-mp4a_128000=2.m3u8|User-Agent
 https://d-mnctv.rctiplus.id/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8|User-Agent=Dalvik/2.1.0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",GTV••HD
 https://d-gtv.rctiplus.id/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8|User-Agent=android-R+
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛", INDOSIAR••HD
-https://yip.su/INDOSIAR-HD-shareext
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",SOCCER••CANELL
 https://yip.su/SoccerChannel-shareext
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛", MNC••SPORTS_1••
@@ -670,8 +668,6 @@ http://clientsportals.com:2095/eJAfShUQ/berGMA69/54215
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",BOO_test
-https://yip.su/BOO-Shareext
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",HBO•
 https://2no.co/HBO-Shareext
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",HBO•FAMILY•
