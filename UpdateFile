@@ -423,18 +423,17 @@ https://iplogger.com/Beinsport1-Shareext
 https://iplogger.com/Beinsport2-Shareext
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛", INEWS••HD
 https://d-inews.rctiplus.id/INEWS2022-avc1_3500000=6-mp4a_128000=2.m3u8|User-Agent=android-R+
-https://yip.su/INEWS-HD-shareext
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",RCTI••HD
-https://yip.su/RCTI-HD-shareext
+https://d-rcti.rctiplus.id/RCTI2022-avc1_2500000=7-mp4a_128000=2.m3u8|User-Agent=Dalvik/2.1.0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛", MNCTV••HD
-https://yip.su/MNCTV-HD-shareext
+https://d-mnctv.rctiplus.id/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8|User-Agent=Dalvik/2.1.0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",GTV••HD
-https://yip.su/GTV-HD-shareext
+https://d-gtv.rctiplus.id/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8|User-Agent=android-R+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛", INDOSIAR••HD
 https://yip.su/INDOSIAR-HD-shareext
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",SOCCER••CANELL
 https://yip.su/SoccerChannel-shareext
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛", MNC••SPORTS_1••Ada.liga.1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛", MNC••SPORTS_1••
 https://yip.su/MNCsportLiga-1-Shareext
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛", MNC••SPORTS_2••
 https://yip.su/MncSport-2-shareext
@@ -463,6 +462,8 @@ https://ip-panel.com:443/play/lM_YIIFhHR4TDktapZWZERvpYrjEKF3xbqtpEcB_ZtAHwpDAjK
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Indo_Music
 https://cdn09jtedge.indihometv.com/bumper/bumperlivestreaming/chunklist_w1994879223_b894100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",RANS_devds
+https://devds.site/api/v.m3u8?ch=rans
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",ANTV_devds
 https://devds.site/api/v.m3u8?ch=antv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",SCTV_devds
