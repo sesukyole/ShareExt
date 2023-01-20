@@ -852,6 +852,21 @@ http://iptvtree.net:8080/fee2bbca/12e32aafa1/17041
 
 
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",ASSP•1
+https://iplogger.info/ASSP1-Shareext
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",ASSP•2
+https://iplogger.info/ASSP2-Shareext
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",ASSP•3
+https://iplogger.info/ASSP3-Shareext
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",ASSP•4
+https://iplogger.info/ASSP4-Shareext
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",ASSP•5
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",TV•1
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/158357
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",TV•2
@@ -940,14 +955,6 @@ https://ezstat.ru/ASSP4-Shareext
 https://ezstat.ru/ASSP5-Shareext
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ASTROO_Malaysia",ARENA•2
 https://iplogger.com/Arena2-Shareext
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ASTROO_Malaysia",ASSP•1
-https://iplogger.info/ASSP1-Shareext
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ASTROO_Malaysia",ASSP•2
-https://iplogger.info/ASSP2-Shareext
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ASTROO_Malaysia",ASSP•3
-https://iplogger.info/ASSP3-Shareext
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ASTROO_Malaysia",ASSP•4
-https://iplogger.info/ASSP4-Shareext
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ASTROO_Malaysia",Beinsport•
 https://iplogger.com/Beinsport-shareext
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ASTROO_Malaysia",Egg•network•
@@ -1164,91 +1171,6 @@ http://clientsportals.com:2095/f778W3He/yj7FXRjr/115618
 
 
 
-#EXTINF:-1 tvg-id="ACTION.za" tvg-name="SPORTS : AF SUPERSPORT ACTION" tvg-logo="http://n2086.securepoint.io:25461/images/f1391761110ead27fc34451934e88211.png" group-title="SHAREEXT@WORLD SPORTS",AF:SUPERSPORT ACTION
-http: tvg-id="AstroSupersport5.my" tvg-name="SPORTS : ASTRO SUPERSPORT 5" tvg-logo="http://n2086.securepoint.io:25461/images/89070c9ce71361305d08f12e0ed32b6f.png" group-title="SHAREEXT@WORLD SPORTS",ASTRO.SUPERSPORT 5
-http://supermega.vip:25461/cheryl/cheryl/197518
-#EXTINF:-1 tvg-id="B1E" tvg-name="SPORTS : AU BEIN SPORTS 1" tvg-logo="http://n2086.securepoint.io:25461/images/650ce3086ae36914197a4dbf3e0c1e48.png" group-title="SHAREEXT@WORLD SPORTS",AU:BEINSPORTS 1
-http://supermega.vip:25461/cheryl/cheryl/112415
-#EXTINF:-1 tvg-id="B2E" tvg-name="SPORTS : AU BEIN SPORTS 2" tvg-logo="http://n2086.securepoint.io:25461/images/650ce3086ae36914197a4dbf3e0c1e48.png" group-title="SHAREEXT@WORLD SPORTS",AU:BEINSPORTS 2
-http://supermega.vip:25461/cheryl/cheryl/112416
-#EXTINF:-1 tvg-id="B3E" tvg-name="SPORTS : AU BEIN SPORTS 3" tvg-logo="http://n2086.securepoint.io:25461/images/650ce3086ae36914197a4dbf3e0c1e48.png" group-title="SHAREEXT@WORLD SPORTS",AU:BEINSPORTS 3
-http://supermega.vip:25461/cheryl/cheryl/112417
-#EXTINF:-1 tvg-id="ESP" tvg-name="SPORTS : AU ESPN 1" tvg-logo="http://n2086.securepoint.io:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="SHAREEXT@WORLD SPORTS",AU:ESPN 1
-http://supermega.vip:25461/cheryl/cheryl/181894
-#EXTINF:-1 tvg-id="ES2" tvg-name="SPORTS : AU ESPN 2" tvg-logo="http://n2086.securepoint.io:25461/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="SHAREEXT@WORLD SPORTS",AU:ESPN 2
-http://supermega.vip:25461/cheryl/cheryl/181895
-#EXTINF:-1 tvg-id="FS1" tvg-name="SPORTS : AU FOX SPORTS 501" tvg-logo="http://n2086.securepoint.io:25461/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="SHAREEXT@WORLD SPORTS",AU:FOXSPORTS 501
-http://supermega.vip:25461/cheryl/cheryl/57493
-#EXTINF:-1 tvg-id="SP2" tvg-name="SPORTS : AU FOX SPORTS 502" tvg-logo="http://n2086.securepoint.io:25461/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="SHAREEXT@WORLD SPORTS",AU:FOXSPORTS 502
-http://supermega.vip:25461/cheryl/cheryl/57494
-#EXTINF:-1 tvg-id="FS3" tvg-name="SPORTS : AU FOX SPORTS 503" tvg-logo="http://n2086.securepoint.io:25461/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="SHAREEXT@WORLD SPORTS",AU:FOXSPORTS 503
-http://supermega.vip:25461/cheryl/cheryl/57495
-#EXTINF:-1 tvg-id="FAF" tvg-name="SPORTS : AU FOX SPORTS 504" tvg-logo="http://n2086.securepoint.io:25461/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="SHAREEXT@WORLD SPORTS",AU:FOXSPORTS 504
-http://supermega.vip:25461/cheryl/cheryl/57496
-#EXTINF:-1 tvg-id="FSP" tvg-name="SPORTS : AU FOX SPORTS 505" tvg-logo="http://n2086.securepoint.io:25461/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="SHAREEXT@WORLD SPORTS",AU:FOXSPORTS 505
-http://supermega.vip:25461/cheryl/cheryl/57497
-#EXTINF:-1 tvg-id="SPS" tvg-name="SPORTS : AU FOX SPORTS 506" tvg-logo="http://n2086.securepoint.io:25461/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="SHAREEXT@WORLD SPORTS",AU:FOXSPORTS 506
-http://supermega.vip:25461/cheryl/cheryl/57498
-#EXTINF:-1 tvg-id="FSS" tvg-name="SPORTS : AU FOX SPORTS 507" tvg-logo="http://n2086.securepoint.io:25461/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="SHAREEXT@WORLD SPORTS",AU:FOXSPORTS 507
-http://supermega.vip:25461/cheryl/cheryl/57499
-#EXTINF:-1 tvg-id="OptusSport1.au" tvg-name="SPORTS : AU OPTUS SPORT 01" tvg-logo="http://n2086.securepoint.io:25461/images/deecb3c1a0a7e958cc7dc9206afa55b1.png" group-title="SHAREEXT@WORLD SPORTS",AU:OPTUS_SPORT 01
-http://supermega.vip:25461/cheryl/cheryl/61784
-#EXTINF:-1 tvg-id="OptusSport2.au" tvg-name="SPORTS : AU OPTUS SPORT 02" tvg-logo="http://n2086.securepoint.io:25461/images/deecb3c1a0a7e958cc7dc9206afa55b1.png" group-title="SHAREEXT@WORLD SPORTS",AU:OPTUS_SPORT 02
-http://supermega.vip:25461/cheryl/cheryl/61785
-#EXTINF:-1 tvg-id="OptusSport3.au" tvg-name="SPORTS : AU OPTUS SPORT 03" tvg-logo="http://n2086.securepoint.io:25461/images/deecb3c1a0a7e958cc7dc9206afa55b1.png" group-title="SHAREEXT@WORLD SPORTS",AU:OPTUS_SPORT 03
-http://supermega.vip:25461/cheryl/cheryl/61786
-#EXTINF:-1 tvg-id="OptusSport4.au" tvg-name="SPORTS : AU OPTUS SPORT 04" tvg-logo="http://n2086.securepoint.io:25461/images/deecb3c1a0a7e958cc7dc9206afa55b1.png" group-title="SHAREEXT@WORLD SPORTS",AU:OPTUS_SPORT 04
-http://supermega.vip:25461/cheryl/cheryl/61787
-#EXTINF:-1 tvg-id="OptusSport5.au" tvg-name="SPORTS : AU OPTUS SPORT 05" tvg-logo="http://n2086.securepoint.io:25461/images/deecb3c1a0a7e958cc7dc9206afa55b1.png" group-title="SHAREEXT@WORLD SPORTS",AU:OPTUS_SPORT 05
-http://supermega.vip:25461/cheryl/cheryl/61788
-#EXTINF:-1 tvg-id="OptusSport6.au" tvg-name="SPORTS : AU OPTUS SPORT 06" tvg-logo="http://n2086.securepoint.io:25461/images/deecb3c1a0a7e958cc7dc9206afa55b1.png" group-title="SHAREEXT@WORLD SPORTS",AU:OPTUS_SPORT 06
-http://supermega.vip:25461/cheryl/cheryl/61789
-#EXTINF:-1 tvg-id="OptusSport7.au" tvg-name="SPORTS : AU OPTUS SPORT 07" tvg-logo="http://n2086.securepoint.io:25461/images/deecb3c1a0a7e958cc7dc9206afa55b1.png" group-title="SHAREEXT@WORLD SPORTS",AU:OPTUS_SPORT 07
-http://supermega.vip:25461/cheryl/cheryl/61790
-#EXTINF:-1 tvg-id="OptusSport8.au" tvg-name="SPORTS : AU OPTUS SPORT 08" tvg-logo="http://n2086.securepoint.io:25461/images/deecb3c1a0a7e958cc7dc9206afa55b1.png" group-title="SHAREEXT@WORLD SPORTS",AU:OPTUS_SPORT 08
-http://supermega.vip:25461/cheryl/cheryl/61791
-#EXTINF:-1 tvg-id="OptusSport9.au" tvg-name="SPORTS : AU OPTUS SPORT 09" tvg-logo="http://n2086.securepoint.io:25461/images/deecb3c1a0a7e958cc7dc9206afa55b1.png" group-title="SHAREEXT@WORLD SPORTS",AU:OPTUS_SPORT 09
-http://supermega.vip:25461/cheryl/cheryl/229378
-#EXTINF:-1 tvg-id="OptusSport10.au" tvg-name="SPORTS : AU OPTUS SPORT 10" tvg-logo="http://n2086.securepoint.io:25461/images/deecb3c1a0a7e958cc7dc9206afa55b1.png" group-title="SHAREEXT@WORLD SPORTS",AU:OPTUS_SPORT 10
-http://supermega.vip:25461/cheryl/cheryl/229379
-#EXTINF:-1 tvg-id="OptusSport11.au" tvg-name="SPORTS : AU OPTUS SPORT 11" tvg-logo="http://n2086.securepoint.io:25461/images/deecb3c1a0a7e958cc7dc9206afa55b1.png" group-title="SHAREEXT@WORLD SPORTS",AU:OPTUS_SPORT 11
-http://supermega.vip:25461/cheryl/cheryl/229380
-#EXTINF:-1 tvg-id="OptusSport12.au" tvg-name="SPORTS : AU OPTUS SPORT 12" tvg-logo="http://n2086.securepoint.io:25461/images/deecb3c1a0a7e958cc7dc9206afa55b1.png" group-title="SHAREEXT@WORLD SPORTS",AU:OPTUS_SPORT 12
-http://supermega.vip:25461/cheryl/cheryl/229381
-#EXTINF:-1 tvg-id="STAN1.au" tvg-name="SPORTS : AU STAN SPORT EVENT 01" tvg-logo="http://n2086.securepoint.io:25461/images/3ffa4a71a5aa791a8bc3409f5b15b936.png" group-title="SHAREEXT@WORLD SPORTS",AU:STAN.SPORT EVENT 01
-http://supermega.vip:25461/cheryl/cheryl/181906
-#EXTINF:-1 tvg-id="STAN2.au" tvg-name="SPORTS : AU STAN SPORT EVENT 02" tvg-logo="http://n2086.securepoint.io:25461/images/3ffa4a71a5aa791a8bc3409f5b15b936.png" group-title="SHAREEXT@WORLD SPORTS",AU:STAN.SPORT EVENT 02
-http://supermega.vip:25461/cheryl/cheryl/181907
-#EXTINF:-1 tvg-id="STAN3.au" tvg-name="SPORTS : AU STAN SPORT EVENT 03" tvg-logo="http://n2086.securepoint.io:25461/images/3ffa4a71a5aa791a8bc3409f5b15b936.png" group-title="SHAREEXT@WORLD SPORTS",AU:STAN.SPORT EVENT 03
-http://supermega.vip:25461/cheryl/cheryl/181908
-#EXTINF:-1 tvg-id="Barça.TV.es" tvg-name="SPORTS : BARCA TV" tvg-logo="http://n2086.securepoint.io:25461/images/86a892c3e955eafb4f58bb24b5882113.png" group-title="SHAREEXT@WORLD SPORTS",BARCA TV
-http://supermega.vip:25461/cheryl/cheryl/130818
-#EXTINF:-1 tvg-id="beINSportsEnEspanol.us" tvg-name="SPORTS : BEIN SPORTS (ESP)" tvg-logo="http://n2086.securepoint.io:25461/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="SHAREEXT@WORLD SPORTS",BEINSPORTS(ESP)
-http://supermega.vip:25461/cheryl/cheryl/56338
-#EXTINF:-1 tvg-id="beIN_SPORTS4_DIGITAL_EN.bein" tvg-name="SPORTS : BEIN SPORTS 04" tvg-logo="http://n2086.securepoint.io:25461/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="SHAREEXT@WORLD SPORTS",BEINSPORTS 04
-http://supermega.vip:25461/cheryl/cheryl/56346
-#EXTINF:-1 tvg-id="beIN_SPORTS5_DIGITAL_EN.bein" tvg-name="SPORTS : BEIN SPORTS 05" tvg-logo="http://n2086.securepoint.io:25461/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="SHAREEXT@WORLD SPORTS",BEINSPORTS 05
-http://supermega.vip:25461/cheryl/cheryl/56347
-#EXTINF:-1 tvg-id="beIN_SPORTS6_DIGITAL_EN.bein" tvg-name="SPORTS : BEIN SPORTS 06" tvg-logo="http://n2086.securepoint.io:25461/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="SHAREEXT@WORLD SPORTS",BEINSPORTS 06
-http://supermega.vip:25461/cheryl/cheryl/56348
-#EXTINF:-1 tvg-id="beIN_SPORTS7_DIGITAL_EN.bein" tvg-name="SPORTS : BEIN SPORTS 07" tvg-logo="http://n2086.securepoint.io:25461/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="SHAREEXT@WORLD SPORTS",BEINSPORTS 07
-http://supermega.vip:25461/cheryl/cheryl/56349
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : BEIN SPORTS 08" tvg-logo="http://hostengine.live:25461/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="SHAREEXT@WORLD SPORTS",BEINSPORTS 08
-http://supermega.vip:25461/cheryl/cheryl/56350
-#EXTINF:-1 tvg-id="beIN_SPORTS1_ENGLISH_Digital_EN.bein" tvg-name="SPORTS : BEIN SPORTS ENGLISH 01" tvg-logo="http://n2086.securepoint.io:25461/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="SHAREEXT@WORLD SPORTS",BEINSPORTS ENGLISH 01
-http://supermega.vip:25461/cheryl/cheryl/56341
-#EXTINF:-1 tvg-id="beIN_SPORTS2_ENGLISH_Digital_EN.bein" tvg-name="SPORTS : BEIN SPORTS ENGLISH 02" tvg-logo="http://n2086.securepoint.io:25461/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="SHAREEXT@WORLD SPORTS",BEINSPORTS ENGLISH 02
-http://supermega.vip:25461/cheryl/cheryl/56342
-#EXTINF:-1 tvg-id="beIN_SPORTS3_DIGITAL_EN.bein" tvg-name="SPORTS : BEIN SPORTS ENGLISH 03" tvg-logo="http://n2086.securepoint.io:25461/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="SHAREEXT@WORLD SPORTS",BEINSPORTS ENGLISH 03
-http://supermega.vip:25461/cheryl/cheryl/56343
-#EXTINF:-1 tvg-id="beIN.SPORTS.CONNECT.LaLiga.(BEIN3-I).us" tvg-name="SPORTS : BEIN SPORTS LA LIGA" tvg-logo="http://n2086.securepoint.io:25461/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="SHAREEXT@WORLD SPORTS",BEINSPORTS LALIGA
-http://supermega.vip:25461/cheryl/cheryl/56352
-#EXTINF:-1 tvg-id="beIN_SPORTS1_PREMIUM_Digital_EN.bein" tvg-name="SPORTS : BEIN SPORTS PREMIUM 01" tvg-logo="http://n2086.securepoint.io:25461/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="SHAREEXT@WORLD SPORTS",BEINSPORTS PREMIUM 01
-http://supermega.vip:25461/cheryl/cheryl/56339
-#EXTINF:-1 tvg-id="beIN_SPORTS2_PREMIUM_Digital_EN.bein" tvg-name="SPORTS : BEIN SPORTS PREMIUM 02" tvg-logo="http://n2086.securepoint.io:25461/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="SHAREEXT@WORLD SPORTS",BEINSPORTS PREMIUM 02
-http://supermega.vip:25461/cheryl/cheryl/56344
-#EXTINF:-1 tvg-id="beIN_SPORTS3_PREMIUM_Digital_EN.bein" tvg-name="SPORTS : BEIN SPORTS PREMIUM 03" tvg-logo="http://n2086.securepoint.io:25461/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="SHAREEXT@WORLD SPORTS",BEINSPORTS PREMIUM 03
-http://supermega.vip:25461/cheryl/cheryl/56345
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@UNITED_KINGDOM√SPORTS⚽",BT•Sport 1
