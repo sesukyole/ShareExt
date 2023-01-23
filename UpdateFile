@@ -66,12 +66,6 @@ http://194.233.71.141:5566/play/Bein1-ID/index.m3u8
 http://194.233.71.141:5566/play/NBA/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Bein1¶U
 http://194.233.71.141:5566/play/Bein1-U/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",EVENT™1
-https://maper.info/Juara1-shareext
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",EVENT™2
-https://maper.info/Juara2-shareext
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",EVENT™3
-https://maper.info/Juara5-shareext
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RTM_1_dec=native
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",0KEY_dec=native
@@ -1239,6 +1233,92 @@ https://iplogger.com/ZeeTamil-shareext
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",TRUEPremier•Football 1[Thai]
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115757
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",TRUEPremier•Football•HD1[ENG]
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115758
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",TRUEPremier•Football HD2[ENG]
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115762
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",TRUEPremier•Football HD•TH•2
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115508
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",TRUEPremier•Football HD•TH•3
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115510
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",TRUEPremier•Football HD•3[ENG]
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115511
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",TRUEPremier•Football•TH•4
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115523
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",TRUEPremier•Football•4•ENG
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115524
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",TRUEPremier•Football•TH•5
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115525
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",TRUESport HD•1[THAI]
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115531
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",TRUESport•1[ENG]
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115532
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",TRUESport•2[THAI]
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115535
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",TRUESport•2[ENG]
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115790
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",TRUESport•3[THAI]
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115537
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",TRUESport•3[ENG]
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115538
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",TRUESport•5[THAI]
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115541
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",TRUESpor•6[THAI]
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115542
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",TRUESport•7[ENG]
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115798
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",TRUESport•7[THAI]
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115799
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",Spotv•TH
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115304
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",Spotv•[ENG]
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115427
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",Astro•Cricket HD
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115614
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",ASTRO•SUPERSPORTS 1 HD
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115615
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",ASTRO•SUPERSPORTS 2 HD
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115616
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",ASTRO•SUPERSPORTS 3 HD
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115617
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",ASTRO•SUPERSPORTS 4 HD
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115618
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",Fight•Night
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115320
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",Fightclub(Sling)
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115303
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",GOLF•[ENG]
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115703
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",Golf•2[Thai]
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115699
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",NBA HD
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115738
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",NFL
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115743
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",One•Golf
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115325
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",PPTV 
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115756
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",Super•Bunteung/FightBox
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115500
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",Tennis HD 
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115805
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",Hi•Sport[Thai]
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115709
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",Trace•Sport
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115318
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",Thairath HD
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115328
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",BeINSports•1 HD
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115807
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@SUKAN⚽Thailand",BeINSports•2 HD
+http://ptv.is:2095/zAz2dftx/czrYyDeu/115809
+
+
+
+
 
 
 
@@ -1299,6 +1379,25 @@ http://iptvtree.net:8080/fee2bbca/12e32aafa1/263
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@UNITED_KINGDOM√SPORTS⚽",SkySports•Racing
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/163132
 
+
+
+
+
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",Match•Arena
+http://ptv.is:2095/zAz2dftx/czrYyDeu/445774
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",MATCH•FOOTBALL•1 http://ptv.is:2095/zAz2dftx/czrYyDeu/445776
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",MATCH•FOOTBALL•2 http://ptv.is:2095/zAz2dftx/czrYyDeu/445778
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",MATCH•FOOTBALL•3 http://ptv.is:2095/zAz2dftx/czrYyDeu/445780
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",MATCH•IGRA 
+http://ptv.is:2095/zAz2dftx/czrYyDeu/445782
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",MATCH•NASH•Sport http://ptv.is:2095/zAz2dftx/czrYyDeu/445784
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",Match•Premier
+http://ptv.is:2095/zAz2dftx/czrYyDeu/445627
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",Match•Strana•HD
+http://ptv.is:2095/zAz2dftx/czrYyDeu/445785
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",MATCH•TV
+http://ptv.is:2095/zAz2dftx/czrYyDeu/445786
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",Match! FHD RU
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/36872
