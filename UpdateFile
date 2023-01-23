@@ -1374,7 +1374,7 @@ http://iptvtree.net:8080/fee2bbca/12e32aafa1/261
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/260
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@UNITED_KINGDOM√SPORTS⚽",SkySports•NFL
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/281849
-#EXTINF:-1,SkySports•PremierLeague
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@UNITED_KINGDOM√SPORTS⚽",SkySports•PremierLeague
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/263
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@UNITED_KINGDOM√SPORTS⚽",SkySports•Racing
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/163132
@@ -1386,12 +1386,16 @@ http://iptvtree.net:8080/fee2bbca/12e32aafa1/163132
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",Match•Arena
 http://ptv.is:2095/zAz2dftx/czrYyDeu/445774
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",MATCH•FOOTBALL•1 http://ptv.is:2095/zAz2dftx/czrYyDeu/445776
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",MATCH•FOOTBALL•2 http://ptv.is:2095/zAz2dftx/czrYyDeu/445778
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",MATCH•FOOTBALL•3 http://ptv.is:2095/zAz2dftx/czrYyDeu/445780
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",MATCH•FOOTBALL•1 
+http://ptv.is:2095/zAz2dftx/czrYyDeu/445776
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",MATCH•FOOTBALL•2 
+http://ptv.is:2095/zAz2dftx/czrYyDeu/445778
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",MATCH•FOOTBALL•3 
+http://ptv.is:2095/zAz2dftx/czrYyDeu/445780
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",MATCH•IGRA 
 http://ptv.is:2095/zAz2dftx/czrYyDeu/445782
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",MATCH•NASH•Sport http://ptv.is:2095/zAz2dftx/czrYyDeu/445784
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",MATCH•NASH•Sport 
+http://ptv.is:2095/zAz2dftx/czrYyDeu/445784
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",Match•Premier
 http://ptv.is:2095/zAz2dftx/czrYyDeu/445627
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",Match•Strana•HD
@@ -1429,6 +1433,10 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/36873
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/36879
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/wTzzJrdy/Rusia-Sport-Share-Ext.jpg" group-title="SHAREeXT@RUSIA_SPORTS",Extreme Sports RU
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5361
+
+
+
+
 
 
 
