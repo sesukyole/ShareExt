@@ -23,9 +23,8 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8|User-Ag
 https://anv-livechannel-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8|user-agent=android-R+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", GTV+_dec=auto
 https://anv-livechannel-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8|user-agent=android-R+
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", INEWS™hd_live
-https://yip.su/INEWS-HD-shareext
-
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", SCTV™hd_
+https://yip.su/SCTV-HD-shareext
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",sctv_video
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",sctv_xp
@@ -603,7 +602,7 @@ https://2no.co/HBOsig-Shareext
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",CINEMAX•
 https://2no.co/Cinemax-Shareext
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",HBO•RED
-https://2no.co/HITmovies-Shareext
+https://2no.co/HBOred-Shareext
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",HAARI™DRAMA
 http://103.167.167.5:8111/play/a01z/index.m3u8
