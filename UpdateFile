@@ -50,6 +50,20 @@ http://online-teve.xp3.biz/vidio/206.m3u8
 https://iplogger.org/USEE1-shareext
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",USEE.2
 https://iplogger.org/USEE2-shareext
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOtv••
+http://xtv.ooo:8080/live/Mohammad/Mohammad123/229528.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Champ•6••
+http://xtv.ooo:8080/live/Mohammad/Mohammad123/229530.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ASSP_1••
+http://xtv.ooo:8080/live/Mohammad/Mohammad123/229522.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ASSP_2••
+http://xtv.ooo:8080/live/Mohammad/Mohammad123/229523.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ASSP_3••
+http://xtv.ooo:8080/live/Mohammad/Mohammad123/229524.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ASSP_4••
+http://xtv.ooo:8080/live/Mohammad/Mohammad123/229525.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ASSP_5••
+http://xtv.ooo:8080/live/Mohammad/Mohammad123/229526.ts
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",true3._rolling
 http://4digital.ddns.net:11224/ts/0
