@@ -1275,6 +1275,33 @@ http://clientsportals.com:2095/d4Je5xwD/yadTXB63/460747
 #EXTINF:-1 tvg-id="БНТ1" tvg-name="MAX SPORT HD" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",StarSports∆Select 2 FHD 
 http://clientsportals.com:2095/d4Je5xwD/yadTXB63/460748
 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",T.Sports•indie
+https://live.tsports.com/live/tsports_live_720/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",BT•sport.1
+http://cdn.spmr.tv:8080/g78fqx/video.m3u8?token=0S4ML82WMM
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",SSC•1
+http://yusf.ddns.net:5080/WebRTCApp/streams/SSC1.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",SSC•2
+http://yusf.ddns.net:5080/WebRTCApp/streams/SSC2.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",SSC•3
+http://yusf.ddns.net:5080/WebRTCApp/streams/SSC3.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",SSC•4
+http://yusf.ddns.net:5080/WebRTCApp/streams/SSC4.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",SSC•5
+http://yusf.ddns.net:5080/WebRTCApp/streams/SSC5.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",STARZPLAY•SPORTS•HD 
+http://103.145.13.31/5/index.m3u8 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",LFCTV•HD 
+http://103.145.13.31/6/index.m3u8 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",STARZPLAY•SPORTS•2•HD 
+http://103.145.13.31/7/index.m3u8 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",SSC* HD 
+http://103.145.13.31/12/index.m3u8 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",starzplay.Sport
+http://103.145.13.31/13/index.m3u8 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",starzplay.Sport.2
+http://103.145.13.31/14/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",ZiggoSport~Docu HD_dec=auto
 http://82.197.214.59:4002/play/a033/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",ZiggoSport~Golf HD_dec=auto
