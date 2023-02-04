@@ -531,6 +531,27 @@ http://iptvtree.net:8080/fee2bbca/12e32aafa1/275985
 
 
 
+
+
+
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",Cinemax~Dolby HD
+http://103.20.184.167:8000/play/a01r/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",DreamWork HD
+http://103.20.184.167:8000/play/a01w/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",HIT~Movies HD
+http://103.20.184.167:8000/play/a00l/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",HBO~Family~Dolby HD
+http://103.20.184.167:8000/play/a01s/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",HBO HD
+http://103.20.184.167:8000/play/a00r/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",HBO~Hits HD
+http://103.20.184.167:8000/play/a00q/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",HBO~Signature~Dolby HD
+http://103.20.184.167:8000/play/a01u/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",Warner HD
+http://103.20.184.167:8000/play/a016/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",HBO•
 https://2no.co/HBO-Shareext
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",HBO•FAMILY•
