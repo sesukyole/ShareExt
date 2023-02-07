@@ -39,10 +39,14 @@ https://yip.su/INDOSIAR-HD-shareext
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MOOJI_xp
 http://online-teve.xp3.biz/vidio/206.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",USEE.1
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",USEE.2
-
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",USEE>>1
+https://beetv.my.id/x/usee-useesport-masihsama.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",USEE>>2
+https://beetv.my.id/x/usee-useesports2-masihsama.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV>>1
+https://beetv.my.id/x/usee-spotv-masihsama.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV>>2
+https://beetv.my.id/x/usee-spotv2-masihsama.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOtv••_dec=auto
 http://xtv.ooo:8080/live/Mohammad/Mohammad123/229528.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Astro•ARENA••_dec=auto
@@ -116,6 +120,16 @@ http://yusf.ddns.net:5080/WebRTCApp/streams/Bein5.m3u8
 http://yusf.ddns.net:5080/WebRTCApp/streams/Bein6.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽BeinSport••7⚽
 http://yusf.ddns.net:5080/WebRTCApp/streams/Bein7.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽RMC•Sport•1_FHD⚽
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:05&stream=2808&extension=ts&play_token=IqnJp0hGLf
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽RMC•SPORT•2_FHD⚽
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:05&stream=2810&extension=ts&play_token=CCeUyoMoHe
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽RMC•SPORT•3_FHD⚽
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:05&stream=2812&extension=ts&play_token=SIJWlGm92o
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽RMC•SPORT•4_FHD⚽
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:05&stream=2815&extension=ts&play_token=0SWd5Ozroh
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽RMC•SPORT•5_FHD⚽
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:05&stream=58388&extension=ts&play_token=z0kKwB8jRa
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MUtv
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",HubPremier_1
