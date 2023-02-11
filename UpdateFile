@@ -394,7 +394,7 @@ http://54.37.82.205:8081/liveorigin/my-asp3hd_720/playlist.m3u8
 http://54.37.82.205:8081/liveorigin/my-asp4_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",ASSP•5•HD
 http://54.37.82.205:8081/liveorigin/my-asp5_720/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",™MNC®SPORT
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",™SOCCER•CHANNEL
 http://103.167.167.5:8111/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",™SPOTV®1
 http://103.167.167.5:8111/play/a020/index.m3u8
@@ -1318,44 +1318,6 @@ http://82.197.214.59:4002/play/a034/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",ZiggoSport~Voetbal HD_dec=auto
 http://82.197.214.59:4002/play/a03c/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",RO:DIGI•SPORT 1 HD
-http://987161222318322802.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/322802.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",RO:DIGI•SPORT 2 HD
-http://987161222318322803.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/322803.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",RO:DIGI•SPORT 3 HD
-http://987161222318322804.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/322804.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",RO:DIGI•SPORT 4 HD
-http://987161222318322805.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/322805.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",RO:EUROSPORT1 HD
-http://987161222318323368.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/323368.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",RO:EUROSPORT 2 HD
-http://987161222318323367.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/323367.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",RO:ORANGE•SPORT 1 
-http://987161222318340015.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/340015.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",RO:ORANGE•SPORT 2
-http://987161222318340016.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/340016.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",RO:ORANGE•SPORT 3
-http://987161222318340017.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/340017.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",RO:ORANGE•SPORT 4
-http://987161222318340018.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/340018.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",RO:LOOK•SPORT
-http://987161222318339983.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/339983.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",RO:LOOK•PLUS
-http://987161222318339981.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/339981.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",RO:LOOK•SPORT 2 HD
-http://987161222318328390.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/328390.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",RO:LOOK•SPORT 3 HD
-http://987161222318328861.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/328861.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",RO:SPORT•EXTRA HD
-http://987161222318322908.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/322908.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",RO:EUROSPORT 1 HD
-http://987161222318322822.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/322822.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",RO:EUROSPORT 2 HD
-http://987161222318322823.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/322823.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",RO:EXTREME•SPORT HD
-http://987161222318322824.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/322824.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",RO:AUTOMOTOR•SPORT HD
-http://987161222318322773.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/322773.ts
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",SR:ARENA•SPORT 1 HD
 http://987161222318243934.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/243934.ts
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",SR:ARENA•SPORT 2 FHD
