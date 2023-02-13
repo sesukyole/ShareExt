@@ -13,18 +13,6 @@ http://103.226.232.170:9002/play/a001/index.m3u8
 http://103.226.232.170:9002/play/a002/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽SOCCER•CHANEL_p🇮🇩
 http://103.167.167.5:8111/play/a00i/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽MNC•SPORTS•1🇮🇩
-https://iplogger.com/MncSport1-shareext-ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽MNC•SPORTS•2🇮🇩
-https://iplogger.com/MncSport2-shareext-ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",🏸INEWS🇮🇩
-https://iplogger.com/Inews-shareext-ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",🏍️🏸SPOTV🇮🇩
-https://iplogger.com/SPOTV-shareext-ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽SOCCER•CH🇮🇩
-https://iplogger.com/SoccerCh-shareext-ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽SOCCER•CH•HD🇮🇩
-https://iplogger.com/SoccerC-hd-shareext-ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",usee>>1🇮🇩
 https://ezstat.ru/usee1-shareext
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",usee>>2🇮🇩
@@ -913,23 +901,6 @@ http://iptvtree.net:8080/fee2bbca/12e32aafa1/17041
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",ASSP•1_
-https://iplogger.info/ASSP1-Shareext
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",ASSP•2_
-https://iplogger.info/ASSP2-Shareext
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",ASSP•3_
-https://iplogger.info/ASSP3-Shareext
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",ASSP•4_
-https://iplogger.info/ASSP4-Shareext
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",ASSP•5_
-https://ezstat.ru/assp-5-shareext
-https://yip.su/Astro5-shareext
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",SPOTV>
-https://ezstat.ru/spotv-shareext
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",ARENA>1
-https://ezstat.ru/arena-shareext
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",ARENA>2
-https://ezstat.ru/Arena2-shareext
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",TV•1
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/158357
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",TV•2
