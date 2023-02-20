@@ -18,9 +18,9 @@ http://muka03.wanicelife.com:8880/24us10092n/ytg6r543asdfawer2342342/60471?play_
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",🏸I•BERITA🇮🇩
 http://muka03.wanicelife.com:8880/24us10092n/ytg6r543asdfawer2342342/60403?play_token=FvT6qFjmwU
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",usee>>1🇮🇩
-https://ezstat.ru/usee1-shareext
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",usee>>2🇮🇩
-https://ezstat.ru/usee-2-shareext
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", SCTV_se🇮🇩
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/204.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",sctv_vid🇮🇩
@@ -54,23 +54,9 @@ http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/72876.ts
 http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/77220.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽Champion•2🇮🇩
 http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/77221.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽TV•JUARA•1🇮🇩
-https://beetv.my.id/x/vidio-championstv1-masihsama.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽TV•JUARA•2🇮🇩
-https://beetv.my.id/x/vidio-championstv2-masihsama.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",USEE>1🇮🇩
-https://beetv.my.id/x/usee-useesport-masihsama.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",USEE>2🇮🇩
-https://beetv.my.id/x/usee-useesports2-masihsama.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV>1🇮🇩
-https://beetv.my.id/x/usee-spotv-masihsama.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV>2🇮🇩
-https://beetv.my.id/x/usee-spotv2-masihsama.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Cctv.5🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV-5H265_4000
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Cctv5.+🇨🇳
-http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV-5plusH265_4000
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TVN鈥PORTS馃嚢馃嚪
 https://cdn-us-154.cloudrsst.com/live/olivetv_540/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV馃嚢馃嚪
@@ -431,9 +417,9 @@ http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=683099&extensi
 http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=683098&extension=ts&play_token=58gzcPWfQO
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",GTV🇮🇩
 http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=683121&extension=ts&play_token=58gzcPWfQO
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Mnc|sports🇮🇩
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Mnc|sports🇮🇩_dec=auto
 http://shareext@xtv.ooo:8080/live/Ijaaz123/aijaz321/228245.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Mnc|sports.2🇮🇩
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Mnc|sports.2🇮🇩_dec=auto
 http://shareext@xtv.ooo:8080/live/Ijaaz123/aijaz321/228246.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",MNCTV+🇮🇩
@@ -467,10 +453,6 @@ http://54.37.82.205:8081/liveorigin/my-asp3hd_720/playlist.m3u8
 http://54.37.82.205:8081/liveorigin/my-asp4_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",ASSP•5•HD
 http://54.37.82.205:8081/liveorigin/my-asp5_720/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",UseeSport-1_tesst
-http://iptvid.my.id/hmm/useesport.m3u8 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",UseeSports-2_tesst
-http://iptvid.my.id/hmm/useesports2.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",™SOCCER•CHANNEL
 http://103.167.167.5:8111/play/a00i/index.m3u8
