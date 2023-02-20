@@ -200,7 +200,7 @@ http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52861.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ASSP.4
 http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52862.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ASSP.5
-https://yip.su/Astro5-shareext
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=918982&extension=ts&play_token=58gzcPWfQO
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Eleven_1_taiwan
 http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
@@ -415,6 +415,26 @@ https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/163121
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Indosiar🇮🇩
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=994885&extension=ts&play_token=58gzcPWfQO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Mnc∆Sports°1🇮🇩
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=683139&extension=ts&play_token=58gzcPWfQO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Mnc∆Sports°2🇮🇩
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=683138&extension=ts&play_token=58gzcPWfQO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Mnc∆•Sports•1>HD🇮🇩
+http://line.tektv.live:80/play/live.php?mac=00:1A:79:A8:0E:7F&stream=683133&extension=ts&play_token=x8rq3SNCuD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",SPOTV🏍️🇮🇩
+http://line.tektv.live:80/play/live.php?mac=00:1A:79:A8:0E:7F&stream=683117&extension=ts&play_token=x8rq3SNCuD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",RCTI🇮🇩
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=683099&extension=ts&play_token=58gzcPWfQO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",MNCTV🇮🇩
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=683098&extension=ts&play_token=58gzcPWfQO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",GTV🇮🇩
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=683121&extension=ts&play_token=58gzcPWfQO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Mnc|sports🇮🇩
+http://shareext@xtv.ooo:8080/live/Ijaaz123/aijaz321/228245.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Mnc|sports.2🇮🇩
+http://shareext@xtv.ooo:8080/live/Ijaaz123/aijaz321/228246.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",MNCTV+🇮🇩
 https://m-mnctv.rctiplus.id/mnctv-sdi-avc1_800000=6-mp4a_96000=1.m3u8|user-agent=Dalvik/2.1.0
@@ -613,9 +633,16 @@ http://iptvtree.net:8080/fee2bbca/12e32aafa1/275985
 
 
 
-
-
-
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",HBO🇮🇩
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=683152&extension=ts&play_token=58gzcPWfQO
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",HBO.hits🇮🇩
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=683151&extension=ts&play_token=58gzcPWfQO
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",HBO.family🇮🇩
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=683150&extension=ts&play_token=58gzcPWfQO
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",HBO.sig🇮🇩
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=683156&extension=ts&play_token=58gzcPWfQO
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",BOO🇲🇾
+https://ezstat.ru/boo-shareext
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",myTime•movies
 https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",HAARI™DRAMA
@@ -861,6 +888,8 @@ http://iptvtree.net:8080/fee2bbca/12e32aafa1/157556
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/157557
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",•SuperSport 4
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/157558
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",•SuperSport 5
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=918982&extension=ts&play_token=58gzcPWfQO
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",•AXN
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/157542
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",BBC•Earth
