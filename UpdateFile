@@ -30,7 +30,7 @@ http://online-teve.xp3.biz/vidio/204.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_play🇮🇩
 http://103.167.167.5:8111/play/a00r/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_ligaBola🇮🇩
-https://maper.info/indosiarLiga1-shareext-ts
+https://m3u-editor.com/live/serve/e46bc590-6c47-11ed-b6c8-d1f1f0221890/706976533.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_tek🇮🇩
 http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=994885&extension=ts&play_token=58gzcPWfQO
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", INDOSIAR_se_🇮🇩
@@ -56,6 +56,19 @@ http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/72876.ts
 http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/77220.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽Champion•2🇮🇩
 http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/77221.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽TVRI•SPORTS🇮🇩
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseePrime🇮🇩
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar(live.only)🇮🇩GTV+🇮🇩
+https://gtv-linier.rctiplus.id/gtv-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1676932727-94d79bb896aaf113fe12ea06e8b3c762-0-47db7fa2d99daf3d6f462b13649d19b3
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar(live.only)🇮🇩RCTI+🇮🇩
+https://rcti-linier.rctiplus.id/rcti-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1676932493-3a1654ad951ce6f9a9b3ce921097130b-0-6ed314cd6b3186c0cc933ba6d6b012ef
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar(live.only)🇮🇩MNCTV+🇮🇩
+https://mnctv-linier.rctiplus.id/mnctv-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1676932706-77277b24aeda7f3eca7e261e15f02473-0-eaf81bfc6384b071932386418fa966b7
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar(live.only)🇮🇩INEWS+🇮🇩
+https://inews-linier.rctiplus.id/inews-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1676932768-db5f93fbe26fce8125ce67830e7f97ba-0-fb68602fdcc0a55cea6aa102ca8abac5
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Cctv.5🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV-5H265_4000
@@ -426,14 +439,6 @@ http://shareext@xtv.ooo:8080/live/Ijaaz123/aijaz321/228245.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Mnc|sports.2🇮🇩_dec=auto
 http://shareext@xtv.ooo:8080/live/Ijaaz123/aijaz321/228246.ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",MNCTV+🇮🇩
-https://m-mnctv.rctiplus.id/mnctv-sdi-avc1_800000=6-mp4a_96000=1.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",RCTI+🇮🇩
-https://m-rcti.rctiplus.id/rcti-sdi-avc1_800000=6-mp4a_96000=1.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",INEWS+🇮🇩
-https://m-inews.rctiplus.id/inews-sdi-avc1_800000=6-mp4a_96000=1.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",GTV+🇮🇩
-https://m-gtv.rctiplus.id/gtv-sdi-avc1_800000=6-mp4a_96000=1.m3u8|user-agent=Dalvik/2.1.0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",USEESPORTS_1™
 https://maper.info/UseeSport1-Shareext
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",USEESPORTS_2™
