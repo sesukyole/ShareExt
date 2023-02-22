@@ -61,13 +61,13 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseePrime_dec=auto🇮🇩
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",🇮🇩GTV+
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?auth_key=1677019859-86f6dd63242a393ac4ddf99aa14750d7-0-95f04bdbf490cedf22fdfdc258026071
+https://m3u-editor.com/live/serve/e46bc590-6c47-11ed-b6c8-d1f1f0221890/710540019.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",🇮🇩RCTI+
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?auth_key=1677019770-7ce843ba74865f9f2c738abf2d2926cd-0-1feb89d26ca8b7a1434afe8e3b24d3c1
+https://m3u-editor.com/live/serve/e46bc590-6c47-11ed-b6c8-d1f1f0221890/710540017.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",🇮🇩MNCTV+
 https://m3u-editor.com/live/serve/e46bc590-6c47-11ed-b6c8-d1f1f0221890/710540018.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",🇮🇩INEWS+
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?auth_key=1677019885-60aa2718d532672db08b99c15c3ce7b6-0-24da52c91c10a94beee785809a359f98
+https://m3u-editor.com/live/serve/e46bc590-6c47-11ed-b6c8-d1f1f0221890/710540020.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TRANSTV🇮🇩🇮🇩
 https://epg.pw/stream/195156ba7226acb6efc3335f4d4003ec3e5ec78e7f1a87e229830b3b60dbb387.ctv
