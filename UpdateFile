@@ -69,35 +69,94 @@ https://m3u-editor.com/live/serve/e46bc590-6c47-11ed-b6c8-d1f1f0221890/710540018
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",🇮🇩INEWS+
 https://inews-linier.rctiplus.id/inews-sdi.m3u8?auth_key=1677019885-60aa2718d532672db08b99c15c3ce7b6-0-24da52c91c10a94beee785809a359f98
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TRANSTV🇮🇩🇮🇩
+https://epg.pw/stream/195156ba7226acb6efc3335f4d4003ec3e5ec78e7f1a87e229830b3b60dbb387.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TRANS7🇮🇩🇮🇩
+https://epg.pw/stream/47d2f5594ad2e35c8a1d06cabcd72225b426c00a59deafc6eda680c49836c641.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RCTI🇮🇩🇮🇩
+https://epg.pw/stream/c5e3baf133ca30b532b2e6fb048e45bec8dc25ce4af5b90990326f8f0c898921.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MNCTV🇮🇩🇮🇩
+https://epg.pw/stream/782ae97b8784269cd8bda328b14c632ff28f4ed8d8d312477259f6f3bcc43348.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",INEWS🇮🇩🇮🇩
+https://epg.pw/stream/38be961c832d3e159a2b94b78994e40128ae97941b4f67fc785dae25a72339d3.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",GTV🇮🇩🇮🇩
+https://epg.pw/stream/cc8250db079d9239662196ea1acc6577b2a0ac352619def930d544b5627efa3e.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",LIGA•MAX🇮🇩
+https://epg.pw/stream/2e95405d8b179eb0862c3cb31f14ab7f9a329134b8845090dcfb05d9a3ba0599.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TVRI-SPORTS🇮🇩🇮🇩
+https://epg.pw/stream/e4fabaabed13b26c380b796986ad7bbb038330dc519f1bd1a1cc6ce6d787fa56.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TVRI-WORLD🇮🇩🇮🇩
+https://epg.pw/stream/f6f681c05a4259243a56d3c282c514fa4b738a0e11833f755eaa6f54e1756cef.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",IDX🇮🇩🇮🇩
+https://epg.pw/stream/5406b52345b362b72cc2516d5390edbb3bbbdebe142be95edbd232c7cf9ffcb1.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",KOMPASTV🇮🇩🇮🇩
+https://epg.pw/stream/28c085ea99f497d8297738428dd0e23c2e72c5c4794c2d1277cfe9fa58bd83ff.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",JAKTV🇮🇩🇮🇩
+https://epg.pw/stream/945b02bbb691e83a23500df679dcb4927eb851cedc94f240c3ba107b00ebfce9.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",REFORMED21🇮🇩🇮🇩
+https://epg.pw/stream/20cc2241ba64bbd24c84453fe2332ab0c3820ca7388215d4dcc23bdbbf3b1dbb.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",NET🇮🇩🇮🇩
+https://epg.pw/stream/ca962408bfc963a7f2a0f76e4b0cdb4d1a065499dbca70dfc9c337d8c55319b2.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RAJAWALI-TV🇮🇩🇮🇩
+https://epg.pw/stream/e8ff1b8ce0693886a217a0c1dffe1a0b3f5b1edfaeebd02c6c45e0b1d2cfd840.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",PADANGTV🇮🇩🇮🇩
+https://epg.pw/stream/3afd9c8178d5a5f238010386177bd20744effd3619a5802cda552daeba1dfd4f.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BALI.TV🇮🇩🇮🇩
+https://epg.pw/stream/5dab867123e274b76a089a224983c05424ace66d0113d7b3c2f28c34638b9dda.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TEGAL.TV🇮🇩🇮🇩
+https://epg.pw/stream/fcf7cf5cf9f9f7e3e62cee1733ec0a52835c3b351d6f4a5fedea2c0909b6322d.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",IZZAH.TV🇮🇩🇮🇩
+https://epg.pw/stream/0f42e45a6673ad454bc21d95f487f08504fa3036e0e3a3c4e408a89b3a017bd2.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",JAMBI.TV🇮🇩🇮🇩
+https://epg.pw/stream/e36e186e08920dd2007cbbda177a6642af2ad82169a15cd7ea2cef7d11f8b315.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TVRI🇮🇩🇮🇩
+https://epg.pw/stream/6ada2ff992971881f2a7c885786b93cbeb417d6837735a046776ed57c6592e17.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BESMART🇮🇩🇮🇩
+https://epg.pw/stream/54119a13fbd8df023adbf0cd1dcec871f417da24f7c713be99f852b30321df29.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",FMN🇮🇩🇮🇩
+https://epg.pw/stream/67c9b1814631eaf165a220f513a3c91fbcb883423e9e4b69e7e423aff2a28c26.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MTA3🇮🇩🇮🇩
+https://epg.pw/stream/7d102ed748bdde0f6caa6dec14db8e6ca06aafa6914348f349e34646c54190a7.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",DAAITV🇮🇩🇮🇩
+https://epg.pw/stream/d446c658ccd85a5c6206af21212ceb4dc778d1bc25be19127900508cd16695d3.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",HITS🇮🇩
+https://epg.pw/stream/f3add47074bac30cfe2150f058ab725b04f4ff3edd0e5876113c63afb2314e84.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",THRILL🇮🇩
+https://epg.pw/stream/67d1f7ebba52e9a99ed363318b653dc53ff9af9a0d9885b60356503e54efad9a.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",HITS.MOVIES🇮🇩
+https://epg.pw/stream/813581dedc2a9b2083575c38b4eefe25e6da1b63b430b7ac50a5767142b4992c.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ZEE.BIOSKOP🇮🇩
+https://epg.pw/stream/f4ca796c62d808023f23c27e62312bd29d697e13bbb9a7d9e723ae7f2ae5a3c4.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ANIMAL.PLANET🇮🇩
+https://epg.pw/stream/f107a0c0ff6dff84c8e06cf52698b810f42d0c3ca462fad23b2c5aaa5c0c8323.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",CARTOON.NETWORK🇮🇩
+https://epg.pw/stream/d177a8e63a512b88431adf9b222e47af9bc02f526e4a48bcffabdf7776857364.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",NAT.GEO🇮🇩
+https://epg.pw/stream/27d26720f461c6a8dcda4528e1a2dfc1c35a2687c2e213ca244a3a319dd32d5d.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",KIDS.TV🇮🇩
+https://epg.pw/stream/bfd0711a5fc96f5a8af6c4b1efd671edc746c9e598274e05d696fcc47b025928.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",AXN🇮🇩
+https://epg.pw/stream/783c8b9a517940db4e0251c9e1e7755948928dfd5fa04cc6ece9d3d68b4ce7cd.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Discovery.World🇮🇩
+https://epg.pw/stream/ded4565b2568fe22bcd3afa91c6909f36477d4d569c19baf6b2276a7ebcaf8a0.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TVN-MOVIES🇮🇩
+https://epg.pw/stream/2f548dd20efa465eb9a7247d4aeab84faad683a652f7d77b885badd0ee424168.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",HBO🇮🇩
+https://epg.pw/stream/a57923c998082ed738362124590bcc4d9ca8f4165adf7ad1b1ad4b9b762a06fe.ctv
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Cctv.5🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV-5H265_4000
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TVN鈥PORTS馃嚢馃嚪
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TVN•SPORTS_🇰🇷
 https://cdn-us-154.cloudrsst.com/live/olivetv_540/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV馃嚢馃嚪
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV_🇰🇷
 https://cdn-us-154.cloudrsst.com/live/spotv_540/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV鈥�2馃嚢馃嚪
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV_2_🇰🇷
 https://cdn-us-154.cloudrsst.com/live/spotv_2_540/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV鈥N馃嚢馃嚪
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV_ON_🇰🇷
 https://cdn-us-154.cloudrsst.com/live/spotv_on_540/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV鈥RIME馃嚢馃嚪
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV_PRIME_🇰🇷
 https://cdn-us-154.cloudrsst.com/live/spotv_prime_540/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SOny鈥ports鈥�1
-http://163.53.75.198:23480/hls/modn/list/8027/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Sony鈥ports鈥�2
-http://163.53.75.198:23480/hls/modn/list/8022/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Sony鈥ports鈥�3
-http://163.53.75.198:23480/hls/modn/list/8024/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",StarSports|1
-http://163.53.75.198:23480/hls/modn/list/8008/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",StarSports|2
-http://163.53.75.198:23480/hls/modn/list/8003/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",StarSports|3
-http://163.53.75.198:23480/hls/modn/list/8004/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",StarSports|Selects 1
-http://163.53.75.198:23480/hls/modn/list/8002/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",StarSports|Selects 2
-http://163.53.75.198:23480/hls/modn/list/8016/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BT|Sport 1
 http://195.154.179.234:1234/stream/btsport1/master.m3u8
