@@ -23,12 +23,16 @@ https://bit.ly/useesport-shareext-ts
 https://bit.ly/useesport2-shareext-ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", SCTV_se🇮🇩
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/204.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SCTV_dev🇮🇩
+https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=204&key=vidio&type=hls
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",sctv_vid🇮🇩
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",sctv_xp🇮🇩
 http://online-teve.xp3.biz/vidio/204.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_play🇮🇩
 http://103.167.167.5:8111/play/a00r/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_dev🇮🇩
+https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=205&key=vidio&type=hls
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_ligaBola🇮🇩
 https://m3u-editor.com/live/serve/e46bc590-6c47-11ed-b6c8-d1f1f0221890/706976533.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_tek🇮🇩
@@ -45,7 +49,7 @@ https://yip.su/INDOSIAR-HD-shareext
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar_vid🇮🇩
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MOOJI_dev🇮🇩
-https://anon.devds.site/link.php?hash=aHR0cHM6Ly9mcm9zdHktd29vZC0wOTEyLnNxdWRpbmMud29ya2Vycy5kZXYvaHR0cHM6Ly9pbnN2ZXJwcm8ubXkuaWQvcGxheS5tM3U4P2lkPTIwNiZrZXk9dmlkaW8mdHlwZT1obHM=
+https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=206&key=vidio&type=hls
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MOOJI_se🇮🇩
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/206.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MOOJI_xp🇮🇩
@@ -554,6 +558,51 @@ http://54.37.82.205:8081/liveorigin/my-asp3hd_720/playlist.m3u8
 http://54.37.82.205:8081/liveorigin/my-asp4_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",ASSP•5•HD
 http://54.37.82.205:8081/liveorigin/my-asp5_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",SCTV•dev
+https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=204&key=vidio&type=hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Indosiar•dev
+https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=205&key=vidio&type=hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Moji•dev
+https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=206&key=vidio&type=hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Mentaritv•dev
+https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=8237&key=vidio&type=hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",RAns•dev
+https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=8241&key=vidio&type=hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Antv•dev
+https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=782&key=vidio&type=hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",TransTv•dev
+https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=733&key=vidio&type=hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Trans7•dev
+https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=734&key=vidio&type=hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",MetroTv•dev
+https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=777&key=vidio&type=hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",TVRI•dev
+https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=6441&key=vidio&type=hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",TvOne•dev
+https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=783&key=vidio&type=hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Btv•dev
+https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=6165&key=vidio&type=hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Jaktv•dev
+https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=5415&key=vidio&type=hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Rtv•dev
+https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=1561&key=vidio&type=hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Kompastv•dev
+https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=874&key=vidio&type=hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Daaitv•dev
+https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=6482&key=vidio&type=hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",VChannel•dev
+https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=6898&key=vidio&type=hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Ntv•dev
+https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=7432&key=vidio&type=hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Ajwa•dev
+https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=7464&key=vidio&type=hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Tvtempo•dev
+https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=7946&key=vidio&type=hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Jtv•dev
+https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=9713&key=vidio&type=hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Jpmtv•dev
+https://frosty-wood-0912.squdinc.workers.dev/https://insverpro.my.id/play.m3u8?id=9714&key=vidio&type=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",™SOCCER•CHANNEL
 http://103.167.167.5:8111/play/a00i/index.m3u8
