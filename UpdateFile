@@ -75,9 +75,33 @@ https://m3u-editor.com/live/serve/e46bc590-6c47-11ed-b6c8-d1f1f0221890/710540018
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",🇮🇩INEWS+
 https://m3u-editor.com/live/serve/e46bc590-6c47-11ed-b6c8-d1f1f0221890/710540020.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TRANSTV🇮🇩🇮🇩
-https://epg.pw/stream/195156ba7226acb6efc3335f4d4003ec3e5ec78e7f1a87e229830b3b60dbb387.ctv
-#EXTI
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",HubSport.1.🇸🇬
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=941573&extension=ts&play_token=58gzcPWfQO
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Hubsport.2.🇸🇬
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=941572&extension=ts&play_token=58gzcPWfQO
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",HubSport.4🇸🇬
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=941571&extension=ts&play_token=58gzcPWfQO
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Spotv.🇸🇬
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=941564&extension=ts&play_token=58gzcPWfQO
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Spotv.2.🇸🇬
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=941563&extension=ts&play_token=58gzcPWfQO
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",PremierSports.🇸🇬
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=941570&extension=ts&play_token=58gzcPWfQO
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",NowSports.1•HD🇭🇰
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=554949&extension=ts&play_token=58gzcPWfQO
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",NowSport.2•HD🇭🇰
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=554948&extension=ts&play_token=58gzcPWfQO
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",NowPremierSports.🇭🇰
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=554953&extension=ts&play_token=58gzcPWfQO
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Assp.uhd🇲🇾
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=1016544&extension=ts&play_token=58gzcPWfQO
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",NowSports.4k.661🇭🇰
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=1032489&extension=ts&play_token=58gzcPWfQO
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",NowSports.2🇭🇰
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=1032478&extension=ts&play_token=58gzcPWfQO
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",NowSports.3🇭🇰
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=1032477&extension=ts&play_token=58gzcPWfQO
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Cctv.5🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV-5H265_4000
