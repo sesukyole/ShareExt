@@ -1156,12 +1156,6 @@ http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/37635
 
 
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",Bt•sport.1🇬🇧
-http://ku3.worldtvip.co/uk_bt_sports_1_hd/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",Bt•sport.2🇬🇧
-http://ku3.worldtvip.co/uk_bt_sports_2_hd/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",Bt•sport.3🇬🇧
-http://ku3.worldtvip.co/uk_bt_sports_3_hd/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",Dazn•1🇪🇸 
 http://212.224.84.217:2200/NL/dazn1hd-esp/tracks-v1a1/mono.m3u8?token=RED_NDU5ZUlZYP4YL1zyvtx1zA==,1655893751.3265758464|User-agent=REDLINECLIENT
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",Danz•2🇪🇸 
@@ -1170,12 +1164,6 @@ http://212.224.84.217:2200/NL/dazn2hd-esp/tracks-v1a1/mono.m3u8?token=RED_NDU5ZU
 http://212.224.84.217:2200/NL/dazn3hd-esp/tracks-v1a1/mono.m3u8?token=RED_NDU5ZUlZYP4YL1zyvtx1zA==,1655893751.3265758464|User-agent=REDLINECLIENT
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",Danz•4🇪🇸
 http://212.224.84.217:2200/NL/dazn4hd-esp/tracks-v1a1/mono.m3u8?token=RED_NDU5ZUlZYP4YL1zyvtx1zA==,1655893751.3265758464|User-agent=REDLINECLIENT
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",SKYSPORTS•CRICKET🇬🇧
-http://ku3.worldtvip.co:80/uk_sky_sports_cricket_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",SKYSPORTS•F1🇬🇧
-http://ku3.worldtvip.co:80/uk_sky_sports_f1_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",SKYSPORTS•GOLF🇬🇧
-http://ku3.worldtvip.co:80/uk_sky_sports_golf_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",SS•GRANDSTAND🇿🇼
 http://pakin2.worldtvip.co:9090/za_ss_gstand/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",SS•VARIETY•1🇿🇼
@@ -1200,8 +1188,6 @@ http://pakin2.worldtvip.co:9090/za_ss_golf/tracks-v1a1/mono.m3u8
 http://pakin2.worldtvip.co:9090/za_ss_cricket/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",SS•RUGBY🇿🇼
 http://pakin2.worldtvip.co:9090/za_ss_rugby/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",FOX•501🇱🇺
-http://ku3.worldtvip.co/cric_fox501/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",PTV•SPORTS🇵🇰
 http://pakin.worldtvip.co/pk_ptv_sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",A•SPORTS🇵🇰
