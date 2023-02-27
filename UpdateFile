@@ -10,13 +10,11 @@ https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽SOCCER•CHANEL_p🇮🇩
 http://103.167.167.5:8111/play/a00i/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽SUKAN•MNC•1🇮🇩
-http://muka03.wanicelife.com:8880/24us10092n/ytg6r543asdfawer2342342/60351?play_token=FvT6qFjmwU
+http://shareext@185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=683139&extension=ts&play_token=qrZfvSgHAe
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽SUKAN•MNC•2_HD🇮🇩
-http://muka03.wanicelife.com:8880/24us10092n/ytg6r543asdfawer2342342/60463?play_token=FvT6qFjmwU
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽BOLA•PROGRAM🇮🇩
-http://muka03.wanicelife.com:8880/24us10092n/ytg6r543asdfawer2342342/60471?play_token=FvT6qFjmwU
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",🏸I•BERITA🇮🇩
-http://muka03.wanicelife.com:8880/24us10092n/ytg6r543asdfawer2342342/60403?play_token=FvT6qFjmwU
+http://shareext@185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=683138&extension=ts&play_token=qrZfvSgHAe
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MNC.sukan.HD🇮🇩
+http://shareext@185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=683133&extension=ts&play_token=qrZfvSgHAe
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SEEYOU•1🇮🇩
 https://beetv.my.id/x/usee-useesport-masihsama.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SEEYOU•2🇮🇩
@@ -43,6 +41,8 @@ https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/204.m3u8
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",sctv_xp🇮🇩
 http://online-teve.xp3.biz/vidio/204.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar•token🇮🇩
+http://shareext@185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=994885&extension=ts&play_token=qrZfvSgHAe
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_play🇮🇩
 http://103.167.167.5:8111/play/a00r/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_ligaBola🇮🇩
@@ -66,6 +66,14 @@ http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/206.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MOOJI_xp🇮🇩
 http://online-teve.xp3.biz/vidio/206.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV_tok🇮🇩
+http://shareext@185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=683117&extension=ts&play_token=qrZfvSgHAe
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RCTI_tok🇮🇩
+http://shareext@185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=683099&extension=ts&play_token=qrZfvSgHAe
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MNCTV_tok🇮🇩
+http://shareext@185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=683098&extension=ts&play_token=qrZfvSgHAe
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",GTV_tok🇮🇩
+http://shareext@185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=683121&extension=ts&play_token=qrZfvSgHAe
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TransTv🇮🇩
 http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/56833.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Trans7🇮🇩
