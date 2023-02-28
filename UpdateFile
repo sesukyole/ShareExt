@@ -420,8 +420,15 @@ http://54.37.82.205:8081/liveorigin/my-asp3hd_720/playlist.m3u8
 http://54.37.82.205:8081/liveorigin/my-asp4_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",ASSP•5•HD
 http://54.37.82.205:8081/liveorigin/my-asp5_720/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",™SOCCER•CHANNEL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",GTV+🇮🇩
+https://gtv-linier.rctiplus.id/gtv-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677582158-9c01e01493a2ec9a5a866d860e66f07c-0-ac824f08dbbcc2e6aec478894dd0905f|User-Agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",RCTI+🇮🇩
+https://rcti-linier.rctiplus.id/rcti-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677582123-b13ac9047118b5e56de03f062eb3384c-0-5e8b41d56da74568be5cada942607f70|User-Agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",MNCTV+🇮🇩
+https://mnctv-linier.rctiplus.id/mnctv-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677582135-f7e52094fc0ead504cdfd28c4081bbbd-0-92a4c968f9749a321bc5fca101a6e322|User-Agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",INEWS+🇮🇩
+https://inews-linier.rctiplus.id/inews-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677582172-03ccdcfe97fe01b6a81653f835b62cfb-0-6e23fef44035e06a1e539c3b420acc87|User-Agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",™MUSIC•CHANNEL
 http://103.167.167.5:8111/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",™SPOTV®1
 http://103.167.167.5:8111/play/a020/index.m3u8
