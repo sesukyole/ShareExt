@@ -76,16 +76,13 @@ http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/77220.ts
 http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/77221.ts
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RCTI*🇮🇩
-https://d-rcti.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677714175-b9a2bf4f1b60b0f7d3e4ab7b2f5d54c1-0-522742c60cd1fd4a3e35b9be3e526703|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
-https://mooncang.my.id/api/rplus/ch.m3u8?id=rcti|User-Agent=Dalvix/2.1.0
+https://m3u-editor.com/live/serve/dd93bcc0-b766-11ed-bc50-433b3f708426/783593971.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MNCTV*🇮🇩
-https://d-mnctv.rctiplus.id/mnctv-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677714163-067eb46a56e2fb73c416fcc3cfc302d1-0-9a4285f389024f97d44074b4564bc455|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
-https://mooncang.my.id/api/rplus/ch.m3u8?id=mnctv|User-Agent=Dalvix/2.1.0
+https://m3u-editor.com/live/serve/dd93bcc0-b766-11ed-bc50-433b3f708426/783593973.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",GTV*🇮🇩
-https://d-gtv.rctiplus.id/gtv-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677714116-3c4e4cc27447080f09ac7ca7d407308d-0-97ba6db383a2977c9a94af6252a2c47a|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
-https://mooncang.my.id/api/rplus/ch.m3u8?id=gtv|User-Agent=Dalvix/2.1.0
+https://m3u-editor.com/live/serve/dd93bcc0-b766-11ed-bc50-433b3f708426/783593975.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",INEWS*🇮🇩
-https://mooncang.my.id/api/rplus/ch.m3u8?id=inews&|referer=https://m.rctiplus.com&user-agent=Dalvix/2.1.0
+https://m3u-editor.com/live/serve/dd93bcc0-b766-11ed-bc50-433b3f708426/783593977.m3u8|User-Agent=Dalvik/2.1.0
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽TVRI•SPORTS🇮🇩
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
