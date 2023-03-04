@@ -43,6 +43,8 @@ http://mpwtv.my.id/vidioye/204-sctv.m3u8
 http://103.167.167.5:8111/play/a00r/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_nur🇮🇩
 http://insverpro.my.id/play.m3u8?id=205&key=vidio&type=hls&username=nurdin
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_hd*🇮🇩
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=994885&extension=ts&play_token=1kEm8DbZmS
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", INDOSIAR_se_🇮🇩
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/205.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar#1(live.only)🇮🇩
@@ -409,6 +411,25 @@ https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6686.m3u8
 http://103.167.167.5:8111/play/a01p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",SUKAN_terbaik_2™
 http://103.167.167.5:8111/play/a01q/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",RCTI🇮🇩•
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683099&extension=ts&play_token=M2PF34StIQ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",MNCTV🇮🇩•
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683098&extension=ts&play_token=M2PF34StIQ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",SPOTV🇮🇩•
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683117&extension=ts&play_token=M2PF34StIQ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Xingkong🇮🇩•
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683118&extension=ts&play_token=M2PF34StIQ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",GTv🇮🇩•
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683121&extension=ts&play_token=M2PF34StIQ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Vision.prime🇮🇩•
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683124&extension=ts&play_token=M2PF34StIQ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Indosiar🇮🇩•
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=994885&extension=ts&play_token=M2PF34StIQ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Mnc.Ent🇮🇩•
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683188&extension=ts&play_token=M2PF34StIQ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Mnc.News🇮🇩•
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683193&extension=ts&play_token=M2PF34StIQ
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",ASSP•1•HD
 http://54.37.82.205:8081/liveorigin/my-asp1hd_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",ASSP•2•HD
