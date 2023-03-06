@@ -91,6 +91,17 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV-5H265_4000
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Cctv.5+🇨🇳
 http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ASSP•|1🇲🇾tesst
+https://ddy1.onlinewebtv.lol:443/ddy1/premium123/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ASSP•|2🇲🇾tesst
+https://ddy1.onlinewebtv.lol:443/ddy1/premium124/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ASSP•|3🇲🇾tesst
+https://ddy1.onlinewebtv.lol:443/ddy1/premium125/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ASSP•|4🇲🇾tesst
+https://ddy1.onlinewebtv.lol:443/ddy1/premium126/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ASSP•|5🇲🇾tesst
+https://ddy1.onlinewebtv.lol:443/ddy1/premium43/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TVN•SPORTS_🇰🇷
 https://cdn-us-154.cloudrsst.com/live/olivetv_540/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV_🇰🇷
@@ -116,43 +127,6 @@ https://spotv.me:8080/FG5195018939/5195018939/177324
 https://spotv.me:8080/FG5195018939/5195018939/177325
 #EXTINF:-1 tvg-id="NOEPG English" tvg-name="SSC EXTRA 2 [AR]" tvg-logo="http://tvmia.spotv.me:8080/images/USA/ssc7.png" group-title="ShareExt@Relax",SSC•EXTRA•2•🇸🇦
 https://spotv.me:8080/FG5195018939/5195018939/177326
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BT|Sport 1
-http://195.154.179.234:1234/stream/btsport1/master.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BT|Sport 2
-http://195.154.179.234:1234/stream/btsport2/master.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BT|Sport 3
-http://195.154.179.234:1234/stream/btsport3/master.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BT|Sport 4
-http://195.154.179.234:1234/stream/btsport4/master.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Eurosport|2
-http://195.154.179.234:1234/stream/eurosport2/master.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Mutv鈿�
-http://195.154.179.234:1234/stream/mutv/master.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",skySport|Action
-http://195.154.179.234:1234/stream/skycaction/master.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SkySport|mix
-http://195.154.179.234:1234/stream/skymix/master.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Skysport|Arena
-http://195.154.179.234:1234/stream/skysparena/master.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SkyspOrt|Cricet
-http://195.154.179.234:1234/stream/skyspcricet/master.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",skyspOrt|MainEvent
-http://195.154.179.234:1234/stream/skyspevent/master.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SkyspOrt|F1
-http://195.154.179.234:1234/stream/skyspf1/master.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SkyspOrt|Footbol
-http://195.154.179.234:1234/stream/skyspfootbol/master.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SkyspOrt|Golf
-http://195.154.179.234:1234/stream/skyspgolf/master.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",skyspOrt|News
-http://195.154.179.234:1234/stream/skyspnewst/master.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SkySpOrt|NFL
-http://195.154.179.234:1234/stream/skyspnfl/master.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SkyspOrt|PremierLigeua
-http://195.154.179.234:1234/stream/skysppremier/master.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SkySpOrt|Recing
-http://195.154.179.234:1234/stream/skysprecing/master.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",true3._rolling🇹🇭
 http://4digital.ddns.net:11224/ts/0
