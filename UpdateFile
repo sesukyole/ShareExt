@@ -113,6 +113,74 @@ https://cdn-us-154.cloudrsst.com/live/spotv_on_540/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV_PRIME_🇰🇷
 https://cdn-us-154.cloudrsst.com/live/spotv_prime_540/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Arena HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UK:SkySports Arena HD
+http://adamtvonline.com:8080/111111111111/222222222222/240633
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports F1 FHD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UK:SkySports F1 FHD
+http://adamtvonline.com:8080/111111111111/222222222222/240636
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Golf HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UK:SkySports Golf HD
+http://adamtvonline.com:8080/111111111111/222222222222/240635
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Main Event FHD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UK:SkySports MainEvent FHD
+http://adamtvonline.com:8080/111111111111/222222222222/240629
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News FHD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UK:SkySports News FHD
+http://adamtvonline.com:8080/111111111111/222222222222/240627
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UK:SkySports Premier League HD
+http://adamtvonline.com:8080/111111111111/222222222222/240631
+#EXTINF:-1 tvg-id="" tvg-name="UK: WWE" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UK:WWE
+http://adamtvonline.com:8080/111111111111/222222222222/240599
+#EXTINF:-1 tvg-id="" tvg-name="Uk- MUTV HD" tvg-logo="http://www.vod-logo.net/photos/8834237d720f0d3061943476353ccb0d.jpg" group-title="ShareExt@Relax",Uk-MUTV HD
+http://adamtvonline.com:8080/111111111111/222222222222/33295
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Premier Sports 1 HD" tvg-logo="http://www.vod-logo.net/photos/7828d455b20df756080412ee5f518a14.jpg" group-title="ShareExt@Relax",Uk-PremierSports 1 HD
+http://adamtvonline.com:8080/111111111111/222222222222/33296
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="Uk- Sky BT Sport 1 HD" tvg-logo="http://www.vod-logo.net/photos/a14067bc2a115aae84ba93d1f1caae7a.jpg" group-title="ShareExt@Relax",Uk-BT Sport 1 HD
+http://adamtvonline.com:8080/111111111111/222222222222/33630
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="Uk- Sky BT Sport 2 HD" tvg-logo="http://www.vod-logo.net/photos/9433d7d8fb0e190ff8a1db4507d09a48.jpg" group-title="ShareExt@Relax",Uk-BT Sport 2 HD
+http://adamtvonline.com:8080/111111111111/222222222222/33631
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="Uk- Sky BT Sport 3 HD" tvg-logo="http://www.vod-logo.net/photos/4ac327c2109a09507386805030d8d700.jpg" group-title="ShareExt@Relax",Uk-BT Sport 3 HD
+http://adamtvonline.com:8080/111111111111/222222222222/33577
+#EXTINF:-1 tvg-id="eir Sport 1-UK" tvg-name="Uk- Sky Eir Sport 1" tvg-logo="http://www.vod-logo.net/photos/5e700b94fb1f95c3210b8253fa6aaaf0.jpg" group-title="ShareExt@Relax",Uk-Eir Sport 1
+http://adamtvonline.com:8080/111111111111/222222222222/33557
+#EXTINF:-1 tvg-id="eir Sport 2-UK" tvg-name="Uk- Sky Eir Sport 2" tvg-logo="http://www.vod-logo.net/photos/51131ea3f48152f540e780e8a7149dbd.jpg" group-title="ShareExt@Relax",Uk-Eir Sport 2
+http://adamtvonline.com:8080/111111111111/222222222222/33558
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="Uk- Sky EuroSport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Eurosport_1_Logo.jpg" group-title="ShareExt@Relax",Uk-EuroSport 1 HD
+http://adamtvonline.com:8080/111111111111/222222222222/33633
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="Uk- Sky EuroSport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg" group-title="ShareExt@Relax",Uk-EuroSport 2 HD
+http://adamtvonline.com:8080/111111111111/222222222222/33634
+#EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-name="Uk- Sky Liverpool FC TV HD" tvg-logo="http://www.vod-logo.net/photos/8ebcffcbbf89993230aacd0ee82654e8.jpg" group-title="ShareExt@Relax",Uk-Liverpool FC TV HD
+http://adamtvonline.com:8080/111111111111/222222222222/33635
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="Uk- Sky MUTV" tvg-logo="http://www.vod-logo.net/photos/8834237d720f0d3061943476353ccb0d.jpg" group-title="ShareExt@Relax",Uk-MUTV
+http://adamtvonline.com:8080/111111111111/222222222222/33636
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="Uk- Sky Racing" tvg-logo="http://www.vod-logo.net/photos/e3872cd981b683eed7b75f6e2fbba283.jpg" group-title="ShareExt@Relax",SkyRacing
+http://adamtvonline.com:8080/111111111111/222222222222/33637
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="Uk- Sky Sport Football" tvg-logo="http://www.vod-logo.net/photos/59b5fe15cf9625503eb9d784d7fe12df.jpg" group-title="ShareExt@Relax",Uk-SkySport Football
+http://adamtvonline.com:8080/111111111111/222222222222/33638
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Uk- Sky Sports Cricket HD" tvg-logo="http://www.vod-logo.net/photos/733f66350f153e6a26ec9d4ecf0e19fa.jpg" group-title="ShareExt@Relax",Uk-SkySports Cricket HD
+http://adamtvonline.com:8080/111111111111/222222222222/33640
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="Uk- Sky Sports F1 HD" tvg-logo="http://www.vod-logo.net/photos/bb88f3ab866a02cb29b103b90b612871.jpg" group-title="ShareExt@Relax",Uk-SkySports F1 HD
+http://adamtvonline.com:8080/111111111111/222222222222/33644
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK- Sky Sports Golf HD" tvg-logo="http://www.vod-logo.net/photos/bedd128ab61c901215c745c78ee044c9.jpg" group-title="ShareExt@Relax",UK-SkySports Golf HD
+http://adamtvonline.com:8080/111111111111/222222222222/33642
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: SKY SPORTS MIX HD" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-mix-vector-logo-small.png" group-title="ShareExt@Relax",UK:SKYSPORTS MIX HD
+http://adamtvonline.com:8080/111111111111/222222222222/103657
+#EXTINF:-1 tvg-id="" tvg-name="UK: UFC Fight Pass HD" tvg-logo="https://www.logolynx.com/images/logolynx/ff/ff4afa04ae5059f96cb0d5074c1a6201.jpeg" group-title="ShareExt@Relax",UK:UFC Fight Pass HD
+http://adamtvonline.com:8080/111111111111/222222222222/103658
+#EXTINF:-1 tvg-id="" tvg-name="UK: WWE Raw Network" tvg-logo="https://www.freepnglogos.com/uploads/wwe-network-logo-photo-hd-2.png" group-title="ShareExt@Relax",UK:WWE鈥aw鈥etwork
+http://adamtvonline.com:8080/111111111111/222222222222/103659
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",beinSPORTS||1 馃嚫馃嚘
+http://89.38.99.141/1/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",beinSPORTS||2 馃嚫馃嚘
+http://89.38.99.141/2/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",beinSPORTS||3 馃嚫馃嚘
+http://89.38.99.141/3/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",beinSPORTS||4 馃嚫馃嚘
+http://89.38.99.141/4/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",beinSPORTS||5 馃嚫馃嚘
+http://89.38.99.141/5/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",beinSPORTS||6 馃嚫馃嚘
+http://89.38.99.141/6/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",beinSPORTS||7 馃嚫馃嚘
+http://89.38.99.141/7/index.m3u8
+
 #EXTINF:-1 tvg-id="NOEPG English" tvg-name="SSC 1 [AR]" tvg-logo="http://tvmia.spotv.me:8080/images/USA/ssc1.png" group-title="ShareExt@Relax",SSC•1•🇸🇦
 https://spotv.me:8080/FG5195018939/5195018939/177320
 #EXTINF:-1 tvg-id="NOEPG English" tvg-name="SSC 2 [AR]" tvg-logo="http://tvmia.spotv.me:8080/images/USA/ssc2.png" group-title="ShareExt@Relax",SSC•2•🇸🇦
