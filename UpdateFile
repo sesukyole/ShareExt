@@ -2905,41 +2905,40 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=HD&ccode=JP&m=d0:20
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•1_dec=auto
 http://live.cooltv.top/tv/aishang.php?id=cctv1hd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•2_dec=auto
 http://live.cooltv.top/tv/aishang.php?id=cctv2hd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•3_dec=auto
 http://live.cooltv.top/tv/aishang.php?id=cctv3hd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•4_dec=auto
 http://live.cooltv.top/tv/aishang.php?id=cctv4hd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•5_dec=auto
 http://live.cooltv.top/tv/aishang.php?id=cctv5hd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•6
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•6_dec=auto
 http://live.cooltv.top/tv/aishang.php?id=cctv6hd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•7_dec=auto
 http://live.cooltv.top/tv/aishang.php?id=cctv7hd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•8_dec=auto
 http://live.cooltv.top/tv/aishang.php?id=cctv8hd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•9
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•9_dec=auto
 http://live.cooltv.top/tv/aishang.php?id=cctv9hd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•10
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•10_dec=auto
 http://live.cooltv.top/tv/aishang.php?id=cctv10hd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•11
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•11_dec=auto
 http://live.cooltv.top/tv/aishang.php?id=cctv11hd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•12
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•12_dec=auto
 http://live.cooltv.top/tv/aishang.php?id=cctv12hd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•13
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•13_dec=auto
 http://live.cooltv.top/tv/aishang.php?id=cctv13hd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•14
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•14_dec=auto
 http://live.cooltv.top/tv/aishang.php?id=cctv14hd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•15
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•15_dec=auto
 http://live.cooltv.top/tv/aishang.php?id=cctv15hd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•16
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•16_dec=auto
 http://live.cooltv.top/tv/aishang.php?id=cctv16hd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•17
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•17_dec=auto
 http://live.cooltv.top/tv/aishang.php?id=cctv17hd
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",Xmtv.
 http://61.221.81.93:8078/hls/42/80/xmtv.m3u8
@@ -2969,77 +2968,53 @@ http://125.210.152.19:9120/live/hzgq-bjgqws-h264.m3u8
 http://125.210.152.19:9120/live/hszx-bttv-h264.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",DFTv.Chinese
 http://125.210.152.19:9120/live/hzgq-dftvgq-h264.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",01
 http://125.210.152.19:9120/live/hszx-gstv-h264.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",02
 http://125.210.152.19:9120/live/hzgq-gdwsgq-h264.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",03
 http://125.210.152.19:9120/live/hszx-lytv-h264.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",04
 http://125.210.152.19:9120/live/hzgq-hbwsgq1-h264.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",05
 http://125.210.152.19:9120/live/hzgq-hljwsgq-h264.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",06
 http://125.210.152.19:9120/live/hzgq-hbwsgq-h264.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",07
 http://125.210.152.19:9120/live/hzgq-hnwsgq-h264.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",08
 http://125.210.152.19:9120/live/hzgq-jlwsgq-h264.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",09
 http://125.210.152.19:9120/live/hzgq-jswsgq-h264.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",10
 http://125.210.152.19:9120/live/hzgq-jxwsgq-h264.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",11
 http://125.210.152.19:9120/live/hzgq-lnwsgq-h264.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",12
 http://125.210.152.19:9120/live/hszx-nmgtv-h264.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",13
 http://125.210.152.19:9120/live/hszx-nxtv-h264.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",14
 http://125.210.152.19:9120/live/hzgq-sdwsgq-h264.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",15
 http://125.210.152.19:9120/live/hszx-shanxitv-h264.m3u8,http://125.210.152.19:9120/live/hszx-sxtv-h264.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",16
 http://125.210.152.19:9120/live/hzgq-szwsgq-h264.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",17
 http://125.210.152.19:9120/live/hzgq-tjwsgq-h264.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",18
 http://125.210.152.19:9120/live/hszx-xztv-h264.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",19
 http://125.210.152.19:9120/live/hzgq-henangq-h264.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",20
 http://125.210.152.19:9120/live/hszx-qhtv-h264.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",21
 http://125.210.152.19:9120/live/hzgq-ssws-h264.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",22
 http://125.210.152.19:9120/live/hszx-xjtv-h264.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",23
 http://125.210.152.19:9120/live/hzgq-ynwsgq-h264.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",24
 http://125.210.152.19:9120/live/hzgq-cqwsgq-h264.m3u8
 
 
