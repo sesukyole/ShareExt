@@ -84,8 +84,7 @@ https://gtv-azure.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|user-agent
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MNCTV*🇮🇩
 https://mnctv-azure.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|user-agent=Dalvik/2.1.0
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RCTI*🇮🇩
-https://m3u-editor.com/live/serve/dd93bcc0-b766-11ed-bc50-433b3f708426/783593986.m3u8|user-agent=Dalvik/2.1.0
-https://rcti-azure.rctiplus.id/rcti-sdi.m3u8|user-agent=Dalvik/2.1.0
+https://rcti-azure.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8|user-agent=Dalvik/2.1.0
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",INEWS*🇮🇩
 https://inews-azure.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8|user-agent=Dalvik/2.1.0
 
