@@ -26,13 +26,13 @@ https://beetv.my.id/x/usee-bein1-masihsama.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BIEN>SUKAN•3🇮🇩
 https://beetv.my.id/x/usee-bein2-masihsama.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",JUARA>TV•1🇮🇩
-https://beetv.my.id/x/vidio-championstv1-masihsama.m3u8
+#https://beetv.my.id/x/vidio-championstv1-masihsama.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",JUARA>TV•2🇮🇩
-https://beetv.my.id/x/vidio-championstv2-masihsama.m3u8
+#https://beetv.my.id/x/vidio-championstv2-masihsama.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",usee>>1🇮🇩
-https://bit.ly/useesport-shareext-ts
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",usee>>2🇮🇩
-https://bit.ly/useesport2-shareext-ts
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", SCTV_se🇮🇩
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/204.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", SCTV_nur🇮🇩
@@ -416,9 +416,9 @@ https://maper.info/UseeSport1-Shareext
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",USEESPORTS_2™
 https://maper.info/UseeSport2-Shareext
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",JUARA_1™
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6685.m3u8
+#https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6685.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",JUARA_2™
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6686.m3u8
+#https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6686.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",SUKAN_terbaik_1™
 http://103.167.167.5:8111/play/a01p/index.m3u8
