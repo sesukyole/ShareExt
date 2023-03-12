@@ -86,21 +86,32 @@ http://203.29.26.22:8000/play/a05e/index.m3u8
 https://rcti-azure.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8|user-agent=Dalvik/2.1.0
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",INEWS*🇮🇩
 https://inews-azure.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8|user-agent=Dalvik/2.1.0
-
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽TVRI•SPORTS🇮🇩
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseePrime_dec=auto🇮🇩
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽assp_1🇲🇾
-https://bit.ly/assp-1-shareext-ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽assp_2🇲🇾
-https://bit.ly/assp-2-shareext-ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽assp_3🇲🇾
-https://bit.ly/assp-3-shareext-ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽assp_4🇲🇾
-https://bit.ly/assp-4-shareext-ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽assp_5🇲🇾
-https://bit.ly/Assp-5-shareext-ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Arena" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png" group-title="ShareExt@Relax",Astro•Arena🇲🇾
+http://37.49.230.48:8080/9f922928/873ef670ee/157485
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="ShareExt@Relax",Astro•SuperSport🇲🇾
+http://37.49.230.48:8080/9f922928/873ef670ee/146068
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="ShareExt@Relax",Astro•SuperSport 2🇲🇾
+http://37.49.230.48:8080/9f922928/873ef670ee/157556
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="ShareExt@Relax",Astro•SuperSport 3🇲🇾
+http://37.49.230.48:8080/9f922928/873ef670ee/157557
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="ShareExt@Relax",Astro•SuperSport 4🇲🇾
+http://37.49.230.48:8080/9f922928/873ef670ee/157558
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png" group-title="ShareExt@Relax",Astro•SuperSport 5🇲🇾
+http://37.49.230.48:8080/9f922928/873ef670ee/287792
+#EXTINF:-1 tvg-id="" tvg-name="MY: beIN Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/661d6fd8993dd9aaf43e249d036e9eb3.jpg" group-title="ShareExt@Relax",beINSports🇲🇾
+http://37.49.230.48:8080/9f922928/873ef670ee/157561
+#EXTINF:-1 tvg-id="" tvg-name="MY: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/f3f4f665e53b049fb81a2f995a102f10.png" group-title="ShareExt@Relax",EUROSPORT 1🇲🇾
+http://37.49.230.48:8080/9f922928/873ef670ee/158353
+#EXTINF:-1 tvg-id="" tvg-name="MY: FOX SPORTS 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/32a4269c4918eeef41af63deb0f43083.png" group-title="ShareExt@Relax",FOXSPORTS 2🇲🇾
+http://37.49.230.48:8080/9f922928/873ef670ee/157488
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Cricket" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/edc8a9c38c820781eb4785f4e5ee89ca.png" group-title="ShareExt@Relax",Astro•Cricket🇲🇾
+http://37.49.230.48:8080/9f922928/873ef670ee/157565
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Cctv.5🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV-5H265_4000
