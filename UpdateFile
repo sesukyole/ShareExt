@@ -91,6 +91,16 @@ https://inews-azure.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8|user-a
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseePrime_dec=auto🇮🇩
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽assp_1🇲🇾
+https://bit.ly/assp-1-shareext-ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽assp_2🇲🇾
+https://bit.ly/assp-2-shareext-ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽assp_3🇲🇾
+https://bit.ly/assp-3-shareext-ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽assp_4🇲🇾
+https://bit.ly/assp-4-shareext-ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽assp_5🇲🇾
+https://bit.ly/Assp-5-shareext-ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Cctv.5🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV-5H265_4000
@@ -424,6 +434,10 @@ http://103.167.167.5:8111/play/a00i/index.m3u8
 http://103.167.167.5:8111/play/a01p/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",Champion•Sports 2 HD
 http://103.167.167.5:8111/play/a01q/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",sukan•usee•1
+https://bit.ly/useeSports-1-shareext-ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",sukan•usee•2
+https://bit.ly/useesports-2-shareext-ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",SPOTV庐2•
 http://103.167.167.5:8111/play/a010/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",SPOTV庐1•
