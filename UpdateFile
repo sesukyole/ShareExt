@@ -2144,6 +2144,317 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/36879
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5361
 
 
+
+
+#EXTINF:-1 tvg-id="rmcsportnews.fr" tvg-name="FR: RMC SPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1cad6854257abb1574eb6e54efcdc7d5.png" group-title="SHAREEXT@France ➾ Sports",RMC SPORT 1
+http://37.49.230.48:8080/9f922928/873ef670ee/1937
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="FR: RMC SPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a543a1274e30e7a0225d06882c0a5f5c.png" group-title="SHAREEXT@France ➾ Sports",FR: RMC SPORT 2
+http://37.49.230.48:8080/9f922928/873ef670ee/1938
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/ed9835d693546034bdf25efb8b3a7064.png" group-title="SHAREEXT@France ➾ Sports",FR: RMC SPORT 3
+http://37.49.230.48:8080/9f922928/873ef670ee/279991
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/73cffa5f211ea7a500efc57624d1085b.png" group-title="SHAREEXT@France ➾ Sports",FR: RMC SPORT 4
+http://37.49.230.48:8080/9f922928/873ef670ee/279752
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 5" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/78b9cea6671e86c0d7e66912be2d5d75.png" group-title="SHAREEXT@France ➾ Sports",FR: RMC SPORT 5
+http://37.49.230.48:8080/9f922928/873ef670ee/1940
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/eff690c2ea262f51dc20359a6a5d2dab.jpg" group-title="SHAREEXT@France ➾ Sports",FR: RMC SPORT 7
+http://37.49.230.48:8080/9f922928/873ef670ee/20883
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 8" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/7ba3def00bf7bcf5dc60c53248dc5280.jpg" group-title="SHAREEXT@France ➾ Sports",FR: RMC SPORT 8
+http://37.49.230.48:8080/9f922928/873ef670ee/20884
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 9" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/a883723670d7bc644176d7aba669cabc.jpg" group-title="SHAREEXT@France ➾ Sports",FR: RMC SPORT 9
+http://37.49.230.48:8080/9f922928/873ef670ee/20885
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 10" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d40f3d8995bcc19f0e66081362a2b8e5.png" group-title="SHAREEXT@France ➾ Sports",FR: RMC SPORT 10
+http://37.49.230.48:8080/9f922928/873ef670ee/192025
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 13" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/713b9ca02caa88867392d859344d62bf.png" group-title="SHAREEXT@France ➾ Sports",FR: RMC SPORT 13
+http://37.49.230.48:8080/9f922928/873ef670ee/20890
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 14" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/858562c94e9e40ff785815443e104889.png" group-title="SHAREEXT@France ➾ Sports",FR: RMC SPORT 14
+http://37.49.230.48:8080/9f922928/873ef670ee/20889
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Foot" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/d49d78f77d93aa02508cbc68083a7be2.png" group-title="SHAREEXT@France ➾ Sports",FR: Canal+ Foot
+http://37.49.230.48:8080/9f922928/873ef670ee/297371
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ FORMULE 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/023d2b998cbf030c0e554eb18c6eb546.jpg" group-title="SHAREEXT@France ➾ Sports",FR: CANAL+ FORMULE 1
+http://37.49.230.48:8080/9f922928/873ef670ee/295260
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ MotoGP" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@France ➾ Sports",FR: Canal+ MotoGP
+http://37.49.230.48:8080/9f922928/873ef670ee/297423
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Premier League" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/7818fcb393391e3a63a512f8a92f0b7e.png" group-title="SHAREEXT@France ➾ Sports",CANAL+ Premier League
+http://37.49.230.48:8080/9f922928/873ef670ee/286794
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR: CANAL+ Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/567fa14e0c1befb33fd593795f63452b.png" group-title="SHAREEXT@France ➾ Sports",FR: CANAL+ Sport
+http://37.49.230.48:8080/9f922928/873ef670ee/143
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/1c3051796e55e0ae4bc5c67f6bc50c49.jpg" group-title="SHAREEXT@France ➾ Sports",FR: CANAL+ Sport 1
+http://37.49.230.48:8080/9f922928/873ef670ee/291175
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Sport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/ccdd67e3afbdfaa1fabdc29c99820433.png" group-title="SHAREEXT@France ➾ Sports",FR: CANAL+ Sport 3
+http://37.49.230.48:8080/9f922928/873ef670ee/291177
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Sport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/f389c3a9b79953394fda84bdc4044658.png" group-title="SHAREEXT@France ➾ Sports",FR: CANAL+ Sport 4
+http://37.49.230.48:8080/9f922928/873ef670ee/297381
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Sport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/d61d1906b88792e013fb83f7dab08ab1.png" group-title="SHAREEXT@France ➾ Sports",FR: CANAL+ Sport 5
+http://37.49.230.48:8080/9f922928/873ef670ee/291178
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Sport 360" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/c5e0963b89951b3efa29b9cda6103926.png" group-title="SHAREEXT@France ➾ Sports",FR: CANAL+ Sport 360
+http://37.49.230.48:8080/9f922928/873ef670ee/297378
+#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3d2dd1a15808bb3cd6e42748df2357b3.png" group-title="SHAREEXT@France ➾ Sports",FR: EUROSPORT 1
+http://37.49.230.48:8080/9f922928/873ef670ee/151
+#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/bcd6a910facfc361db274a32e5207ffd.png" group-title="SHAREEXT@France ➾ Sports",FR: EUROSPORT 2
+http://37.49.230.48:8080/9f922928/873ef670ee/1195
+#EXTINF:-1 tvg-id="" tvg-name="FR: Golf Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/004c3db0072c16475396c8bc5757637e.png" group-title="SHAREEXT@France ➾ Sports",FR: Golf Channel
+http://37.49.230.48:8080/9f922928/873ef670ee/279613
+#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF+" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3d5b56071d971d8a599b10a1899d5d3a.png" group-title="SHAREEXT@France ➾ Sports",FR: GOLF+
+http://37.49.230.48:8080/9f922928/873ef670ee/1934
+#EXTINF:-1 tvg-id="infosportplus.fr" tvg-name="FR: InfoSport+" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7df8da393b3d045034a8e69b0d696339.png" group-title="SHAREEXT@France ➾ Sports",FR: InfoSport+
+http://37.49.230.48:8080/9f922928/873ef670ee/1190
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/84de9c0ac6b931b87595aed3fb80cd66.png" group-title="SHAREEXT@France ➾ Sports",FR: MULTISPORT 1
+http://37.49.230.48:8080/9f922928/873ef670ee/290572
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/489f142fa47ea1909373affb54180a0a.png" group-title="SHAREEXT@France ➾ Sports",FR: MULTISPORT 2
+http://37.49.230.48:8080/9f922928/873ef670ee/290573
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORT 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/1bb9978331110c5eca84b888d1940060.png" group-title="SHAREEXT@France ➾ Sports",FR: MULTISPORT 3
+http://37.49.230.48:8080/9f922928/873ef670ee/290574
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORT 4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/00989d90769039fc4dc0081729a5e739.png" group-title="SHAREEXT@France ➾ Sports",FR: MULTISPORT 4
+http://37.49.230.48:8080/9f922928/873ef670ee/290575
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORT 5" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/b0861ab46e7db92591dd1d97c6ae5d19.png" group-title="SHAREEXT@France ➾ Sports",FR: MULTISPORT 5
+http://37.49.230.48:8080/9f922928/873ef670ee/290576
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORT 6" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/34cce8b18ca8ce555e930f499fd61f36.png" group-title="SHAREEXT@France ➾ Sports",FR: MULTISPORT 6
+http://37.49.230.48:8080/9f922928/873ef670ee/290577
+#EXTINF:-1 tvg-id="" tvg-name="FR: Olympia TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-10/294ed601157952e90910e317ad5d1d9e.png" group-title="SHAREEXT@France ➾ Sports",FR: Olympia TV
+http://37.49.230.48:8080/9f922928/873ef670ee/281599
+
+
+
+
+
+#EXTINF:-1 tvg-id="boxnation.uk" tvg-name="UK: Box Nation" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7c2d563f238702089445c84cb1ef9b2c.png" group-title="SHAREEXT@UK ➾ Sports",UK: Box Nation
+http://37.49.230.48:8080/9f922928/873ef670ee/4719
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: BT Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fcd9da9870d36ec51c1232e395e37c2e.png" group-title="SHAREEXT@UK ➾ Sports",UK: BT Sport 1
+http://37.49.230.48:8080/9f922928/873ef670ee/270
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: BT Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c50393867c2322666f3bab470cee3c28.png" group-title="SHAREEXT@UK ➾ Sports",UK: BT Sport 2
+http://37.49.230.48:8080/9f922928/873ef670ee/273
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: BT Sport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7490f8804522a1146efbf31a624c2fae.png" group-title="SHAREEXT@UK ➾ Sports",UK: BT Sport 3
+http://37.49.230.48:8080/9f922928/873ef670ee/271
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="UK: BT Sport ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d1e7fd559255ab038f34122b16170e4f.png" group-title="SHAREEXT@UK ➾ Sports",UK: BT Sport ESPN
+http://37.49.230.48:8080/9f922928/873ef670ee/1124
+#EXTINF:-1 tvg-id="" tvg-name="UK: Edge Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/f3e0a064cfda647c80672f12115c4d56.png" group-title="SHAREEXT@UK ➾ Sports",UK: Edge Sport
+http://37.49.230.48:8080/9f922928/873ef670ee/54012
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f596a057554b06e8b7e0e7bad9240e7b.png" group-title="SHAREEXT@UK ➾ Sports",UK: EUROSPORT 1
+http://37.49.230.48:8080/9f922928/873ef670ee/692
+#EXTINF:-1 tvg-id="" tvg-name="UK: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/091378f6123951037d5075a7585c94d9.png" group-title="SHAREEXT@UK ➾ Sports",UK: EUROSPORT 2
+http://37.49.230.48:8080/9f922928/873ef670ee/1555
+#EXTINF:-1 tvg-id="freesports.uk" tvg-name="UK: FreeSports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d80bfc06c6ce14109aff8a276ef9a779.png" group-title="SHAREEXT@UK ➾ Sports",UK: FreeSports
+http://37.49.230.48:8080/9f922928/873ef670ee/37876
+#EXTINF:-1 tvg-id="" tvg-name="UK: MotoRRacing" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/c5315a189195023bf96bd76161880f5a.png" group-title="SHAREEXT@UK ➾ Sports",UK: MotoRRacing
+http://37.49.230.48:8080/9f922928/873ef670ee/295426
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK: MUTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/73eef793ce91db2ff4122b6e3581ec7b.png" group-title="SHAREEXT@UK ➾ Sports",UK: MUTV
+http://37.49.230.48:8080/9f922928/873ef670ee/1102
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="UK: Premier Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9c7d3f18c08487ae764df48783c089a1.png" group-title="SHAREEXT@UK ➾ Sports",UK: Premier Sports 1
+http://37.49.230.48:8080/9f922928/873ef670ee/1097
+#EXTINF:-1 tvg-id="" tvg-name="UK: Premier Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/35affbf18fb742f52581f3f069a97258.png" group-title="SHAREEXT@UK ➾ Sports",UK: Premier Sports 2
+http://37.49.230.48:8080/9f922928/873ef670ee/4723
+#EXTINF:-1 tvg-id="" tvg-name="UK: RedBull TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/0d817f0109f2d3b50c6c3aa54898b014.png" group-title="SHAREEXT@UK ➾ Sports",UK: RedBull TV
+http://37.49.230.48:8080/9f922928/873ef670ee/85429
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Action" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/8c24e752f56cbf20e36f414088013773.png" group-title="SHAREEXT@UK ➾ Sports",UK: Sky Sports Action
+http://37.49.230.48:8080/9f922928/873ef670ee/268
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: Sky Sports Arena" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/989d4bde4ee6d3236460b11510e03e5c.png" group-title="SHAREEXT@UK ➾ Sports",UK: Sky Sports Arena
+http://37.49.230.48:8080/9f922928/873ef670ee/267
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b33dfe81c31eb1ea15ca2705d24af664.png" group-title="SHAREEXT@UK ➾ Sports",UK: Sky Sports Cricket
+http://37.49.230.48:8080/9f922928/873ef670ee/269
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="SHAREEXT@UK ➾ Sports",UK: Sky Sports F1
+http://37.49.230.48:8080/9f922928/873ef670ee/265
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sports Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/860b7e2f2ed148c938115c734f31ef62.png" group-title="SHAREEXT@UK ➾ Sports",UK: Sky Sports Football
+http://37.49.230.48:8080/9f922928/873ef670ee/266
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: Sky Sports Golf" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5acb0ff26afa4f347663d42261af36bf.png" group-title="SHAREEXT@UK ➾ Sports",UK: Sky Sports Golf
+http://37.49.230.48:8080/9f922928/873ef670ee/264
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Main Event" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/367ea46b760bdd8955db180204300052.png" group-title="SHAREEXT@UK ➾ Sports",UK: Sky Sports Main Event
+http://37.49.230.48:8080/9f922928/873ef670ee/283053
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: Sky Sports Mix" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/14216659a007f43c908ea7acb0080325.png" group-title="SHAREEXT@UK ➾ Sports",UK: Sky Sports Mix
+http://37.49.230.48:8080/9f922928/873ef670ee/261
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: Sky Sports News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/429d072a80243dcd3db3c4c941b8f5e0.png" group-title="SHAREEXT@UK ➾ Sports",UK: Sky Sports News
+http://37.49.230.48:8080/9f922928/873ef670ee/260
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/09bb1aded27d31530f3939146dffbc0c.png" group-title="SHAREEXT@UK ➾ Sports",UK: Sky Sports Premier League
+http://37.49.230.48:8080/9f922928/873ef670ee/263
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Racing" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/54cd90adcee875ac0369ac5b061d62d6.png" group-title="SHAREEXT@UK ➾ Sports",UK: Sky Sports Racing
+http://37.49.230.48:8080/9f922928/873ef670ee/163132
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BR: All Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/188b9f16a9dde14bf68aee0f0e04f370.png" group-title="SHAREEXT@Brazil ➾ Sports",BR: All Sports
+http://37.49.230.48:8080/9f922928/873ef670ee/7321
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/ceff609636ae03e6425dafdbd72ab1e3.png" group-title="SHAREEXT@Brazil ➾ Sports",BR: Band Sports
+http://37.49.230.48:8080/9f922928/873ef670ee/8777
+#EXTINF:-1 tvg-id="" tvg-name="BR: Combate" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/f8ef6dd50c1b857e4927b6acf17e1f5e.png" group-title="SHAREEXT@Brazil ➾ Sports",BR: Combate
+http://37.49.230.48:8080/9f922928/873ef670ee/8778
+#EXTINF:-1 tvg-id="" tvg-name="BR: Conmebol 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/772da3266b9a007bf2767169c6ef82e4.png" group-title="SHAREEXT@Brazil ➾ Sports",Conmebol 1
+http://37.49.230.48:8080/9f922928/873ef670ee/291179
+#EXTINF:-1 tvg-id="" tvg-name="BR: Conmebol 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/ed6a44b88febd29c02e6bc85484d7dae.png" group-title="SHAREEXT@Brazil ➾ Sports",Conmebol 3
+http://37.49.230.48:8080/9f922928/873ef670ee/291181
+#EXTINF:-1 tvg-id="" tvg-name="BR: Conmebol 4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/ae2d9df7ebb5cc9afc3fa74257eee65b.png" group-title="SHAREEXT@Brazil ➾ Sports",Conmebol 4
+http://37.49.230.48:8080/9f922928/873ef670ee/291182
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/9df70541246da4f2f9a65296dc2d5604.png" group-title="SHAREEXT@Brazil ➾ Sports",BR: ESPN
+http://37.49.230.48:8080/9f922928/873ef670ee/8793
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/68e11cc20e6cca405eeafe623b2bfdde.png" group-title="SHAREEXT@Brazil ➾ Sports",BR: ESPN 2
+http://37.49.230.48:8080/9f922928/873ef670ee/8801
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/d4eadd237437bdfc6f611165eb5891c8.png" group-title="SHAREEXT@Brazil ➾ Sports",BR: ESPN 3
+http://37.49.230.48:8080/9f922928/873ef670ee/290657
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN Extra" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/280bbb819713bcee901695466ef9320a.png" group-title="SHAREEXT@Brazil ➾ Sports",BR: ESPN Extra
+http://37.49.230.48:8080/9f922928/873ef670ee/8789
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/803eff84acc7ba0bbdb7301cce19b54d.png" group-title="SHAREEXT@Brazil ➾ Sports",BR: FOX SPORTS 2
+http://37.49.230.48:8080/9f922928/873ef670ee/8776
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b5e27276ad261e52a66167b0ea08521f.png" group-title="SHAREEXT@Brazil ➾ Sports",BR: Premiere FC 1
+http://37.49.230.48:8080/9f922928/873ef670ee/8785
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8e89f233ee5c27419e427a9a1d7a3ac3.png" group-title="SHAREEXT@Brazil ➾ Sports",BR: Premiere FC 2
+http://37.49.230.48:8080/9f922928/873ef670ee/8786
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dbf8357765c676043e8305d199ee7a8d.png" group-title="SHAREEXT@Brazil ➾ Sports",BR: Premiere FC 3
+http://37.49.230.48:8080/9f922928/873ef670ee/8787
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6d1777d9b0fa66337bdf19a0025cab6a.png" group-title="SHAREEXT@Brazil ➾ Sports",BR: Premiere FC 4
+http://37.49.230.48:8080/9f922928/873ef670ee/8788
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f86fbf59b55119969d8988c445b9fb2e.png" group-title="SHAREEXT@Brazil ➾ Sports",BR: Premiere FC 5
+http://37.49.230.48:8080/9f922928/873ef670ee/8790
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/644bdf62e752682dfbd2a7ac83b8f441.png" group-title="SHAREEXT@Brazil ➾ Sports",BR: Premiere FC 6
+http://37.49.230.48:8080/9f922928/873ef670ee/8791
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 7" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/43c658602510deaefdbb2c0191238330.jpg" group-title="SHAREEXT@Brazil ➾ Sports",BR: Premiere FC 7
+http://37.49.230.48:8080/9f922928/873ef670ee/8798
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/6eafe5012b43973f31c5ee0b648e0594.png" group-title="SHAREEXT@Brazil ➾ Sports",BR: SPORTV
+http://37.49.230.48:8080/9f922928/873ef670ee/4015
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2f163193ab2de12c120e02e264bc16a7.png" group-title="SHAREEXT@Brazil ➾ Sports",BR: SPORTV 2
+http://37.49.230.48:8080/9f922928/873ef670ee/8783
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/50dc54d140bb68ee92fc1aa01bec5bb5.png" group-title="SHAREEXT@Brazil ➾ Sports",BR: SPORTV 3
+http://37.49.230.48:8080/9f922928/873ef670ee/8784
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/c1949fb7e7932e14844b06d79aec05b5.png" group-title="SHAREEXT@Brazil ➾ Sports",BR: TNT Sports 3
+http://37.49.230.48:8080/9f922928/873ef670ee/286128
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT Sports 4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/98ffdae3cc8eeeb59681bdf858fffc9f.png" group-title="SHAREEXT@Brazil ➾ Sports",BR: TNT Sports 4
+http://37.49.230.48:8080/9f922928/873ef670ee/286129
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT Sports 5" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b46708aa4c4d16e1820aa921d3a2a3df.png" group-title="SHAREEXT@Brazil ➾ Sports",BR: TNT Sports 5
+http://37.49.230.48:8080/9f922928/873ef670ee/286130
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DirecTV Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/8dbe5b84ef7b00e4579e1b53426e4a13.png" group-title="SHAREEXT@SUKAN•Argentina",DirecTV Sports
+http://37.49.230.48:8080/9f922928/873ef670ee/67721
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DirecTV Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/17cb87788ff5c4d544aa70c39e6d707a.png" group-title="SHAREEXT@SUKAN•Argentina",DirecTV Sports 2
+http://37.49.230.48:8080/9f922928/873ef670ee/31645
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DirecTV Sports+" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1837897a51d196c78caaecc039a49887.png" group-title="SHAREEXT@SUKAN•Argentina",DirecTV Sports+
+http://37.49.230.48:8080/9f922928/873ef670ee/65750
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/58f557ffa761091f837f5c289ac13208.png" group-title="SHAREEXT@SUKAN•Argentina",ESPN
+http://37.49.230.48:8080/9f922928/873ef670ee/61174
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/826ab86530a6d609f3c9e0a5108ae8d1.png" group-title="SHAREEXT@SUKAN•Argentina",ESPN 2
+http://37.49.230.48:8080/9f922928/873ef670ee/70752
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/985c0340dda83edcaa89659e2740eb50.png" group-title="SHAREEXT@SUKAN•Argentina",ESPN 3
+http://37.49.230.48:8080/9f922928/873ef670ee/61170
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/746819f44951f27e240c8fdaf3ea5384.png" group-title="SHAREEXT@SUKAN•Argentina",ESPN 4
+http://37.49.230.48:8080/9f922928/873ef670ee/295627
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN Extra" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f066512b6451650645ed53b790f2db72.png" group-title="SHAREEXT@SUKAN•Argentina",ESPN Extra
+http://37.49.230.48:8080/9f922928/873ef670ee/66298
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b6fb0039905434d2842bc80cc0c4db30.png" group-title="SHAREEXT@SUKAN•Argentina",FOX SPORTS
+http://37.49.230.48:8080/9f922928/873ef670ee/280370
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/f3e732b27ff9cbfc4c52b5e56c4f66d5.png" group-title="SHAREEXT@SUKAN•Argentina",FOX SPORTS 2
+http://37.49.230.48:8080/9f922928/873ef670ee/3187
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/cf9e3efa58e179ce0bc51a1bdb47efe0.png" group-title="SHAREEXT@SUKAN• Argentina",FOX SPORTS 3
+http://37.49.230.48:8080/9f922928/873ef670ee/10921
+
+
+
+
+
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: Benfica TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce7c9696313070a9238ade6d0b8c6c67.png" group-title="SHAREEXT@Portugal ➾ Sports",Benfica TV
+http://37.49.230.48:8080/9f922928/873ef670ee/1497
+#EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT: Canal 11" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/93673aa325443895b136366bbfc38fc4.png" group-title="SHAREEXT@Portugal ➾ Sports",PT: Canal 11
+http://37.49.230.48:8080/9f922928/873ef670ee/1480
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title="SHAREEXT@Portugal ➾ Sports",ELEVEN SPORTS 1
+http://37.49.230.48:8080/9f922928/873ef670ee/1499
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png" group-title="SHAREEXT@Portugal ➾ Sports",ELEVEN SPORTS 2
+http://37.49.230.48:8080/9f922928/873ef670ee/1503
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png" group-title="SHAREEXT@Portugal ➾ Sports",ELEVEN SPORTS 3
+http://37.49.230.48:8080/9f922928/873ef670ee/1506
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png" group-title="SHAREEXT@Portugal ➾ Sports",ELEVEN SPORTS 4
+http://37.49.230.48:8080/9f922928/873ef670ee/1509
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c5409550875e0e1b4d38c0167efbf339.png" group-title="SHAREEXT@Portugal ➾ Sports",ELEVEN SPORTS 5
+http://37.49.230.48:8080/9f922928/873ef670ee/1512
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/089df823b4a66ca080d161cdd412ff1b.png" group-title="SHAREEXT@Portugal ➾ Sports",ELEVEN SPORTS 6
+http://37.49.230.48:8080/9f922928/873ef670ee/1515
+#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="PT: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e29ab16dd731b9f11938c24282ed403c.png" group-title="SHAREEXT@Portugal ➾ Sports",PT: EUROSPORT 1
+http://37.49.230.48:8080/9f922928/873ef670ee/1517
+#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="PT: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/44e7fcd83142484151969cb5ec092f2c.png" group-title="SHAREEXT@Portugal ➾ Sports",PT: EUROSPORT 2
+http://37.49.230.48:8080/9f922928/873ef670ee/1518
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/11dfc661a91cd89755e23af61a56807f.png" group-title="SHAREEXT@Portugal ➾ Sports",PT: FOX SPORTS
+http://37.49.230.48:8080/9f922928/873ef670ee/40345
+#EXTINF:-1 tvg-id="fueltv.pt" tvg-name="PT: Fuel TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2df8f6e6d22413d34871a4e44e7117fb.png" group-title="SHAREEXT@Portugal ➾ Sports",PT: Fuel TV
+http://37.49.230.48:8080/9f922928/873ef670ee/1521
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT: SPORT TV +" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22ccb6d1c637d9b6a63d83100af972f3.png" group-title="SHAREEXT@Portugal ➾ Sports",PT: SPORT TV +
+http://37.49.230.48:8080/9f922928/873ef670ee/1481
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="SHAREEXT@Portugal ➾ Sports",PT: SPORT TV 1
+http://37.49.230.48:8080/9f922928/873ef670ee/1483
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="SHAREEXT@Portugal ➾ Sports",PT: SPORT TV 2
+http://37.49.230.48:8080/9f922928/873ef670ee/1486
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="SHAREEXT@Portugal ➾ Sports",PT: SPORT TV 3
+http://37.49.230.48:8080/9f922928/873ef670ee/1489
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="SHAREEXT@Portugal ➾ Sports",PT: SPORT TV 4
+http://37.49.230.48:8080/9f922928/873ef670ee/1492
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png" group-title="SHAREEXT@Portugal ➾ Sports",PT: SPORT TV 5
+http://37.49.230.48:8080/9f922928/873ef670ee/1495
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT: SPORT TV 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png" group-title="SHAREEXT@Portugal ➾ Sports",PT: SPORT TV 6
+http://37.49.230.48:8080/9f922928/873ef670ee/281487
+#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT: SPORT TV NBA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/45d618d3296d49449610eccddda0f2b3.png" group-title="SHAREEXT@Portugal ➾ Sports",PT: SPORT TV NBA
+http://37.49.230.48:8080/9f922928/873ef670ee/2051
+#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT: Sporting TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c3a532ff6be1d4a54129e69cbc6ef5b8.png" group-title="SHAREEXT@Portugal ➾ Sports",PT: Sporting TV
+http://37.49.230.48:8080/9f922928/873ef670ee/1519
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ZA: CANAL+ Premier League" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@South Africa ➾ Sports",CANAL+ Premier League
+http://37.49.230.48:8080/9f922928/873ef670ee/297425
+#EXTINF:-1 tvg-id="" tvg-name="ZA: CANAL+ Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/1cd470ab600d9ad1f4a648294fd06a41.png" group-title="SHAREEXT@South Africa ➾ Sports",ZA: CANAL+ Sport 1
+http://37.49.230.48:8080/9f922928/873ef670ee/297375
+#EXTINF:-1 tvg-id="" tvg-name="ZA: CANAL+ Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/c90064fe9ad60a5ff8265f8b98a0d507.png" group-title="SHAREEXT@South Africa ➾ Sports",ZA: CANAL+ Sport 2
+http://37.49.230.48:8080/9f922928/873ef670ee/297376
+#EXTINF:-1 tvg-id="" tvg-name="ZA: CANAL+ Sport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/b1fb6c251cc8552a7e273b30f6f42581.png" group-title="SHAREEXT@South Africa ➾ Sports",ZA: CANAL+ Sport 3
+http://37.49.230.48:8080/9f922928/873ef670ee/297377
+#EXTINF:-1 tvg-id="" tvg-name="ZA: Canal+ Sport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/72ce68d0cf533451413b2e196e0e9eec.png" group-title="SHAREEXT@South Africa ➾ Sports",ZA: Canal+ Sport 4
+http://37.49.230.48:8080/9f922928/873ef670ee/297380
+#EXTINF:-1 tvg-id="" tvg-name="ZA: CANAL+ Sport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/08b1fa390c5f6b51d8ce98a8787b7595.png" group-title="SHAREEXT@South Africa ➾ Sports",ZA: CANAL+ Sport 5
+http://37.49.230.48:8080/9f922928/873ef670ee/297383
+#EXTINF:-1 tvg-id="" tvg-name="ZA: CANAL+ Sport 360" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/802c45fdf3f60818630503f4e8d58246.png" group-title="SHAREEXT@South Africa ➾ Sports",ZA: CANAL+ Sport 360
+http://37.49.230.48:8080/9f922928/873ef670ee/297379
+#EXTINF:-1 tvg-id="" tvg-name="ZA: ESPN 2 Africa" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/63d7ebf810808d4d7aa14d9ef29a37ee.png" group-title="SHAREEXT@South Africa ➾ Sports",ZA: ESPN 2 Africa
+http://37.49.230.48:8080/9f922928/873ef670ee/295317
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Action" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c01edd9028bd637cc5bdc8527acc3353.png" group-title="SHAREEXT@South Africa ➾ Sports",ZA: SuperSport Action
+http://37.49.230.48:8080/9f922928/873ef670ee/194354
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Blitz" tvg-logo="http://s3.i3ns.net/portal/picon/2021-10/0a52ab66352a2b8d466ccdb407570cad.jpg" group-title="SHAREEXT@South Africa ➾ Sports",ZA: SuperSport Blitz
+http://37.49.230.48:8080/9f922928/873ef670ee/281536
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Cricket" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5b9d9ddbf95526d59c2fdd6725253646.png" group-title="SHAREEXT@South Africa ➾ Sports",ZA: SuperSport Cricket
+http://37.49.230.48:8080/9f922928/873ef670ee/11637
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8dab62dd2c2faa3d66261a2a5afa6260.png" group-title="SHAREEXT@South Africa ➾ Sports",ZA: SuperSport Football
+http://37.49.230.48:8080/9f922928/873ef670ee/38575
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Golf" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a20c92d13ce602ec324ff03b209ed0c2.png" group-title="SHAREEXT@South Africa ➾ Sports",ZA: SuperSport Golf
+http://37.49.230.48:8080/9f922928/873ef670ee/11641
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Grandstand" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a8f0bee8d482364f261394bf7678fa0e.png" group-title="SHAREEXT@South Africa ➾ Sports",ZA: SuperSport Grandstand
+http://37.49.230.48:8080/9f922928/873ef670ee/194353
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport LaLiga" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png" group-title="SHAREEXT@South Africa ➾ Sports",ZA: SuperSport LaLiga
+http://37.49.230.48:8080/9f922928/873ef670ee/194358
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Maximo 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/488fd8d34ea146bfaf82c12331f4223e.png" group-title="SHAREEXT@South Africa ➾ Sports",ZA: SuperSport Maximo 1
+http://37.49.230.48:8080/9f922928/873ef670ee/38572
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Motorsport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="SHAREEXT@South Africa ➾ Sports",ZA: SuperSport Motorsport
+http://37.49.230.48:8080/9f922928/873ef670ee/11638
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Premier League" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2f8f23e2a35d5a4e9ea336d7b51fd98f.png" group-title="SHAREEXT@South Africa ➾ Sports",ZA: SuperSport Premier League
+http://37.49.230.48:8080/9f922928/873ef670ee/11642
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport PSL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/b113905d39622090910a766c75af759d.png" group-title="SHAREEXT@South Africa ➾ Sports",ZA: SuperSport PSL
+http://37.49.230.48:8080/9f922928/873ef670ee/11643
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Rugby" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/55a7ac3c8cdd7718d94d29b8ebc99f2e.png" group-title="SHAREEXT@South Africa ➾ Sports",ZA: SuperSport Rugby
+http://37.49.230.48:8080/9f922928/873ef670ee/11639
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Tennis" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b51cde8be3defead0ca307c5be0c9453.png" group-title="SHAREEXT@South Africa ➾ Sports",ZA: SuperSport Tennis
+http://37.49.230.48:8080/9f922928/873ef670ee/15200
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5440da812326351c34541cb82f6aac9e.png" group-title="SHAREEXT@South Africa ➾ Sports",ZA: SuperSport Variety 1
+http://37.49.230.48:8080/9f922928/873ef670ee/11633
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/65bb8b6586b7fa25553a450811acce40.png" group-title="SHAREEXT@South Africa ➾ Sports",ZA: SuperSport Variety 2
+http://37.49.230.48:8080/9f922928/873ef670ee/11634
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/712a4054a884ffbeb3cac1bd3d4700da.png" group-title="SHAREEXT@South Africa ➾ Sports",ZA: SuperSport Variety 3
+http://37.49.230.48:8080/9f922928/873ef670ee/11635
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7816729fca81dcee05b869f633b8a84d.png" group-title="SHAREEXT@South Africa ➾ Sports",ZA: SuperSport Variety 4
+http://37.49.230.48:8080/9f922928/873ef670ee/11636
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport world Of Champions" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@South Africa ➾ Sport",ZA: SuperSport world Of Champions
+http://37.49.230.48:8080/9f922928/873ef670ee/297477
+
+
+
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Aljazeera Arabic
 http://rr2.dens.tv/s/s16/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Aljazeera English
