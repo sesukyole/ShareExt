@@ -7,6 +7,16 @@
 https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Admin@Group
 https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
+#EXTINF:-1 tvg-id="" tvg-name="ID024:Soccer Channel" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Soccer>Channel
+http://wanicelife.com:8880/3me040026/53781712/60451
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Soccer>Channel 2
+http://wanicelife.com:8880/3me040026/53781712/60471
+#EXTINF:-1 tvg-id="" tvg-name="ID039:MNC Sports" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",MNC>Sports
+http://wanicelife.com:8880/3me040026/53781712/60351
+#EXTINF:-1 tvg-id="" tvg-name="ID050:MNC Sport 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",MNC>Sport 2
+http://wanicelife.com:8880/3me040026/53781712/60463
+#EXTINF:-1 tvg-id="" tvg-name="ID053:Bein Sports 1" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",mncSport_HD
+http://wanicelife.com:8880/3me040026/53781712/60455
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽SOCCER•CHANEL_🇮🇩
 https://iplogger.com/SoccerC-hd-shareext-ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽MNC•Sports_play🇮🇩
@@ -794,6 +804,36 @@ http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683150&e
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683156&extension=ts&play_token=qrZfvSgHAe
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",Celestial•movie🇮🇩
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571218&extension=ts&play_token=qrZfvSgHAe
+
+#EXTINF:-1 tvg-id="" tvg-name="ID028:HBO" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",HBO**
+http://wanicelife.com:8880/3me040026/53781712/60473
+#EXTINF:-1 tvg-id="" tvg-name="ID029:HBO Family" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",HBO>Family
+http://wanicelife.com:8880/3me040026/53781712/60474
+#EXTINF:-1 tvg-id="" tvg-name="ID030:HBO Hits" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",HBO>Hits
+http://wanicelife.com:8880/3me040026/53781712/60458
+#EXTINF:-1 tvg-id="" tvg-name="ID031:HBO Signature" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",HBO>Signature
+http://wanicelife.com:8880/3me040026/53781712/60456
+#EXTINF:-1 tvg-id="" tvg-name="ID032:Hits Movies" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",Hits>Movies
+http://wanicelife.com:8880/3me040026/53781712/60457
+#EXTINF:-1 tvg-id="" tvg-name="ID033:MNC Entertainment " tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",MNC>Entertainment 
+http://wanicelife.com:8880/3me040026/53781712/60466
+#EXTINF:-1 tvg-id="" tvg-name="ID041:KiX" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",KiX*
+http://wanicelife.com:8880/3me040026/53781712/60350
+#EXTINF:-1 tvg-id="" tvg-name="ID057:Thrill" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",Thrill*
+http://wanicelife.com:8880/3me040026/53781712/60276
+#EXTINF:-1 tvg-id="" tvg-name="ID062:TvN" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",TvN*
+http://wanicelife.com:8880/3me040026/53781712/60281
+#EXTINF:-1 tvg-id="" tvg-name="ID063:TVN Movies" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",TVN>Movies
+http://wanicelife.com:8880/3me040026/53781712/60282
+#EXTINF:-1 tvg-id="" tvg-name="ID067:Vision Prime" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",Vision>Prime
+http://wanicelife.com:8880/3me040026/53781712/60291
+#EXTINF:-1 tvg-id="" tvg-name="ID068:Warner TV" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",Warner>TV
+http://wanicelife.com:8880/3me040026/53781712/60292
+#EXTINF:-1 tvg-id="" tvg-name="ID011:Celestial Movies" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",Celestial>Movies
+http://wanicelife.com:8880/3me040026/53781712/60286
+#EXTINF:-1 tvg-id="" tvg-name="ID013:Cinema World" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",Cinema>World
+http://wanicelife.com:8880/3me040026/53781712/60480
+
 #EXTINF:-1 tvg-id="" tvg-name="ID: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="Shareext@MOVIES_ID馃帴",ID:AXN*
 http://37.49.230.48:8080/9f922928/873ef670ee/165079
 #EXTINF:-1 tvg-id="" tvg-name="ID: Baby TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/5e1f1850a8202cc1ef4f60c2a0e8acd3.png" group-title="Shareext@MOVIES_ID馃帴",ID:Baby TV*
