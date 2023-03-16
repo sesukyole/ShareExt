@@ -209,6 +209,8 @@ https://livefta.malimarcdn.com/tvkedge/btv.stream/chunklist.m3u8
 http://171.238.181.52:18080/192.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Vtv_5🇻🇳
 http://171.238.181.52:18080/194.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SCTV_15🇻🇳
+http://vtsstr4.sctv.vn:1935/live/SCTV_HD_TheThao_new.smil/CDAM.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RealMadrid tv
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SETANTA_1™
@@ -320,6 +322,22 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",Badminton•Court•1
+https://dno-fifajs-native-major-hb.youku.com/fifa_jieshuo/YMQ-INTsignal1HB_sjb480.m3u8?auth_key=1705108302-0-0-d91abadf6acbd95697728024bd1fc1d4&title=8146668&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=hlDtG7wDhA8CAbYCJ3gwiyHn&ccode=live05020201&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-INTsignal1HB&rid=20000000C3973DD09D7EE3355C09ACED6CDF904300000000
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",Badminton•Court•2
+https://dno-fifajs-native-major-hb.youku.com/fifa_jieshuo/YMQ-INTsignal2HB_sjb480.m3u8?auth_key=1705732485-0-0-ab9cfea436526113e19ebb1e808c34ad&title=8147049&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=hlDtG7wDhA8CAbYCJ3gwiyHn&ccode=live05020201&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-INTsignal2HB&rid=20000000EA4BFA28EDC9B2FEEDD3CD15018C3B6400000000
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",Badminton•Court•3
+https://dno-fifajs-native-major-hb.youku.com/fifa_jieshuo/YMQ-INTsignal3HB_sjb480.m3u8?auth_key=1705467085-0-0-fa68b4acd85cc676b891b78b3f35894c&title=8147004&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=c7ZDHGxgPGICAbT706DKzMb1&ccode=live05030101&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-INTsignal3HB&rid=20000000ED23D80CEE9819A8CA845CE5A9EDF17600000000
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",Badminton•Court•4
+https://dno-fifajs-native-major-hb.youku.com/fifa_jieshuo/YMQ-INTsignal4HB_sjb480.m3u8?auth_key=1704857393-0-0-8004149a71ad5e13aab46c74318681e1&title=8146769&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=hlDtG7wDhA8CAbYCJ3gwiyHn&ccode=live05020201&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-INTsignal4HB&rid=2000000092EB3C12597319FB36DFC60FBBAC3C1000000000
+#EXTINF:-1 tvg-id="" tvg-name="2-IN: SONY SIX HD" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",SONY*SIX_HD
+http://darkteam.vip:25461/live/TR5367465299F/FRWnJs8GhD/13096.ts
+#EXTINF:-1 tvg-id="" tvg-name="2-IN: SONY TEN 1 HD" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",SONY*TEN_1 HD
+http://darkteam.vip:25461/live/TR5367465299F/FRWnJs8GhD/13098.ts
+#EXTINF:-1 tvg-id="" tvg-name="2-IN: SONY TEN 2 HD" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",SONY*TEN_2 HD
+http://darkteam.vip:25461/live/TR5367465299F/FRWnJs8GhD/13100.ts
+#EXTINF:-1 tvg-id="" tvg-name="2-IN: SONY TEN 3 HD-1" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",SONY*TEN_3 HD
+http://darkteam.vip:25461/live/TR5367465299F/FRWnJs8GhD/13102.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",Astro•1
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=918986&extension=ts&play_token=1kEm8DbZmS
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",Astro•2
