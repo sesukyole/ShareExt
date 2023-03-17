@@ -819,7 +819,9 @@ http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683150&e
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683156&extension=ts&play_token=qrZfvSgHAe
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",Celestial•movie🇮🇩
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571218&extension=ts&play_token=qrZfvSgHAe
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",BOO🇲🇾
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",BOO***🇲🇾
+http://starshare.live:8080/live/Ridwanul7/6699447733/143100.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",BOO🇲🇾
 https://bit.ly/BOO-shareext-ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="Shareext@MOVIES_ID馃帴",ID:AXN*
 http://37.49.230.48:8080/9f922928/873ef670ee/165079
@@ -1035,6 +1037,29 @@ https://epg.pw/stream/76ff6b866c7edd2ab006cf5dc55aa999c1f0d3775d182a9348e132fc52
 https://epg.pw/stream/28fc6d59dcde509467bc34a5035e449bc335d434f8692144ebc6c74b9b703b7f.ctv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",Lotus•macau™
 https://epg.pw/stream/5f63cbd95f9c375a5b7407672758ce02f0b69773e6a2b4ed9cd43d3502861816.ctv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",民视新闻🇭🇰
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",台视新闻🇭🇰
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",TVBS新闻🇭🇰
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",东森新闻美洲🇭🇰
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",东森超视美洲🇭🇰
+http://38.64.72.148:80/hls/modn/list/2018/chunklist0.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",东森财经美洲🇭🇰
+http://38.64.72.148:80/hls/modn/list/2021/chunklist0.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",东森美洲🇭🇰
+http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",民视新闻台🇭🇰
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",TVBS新闻台🇭🇰
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",东森美洲🇭🇰
+http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",东森美洲卫视🇭🇰
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",HBO•🇲🇾
 https://epg.pw/stream/76ff6b866c7edd2ab006cf5dc55aa999c1f0d3775d182a9348e132fc52147e03.ctv
