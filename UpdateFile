@@ -600,8 +600,14 @@ https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/163121
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",INEWS_++
+https://m3u-editor.com/live/serve/dd93bcc0-b766-11ed-bc50-433b3f708426/783593989.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",RCTI_++
+https://m3u-editor.com/live/serve/dd93bcc0-b766-11ed-bc50-433b3f708426/783593986.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",MNCTV_++
+https://m3u-editor.com/live/serve/dd93bcc0-b766-11ed-bc50-433b3f708426/783593987.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",GTV_++
+https://m3u-editor.com/live/serve/dd93bcc0-b766-11ed-bc50-433b3f708426/783593988.m3u8|user-agent=Dalvik/2.1.0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",USEESPORTS_1™
 https://maper.info/UseeSport1-Shareext
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",USEESPORTS_2™
@@ -1658,6 +1664,77 @@ http://adamtvonline.com:8080/111111111111/222222222222/104711
 http://adamtvonline.com:8080/111111111111/222222222222/104729
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro Arena" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",MY:Astro_Arena
 http://adamtvonline.com:8080/111111111111/222222222222/104710
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",CA|TVA•Sports
+http://176.57.50.167:25461/122162/994771/22013
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",CA|TVA•Sports 2
+http://176.57.50.167:25461/122162/994771/22015
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",Chelsea TV HD
+http://176.57.50.167:25461/122162/994771/12213
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",Free Sports
+http://176.57.50.167:25461/122162/994771/12245
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",Horse and Country
+http://176.57.50.167:25461/122162/994771/12252
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",LFC TV
+http://176.57.50.167:25461/122162/994771/12258
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",MUTV
+http://176.57.50.167:25461/122162/994771/12264
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",UFC fight night Pass HD
+http://176.57.50.167:25461/122162/994771/12320
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",UFC Fight PASS
+http://176.57.50.167:25461/122162/994771/12321
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",BoxNation HD
+http://176.57.50.167:25461/122162/994771/40439
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",BT•Sport ESPN HD
+http://176.57.50.167:25461/122162/994771/40440
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",BT•Sports 1 UHD
+http://176.57.50.167:25461/122162/994771/40441
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",BT•Sports 2 UHD
+http://176.57.50.167:25461/122162/994771/40442
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",BT•Sports 3 UHD
+http://176.57.50.167:25461/122162/994771/40443
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",BT•Sport Extra 1 (Live Match Only)
+http://176.57.50.167:25461/122162/994771/40444
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",BT•Sport Extra 2 (Live Match Only)
+http://176.57.50.167:25461/122162/994771/40445
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",BT•Sport Extra 3 (Live Match Only)
+http://176.57.50.167:25461/122162/994771/40446
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",BT•Sport Extra 4 (Live Match Only)
+http://176.57.50.167:25461/122162/994771/40447
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",BT•Sports Extra 5 (live match only)
+http://176.57.50.167:25461/122162/994771/40448
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",Eir•Sport 1 HD
+http://176.57.50.167:25461/122162/994771/40449
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",Eir•Sport 2
+http://176.57.50.167:25461/122162/994771/40450
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",Eurosport 1 FHD
+http://176.57.50.167:25461/122162/994771/40451
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",Eurosport 2 FHD VIP
+http://176.57.50.167:25461/122162/994771/40452
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",SkySport Racing HD
+http://176.57.50.167:25461/122162/994771/78145
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",SkySports Action
+http://176.57.50.167:25461/122162/994771/78146
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",SkySports Arena HD
+http://176.57.50.167:25461/122162/994771/78147
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",SkySports Cricket
+http://176.57.50.167:25461/122162/994771/78148
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",SkySports F1
+http://176.57.50.167:25461/122162/994771/78149
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",SkySports Football HD
+http://176.57.50.167:25461/122162/994771/78150
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",SkySports Golf HD
+http://176.57.50.167:25461/122162/994771/78151
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",SkySports Main Events HD
+http://176.57.50.167:25461/122162/994771/78152
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",SkySports MIX
+http://176.57.50.167:25461/122162/994771/78153
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",SkySports News HD
+http://176.57.50.167:25461/122162/994771/78154
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",SkySports Premier League HD
+http://176.57.50.167:25461/122162/994771/78155
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",SkySports Racing
+http://176.57.50.167:25461/122162/994771/78156
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",Alfa•Sports™
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
@@ -3459,6 +3536,107 @@ https://xplore-roku.amagi.tv/playlist720-p.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1649997259_b384000_sleng.m3u8
 
 
+
+
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",The•LEGEND•Of•BRUCE LEE
+http://176.57.50.167:25461/122162/994771/81529
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",BruceLee•Movie
+http://176.57.50.167:25461/122162/994771/81942
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Marvel's Agents of S.H.I.E.L.D.
+http://176.57.50.167:25461/122162/994771/80411
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Marvel's Guardians of the Galaxy
+http://176.57.50.167:25461/122162/994771/80412
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Marvel's The Punisher
+http://176.57.50.167:25461/122162/994771/80414
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Marvels Spider Man
+http://176.57.50.167:25461/122162/994771/80417
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Marvels•Spider-Man
+http://176.57.50.167:25461/122162/994771/80418
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Action Movie
+http://176.57.50.167:25461/122162/994771/40480
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Adventure Movie
+http://176.57.50.167:25461/122162/994771/40482
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Animation Movie
+http://176.57.50.167:25461/122162/994771/40483
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Comedy Movie
+http://176.57.50.167:25461/122162/994771/40484
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Comedy Movie 2
+http://176.57.50.167:25461/122162/994771/40485
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Crime Movie
+http://176.57.50.167:25461/122162/994771/40486
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Documentary Movie
+http://176.57.50.167:25461/122162/994771/40487
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Documentary•Movie
+http://176.57.50.167:25461/122162/994771/40488
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Drama Movie
+http://176.57.50.167:25461/122162/994771/40489
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Family Movie
+http://176.57.50.167:25461/122162/994771/40490
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Family Movie 2
+http://176.57.50.167:25461/122162/994771/40491
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Horror Movie
+http://176.57.50.167:25461/122162/994771/40492
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Horror Movie 2
+http://176.57.50.167:25461/122162/994771/40493
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Kungfu
+http://176.57.50.167:25461/122162/994771/40494
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Kungfu 1
+http://176.57.50.167:25461/122162/994771/40495
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Kungfu 2
+http://176.57.50.167:25461/122162/994771/40496
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Mob Movie
+http://176.57.50.167:25461/122162/994771/40497
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Mob Movie 2
+http://176.57.50.167:25461/122162/994771/40498
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Mob Movie 3
+http://176.57.50.167:25461/122162/994771/40499
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Mob Movie 4
+http://176.57.50.167:25461/122162/994771/40500
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Mob Movie 5
+http://176.57.50.167:25461/122162/994771/40501
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Music Movie
+http://176.57.50.167:25461/122162/994771/40502
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Oscar Winning Movie 2020
+http://176.57.50.167:25461/122162/994771/40503
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Romance Movie
+http://176.57.50.167:25461/122162/994771/40504
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Science & Fiction Movie
+http://176.57.50.167:25461/122162/994771/40505
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Star Wars Movie
+http://176.57.50.167:25461/122162/994771/40506
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Western Movie
+http://176.57.50.167:25461/122162/994771/40507
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Alien Movie 1
+http://176.57.50.167:25461/122162/994771/47635
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Alien Movie 2
+http://176.57.50.167:25461/122162/994771/47636
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Alien Movie 3
+http://176.57.50.167:25461/122162/994771/47637
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Alien Movie 4
+http://176.57.50.167:25461/122162/994771/47638
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Alien Movie 5
+http://176.57.50.167:25461/122162/994771/47639
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Action•Movie 1
+http://176.57.50.167:25461/122162/994771/61935
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Action•Movie 2
+http://176.57.50.167:25461/122162/994771/61936
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Action•Movie 3
+http://176.57.50.167:25461/122162/994771/61937
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Action•Movie 4
+http://176.57.50.167:25461/122162/994771/61938
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Action•Movie 5
+http://176.57.50.167:25461/122162/994771/61939
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Classic•Kungfu 1
+http://176.57.50.167:25461/122162/994771/61940
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Classic•Kungfu 2
+http://176.57.50.167:25461/122162/994771/61941
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Classic•Kungfu 3
+http://176.57.50.167:25461/122162/994771/61942
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Classic•Kungfu 4
+http://176.57.50.167:25461/122162/994771/61943
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Classic•Kungfu 5
+http://176.57.50.167:25461/122162/994771/61944
 
 
 
