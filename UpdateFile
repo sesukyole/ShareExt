@@ -80,13 +80,13 @@ http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/77220.ts
 http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/77221.ts
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",GTV*🇮🇩
-https://gtv-azure.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|user-agent=Dalvik/2.1.0
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MNCTV*🇮🇩
-https://mnctv-azure.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|user-agent=Dalvik/2.1.0
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RCTI*🇮🇩
-https://rcti-azure.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8|user-agent=Dalvik/2.1.0
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",INEWS*🇮🇩
-https://inews-azure.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8|user-agent=Dalvik/2.1.0
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽TVRI•SPORTS🇮🇩
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseePrime_dec=auto🇮🇩
@@ -674,14 +674,6 @@ https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/163121
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",INEWS_++
-https://m3u-editor.com/live/serve/dd93bcc0-b766-11ed-bc50-433b3f708426/783593989.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",RCTI_++
-https://m3u-editor.com/live/serve/dd93bcc0-b766-11ed-bc50-433b3f708426/783593986.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",MNCTV_++
-https://m3u-editor.com/live/serve/dd93bcc0-b766-11ed-bc50-433b3f708426/783593987.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",GTV_++
-https://m3u-editor.com/live/serve/dd93bcc0-b766-11ed-bc50-433b3f708426/783593988.m3u8|user-agent=Dalvik/2.1.0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",USEESPORTS_1™
 https://maper.info/UseeSport1-Shareext
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",USEESPORTS_2™
@@ -4086,31 +4078,6 @@ http://adamtvonline.com:8080/111111111111/222222222222/218299
 http://adamtvonline.com:8080/111111111111/222222222222/218300
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY PLUS SUPER 4K" tvg-logo="https://i.ibb.co/TKCyhPj/Asset-16-22x.png" group-title="SHAREEXT@DISNEY PLUS 4K /  دزني بلس اعلا جودة",DISNEY PLUS SUPER 4K
 http://adamtvonline.com:8080/111111111111/222222222222/218291
-
-
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/Qos1pmG.png" group-title="SHAREEXT@HBO_TELECINESKY",CineSky 01
-http://xx.scorpionplay.tech:80/douglas/102030/2729924
-#EXTINF:-1  tvg-logo="https://imgur.com/Qos1pmG.png" group-title="SHAREEXT@HBO_TELECINESKY",CineSky 02
-http://xx.scorpionplay.tech:80/douglas/102030/2729925
-#EXTINF:-1  tvg-logo="https://imgur.com/Qos1pmG.png" group-title="SHAREEXT@HBO_TELECINESKY",CineSky 03
-http://xx.scorpionplay.tech:80/douglas/102030/2729926
-#EXTINF:-1  tvg-logo="https://imgur.com/Qos1pmG.png" group-title="SHAREEXT@HBO_TELECINESKY",CineSky 04
-http://xx.scorpionplay.tech:80/douglas/102030/2729927
-#EXTINF:-1  tvg-logo="https://imgur.com/Qos1pmG.png" group-title="SHAREEXT@HBO_TELECINESKY",CineSky 05
-http://xx.scorpionplay.tech:80/douglas/102030/2729928
-#EXTINF:-1  tvg-logo="https://imgur.com/Qos1pmG.png" group-title="SHAREEXT@HBO_TELECINESKY",CineSky 06
-http://xx.scorpionplay.tech:80/douglas/102030/2729929
-#EXTINF:-1  tvg-logo="https://imgur.com/Qos1pmG.png" group-title="SHAREEXT@HBO_TELECINESKY",CineSky 07
-http://xx.scorpionplay.tech:80/douglas/102030/2729930
-#EXTINF:-1  tvg-logo="https://imgur.com/Qos1pmG.png" group-title="SHAREEXT@HBO_TELECINESKY",CineSky 08
-http://xx.scorpionplay.tech:80/douglas/102030/2729932
-#EXTINF:-1  tvg-logo="https://imgur.com/Qos1pmG.png" group-title="SHAREEXT@HBO_TELECINESKY",CineSky 09
-http://xx.scorpionplay.tech:80/douglas/102030/2729933
-#EXTINF:-1  tvg-logo="https://imgur.com/Qos1pmG.png" group-title="SHAREEXT@HBO_TELECINESKY",CineSky 10
-http://xx.scorpionplay.tech:80/douglas/102030/2729959
-
 
 
 
