@@ -90,13 +90,13 @@ https://bit.ly/MNCTV-shareext-ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",GTV_HD🇮🇩
 https://bit.ly/GTV-shareext-ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",GTV*🇮🇩
-https://winter-band-de79.mangako.workers.dev/live/serve/e46bc590-6c47-11ed-b6c8-d1f1f0221890/788673541.m3u8|user-agent=Dalvik/2.1.0
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MNCTV*🇮🇩
-https://winter-band-de79.mangako.workers.dev/live/serve/e46bc590-6c47-11ed-b6c8-d1f1f0221890/788673531.m3u8|user-agent=Dalvik/2.1.0
+https://mooncang.my.id/api/rplus/ch.m3u8?id=mnctv|User-Agent=Dalvik/2.1.0
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RCTI*🇮🇩
-https://winter-band-de79.mangako.workers.dev/live/serve/e46bc590-6c47-11ed-b6c8-d1f1f0221890/788673530.m3u8|user-agent=Dalvik/2.1.0
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",INEWS*🇮🇩
-https://winter-band-de79.mangako.workers.dev/live/serve/e46bc590-6c47-11ed-b6c8-d1f1f0221890/788673542.m3u8|user-agent=Dalvik/2.1.0
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽TVRI•SPORTS🇮🇩
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseePrime_dec=auto🇮🇩
