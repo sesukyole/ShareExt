@@ -112,6 +112,21 @@ https://bit.ly/useeSports-1-shareext-ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",⚽Usee•2•idn
 https://bit.ly/useesports-2-shareext-ts
 
+#EXTINF:-1 tvg-id="NOEPG English" tvg-name="SSC 1 [AR]" tvg-logo="http://tvmia.spotv.me:8080/images/USA/ssc1.png" group-title="ShareExt@Relax",SSC•1•🇸🇦
+https://spotv.me:8080/FG5195018939/5195018939/177320
+#EXTINF:-1 tvg-id="NOEPG English" tvg-name="SSC 2 [AR]" tvg-logo="http://tvmia.spotv.me:8080/images/USA/ssc2.png" group-title="ShareExt@Relax",SSC•2•🇸🇦
+https://spotv.me:8080/FG5195018939/5195018939/177321
+#EXTINF:-1 tvg-id="NOEPG English" tvg-name="SSC 3 [AR]" tvg-logo="http://tvmia.spotv.me:8080/images/USA/ssc3.png" group-title="ShareExt@Relax",SSC•3•🇸🇦
+https://spotv.me:8080/FG5195018939/5195018939/177322
+#EXTINF:-1 tvg-id="NOEPG English" tvg-name="SSC 4 [AR]" tvg-logo="http://tvmia.spotv.me:8080/images/USA/ssc4.png" group-title="ShareExt@Relax",SSC•4•🇸🇦
+https://spotv.me:8080/FG5195018939/5195018939/177323
+#EXTINF:-1 tvg-id="NOEPG English" tvg-name="SSC 5 [AR]" tvg-logo="http://tvmia.spotv.me:8080/images/USA/ssc5.png" group-title="ShareExt@Relax",SSC•5•🇸🇦
+https://spotv.me:8080/FG5195018939/5195018939/177324
+#EXTINF:-1 tvg-id="NOEPG English" tvg-name="SSC EXTRA 1 [AR]" tvg-logo="http://tvmia.spotv.me:8080/images/USA/ssc6.png" group-title="ShareExt@Relax",SSC•EXTRA•1•🇸🇦
+https://spotv.me:8080/FG5195018939/5195018939/177325
+#EXTINF:-1 tvg-id="NOEPG English" tvg-name="SSC EXTRA 2 [AR]" tvg-logo="http://tvmia.spotv.me:8080/images/USA/ssc7.png" group-title="ShareExt@Relax",SSC•EXTRA•2•🇸🇦
+https://spotv.me:8080/FG5195018939/5195018939/177326
+
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro Arena" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png" group-title="ShareExt@Relax",Astro•Arena🇲🇾
 http://37.49.230.48:8080/9f922928/873ef670ee/157485
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="ShareExt@Relax",Astro•SuperSport🇲🇾
@@ -1483,6 +1498,145 @@ http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/37631
 http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/37632 
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Golf" tvg-logo="https://i.postimg.cc/90Z9DQqn/Share-Ext-Supersport.jpg" group-title="SHAREEXT@⚽Zuid Afrika / South Afrika",SuperSport•Golf
 http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/37635
+
+
+
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 HD" tvg-logo="http://tvmia.spotv.me:8080/images/Portugal/Sport TV 1 HD logo.png" group-title="ShaReExT@SuKaN>PORTUGAL",SPORTTV 1 HD
+https://spotv.me:8080/FG5195018939/5195018939/4490
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 HD" tvg-logo="http://tvmia.spotv.me:8080/images/Portugal/Sport TV 2 HD logo.png" group-title="ShaReExT@SuKaN>PORTUGAL",SPORTTV 2 HD
+https://spotv.me:8080/FG5195018939/5195018939/154
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV 3 HD" tvg-logo="http://tvmia.spotv.me:8080/images/Portugal/Sport TV 3 HD logo.png" group-title="ShaReExT@SuKaN>PORTUGAL",SPORTTV 3 HD
+https://spotv.me:8080/FG5195018939/5195018939/155
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4 HD" tvg-logo="http://tvmia.spotv.me:8080/images/Portugal/Sport TV 4 HD logo.png" group-title="ShaReExT@SuKaN>PORTUGAL",SPORTTV 4 HD
+https://spotv.me:8080/FG5195018939/5195018939/228
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT TV 5 HD" tvg-logo="http://tvmia.spotv.me:8080/images/Portugal/Sport TV 5 HD logo.png" group-title="ShaReExT@SuKaN>PORTUGAL",SPORTTV 5 HD
+https://spotv.me:8080/FG5195018939/5195018939/12622
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="SPORT TV +  HD" tvg-logo="http://tvmia.spotv.me:8080/images/Portugal/Sport TV + HD logo.png" group-title="ShaReExT@SuKaN>PORTUGAL",SPORTTV+HD
+https://spotv.me:8080/FG5195018939/5195018939/142
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN 1 HD" tvg-logo="http://tvmia.spotv.me:8080/images/Portugal/elevensports1.png" group-title="ShaReExT@SuKaN>PORTUGAL",ELEVEN.1 HD
+https://spotv.me:8080/FG5195018939/5195018939/5859
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ELEVEN 2 HD" tvg-logo="http://tvmia.spotv.me:8080/images/Portugal/elevensports2.png" group-title="ShaReExT@SuKaN>PORTUGAL",ELEVEN.2 HD
+https://spotv.me:8080/FG5195018939/5195018939/5860
+#EXTINF:-1 tvg-id="eleven3.pt" tvg-name="ELEVEN 3" tvg-logo="http://tvmia.spotv.me:8080/images/Portugal/elevensports3.png" group-title="ShaReExT@SuKaN>PORTUGAL",ELEVEN.3
+https://spotv.me:8080/FG5195018939/5195018939/8384
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ELEVEN 4" tvg-logo="http://tvmia.spotv.me:8080/images/Portugal/elevensports4.png" group-title="ShaReExT@SuKaN>PORTUGAL",ELEVEN.4
+https://spotv.me:8080/FG5195018939/5195018939/8383
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="ELEVEN 5" tvg-logo="http://tvmia.spotv.me:8080/images/Portugal/elevensports5.png" group-title="ShaReExT@SuKaN>PORTUGAL",ELEVEN.5
+https://spotv.me:8080/FG5195018939/5195018939/13465
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="ELEVEN 6" tvg-logo="http://tvmia.spotv.me:8080/images/Portugal/elevensports6.png" group-title="ShaReExT@SuKaN>PORTUGAL",ELEVEN.6
+https://spotv.me:8080/FG5195018939/5195018939/13466
+#EXTINF:-1 tvg-id="Mosaico" tvg-name="ELEVEN MOSAICO" tvg-logo="http://tvmia.spotv.me:8080/images/Portugal/mosaico11.png" group-title="ShaReExT@SuKaN>PORTUGAL",ELEVEN™MOSAICO
+https://spotv.me:8080/FG5195018939/5195018939/9028
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="BENFICA TV 1" tvg-logo="http://tvmia.spotv.me:8080/images/Portugal/BTV logo.png" group-title="ShaReExT@SuKaN>PORTUGAL",BENFICA™TV 1
+https://spotv.me:8080/FG5195018939/5195018939/254
+#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="SPORTING TV HD" tvg-logo="http://tvmia.spotv.me:8080/images/Portugal/Sporting TV HD logo.png" group-title="ShaReExT@SuKaN>PORTUGAL",SPORTING™TV HD
+https://spotv.me:8080/FG5195018939/5195018939/141
+#EXTINF:-1 tvg-id="porto.pt" tvg-name="PORTO CANAL" tvg-logo="http://tvmia.spotv.me:8080/images/Portugal/Porto Canal logo.png" group-title="ShaReExT@SuKaN>PORTUGAL",PORTO™CANAL
+https://spotv.me:8080/FG5195018939/5195018939/243
+#EXTINF:-1 tvg-id="porto.pt" tvg-name="PORTO CANAL HD" tvg-logo="http://tvmia.spotv.me:8080/images/Portugal/Porto Canal HD logo.png" group-title="ShaReExT@SuKaN>PORTUGAL",PORTO CANAL HD
+https://spotv.me:8080/FG5195018939/5195018939/149
+#EXTINF:-1 tvg-id="canal11hd.pt" tvg-name="CANAL 11 HD" tvg-logo="http://tvmia.spotv.me:8080/images/Portugal/canal11.png" group-title="ShaReExT@SuKaN>PORTUGAL",CANAL•11 HD
+https://spotv.me:8080/FG5195018939/5195018939/13458
+#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="EUROSPORT 1 HD" tvg-logo="http://tvmia.spotv.me:8080/images/Portugal/Eurosport 1 HD logo.png" group-title="ShaReExT@SuKaN>PORTUGAL",EUROSPORT•1 HD
+https://spotv.me:8080/FG5195018939/5195018939/151
+#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="EUROSPORT 2 HD" tvg-logo="https://spotv.me:8080/images/0eeec99c0c20ff82c296136b36269aa2.jpg" group-title="ShaReExT@SuKaN>PORTUGAL",EUROSPORT•2 HD
+https://spotv.me:8080/FG5195018939/5195018939/242
+
+
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="BR: SPORTV 1" tvg-logo="http://tvmia.spotv.me:8080/images/brasil/sportv.png" group-title="ShaReExT@SuKaN>BRAZIL",SPORTV 1
+https://spotv.me:8080/FG5195018939/5195018939/4518
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="BR: SPORTV 2" tvg-logo="http://tvmia.spotv.me:8080/images/brasil/sportv2.png" group-title="ShaReExT@SuKaN>BRAZIL",SPORTV 2
+https://spotv.me:8080/FG5195018939/5195018939/4519
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="BR: SPORTV 3" tvg-logo="https://spotv.me:8080/images/365fc6d09ecab42eb99b787a6df6477b.jpg" group-title="ShaReExT@SuKaN>BRAZIL",SPORTV 3
+https://spotv.me:8080/FG5195018939/5195018939/4520
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="BR: PREMIERE CLUBS" tvg-logo="http://tvmia.spotv.me:8080/images/brasil/premiere.png" group-title="ShaReExT@SuKaN>BRAZIL",PREMIERE CLUBS
+https://spotv.me:8080/FG5195018939/5195018939/4510
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="BR: ESPN HD" tvg-logo="https://spotv.me:8080/images/0a9e907931a45ccb189f9c2d9f1559da.jpg" group-title="ShaReExT@SuKaN>BRAZIL",ESPN HD
+https://spotv.me:8080/FG5195018939/5195018939/8502
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="BR: FOX SPORTS HD" tvg-logo="http://tvmia.spotv.me:8080/images/brasil/foxsports1.png" group-title="ShaReExT@SuKaN>BRAZIL",FOXSPORTS HD
+https://spotv.me:8080/FG5195018939/5195018939/5437
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="BR: FOX SPORTS 2 HD" tvg-logo="https://spotv.me:8080/images/0d5e8cc590d7d27052d14c315bff72a8.jpg" group-title="ShaReExT@SuKaN>BRAZIL",FOXSPORTS 2 HD
+https://spotv.me:8080/FG5195018939/5195018939/5438
+#EXTINF:-1 tvg-id="NOEPG English" tvg-name="BR: ELEVEN SPORTS 1" tvg-logo="http://tvmia.spotv.me:8080/images/Portugal/elevensports1.png" group-title="ShaReExT@SuKaN>BRAZIL",ELEVEN SPORTS 1
+https://spotv.me:8080/FG5195018939/5195018939/4535
+#EXTINF:-1 tvg-id="combate.br" tvg-name="BR: COMBATE" tvg-logo="http://tvmia.spotv.me:8080/images/brasil/combate.png" group-title="ShaReExT@SuKaN>BRAZIL",COMBATE
+https://spotv.me:8080/FG5195018939/5195018939/4516
+
+
+#EXTINF:-1 tvg-id="novasports1.gr" tvg-name="GR: NOVA SPORTS 1" tvg-logo="http://tvmia.spotv.me:8080/images/grecia/nova1.png" group-title="ShaReExT@SuKaN>GREECE /Ελληνική Δημοκρατία",NOVA SPORTS 1
+https://spotv.me:8080/FG5195018939/5195018939/4560
+#EXTINF:-1 tvg-id="novasports2.gr" tvg-name="GR: NOVA SPORTS 2" tvg-logo="http://tvmia.spotv.me:8080/images/grecia/nova2.png" group-title="ShaReExT@SuKaN>GREECE /Ελληνική Δημοκρατία",NOVA SPORTS 2
+https://spotv.me:8080/FG5195018939/5195018939/4562
+#EXTINF:-1 tvg-id="cosmotesport1.gr" tvg-name="GR: COSMOTE SPORTS 1 HD" tvg-logo="http://tvmia.spotv.me:8080/images/grecia/csport1.png" group-title="ShaReExT@SuKaN>GREECE /Ελληνική Δημοκρατία",COSMOTE SPORTS 1 HD
+https://spotv.me:8080/FG5195018939/5195018939/12581
+#EXTINF:-1 tvg-id="cosmotesport2.gr" tvg-name="GR: COSMOTE SPORTS 2 HD" tvg-logo="https://spotv.me:8080/images/5f1e130c5395dafb5aa05632793b6813.jpg" group-title="ShaReExT@SuKaN>GREECE /Ελληνική Δημοκρατία",COSMOTE SPORTS 2 HD
+https://spotv.me:8080/FG5195018939/5195018939/12580
+#EXTINF:-1 tvg-id="cosmotesport3.gr" tvg-name="GR: COSMOTE SPORTS 3 HD" tvg-logo="https://spotv.me:8080/images/244e765701167f482f03f91eedac371a.jpg" group-title="ShaReExT@SuKaN>GREECE /Ελληνική Δημοκρατία",COSMOTE SPORTS 3 HD
+https://spotv.me:8080/FG5195018939/5195018939/12579
+#EXTINF:-1 tvg-id="cosmotesport4.gr" tvg-name="GR: COSMOTE SPORTS 4 HD" tvg-logo="http://tvmia.spotv.me:8080/images/grecia/csport4.png" group-title="ShaReExT@SuKaN>GREECE /Ελληνική Δημοκρατία",COSMOTE SPORTS 4 HD
+https://spotv.me:8080/FG5195018939/5195018939/12578
+#EXTINF:-1 tvg-id="cosmotesport5.gr" tvg-name="GR: COSMOTE SPORTS 5 HD" tvg-logo="http://tvmia.spotv.me:8080/images/grecia/csport5.png" group-title="ShaReExT@SuKaN>GREECE /Ελληνική Δημοκρατία",COSMOTE SPORTS 5 HD
+https://spotv.me:8080/FG5195018939/5195018939/12577
+#EXTINF:-1 tvg-id="cosmotesport6.gr" tvg-name="GR: COSMOTE SPORTS 6 HD" tvg-logo="http://tvmia.spotv.me:8080/images/grecia/csport6.png" group-title="ShaReExT@SuKaN>GREECE /Ελληνική Δημοκρατία",COSMOTE SPORTS 6 HD
+https://spotv.me:8080/FG5195018939/5195018939/12576
+#EXTINF:-1 tvg-id="cosmotesport7.gr" tvg-name="GR: COSMOTE SPORTS 7 HD" tvg-logo="https://spotv.me:8080/images/ab9be231192a6573922624099b841722.jpg" group-title="ShaReExT@SuKaN>GREECE /Ελληνική Δημοκρατία",COSMOTE SPORTS 7 HD
+https://spotv.me:8080/FG5195018939/5195018939/12575
+#EXTINF:-1 tvg-id="cosmotesport8.gr" tvg-name="GR: COSMOTE SPORTS 8 HD" tvg-logo="http://tvmia.spotv.me:8080/images/grecia/csport8.png" group-title="ShaReExT@SuKaN>GREECE /Ελληνική Δημοκρατία",COSMOTE SPORTS 8 HD
+https://spotv.me:8080/FG5195018939/5195018939/12592
+#EXTINF:-1 tvg-id="edgesport.gr" tvg-name="GR: SPORT PLUS" tvg-logo="http://tvmia.spotv.me:8080/images/grecia/sportplus.png" group-title="ShaReExT@SuKaN>GREECE /Ελληνική Δημοκρατία",SPORT PLUS
+https://spotv.me:8080/FG5195018939/5195018939/12588
+#EXTINF:-1 tvg-id="eurosport1.gr" tvg-name="GR: EUROSPORT 1" tvg-logo="https://spotv.me:8080/images/be08828a7bc2858a84ebc09b5907302a.jpg" group-title="ShaReExT@SuKaN>GREECE /Ελληνική Δημοκρατία",EUROSPORT 1
+https://spotv.me:8080/FG5195018939/5195018939/12586
+#EXTINF:-1 tvg-id="eurosport2.gr" tvg-name="GR: EUROSPORT 2" tvg-logo="http://tvmia.spotv.me:8080/images/Portugal/Eurosport 2 logo.png" group-title="ShaReExT@SuKaN>GREECE /Ελληνική Δημοκρατία",EUROSPORT 2
+https://spotv.me:8080/FG5195018939/5195018939/12827
+#EXTINF:-1 tvg-id="NOEPG English" tvg-name="GR: ERT SPORTS" tvg-logo="http://tvmia.spotv.me:8080/images/grecia/rise.png" group-title="ShaReExT@SuKaN>GREECE /Ελληνική Δημοκρατία",ERT SPORTS
+https://spotv.me:8080/FG5195018939/5195018939/12830
+
+
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="UK: BT SPORT ESPN HD" tvg-logo="http://tvmia.spotv.me:8080/images/uk/btsportespn.png" group-title="ShaReExT@SuKaN>UNITED KINGDOM",BTSPORT ESPN HD
+https://spotv.me:8080/FG5195018939/5195018939/5624
+#EXTINF:-1 tvg-id="boxnation.uk" tvg-name="UK: BOX NATION" tvg-logo="http://tvmia.spotv.me:8080/images/uk/boxnation.png" group-title="ShaReExT@SuKaN>UNITED KINGDOM",BOXNATION
+https://spotv.me:8080/FG5195018939/5195018939/5623
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: BT SPORT 1 HD" tvg-logo="http://tvmia.spotv.me:8080/images/uk/btsport1.png" group-title="ShaReExT@SuKaN>UNITED KINGDOM",BTSPORT 1 HD
+https://spotv.me:8080/FG5195018939/5195018939/5627
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: BT SPORT 2 HD" tvg-logo="http://tvmia.spotv.me:8080/images/uk/btsport2.png" group-title="ShaReExT@SuKaN>UNITED KINGDOM",BTSPORT 2 HD
+https://spotv.me:8080/FG5195018939/5195018939/5626
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: BT SPORT 3 HD" tvg-logo="http://tvmia.spotv.me:8080/images/uk/btsport3.png" group-title="ShaReExT@SuKaN>UNITED KINGDOM",BTSPORT 3 HD
+https://spotv.me:8080/FG5195018939/5195018939/5625
+#EXTINF:-1 tvg-id="noepg english" tvg-name="UK: EIR SPORT 1" tvg-logo="http://tvmia.spotv.me:8080/images/uk/eirsport1.png" group-title="ShaReExT@SuKaN>UNITED KINGDOM",EIRSPORT 1
+https://spotv.me:8080/FG5195018939/5195018939/5619
+#EXTINF:-1 tvg-id="NOEPG English" tvg-name="UK: EIR SPORT 2" tvg-logo="http://tvmia.spotv.me:8080/images/uk/eirsport2.png" group-title="ShaReExT@SuKaN>UNITED KINGDOM",EIRSPORT 2
+https://spotv.me:8080/FG5195018939/5195018939/5618
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: SKY SPORTS ARENA HD" tvg-logo="http://tvmia.spotv.me:8080/images/uk/skysportsarena.png" group-title="ShaReExT@SuKaN>UNITED KINGDOM",SKYSPORTS ARENA HD
+https://spotv.me:8080/FG5195018939/5195018939/5606
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: SKY SPORTS CRICKET HD" tvg-logo="http://tvmia.spotv.me:8080/images/uk/skysportscricket.png" group-title="ShaReExT@SuKaN>UNITED KINGDOM",SKYSPORTS CRICKET HD
+https://spotv.me:8080/FG5195018939/5195018939/5610
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: SKY SPORTS F1" tvg-logo="http://tvmia.spotv.me:8080/images/uk/skysportsf1.png" group-title="ShaReExT@SuKaN>UNITED KINGDOM",SKYSPORTS F1
+https://spotv.me:8080/FG5195018939/5195018939/5605
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: SKY SPORTS FOOTBALL HD" tvg-logo="http://tvmia.spotv.me:8080/images/uk/skysportsfootball.png" group-title="ShaReExT@SuKaN>UNITED KINGDOM",SKYSPORTS FOOTBALL HD
+https://spotv.me:8080/FG5195018939/5195018939/5607
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: SKY SPORTS GOLF HD" tvg-logo="http://tvmia.spotv.me:8080/images/uk/skysportsgolf.png" group-title="ShaReExT@SuKaN>UNITED KINGDOM",SKYSPORTS GOLF HD
+https://spotv.me:8080/FG5195018939/5195018939/5609
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: SKY SPORTS MAIN EVENT HD" tvg-logo="http://tvmia.spotv.me:8080/images/uk/skysportsmain.png" group-title="ShaReExT@SuKaN>UNITED KINGDOM",SKYSPORTS MAINEVENT HD
+https://spotv.me:8080/FG5195018939/5195018939/5604
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: SKY SPORTS NEWS HD" tvg-logo="http://tvmia.spotv.me:8080/images/uk/skysportsnews.png" group-title="ShaReExT@SuKaN>UNITED KINGDOM",SKYSPORTS NEWS HD
+https://spotv.me:8080/FG5195018939/5195018939/5611
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: SKY SPORTS PREMIERE LEAGUE HD" tvg-logo="http://tvmia.spotv.me:8080/images/uk/skysportspremiere.png" group-title="ShaReExT@SuKaN>UNITED KINGDOM",SKYSPORTS PREMIERE LEAGUE HD
+https://spotv.me:8080/FG5195018939/5195018939/5608
+
+
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR: BEIN SPORTS 1" tvg-logo="http://tvmia.spotv.me:8080/images/USA/bein.png" group-title="ShaReExT@SuKaN>FRENCH",BEINSPORTS 1
+https://spotv.me:8080/FG5195018939/5195018939/5636
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR: BEIN SPORTS 2" tvg-logo="http://tvmia.spotv.me:8080/images/USA/bein.png" group-title="ShaReExT@SuKaN>FRENCH",BEINSPORTS 2
+https://spotv.me:8080/FG5195018939/5195018939/5643
+#EXTINF:-1 tvg-id="rmcsportaccess1.fr" tvg-name="FR: RMC SPORT 1" tvg-logo="http://tvmia.spotv.me:8080/images/france/rmcsport1.png" group-title="ShaReExT@SuKaN>FRENCH",RMC•SPORT 1
+https://spotv.me:8080/FG5195018939/5195018939/8674
+#EXTINF:-1 tvg-id="rmcsportaccess2.fr" tvg-name="FR: RMC SPORT 2" tvg-logo="http://tvmia.spotv.me:8080/images/france/rmcsport2.png" group-title="ShaReExT@SuKaN>FRENCH",RMC•SPORT 2
+https://spotv.me:8080/FG5195018939/5195018939/8673
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="FR: CANAL + HD" tvg-logo="http://tvmia.spotv.me:8080/images/france/canal+.png" group-title="ShaReExT@SuKaN>FRENCH",CANAL+HD
+https://spotv.me:8080/FG5195018939/5195018939/8866
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR: CANAL + SPORT HD" tvg-logo="http://tvmia.spotv.me:8080/images/france/canal+sport.png" group-title="ShaReExT@SuKaN>FRENCH",CANAL+SPORT HD
+https://spotv.me:8080/FG5195018939/5195018939/8867
 
 
 #EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="BeIN Sports News HD" tvg-logo="https://i.ibb.co/85mHBjx/Asset-59-26x.png" group-title="SHAREEXT@SUKAN•ARAB•BEIN",BeINSports News HD
