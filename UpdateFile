@@ -385,6 +385,18 @@ https://donelfantastic.github.io/creativemedia/hls/asp3cmedia.m3u8
 https://donelfantastic.github.io/creativemedia/hls/asp4cmedia.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",Astro|Supersports•5
 http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=918982&extension=ts&play_token=shareext@.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",SeeSports_🇮🇩
+http://iptvid.my.id/hmm/maudy90/zsuperman90/useesport.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",SeeSports•2🇮🇩
+http://iptvid.my.id/hmm/maudy90/zsuperman90/useesports2.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",Spotv•🇮🇩
+http://iptvid.my.id/hmm/maudy90/zsuperman90/spotv.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",Spotv•2🇮🇩
+http://iptvid.my.id/hmm/maudy90/zsuperman90/spotv2.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",Bein•1🇮🇩
+http://iptvid.my.id/hmm/maudy90/zsuperman90/bein1.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",Bein•3🇮🇩
+http://iptvid.my.id/hmm/maudy90/zsuperman90/bein2.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",Hub|Premier•1
 http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1032529&extension=ts&play_token=shareext@.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",Hub|Premier•2
@@ -918,6 +930,24 @@ http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571218&e
 http://starshare.live:8080/live/Ridwanul7/6699447733/143100.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",BOO🇲🇾
 https://bit.ly/BOO-shareext-ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",GALAXY_id
+http://iptvid.my.id/hmm/maudy90/zsuperman90/galaxy.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",Galaxy•Premium_id
+http://iptvid.my.id/hmm/maudy90/zsuperman90/galaxypremium.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",My•Cinema_id
+http://iptvid.my.id/hmm/maudy90/zsuperman90/mycinema.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",My•Cinema•Asia_id
+http://iptvid.my.id/hmm/maudy90/zsuperman90/mycinemaasia.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",My•Family_id
+http://iptvid.my.id/hmm/maudy90/zsuperman90/myfamily.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",Dunia•lain_id
+http://iptvid.my.id/hmm/maudy90/zsuperman90/dunialain.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",Celestial•Movie_id
+http://iptvid.my.id/hmm/maudy90/zsuperman90/celestialmovie.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",Thrill_id
+http://iptvid.my.id/hmm/maudy90/zsuperman90/thrill.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",Bioskop•indonesia_id
+http://iptvid.my.id/hmm/maudy90/zsuperman90/bioskopindonesia.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="Shareext@MOVIES_ID馃帴",ID:AXN*
 http://37.49.230.48:8080/9f922928/873ef670ee/165079
 #EXTINF:-1 tvg-id="" tvg-name="ID: Baby TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/5e1f1850a8202cc1ef4f60c2a0e8acd3.png" group-title="Shareext@MOVIES_ID馃帴",ID:Baby TV*
