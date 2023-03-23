@@ -813,8 +813,8 @@ http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683156&e
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571218&extension=ts&play_token=qrZfvSgHAe
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",BOO***🇲🇾
 http://starshare.live:8080/live/Ridwanul7/6699447733/143068.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",BOO🇲🇾
-https://bit.ly/BOO-shareext-ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",HBO🇲🇾
+http://starshare.live:8080/live/Ridwanul7/6699447733/143100.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",GALAXY_id
 http://iptvid.my.id/hmm/maudy90/zsuperman90/galaxy.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES_ID馃帴",Galaxy•Premium_id
@@ -1019,6 +1019,38 @@ http://starshare.live:8080/live/shahrooz_exchange/ptv.ccshare.in/1030.ts
 http://starshare.live:8080/live/shahrooz_exchange/ptv.ccshare.in/1031.ts
 
 
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",CCTV5🇨🇳
+http://23.237.10.66:16007|User-Agent=shareext@
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",StarVijay[IN]o
+http://23.237.10.66:16054|User-Agent=shareext@
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",民视HD
+http://23.237.10.66:16334|User-Agent=shareext@
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",台视HD
+http://23.237.10.66:16344|User-Agent=shareext@
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",星卫HD电影台
+http://23.237.10.66:16359|User-Agent=shareext@
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",中天综合
+http://23.237.10.66:16372|User-Agent=shareext@
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",TV3 MY
+http://23.237.10.66:16404|User-Agent=shareext@
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",DidikTV KPM [MY]
+http://23.237.10.66:16405|User-Agent=shareext@
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",八度空间 [TW]
+http://23.237.10.66:16406|User-Agent=shareext@
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",翡翠华丽台 [MY]
+http://23.237.10.66:16410|User-Agent=shareext@
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",Go|Shop🇲🇾
+http://23.237.10.66:16426|User-Agent=shareext@
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",CGTN
+http://23.237.10.66:16428|User-Agent=shareext@
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",astro.Oasis🇲🇾
+http://23.237.10.66:16471|User-Agent=shareext@
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",CGTN DOC.
+http://23.237.10.66:16473|User-Agent=shareext@
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",Suria[MY]
+http://23.237.10.66:16492|User-Agent=shareext@
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="ShaReExT@馃嚥馃嚲 MalaysiaN_Channel",Astro Cricket
 http://adamtvonline.com:8080/111111111111/222222222222/104711
