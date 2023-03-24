@@ -711,6 +711,17 @@ https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/142606
 #EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-name="IMPACT WRESTLING 24/7" tvg-logo="http://got.vampirereapers.xyz:2052/images/IMPACT WRESTLING.png" group-title="ShareExt@FIGHT_Sports",IMPACT™WRESTLING•24/7
 https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/163121
 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",RCTI**
+https://morning-disk-98a4.mangako.workers.dev/play.m3u8?id=rcti&key=rctiplus&type=hls|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",MNCTV**
+https://morning-disk-98a4.mangako.workers.dev/play.m3u8?id=mnctv&key=rctiplus&type=hls|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",GTV**
+https://morning-disk-98a4.mangako.workers.dev/play.m3u8?id=gtv&key=rctiplus&type=hls|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",INEWS**
+https://morning-disk-98a4.mangako.workers.dev/play.m3u8?id=inews&key=rctiplus&type=hls|user-agent=Dalvik/2.1.0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Soccer|Channel.1^
 http://kkimco03.oknirvana.club:8880/12mm130128/26367772/60451
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",Soccer|Channel.2^
@@ -2854,65 +2865,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
 
 
-
-
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Star•Vijay
-http://50.7.69.66/test/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Star•plus
-http://50.7.69.66/star_plus/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Zee•keralam 
-http://50.7.69.66/zee_keralam/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Zee•cinema 
-http://50.7.69.66/ZEECINEMAHD/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Star•Bharat 
-http://50.7.69.66/star_bharat/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Utv•movies 
-http://50.7.69.66/UTV_MOVIES/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Star•gold 
-http://50.7.69.66/star_gold/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Sun•life
-http://50.7.69.66/sun_life/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Zee•thirai 
-http://50.7.69.66/Zee_Thirai/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Hbo•
-http://50.7.69.66/hbo/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Star•JALSHA 
-http://50.7.69.66/starjalsha/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Sony•sab 
-http://50.7.69.66/SAB/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Sony•set 
-http://50.7.69.66/sonytv/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Mazavil•manorama 
-http://50.7.69.66/mazavilmanorama/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",MTV•beats 
-http://50.7.69.66/mtv_beats/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Harvest•
-http://50.7.69.66/harvest/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Pirai•TV 
-http://50.7.69.66/pirai/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",RAJ•TV 
-http://50.7.69.66/raj_tv/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Colors•tamil 
-http://50.7.69.66/COLORS_TAMIL/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Etv•life
-http://50.7.69.66/etv_life/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Colors•hd
-http://50.7.69.66/COLORSHD/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Gemini•life 
-http://50.7.69.66/GEMINI_LIFE/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Gemini•music 
-http://50.7.69.66/GEMINI_MUSIC/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Asianet•plus 
-http://50.7.69.66/asianetplus/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Etv•cinema
-http://50.7.69.66/etv_cinema/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Etv•plus 
-http://50.7.69.66/etv_plus/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",GEMINI•comedy 
-http://50.7.69.66/GEMINI_COMEDY/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Etv•abhiruchi 
-http://50.7.69.66/ETV_ABHIRUCHI/index.m3u8
 
 
 
