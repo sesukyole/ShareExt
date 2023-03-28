@@ -69,7 +69,7 @@ http://insverpro.my.id/play.m3u8?id=mnctv&key=rctiplus&type=hls&username=shareex
 http://insverpro.my.id/play.m3u8?id=gtv&key=rctiplus&type=hls&username=shareext|user-agent=Dalvik/2.1.0
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",INEWS+🇮🇩
 http://insverpro.my.id/play.m3u8?id=inews&key=rctiplus&type=hls&username=shareext|user-agent=Dalvik/2.1.0
-EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TransTv🇮🇩
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TransTv🇮🇩
 http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/56833.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Trans7🇮🇩
 http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/72876.ts
@@ -163,6 +163,17 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV-5H265_4000
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Cctv.5+🇨🇳
 http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",cctv5+•🇨🇳
+https://epg.pw/stream/be53cea9122c4a96cc59c0fe142df0f049c0c79e1e2a34d7a12323511a7142cd.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",cctv5+••🇨🇳
+https://epg.pw/stream/3ae8a3108651fef2343fbd5116ee7ec83d91822eaf488e4b9d37d861272ade77.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",cctv5+*🇨🇳
+https://epg.pw/stream/5578728c740b4450f1b898661c4b433328f51644649b2da2b9967f0d7e582fe7.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",cctv16.🇨🇳
+https://epg.pw/stream/8985aed79c7bd61d72044e09bfebb2b5c0fb4abee95afb17f57736c28dba4fb9.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",cctv16**🇨🇳
+https://epg.pw/stream/d428412857d3d9f537f83a5df839985132eea91eb2728b7af3b9520da222fb0d.m3u8
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TVN•SPORTS_🇰🇷
 https://cdn-us-154.cloudrsst.com/live/olivetv_540/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV_🇰🇷
