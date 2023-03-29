@@ -1406,6 +1406,189 @@ http://live.apicold.com/streaming/02_sport6_480p/chunklist.m3u8?token=MTMzMzQzND
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="⚽ Premier League⚽" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/premier_league.png" group-title="SHAREEXT@# Premier League ⚽",⚽ Premier League⚽
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330316.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Premier League: Sky Sports Premier League" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/premier_league.png" group-title="SHAREEXT@# Premier League ⚽",SKySports PremierLeague
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/282999.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Premier League: Sky Sports Football" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/premier_league.png" group-title="SHAREEXT@# Premier League ⚽",SkySports Football
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/283000.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Premier League: Sky Sports Main Event" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/premier_league.png" group-title="SHAREEXT@# Premier League ⚽",SkySports MainEvent
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/283001.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Premier League: Sky Sports Arena" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/premier_league.png" group-title="SHAREEXT@# Premier League ⚽",SKysports Arena
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/283002.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Premier League: Eurosport 1 HD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/premier_league.png" group-title="SHAREEXT@# Premier League ⚽",EuroSport_HD 
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/283005.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Premier League: Eurosport 2 HD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/premier_league.png" group-title="SHAREEXT@# Premier League ⚽",Eurosport 2 HD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/283006.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Premier League: LFC FHD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/premier_league.png" group-title="SHAREEXT@# Premier League ⚽",LFC FHD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/283010.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Premier League: Premier Sports 1" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/premier_league.png" group-title="SHAREEXT@# Premier League ⚽",Premier Sports 1
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/283015.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Premier League: Premier Sports 2" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/premier_league.png" group-title="SHAREEXT@# Premier League ⚽",Premier Sports 2
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/283016.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Premier League: Sky Sports Cricket" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/premier_league.png" group-title="SHAREEXT@# Premier League ⚽",SkySports Cricket
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/283018.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Premier League: BT Sport 1 FHD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/premier_league.png" group-title="SHAREEXT@# Premier League ⚽",BT•Sport 1 FHD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/283023.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Premier League: BT Sport 2 FHD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/premier_league.png" group-title="SHAREEXT@# Premier League ⚽",BT•Sport 2 FHD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/283024.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Premier League: BT Sport 3 FHD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/premier_league.png" group-title="SHAREEXT@# Premier League ⚽",BT•Sport 3 FHD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/283025.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Premier League: BT Sport ESPN FHD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/premier_league.png" group-title="SHAREEXT@# Premier League ⚽",BT•Sport ESPN FHD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/283026.ts
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: M. Liga Campeones HD (ES)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",Liga Campeones HD (ES)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/232304.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: ESPN 1 HD (LAT)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",ESPN 1 HD (LAT)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/232314.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: ESPN 2 HD (LAT)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",ESPN2 HD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/232315.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: ESPN 3 HD (LAT)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",ESPN 3 HD (LAT)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/232316.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: TUDN X1" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",TUDN X1
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/232293.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: TUDN X2" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",TUDN X2
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/232294.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: TUDN X3" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",TUDN X3
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/232295.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: TUDN X4" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",TUDN X4
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/232296.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: TUDN X5" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",TUDN X5
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/232297.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: TUDN X6" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",TUDN X6
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/232298.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: TUDN X7" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",TUDN X7
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/232299.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: TUDN X8" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",TUDN X8
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/232300.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: TUDN X9" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",TUDN X9
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/232301.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: TUDN X10" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",TUDN X10
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/232302.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: TUDN X11" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",TUDN X11
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/232303.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: TUDN HD (US)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",TUDN HD (US)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/232292.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: BT Sport 1 HD (UK)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",BT Sport 1 HD (UK)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/232305.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: BT Sport 2 HD (UK)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",BT Sport 2 HD (UK)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/232306.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: BT Sport 3 HD (UK)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",BT Sport 3 HD (UK)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/232307.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: Eleven Sports 1 (PT)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",Eleven Sports 1 (PT)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/232308.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: Eleven Sports 2 (PT)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",Eleven Sports 2 (PT)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/232309.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: Eleven Sports 3 (PT)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",Eleven Sports 3 (PT)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/232310.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: Eleven Sports 4 (PT)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",Eleven Sports 4 (PT)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/232311.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: Eleven Sports 5 (PT)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",Eleven Sports 5 (PT)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/232312.ts
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" ⚽ La Liga⚽" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽",La Liga⚽
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250963.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: Dazn 2 HD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽", Dazn 2 HD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250850.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: Dazn 3 HD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽", Dazn 3 HD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250852.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: Dazn 4 HD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽", Dazn 4 HD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250854.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: M. LaLiga SD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽",M. LaLiga SD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250859.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: M. LaLiga HD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽",M. LaLiga HD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250861.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: M. LaLiga 2" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽",M. LaLiga 2
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250871.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: M. LaLiga 3" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽",M. LaLiga 3
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250873.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: M. LaLiga 3 FHD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽",M. LaLiga 3 FHD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250874.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: M. LaLiga 4" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽",M. LaLiga 4
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250875.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: M. LaLiga 5" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽",M. LaLiga 5
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250877.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: M. LaLiga 6" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽",M. LaLiga 6
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250878.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: M. LaLiga 7" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽",M. LaLiga 7
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250879.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: M. LaLiga 8" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽",M. LaLiga 8
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250880.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: #Vamos HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="SHAREEXT@# La Liga ⚽", #Vamos HD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250899.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: Barça TV" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽", Barça TV
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250914.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: Real Madrid TV" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽",Real Madrid TV
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250916.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: Teledeporte" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽",Teledeporte
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250918.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: GOL SD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="SHAREEXT@# La Liga ⚽", GOL SD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250920.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: M. Deportes" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="SHAREEXT@# La Liga ⚽",M. Deportes
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250927.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: M. Deportes HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="SHAREEXT@# La Liga ⚽",M. Deportes HD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250928.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: M. Deportes 1 (solo eventos)" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="SHAREEXT@# La Liga ⚽",M. Deportes 1 (solo eventos)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250930.ts
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Serie A: Dazn Sport 1" tvg-logo="http://vaktar.vip:8080/images/bce6d27e8d7c86235e455054a9a4143f.png" group-title="SHAREEXT@# La Serie A ⚽",Dazn Sport 1
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/232281.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Serie A: Dazn Sport 2" tvg-logo="http://vaktar.vip:8080/images/7cd012f65f50d8bb1b3b32a24074befa.png" group-title="SHAREEXT@# La Serie A ⚽",Dazn Sport 2
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/232282.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Serie A: Sport Football" tvg-logo="http://vaktar.vip:8080/images/43743e16ab545175269730ca1aa098bc.png" group-title="SHAREEXT@# La Serie A ⚽",Sport Football
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/232287.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Serie A: Sport Arena" tvg-logo="http://vaktar.vip:8080/images/43743e16ab545175269730ca1aa098bc.png" group-title="SHAREEXT@# La Serie A ⚽",Sport Arena
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/232288.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Serie ESPN 2 HD (LAT)" tvg-logo="http://vaktar.vip:8080/images/0167eb1c0613097c0602efd5320929f4.png" group-title="SHAREEXT@# La Serie A ⚽",ESPN 2 HD (LAT)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/232289.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Serie A: ESPN 2 HD (MX)" tvg-logo="http://vaktar.vip:8080/images/0167eb1c0613097c0602efd5320929f4.png" group-title="SHAREEXT@# La Serie A ⚽",ESPN 2 HD (MX)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/234511.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Serie A: C More Fotboll HD (SE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Serie_a_2021.svg/1200px-Serie_a_2021.svg.png" group-title="SHAREEXT@# La Serie A ⚽", C More Fotboll HD (SE)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/234512.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Serie A: Dazn Bar 1 HD (DE)" tvg-logo="http://vaktar.vip:8080/images/bce6d27e8d7c86235e455054a9a4143f.png" group-title="SHAREEXT@# La Serie A ⚽",Dazn Bar 1 HD (DE)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/234513.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Serie A: Sport TV 1 HD (PT)" tvg-logo="http://titanicos.net:8080/images/8225f29b46d740c25362401f91c7d0e8.png" group-title="SHAREEXT@# La Serie A ⚽",Sport TV 1 HD (PT)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/234514.ts
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: RO: Digi Sport 1" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@EU - Romania Sports ⚽",Digi Sport 1
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/10035.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: RO: Digi Sport 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@EU - Romania Sports ⚽",Digi Sport 2
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/10036.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: RO: Digi Sport 3" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@EU - Romania Sports ⚽",Digi Sport 3
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/10037.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: RO: Digi Sport 4" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@EU - Romania Sports ⚽",Digi Sport 4
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/10038.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: RO: Eurosport 1 " tvg-logo="http://tvgo.re:8080/images/311af97d1561f7130762f5761406ec91.png" group-title="SHAREEXT@EU - Romania Sports ⚽", Eurosport 1 
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/10092.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: RO: Eurosport 2" tvg-logo="http://tvgolatino.com:8080/images/47260b8f86d99ebbbdd8ad7c20f9a50e.png" group-title="SHAREEXT@EU - Romania Sports ⚽", Eurosport 2
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/10040.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: RO: Look Sport HD" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@EU - Romania Sports ⚽",Look Sport HD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/40512.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: RO: Look Sport 2 HD" tvg-logo="http://provider-tv.net:8080/images/deb03fa2c0a2d469eb587b4ef96e5d57.jpg" group-title="SHAREEXT@EU - Romania Sports ⚽",Look Sport 2 HD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/40513.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: RO: Look Sport 3 HD" tvg-logo="http://links.iptvlogin.com:8080/images/b83de9a556f0539dfb893b2e4109b824.jpg" group-title="SHAREEXT@EU - Romania Sports ⚽",Look Sport 3 HD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/40514.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: RO: Orange Sport 1 FHD" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@EU - Romania Sports ⚽", Orange Sport 1 FHD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/10046.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: RO: Orange Sport 2 FHD" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@EU - Romania Sports ⚽", Orange Sport 2 FHD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/10047.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: RO: Orange Sport 3 FHD" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@EU - Romania Sports ⚽", Orange Sport 3 FHD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/10050.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: RO: Orange Sport 4 FHD" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@EU - Romania Sports ⚽", Orange Sport 4 FHD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/10051.ts
+
 
 
 
