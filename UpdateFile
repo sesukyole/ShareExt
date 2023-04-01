@@ -2398,6 +2398,9 @@ http://93.155.227.38:555/m3u8/arenasport5.m3u8
 
 
 
+#EXTINF:-1 group-title="Shareext@⚽DUNIA_SUKAN⚽" tvg-id="supersportpremierleague.za" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league.png",SuperSport PremierLeague.tesst
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium414/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Shareext@⚽DUNIA_SUKAN⚽",SkySport|Football
 http://204.12.247.162:8080/premium35/mono.m3u8
