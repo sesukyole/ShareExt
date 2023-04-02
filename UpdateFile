@@ -39,8 +39,6 @@ http://insverpro.my.id/play.m3u8?id=204&key=vidio&type=hls&username=shareext|use
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar**hd🇮🇩
 https://sub.home-tv.my.id/first/indosiar.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_dec=auto/hardware🇮🇩
-http://203.29.26.22:8000/play/a05k/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_play🇮🇩
 http://103.167.167.5:8111/play/a00r/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_inser🇮🇩
@@ -49,9 +47,6 @@ http://insverpro.my.id/play.m3u8?id=205&key=vidio&type=hls&username=shareext|use
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=994885&extension=ts&play_token=1kEm8DbZmS
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", INDOSIAR_se_🇮🇩
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/205.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar#1(live.only)🇮🇩
-http://golive.yn.lt/live/bola/19.m3u8
-http://golive.yn.lt/live/liga1/01.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar|HD•🇮🇩
 http://shareext@line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=994885&extension=ts&play_token=shareext
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",INDOSIAR_LIGA.1™🇮🇩
@@ -1221,82 +1216,6 @@ http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/228534
 
 
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",SkySport News HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/1887
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",SkySports Golf HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/163018
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",SkySports Top Events HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/163020
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",SkySports PremierLeague 
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/161665
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",SkySport Tennis
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/161774
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",SkYSport Mix
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/161775
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",Sky Bundesliga 1 HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/1309
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",Sky Bundesliga 2 HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/139
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",Sky Bundesliga 3 HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/1174
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",Sky Bundesliga 4 HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/578
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",Sky Bundesliga 5 HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/1546
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",Sky Bundesliga 6 HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/1999
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",Sky Bundesliga 7 HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/2000
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",Sky Bundesliga 8 HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/2001
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",Sky Bundesliga 9 HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/2002
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",Sky Bundesliga 10 HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/2003
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",Amazon PrimeSport HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/133108
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",SkySport 1 HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/162167
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",SkySport 2 HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/126
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",SkySport 3 HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/2012
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",SkySport 4 HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/2013
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",SkySport 5 HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/2014
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",SkySport 6 HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/2015
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",SkySport 7 HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/2016
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",SkySport 8 HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/2017
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",SkySport 9 HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/2018
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",SkySport 10 HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/10928
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",SkySport Austria
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/163396
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",SkySport Austria 2 HD (Live Event)
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/34116
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",SkySport Austria 3 HD (Live Event)
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/34117
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",SkySport Austria 4 HD (Live Event)
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/34118
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",SkySport F1
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/115534
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",Dazn Sport
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/13863
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",Dazn Sport 2
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/13864
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",Dazn Sport Event HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/161877
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",Dazn Sport 3
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/161939
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",Dazn Sport 4
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/161940
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•DENMARK",Dazn Sport 5
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/161942
 
 
 
@@ -3170,8 +3089,6 @@ http://176.57.50.167:25461/122162/994771/61944
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY PLUS 1 4K" tvg-logo="https://i.ibb.co/TKCyhPj/Asset-16-22x.png" group-title="SHAREEXT@DISNEY PLUS 4K /  دزني بلس اعلا جودة",DISNEY PLUS 1 4K
-http:
 
 
 
