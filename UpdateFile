@@ -47,6 +47,8 @@ http://shareext@line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=994
 https://yip.su/INDOSIAR-HD-shareext
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar_vid🇮🇩
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MOOJI_usee🇮🇩
+https://beetv.my.id/x/usee-ochannel-masihsama.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MOOJI_id🇮🇩
 http://javahome.my.id:9090/play/do8jBLP2kjOtczXd30khId4SNptgwqMK_-tTEYELHtk/ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MOOJI_inser🇮🇩
@@ -579,6 +581,10 @@ http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683156&e
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571218&extension=ts&play_token=qrZfvSgHAe
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",BOO|ip
 https://ezstat.ru/boo-shareext
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",GALAXY|usee
+https://beetv.my.id/x/usee-galaxy-masihsama.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",GALAXY•PREMIUM|usee
+https://beetv.my.id/x/usee-galaxypremium-masihsama.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",LOTUS•MACAU_dec=auto
 http://nettvpro.live/hls/lotustv.php
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES_ID馃帴",FOX•ACTION•MOVIES🇸🇦
