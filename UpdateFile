@@ -15,10 +15,6 @@ https://iplogger.com/MNC-SPORT-shareext-ts
 https://iplogger.com/MNCsport-2-shareext-ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",⚽SUKAN••EMENCE••ONE🇮🇩
 http://shareext@line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683139&extension=ts&play_token=shareext
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SEEYOU•1🇮🇩
-https://beetv.my.id/x/usee-useesport-masihsama.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SEEYOU•2🇮🇩
-https://beetv.my.id/x/usee-useesports2-masihsama.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV>•1🇮🇩
 https://beetv.my.id/x/usee-spotv-masihsama.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV>•2🇮🇩
@@ -27,18 +23,10 @@ https://beetv.my.id/x/usee-spotv2-masihsama.m3u8
 https://beetv.my.id/x/usee-bein1-masihsama.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BIEN>SUKAN•3🇮🇩
 https://beetv.my.id/x/usee-bein2-masihsama.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",JUARA>TV•1🇮🇩
-https://beetv.my.id/x/vidio-championstv1-masihsama.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",JUARA>TV•2🇮🇩
-https://beetv.my.id/x/vidio-championstv2-masihsama.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax", SCTV_inser🇮🇩
-http://insverpro.my.id/play.m3u8?id=204&key=vidio&type=hls&username=shareext|user-agent=Dalvix/2.1.0
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",sctv_vid🇮🇩
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar**hd🇮🇩
 https://sub.home-tv.my.id/first/indosiar.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_inser🇮🇩
-http://insverpro.my.id/play.m3u8?id=205&key=vidio&type=hls&username=shareext|user-agent=Dalvix/2.1.0
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_hd*🇮🇩
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=994885&extension=ts&play_token=1kEm8DbZmS
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar|HD•🇮🇩
@@ -51,8 +39,6 @@ http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 https://beetv.my.id/x/usee-ochannel-masihsama.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MOOJI_id🇮🇩
 http://javahome.my.id:9090/play/do8jBLP2kjOtczXd30khId4SNptgwqMK_-tTEYELHtk/ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MOOJI_inser🇮🇩
-http://insverpro.my.id/play.m3u8?id=206&key=vidio&type=hls&username=shareext|user-agent=Dalvix/2.1.0
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ER•CE•T•I+ 🇮🇩
 https://m3u-editor.com/live/serve/6ccb72a0-cb16-11ed-bf4c-85313ab8b659/804985035.m3u8|user-agent=Dalvik/2.1.0
 https://mooncang.my.id/api/rplus/ch.m3u8?id=rcti|user-agent=Dalvik/2.1.0
@@ -533,10 +519,6 @@ https://stream.ads.ottera.tv/cl/29fmbD4wgol0FelXaMeAw/854x480_550000_3_f.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc./CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",USEESPORTS_1™
-https://maper.info/UseeSport1-Shareext
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",USEESPORTS_2™
-https://maper.info/UseeSport2-Shareext
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",RCTI🇮🇩•
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683099&extension=ts&play_token=M2PF34StIQ
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID馃嚠馃嚛",MNCTV🇮🇩•
