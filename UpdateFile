@@ -145,10 +145,6 @@ https://cdn-us-154.cloudrsst.com/live/spotv_on_540/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV_PRIME_🇰🇷
 https://cdn-us-154.cloudrsst.com/live/spotv_prime_540/playlist.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",true3._rolling🇹🇭
-http://4digital.ddns.net:11224/ts/0
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",true1._rolling🇹🇭
-http://4digital.ddns.net:11222/ts/0
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RTM_1_dec=native🇲🇾
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",0KEY_dec=native🇲🇾
@@ -511,7 +507,16 @@ http://175.107.244.52:4455/play/a00v/index.m3u8
 https://epg.pw/stream/97be145be55b8a0cbe43bdb08d3925b367f904027105ae510da4d17dff5813f0.ctv
 
 
-
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",FIGHT•SPORTS•🇮🇩
+http://rr1.dens.tv/h/h05/02.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",TVN•SPORTS•🇰🇷
+https://cdn-us-154.cloudrsst.com/live/olivetv_540/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",WWE•NETWORK•
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",ALL•JAPAN•PROWRESTLING
+https://epg.pw/stream/3e73f8afbccd08f1f6bb56e77088adc9a1881b5247ca9d0f5ddd9ecabc90c5f9.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",COMBATE•HD+
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87254
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",FITE•24/7
 http://hostengine.live/live/wrecks82/habsiptv82/58416.m3u
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",UFC•FIGHT•PASS•24/7
@@ -1841,37 +1846,8 @@ http://176.57.50.167:25461/122162/994771/78154
 http://176.57.50.167:25461/122162/994771/78155
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",SkySports Racing
 http://176.57.50.167:25461/122162/994771/78156
-
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",Alfa•Sports™
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",Eleven•Sports•1🇵🇹
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",Eleven•Sports•2🇵🇹
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",Eleven•Sports•3🇵🇹
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",Eleven•Sports•4🇵🇹
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",Eleven•Sports•5🇵🇹
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",Eleven•Sports•6🇵🇹
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽", SPORTTV•1_🇵🇹
-http://213.13.16.138/shls/LIVE$SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽", SPORTTV•2_🇵🇹
-http://213.13.16.138/shls/LIVE$SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",SPORTTV•3_🇵🇹
-http://213.13.16.138/shls/LIVE$SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",Arena•sport•1🇭🇷
-http://93.155.227.38:555/m3u8/arenasport1.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",Arena•sport•2🇭🇷
-http://93.155.227.38:555/m3u8/arenasport2.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",Arena•sport•3🇭🇷
-http://93.155.227.38:555/m3u8/arenasport3.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",Arena•sport•4🇭🇷
-http://93.155.227.38:555/m3u8/arenasport4.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SHAREEXT@⚽PLANET_SPORTS⚽",Arena•sport•5🇭🇷
-http://93.155.227.38:555/m3u8/arenasport5.m3u8
 
 
 
