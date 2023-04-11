@@ -45,8 +45,6 @@ http://shareext@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=99488
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=994885&extension=ts&play_token=1kEm8DbZmS
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar|HD_go
 http://shareext@line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=994885&extension=ts&play_token=shareext
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",INDOSIAR_yip
-https://yip.su/INDOSIAR-HD-shareext
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",indosiar_vidi
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MOJI_pro
@@ -1558,38 +1556,6 @@ http://hostengine.live/live/wrecks82/habsiptv82/53943.m3u8
 http://hostengine.live/live/wrecks82/habsiptv82/53900.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",Cctv.1_HD🇨🇳
-http://61.164.158.161/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",Cctv.2_HD🇨🇳
-http://61.164.158.161/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",Cctv.3🇨🇳
-http://61.164.158.161/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",Cctv.4_HD🇨🇳
-http://61.164.158.161/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",Cctv.5🇨🇳
-http://61.164.158.161/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",Cctv.5+_HD🇨🇳
-http://61.164.158.161/liveplay-kk.rtxapp.com/live/program/live/cctv5hd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",Cctv.6_HD🇨🇳
-http://61.164.158.161/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",Cctv.7_HD🇨🇳
-http://61.164.158.161/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",Cctv.8_HD🇨🇳
-http://61.164.158.161/liveplay-kk.rtxapp.com/live/program/live/cctv8hd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",Cctv.9_HD🇨🇳
-http://61.164.158.161/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",Cctv.10_HD🇨🇳
-http://61.164.158.161/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",Cctv.11_HD🇨🇳
-http://61.164.158.161/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",Cctv.12_HD🇨🇳
-http://61.164.158.161/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",Cctv.15_HD🇨🇳
-http://61.164.158.161/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",Cctv.16_HD🇨🇳
-http://61.164.158.161/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",Cctv.17_HD🇨🇳
-http://61.164.158.161/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•1_dec=auto
 http://live.cooltv.top/tv/aishang.php?id=cctv1hd
