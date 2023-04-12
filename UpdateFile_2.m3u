@@ -1093,6 +1093,43 @@ http://nettvpro.live/hls/lotustv.php
 https://epg.pw/stream/e31509efb47f11f8cca8458dc19c223ba3d2cb38b6e7658875ce4b4d2facc390.ctv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",myTimeMovies
 https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩CelestialClassicMovies
+http://rr2.dens.tv/s/s31/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩CelestialMovies Indonesia
+http://210.210.155.35/session/5bf247f6-7a97-11ec-8b65-b82a72d63267/dr9445/h/h14/index.m3u8
+http://rr.dens.tv/h/h14/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩Cinema Europe
+http://rr.dens.tv/h/h18/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩Cinema World
+http://rr1.dens.tv/h/h04/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩KIX
+http://rr1.dens.tv/h/h07/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩Kplus
+http://rr.dens.tv/h/h08/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩My Kidz
+http://rr.dens.tv/h/h191/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩Rock Entertainment
+http://210.210.155.37/dr9445/h/h16/01.m3u8
+http://rr1.dens.tv/h/h16/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩Rock Action
+http://210.210.155.37/dr9445/h/h15/01.m3u8
+http://rr1.dens.tv/h/h15/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩Thrill
+http://rr2.dens.tv/s/s34/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩ToonMax
+http://rr2.dens.tv/s/s50/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩TVN Movies Indonesia
+http://rr1.dens.tv/h/h21/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩TVN Premium Indonesia
+http://rr1.dens.tv/h/h20/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩Xing Kong TV
+http://rr3.dens.tv/s/s94/index2.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩Zee Bioskop
+http://rr2.dens.tv/s/s32/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",FOX_Movies(arb)
+http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=348064&extension=ts&play_token=w1Gs5vyU6z
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Fox.Movies.Action(arb)
+http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=14447&extension=ts&play_token=SzSdQEwOue
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",BOX Movie
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?bySCTV|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Family Flix
