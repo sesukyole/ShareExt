@@ -1251,7 +1251,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-4
 
 
 
-
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",UFC•RUSIA
+http://45.12.1.14:80/dsxBAoARh2/sXF4Np39/64022
 #EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="Sony Ten 1 HD IN" tvg-logo="https://picon-13398.kxcdn.com/sonyten1in.jpg" group-title="ShareExt@FIGHT_Sports",Sony_Ten 1 HD
 http://45.12.1.14:80/dsxBAoARh2/sXF4Np39/10168
 #EXTINF:-1 tvg-id="SonyTEN2.in" tvg-name="Sony Ten 2 HD IN" tvg-logo="https://picon-13398.kxcdn.com/sonyten2in.jpg" group-title="ShareExt@FIGHT_Sports",Sony_Ten 2 HD
@@ -1266,7 +1267,6 @@ http://45.12.1.14:80/dsxBAoARh2/sXF4Np39/15339
 http://45.12.1.14:80/dsxBAoARh2/sXF4Np39/11983
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",Rus:Arena
 http://45.12.1.14:80/dsxBAoARh2/sXF4Np39/15278
-
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",FIGHT•SPORTS.🇮🇩
 http://rr1.dens.tv/h/h05/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",TVN•SPORTS.🇰🇷
