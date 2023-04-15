@@ -1073,10 +1073,22 @@ http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683156&e
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571218&extension=ts&play_token=qrZfvSgHAe
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",BOO
 https://maper.info/BOO-SHAREEXT-ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",BOO*
+http://starshare.live:8080/live/vpcniptv01/95478562/143068.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",HuaHeTai*
+http://starshare.live:8080/live/vpcniptv01/95478562/143107.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",XiaoTaiYang*
+http://starshare.live:8080/live/vpcniptv01/95478562/143057.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",ChuanCia*
+http://starshare.live:8080/live/vpcniptv01/95478562/143052.ts
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",GALAXY|usee
-
+http://iptvid.my.id/hmm/Arviams/ams600/galaxy.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",GALAXY•pREMIUM|usee
-
+http://iptvid.my.id/hmm/Arviams/ams600/galaxypremium.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",CELESTIAS•MOVIE|usee
+http://iptvid.my.id/hmm/Arviams/ams600/celestialmovie.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",DUNIA•LAIN|usee
+http://iptvid.my.id/hmm/Arviams/ams600/dunialain.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",LOTUS•mACAU_dec=auto
 http://nettvpro.live/hls/lotustv.php
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",FOX•ACTION•MOVIES
