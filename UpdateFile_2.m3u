@@ -129,17 +129,6 @@ https://epg.pw/stream/8985aed79c7bd61d72044e09bfebb2b5c0fb4abee95afb17f57736c28d
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",cctv16*|🇨🇳
 https://epg.pw/stream/d428412857d3d9f537f83a5df839985132eea91eb2728b7af3b9520da222fb0d.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TVN•SPORTS_🇰🇷
-https://cdn-us-154.cloudrsst.com/live/olivetv_540/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV_🇰🇷
-https://cdn-us-154.cloudrsst.com/live/spotv_540/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV_2_🇰🇷
-https://cdn-us-154.cloudrsst.com/live/spotv_2_540/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV_ON_🇰🇷
-https://cdn-us-154.cloudrsst.com/live/spotv_on_540/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV_PRIME_🇰🇷
-https://cdn-us-154.cloudrsst.com/live/spotv_prime_540/playlist.m3u8
-
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RTM_1_dec=native🇲🇾
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",0KEY_dec=native🇲🇾
@@ -1279,10 +1268,84 @@ http://45.12.1.14:80/dsxBAoARh2/sXF4Np39/15339
 http://45.12.1.14:80/dsxBAoARh2/sXF4Np39/11983
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",Rus:Arena
 http://45.12.1.14:80/dsxBAoARh2/sXF4Np39/15278
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",FITE•24/7
+http://hostengine.live/live/wrecks82/habsiptv82/58416.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",UFC•FIGHT•PASS•24/7
+http://hostengine.live/live/wrecks82/habsiptv82/109953.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",UFC•1 -
+http://hostengine.live/live/wrecks82/habsiptv82/53599.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",UFC•2 -
+http://hostengine.live/live/wrecks82/habsiptv82/53311.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",REDBOXTV:GLORY•KICKBOXING
+http://hostengine.live/live/wrecks82/habsiptv82/171153.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",FOXSPORTS•1
+http://hostengine.live/live/wrecks82/habsiptv82/234405.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",FOXSPORTS•2
+http://hostengine.live/live/wrecks82/habsiptv82/234406.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",STADIUM•
+http://hostengine.live/live/wrecks82/habsiptv82/234413.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",PL:FIGHTBOX•
+http://hostengine.live/live/wrecks82/habsiptv82/61877.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",PL:POLSAT•SPORT•FIGHT
+http://hostengine.live/live/wrecks82/habsiptv82/61923.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",USA:CHANNEL•FIGHT
+http://hostengine.live/live/wrecks82/habsiptv82/137743.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",USA:FIGHT•NETWORK
+http://hostengine.live/live/wrecks82/habsiptv82/137774.m3u8
+#EXTINF:-1,USA:HARDâ€¢KNOCKS
+http://hostengine.live/live/wrecks82/habsiptv82/137789.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",USA:IMPACT•WRESTLING
+http://hostengine.live/live/wrecks82/habsiptv82/137795.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",USA:MMA•TV
+http://hostengine.live/live/wrecks82/habsiptv82/137814.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",PLUTOTV:BELLATOR•MMA
+http://hostengine.live/live/wrecks82/habsiptv82/138811.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",PLUTOTV:FIGHT•
+http://hostengine.live/live/wrecks82/habsiptv82/138657.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",PLUTOTV:FLICKS OF FURY
+http://hostengine.live/live/wrecks82/habsiptv82/138673.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",PLUTOTV:FOXSPORTS
+http://hostengine.live/live/wrecks82/habsiptv82/138683.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",PLUTOTV:GLORY•KICKBOXING
+http://hostengine.live/live/wrecks82/habsiptv82/138633.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",PLUTOTV:IMPACT•WRESTLING
+http://hostengine.live/live/wrecks82/habsiptv82/138676.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",DISTROTV:HARD•KNOCKS
+http://hostengine.live/live/wrecks82/habsiptv82/140446.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",DISTROTV:ADVENTURE•SPORTS TV
+http://hostengine.live/live/wrecks82/habsiptv82/168495.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",DISTROTV:FLOSPORTS
+http://hostengine.live/live/wrecks82/habsiptv82/168498.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",DISTROTV:FLOSPORTS HIGH IMPACT
+http://hostengine.live/live/wrecks82/habsiptv82/168499.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",DISTROTV:FRIGHTFLIX
+http://hostengine.live/live/wrecks82/habsiptv82/168473.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",DISTROTV:HARD•KNOCKS
+http://hostengine.live/live/wrecks82/habsiptv82/140446.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",DISTROTV:MMA•JUNKIE
+http://hostengine.live/live/wrecks82/habsiptv82/140447.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",DISTROTV:SPORTSGRID
+http://hostengine.live/live/wrecks82/habsiptv82/168506.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",DISTROTV:STRONGMAN•CHAMPIONS•LEAGUE
+http://hostengine.live/live/wrecks82/habsiptv82/168507.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",DISTROTV:UNITED•FIGHT•ALLIANCE
+http://hostengine.live/live/wrecks82/habsiptv82/168510.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",HEROGO•TV:FIGHT•NIGHT
+http://hostengine.live/live/wrecks82/habsiptv82/146106.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",HEROGO•TV:FIGHTTVPLUS
+http://hostengine.live/live/wrecks82/habsiptv82/146089.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",HEROGO•TV:HARD•KNOCKS
+http://hostengine.live/live/wrecks82/habsiptv82/146085.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",TEN•1 HD
+http://hostengine.live/live/wrecks82/habsiptv82/69326.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",SONY•SIX HD
+http://hostengine.live/live/wrecks82/habsiptv82/69317.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",TEN•3 HD
+http://hostengine.live/live/wrecks82/habsiptv82/69318.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",FIGHT•SPORTS.🇮🇩
 http://rr1.dens.tv/h/h05/02.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",TVN•SPORTS.🇰🇷
-https://cdn-us-154.cloudrsst.com/live/olivetv_540/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",WWE•NETWORK
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",MMA_TV
