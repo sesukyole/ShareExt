@@ -1245,7 +1245,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
 
 
-
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",COMBATE
+http://maxpro.cc:2095/live/Area504/504restream/3402.ts
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",UFC•RUSIA
 http://45.12.1.14:80/dsxBAoARh2/sXF4Np39/64022
 #EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="Sony Ten 1 HD IN" tvg-logo="https://picon-13398.kxcdn.com/sonyten1in.jpg" group-title="ShareExt@FIGHT_Sports",Sony_Ten 1 HD
