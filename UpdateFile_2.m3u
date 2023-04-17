@@ -261,8 +261,6 @@ http://pprotv.com:80/live/rakan111/rakan111/39502.ts
 http://pprotv.com:80/live/rakan111/rakan111/39503.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",HBO•SIG
 http://pprotv.com:80/live/rakan111/rakan111/39504.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",ANTV
-https://yellow-scene-3375.bronx.workers.dev/https://mooncang.my.id/api/dailymotion/dm.php?id=x8chy4s&name=antv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Sctv_vd
 http://tvnid.x10.mx/1/master-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",MojiTv_vd
@@ -768,8 +766,6 @@ http://kuchini.site:8080/mosesmn/4e40546ad6/295291
 http://kuchini.site:8080/mosesmn/4e40546ad6/266813
 #EXTINF:-1 tvg-id="" tvg-name="ID: Zee Bioskop" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="SHAREEXT@TIVI•Indonesia",Zee Bioskop
 http://kuchini.site:8080/mosesmn/4e40546ad6/157584
-
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: RTM TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/709e30cbe3d7b9710f54e41156389475.jpg" group-title="SHAREEXT@TIVI•Malaysia",TV 1
@@ -1522,8 +1518,6 @@ http://shareext@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115617&exten
 http://shareext@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115618&extension=ts&play_token=Shareext@.m3u8
 
 
-
-
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",AstroSport_1_dd
 https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium123/tracks-v1a1/mono.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",AstroSport_2_dd
@@ -2075,9 +2069,6 @@ http://ttv.bz:80/jRMAWCqMy5/Wi7pzbKj9X/2706
 http://ttv.bz:80/jRMAWCqMy5/Wi7pzbKj9X/2707
 
 
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="UFC FHD RU" tvg-logo="https://picon-13398.kxcdn.com/ufcppv.jpg" group-title="SHAREeXT@RUSIA_SPORTS",UFC FHDS
 http://45.12.1.14:80/dsxBAoARh2/sXF4Np39/64022
 #EXTINF:-1 tvg-id="" tvg-name="Match! Premier HD RU" tvg-logo="https://picon-13398.kxcdn.com/matchpremierru.jpg" group-title="SHAREeXT@RUSIA_SPORTS",Match! Premier HD 
@@ -2143,7 +2134,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/36879
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5361
 
 
-
 #EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-name="SuperSport PSL HD ZA" tvg-logo="https://picon-13398.kxcdn.com/supersport-psl-za.jpg" group-title="SHAREEXT@SUKAN|African Countries",SuperSport PSL HD
 http://45.12.1.14:80/dsxBAoARh2/sXF4Np39/28894
 #EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-name="SuperSport LaLiga HD ZA" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg" group-title="SHAREEXT@SUKAN|African Countries",SuperSport LaLiga HD 
@@ -2174,6 +2164,142 @@ http://45.12.1.14:80/dsxBAoARh2/sXF4Np39/28906
 http://45.12.1.14:80/dsxBAoARh2/sXF4Np39/28907
 
 
+#EXTINF:-1 tvg-id="" tvg-name="SP: Premier League: Sky Sports Premier League" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/premier_league.png" group-title="SHAREEXT@# Premier League ⚽",SkySports PremierLeague
+http://maxpro.cc:2095/live/Area504/504restream/282999.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Premier League: Sky Sports Football" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/premier_league.png" group-title="SHAREEXT@# Premier League ⚽",SkySports Football
+http://maxpro.cc:2095/live/Area504/504restream/283000.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Premier League: Sky Sports Main Event" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/premier_league.png" group-title="SHAREEXT@# Premier League ⚽",SkySports MainEvent
+http://maxpro.cc:2095/live/Area504/504restream/283001.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Premier League: Sky Sports Arena" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/premier_league.png" group-title="SHAREEXT@# Premier League ⚽",SkySports Arena
+http://maxpro.cc:2095/live/Area504/504restream/283002.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Premier League: Eurosport 1 HD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/premier_league.png" group-title="SHAREEXT@# Premier League ⚽",Eurosport 1 HD
+http://maxpro.cc:2095/live/Area504/504restream/283005.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Premier League: Eurosport 2 HD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/premier_league.png" group-title="SHAREEXT@# Premier League ⚽",Eurosport 2 HD
+http://maxpro.cc:2095/live/Area504/504restream/283006.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Premier League: LFC FHD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/premier_league.png" group-title="SHAREEXT@# Premier League ⚽",LFC FHD
+http://maxpro.cc:2095/live/Area504/504restream/283010.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Premier League: Premier Sports 1" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/premier_league.png" group-title="SHAREEXT@# Premier League ⚽",Premier Sports 1
+http://maxpro.cc:2095/live/Area504/504restream/283015.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Premier League: Premier Sports 2" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/premier_league.png" group-title="SHAREEXT@# Premier League ⚽",Premier Sports 2
+http://maxpro.cc:2095/live/Area504/504restream/283016.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Premier League: Sky Sports Cricket" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/premier_league.png" group-title="SHAREEXT@# Premier League ⚽",SkySports Cricket
+http://maxpro.cc:2095/live/Area504/504restream/283018.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Premier League: BT Sport 1 FHD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/premier_league.png" group-title="SHAREEXT@# Premier League ⚽",BT Sport 1 FHD
+http://maxpro.cc:2095/live/Area504/504restream/283023.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Premier League: BT Sport 2 FHD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/premier_league.png" group-title="SHAREEXT@# Premier League ⚽",BT Sport 2 FHD
+http://maxpro.cc:2095/live/Area504/504restream/283024.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Premier League: BT Sport 3 FHD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/premier_league.png" group-title="SHAREEXT@# Premier League ⚽",BT Sport 3 FHD
+http://maxpro.cc:2095/live/Area504/504restream/283025.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Premier League: BT Sport ESPN FHD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/premier_league.png" group-title="SHAREEXT@# Premier League ⚽",BT Sport ESPN FHD
+http://maxpro.cc:2095/live/Area504/504restream/283026.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: BT Sport 1 HD (UK)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",BT Sport 1 HD (UK)
+http://maxpro.cc:2095/live/Area504/504restream/232305.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: BT Sport 2 HD (UK)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",BT Sport 2 HD (UK)
+http://maxpro.cc:2095/live/Area504/504restream/232306.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: BT Sport 3 HD (UK)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽", BT Sport 3 HD (UK)
+http://maxpro.cc:2095/live/Area504/504restream/232307.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: Eleven Sports 1 (PT)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",Eleven Sports 1 (PT)
+http://maxpro.cc:2095/live/Area504/504restream/232308.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: Eleven Sports 2 (PT)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",Eleven Sports 2 (PT)
+http://maxpro.cc:2095/live/Area504/504restream/232309.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: Eleven Sports 3 (PT)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",Eleven Sports 3 (PT)
+http://maxpro.cc:2095/live/Area504/504restream/232310.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: Eleven Sports 4 (PT)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",Eleven Sports 4 (PT)
+http://maxpro.cc:2095/live/Area504/504restream/232311.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: Eleven Sports 5 (PT)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",Eleven Sports 5 (PT)
+http://maxpro.cc:2095/live/Area504/504restream/232312.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: M. Liga Campeones HD (ES)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",M. Liga Campeones HD (ES)
+http://maxpro.cc:2095/live/Area504/504restream/232304.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: ESPN 1 HD (LAT)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",ESPN 1 HD (LAT)
+http://maxpro.cc:2095/live/Area504/504restream/232314.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: ESPN 2 HD (LAT)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",ESPN 2 HD (LAT)
+http://maxpro.cc:2095/live/Area504/504restream/232315.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: ESPN 3 HD (LAT)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",ESPN 3 HD (LAT)
+http://maxpro.cc:2095/live/Area504/504restream/232316.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: TUDN X1" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",TUDN X1
+http://maxpro.cc:2095/live/Area504/504restream/232293.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: TUDN X2" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",TUDN X2
+http://maxpro.cc:2095/live/Area504/504restream/232294.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: TUDN X3" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",TUDN X3
+http://maxpro.cc:2095/live/Area504/504restream/232295.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: TUDN X4" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/UEFA_Champions_League.png" group-title="SHAREEXT@# UEFA Champion League ⚽",TUDN X4
+http://maxpro.cc:2095/live/Area504/504restream/232296.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: Dazn 2 HD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽",Dazn 2 HD
+http://maxpro.cc:2095/live/Area504/504restream/250850.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: Dazn 3 HD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽",Dazn 3 HD
+http://maxpro.cc:2095/live/Area504/504restream/250852.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: Dazn 4 HD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽",Dazn 4 HD
+http://maxpro.cc:2095/live/Area504/504restream/250854.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: M. LaLiga HD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽",M. LaLiga HD
+http://maxpro.cc:2095/live/Area504/504restream/250861.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: M. LaLiga 2" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽",M. LaLiga 2
+http://maxpro.cc:2095/live/Area504/504restream/250871.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: M. LaLiga 3" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽",M. LaLiga 3
+http://maxpro.cc:2095/live/Area504/504restream/250873.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: M. LaLiga 4" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽",M. LaLiga 4
+http://maxpro.cc:2095/live/Area504/504restream/250875.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: M. LaLiga 5" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽",M. LaLiga 5
+http://maxpro.cc:2095/live/Area504/504restream/250877.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: M. LaLiga 6" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽",M. LaLiga 6
+http://maxpro.cc:2095/live/Area504/504restream/250878.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: M. LaLiga 7" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽",M. LaLiga 7
+http://maxpro.cc:2095/live/Area504/504restream/250879.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: M. LaLiga 8" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽",M. LaLiga 8
+http://maxpro.cc:2095/live/Area504/504restream/250880.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: #Vamos HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="SHAREEXT@# La Liga ⚽", #Vamos HD
+http://maxpro.cc:2095/live/Area504/504restream/250899.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: Barça TV" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽",Barça TV
+http://maxpro.cc:2095/live/Area504/504restream/250914.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: Real Madrid TV" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽",Real Madrid TV
+http://maxpro.cc:2095/live/Area504/504restream/250916.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: Teledeporte" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/laliga.png" group-title="SHAREEXT@# La Liga ⚽",Teledeporte
+http://maxpro.cc:2095/live/Area504/504restream/250918.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: GOL SD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="SHAREEXT@# La Liga ⚽", GOL SD
+http://maxpro.cc:2095/live/Area504/504restream/250920.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: M. Deportes" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="SHAREEXT@# La Liga ⚽",M. Deportes
+http://maxpro.cc:2095/live/Area504/504restream/250927.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: M. Deportes HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="SHAREEXT@# La Liga ⚽",M. Deportes HD
+http://maxpro.cc:2095/live/Area504/504restream/250928.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Serie A: Dazn Sport 1" tvg-logo="http://vaktar.vip:8080/images/bce6d27e8d7c86235e455054a9a4143f.png" group-title="SHAREEXT@# La Serie A ⚽",Dazn Sport 1
+http://maxpro.cc:2095/live/Area504/504restream/232281.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Serie A: Dazn Sport 2" tvg-logo="http://vaktar.vip:8080/images/7cd012f65f50d8bb1b3b32a24074befa.png" group-title="SHAREEXT@# La Serie A ⚽",Dazn Sport 2
+http://maxpro.cc:2095/live/Area504/504restream/232282.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Serie A: Sport Football" tvg-logo="http://vaktar.vip:8080/images/43743e16ab545175269730ca1aa098bc.png" group-title="SHAREEXT@# La Serie A ⚽",Sport Football
+http://maxpro.cc:2095/live/Area504/504restream/232287.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Serie A: Sport Arena" tvg-logo="http://vaktar.vip:8080/images/43743e16ab545175269730ca1aa098bc.png" group-title="SHAREEXT@# La Serie A ⚽",Sport Arena
+http://maxpro.cc:2095/live/Area504/504restream/232288.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Serie ESPN 2 HD (LAT)" tvg-logo="http://vaktar.vip:8080/images/0167eb1c0613097c0602efd5320929f4.png" group-title="SHAREEXT@# La Serie A ⚽",ESPN 2 HD (LAT)
+http://maxpro.cc:2095/live/Area504/504restream/232289.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Serie A: ESPN 2 HD (MX)" tvg-logo="http://vaktar.vip:8080/images/0167eb1c0613097c0602efd5320929f4.png" group-title="SHAREEXT@# La Serie A ⚽",ESPN 2 HD (MX)
+http://maxpro.cc:2095/live/Area504/504restream/234511.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Serie A: C More Fotboll HD (SE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Serie_a_2021.svg/1200px-Serie_a_2021.svg.png" group-title="SHAREEXT@# La Serie A ⚽", C More Fotboll HD (SE)
+http://maxpro.cc:2095/live/Area504/504restream/234512.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Serie A: Dazn Bar 1 HD (DE)" tvg-logo="http://vaktar.vip:8080/images/bce6d27e8d7c86235e455054a9a4143f.png" group-title="SHAREEXT@# La Serie A ⚽",Dazn Bar 1 HD (DE)
+http://maxpro.cc:2095/live/Area504/504restream/234513.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Serie A: Sport TV 1 HD (PT)" tvg-logo="http://titanicos.net:8080/images/8225f29b46d740c25362401f91c7d0e8.png" group-title="SHAREEXT@# La Serie A ⚽",Sport TV 1 HD (PT)
+http://maxpro.cc:2095/live/Area504/504restream/234514.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Bundesliga: Sky Sports 1 FHD" tvg-logo="" group-title="SHAREEXT@# La Bundesliga ⚽", SkySports 1 FHD
+http://maxpro.cc:2095/live/Area504/504restream/232204.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Bundesliga: FLYERALARM Frauen Bundesliga 1 FHD" tvg-logo="" group-title="SHAREEXT@# La Bundesliga ⚽", FLYERALARM Frauen Bundesliga 1 FHD
+http://maxpro.cc:2095/live/Area504/504restream/232217.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Bundesliga: Sky Bundesliga 2 FHD" tvg-logo="" group-title="SHAREEXT@# La Bundesliga ⚽", Sky Bundesliga 2 FHD
+http://maxpro.cc:2095/live/Area504/504restream/232218.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Bundesliga: Sky Bundesliga 3 FHD" tvg-logo="" group-title="SHAREEXT@# La Bundesliga ⚽",Sky Bundesliga 3 FHD
+http://maxpro.cc:2095/live/Area504/504restream/232219.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Bundesliga: Sky Bundesliga 4 FHD" tvg-logo="" group-title="SHAREEXT@# La Bundesliga ⚽",Sky Bundesliga 4 FHD
+http://maxpro.cc:2095/live/Area504/504restream/232220.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Bundesliga: Sky Bundesliga 5 HD (Solo Eventos)" tvg-logo="" group-title="SHAREEXT@# La Bundesliga ⚽", Sky Bundesliga 5 HD (Solo Eventos)
+http://maxpro.cc:2095/live/Area504/504restream/232200.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Bundesliga: Sky Bundesliga 6 HD (Solo Eventos)" tvg-logo="" group-title="SHAREEXT@# La Bundesliga ⚽", Sky Bundesliga 6 HD (Solo Eventos)
+http://maxpro.cc:2095/live/Area504/504restream/232202.ts
 
 
 #EXTINF:-1 tvg-id="Eurosport1.ro" tvg-name="Eurosport 1 HD RO" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="SHAREEXT@SUKAN|Romania",Eurosport 1 HD
@@ -2206,9 +2332,6 @@ http://45.12.1.14:80/dsxBAoARh2/sXF4Np39/14599
 http://45.12.1.14:80/dsxBAoARh2/sXF4Np39/27539
 
 
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport 1 NZ" tvg-logo="https://picon-13398.kxcdn.com/skysportnz.jpg" group-title="SHAREEXT@SKYSPORT|NEWZELAND",SkySport 1 
 http://45.12.1.14:80/dsxBAoARh2/sXF4Np39/117429
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport 2 NZ" tvg-logo="https://picon-13398.kxcdn.com/skysportnz.jpg" group-title="SHAREEXT@SKYSPORT|NEWZELAND",SkySport 2
@@ -2229,8 +2352,6 @@ http://45.12.1.14:80/dsxBAoARh2/sXF4Np39/117436
 http://45.12.1.14:80/dsxBAoARh2/sXF4Np39/117437
 
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Sport 1 FHD IL" tvg-logo="https://picon-13398.kxcdn.com/sport1il.jpg" group-title="SHAREEXT@SKYSPORT|ISRAEL",Sport•1 FHD 
 http://45.12.1.14:80/dsxBAoARh2/sXF4Np39/74811
 #EXTINF:-1 tvg-id="" tvg-name="Sport 2 FHD IL" tvg-logo="https://picon-13398.kxcdn.com/sport2il.jpg" group-title="SHAREEXT@SKYSPORT|ISRAEL",Sport•2 FHD 
@@ -2247,9 +2368,6 @@ http://45.12.1.14:80/dsxBAoARh2/sXF4Np39/74816
 http://45.12.1.14:80/dsxBAoARh2/sXF4Np39/74817
 #EXTINF:-1 tvg-id="" tvg-name="5 Stars FHD IL" tvg-logo="https://picon-13398.kxcdn.com/5starsil.jpg" group-title="SHAREEXT@SKYSPORT|ISRAEL",5 Stars FHD 
 http://45.12.1.14:80/dsxBAoARh2/sXF4Np39/74818
-
-
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 1 PREMIUM HD" tvg-logo="http://obsfullhd.tv:25461/images/664e959174fde9763f371b9988aa84e0.png" group-title="SHAREEXT@BEIN•SSC•SPORTS",BEINSPORTS•1 PREMIUM HD
@@ -2356,8 +2474,6 @@ http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16103
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16104
 #EXTINF:-1 tvg-id="" tvg-name="SE: Viasat Sport Golf" tvg-logo="http://myserveriptv.com:2082/images/e23a06f8d702c1989e01d32d1adf156d.png" group-title="SHAREEXT@SUKAN|Sweden",Viasat Sport Golf
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/228534
-
-
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",CCTV•1_dec=auto
