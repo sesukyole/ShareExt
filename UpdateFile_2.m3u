@@ -240,6 +240,18 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Rcti+
+https://m3u-editor.com/live/serve/6ccb72a0-cb16-11ed-bf4c-85313ab8b659/804985035.m3u8|User-Agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Rcti+2
+https://m3u-editor.com/live/serve/6ccb72a0-cb16-11ed-bf4c-85313ab8b659/804985039.m3u8|User-Agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Mnctv+2
+https://m3u-editor.com/live/serve/6ccb72a0-cb16-11ed-bf4c-85313ab8b659/804985040.m3u8|User-Agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Gtv+2
+https://m3u-editor.com/live/serve/6ccb72a0-cb16-11ed-bf4c-85313ab8b659/804985041.m3u8|User-Agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Inews+2
+https://m3u-editor.com/live/serve/6ccb72a0-cb16-11ed-bf4c-85313ab8b659/804985042.m3u8|User-Agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Antv
+https://m3u-editor.com/live/serve/e46bc590-6c47-11ed-b6c8-d1f1f0221890/784249687.m3u8|User-Agent=com.tvindnet.ptenamsaudaraey/1.1.0 (Linux;Android 6.0.1) ExoPlayerLib/2.14.0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Sctv_vd
 http://tvnid.x10.mx/1/master-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",MojiTv_vd
