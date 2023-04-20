@@ -483,6 +483,109 @@ http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941630&e
 https://bp-caster.bestv.com.cn/954/3/video.m3u8
 
 
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",卫视中文台
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941624&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",卫视中文台
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=shareext@.ts&stream=941624
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",卫视电影台
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941625&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",星卫电影台
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=shareext@.ts&stream=941625
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",星卫电影台
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941625&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",民视新闻HD
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=156389&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",三立国际台
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=156390&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",TVBSHD
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=156402&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",TVBSHD
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=shareext@.ts&stream=941621
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",TVBSHD
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941621&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",TVBS亚洲
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=153397&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",TVBS亚洲
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571185&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",TVBS新闻HD
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=shareext@.ts&stream=941622
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",TVBS新闻HD
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941622&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",TVBS新闻HD
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941622&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",台视新闻HD
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=156398&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",台视综合HD
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=156392&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",中天亚洲台
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571212&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",中天亚洲台
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=shareext@.ts&stream=941638
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",华视HD
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=156391&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",东森中国台
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=156393&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",东森卫视HD
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=156394&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",东森美洲HD
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=156397&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",东森财经HD
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=156396&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",东森戏剧HD
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=156395&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",东森yoyo
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=156403&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",无线新闻台
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=153399&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",TVB1台
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=153401&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",TVB1台
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",翡翠台
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=153395&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",翡翠台
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=153398&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",翡翠台
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=shareext@.ts&stream=941619
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",翡翠台
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571187&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",TVB千禧经典台
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571197&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",TVB娱乐新闻台
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571188&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",TVB星河频道
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941620&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",TVB星河频道
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571186&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",TVB星河频道
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=shareext@.ts&stream=941620
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",天映经典
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571182&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",天映经典
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941639&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",天映经典
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=shareext@.ts&stream=941639
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",天映频道
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571218&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",天映频道
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941618&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",TVN
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=shareext@.ts&stream=941623
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",TVN电影台
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571261&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",双星
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571191&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",全佳
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571192&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",小太阳
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571230&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",ONE
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941628&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",HUB娱家
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941634&extension=ts&play_token=shareext@.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",AOD
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571229&extension=ts&play_token=shareext@.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",Cctv鈥�1馃嚚馃嚦
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",Cctv鈥�3馃嚚馃嚦
