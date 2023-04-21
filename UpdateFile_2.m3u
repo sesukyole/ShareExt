@@ -55,6 +55,97 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseePrime_dec=auto
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",ChampionsTV 3
+http://starshare.live:8080/live/tanveer2159175/003332159175/151151.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Soccer_Channel HD (D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151186.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",MNC_Sports HD (D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151188.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",MNC_Sports 2 HD (D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151187.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",MNC_Sports 3 HD (D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151181.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",ID:SPOTV HD(D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151194.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",ID:SPOTV 2 HD(D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151193.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",ID:Fight_Sports(D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151224.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",BeinSports_1 HD(D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151182.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",BeinSport_2(D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151228.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",MY:SPOTV
+http://starshare.live:8080/live/tanveer2159175/003332159175/143136.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",MY:SPOTV(D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/143137.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",MY:SPOTV2
+http://starshare.live:8080/live/tanveer2159175/003332159175/143138.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Astro_arena
+http://starshare.live:8080/live/tanveer2159175/003332159175/143021.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Astro_arena_hd
+http://starshare.live:8080/live/tanveer2159175/003332159175/143020.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Astro_arena_2
+http://starshare.live:8080/live/tanveer2159175/003332159175/143019.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Astro_arena_2.hd
+http://starshare.live:8080/live/tanveer2159175/003332159175/143022.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",ASTRO_SPORTS_1
+http://starshare.live:8080/live/tanveer2159175/003332159175/5480.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",ASTRO_SPORTS_2
+http://starshare.live:8080/live/tanveer2159175/003332159175/5481.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",ASTRO_SPORTS_3
+http://starshare.live:8080/live/tanveer2159175/003332159175/5482.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",ASTRO_SPORTS_4
+http://starshare.live:8080/live/tanveer2159175/003332159175/5483.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",ASSP_1
+http://starshare.live:8080/live/tanveer2159175/003332159175/143036.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",ASSP_2
+http://starshare.live:8080/live/tanveer2159175/003332159175/143038.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",ASSP_3
+http://starshare.live:8080/live/tanveer2159175/003332159175/143040.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",ASSP_4
+http://starshare.live:8080/live/tanveer2159175/003332159175/143041.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",ASSP_5_a
+http://starshare.live:8080/live/tanveer2159175/003332159175/143044.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",ASSP_5_b
+http://starshare.live:8080/live/tanveer2159175/003332159175/143045.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",ASSP_5_c
+http://starshare.live:8080/live/tanveer2159175/003332159175/143046.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Sony_Sport_1
+http://starshare.live:8080/live/tanveer2159175/003332159175/154.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Sony_Sport_2
+http://starshare.live:8080/live/tanveer2159175/003332159175/192.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Sony_Sport_3
+http://starshare.live:8080/live/tanveer2159175/003332159175/146.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Sony_5
+http://starshare.live:8080/live/tanveer2159175/003332159175/176.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Sony_ESPN
+http://starshare.live:8080/live/tanveer2159175/003332159175/155.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",TEN_SPORTS
+http://starshare.live:8080/live/tanveer2159175/003332159175/98.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",PTV_SPORTS
+http://starshare.live:8080/live/tanveer2159175/003332159175/89.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",T_SPORTS
+http://starshare.live:8080/live/tanveer2159175/003332159175/130714.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",GEO_SUPER
+http://starshare.live:8080/live/tanveer2159175/003332159175/101.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",WILLOW_CRICKET
+http://starshare.live:8080/live/tanveer2159175/003332159175/215.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",STARSPORTS_1
+http://starshare.live:8080/live/tanveer2159175/003332159175/148.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",STARSPORTS_2
+http://starshare.live:8080/live/tanveer2159175/003332159175/239.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",STARSPORTS_3
+http://starshare.live:8080/live/tanveer2159175/003332159175/1080.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",STARSPORTS_HINDI
+http://starshare.live:8080/live/tanveer2159175/003332159175/211.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",STARSPORTS_TAMIL
+http://starshare.live:8080/live/tanveer2159175/003332159175/9722.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",STARSPORTS_SELECT_1
+http://starshare.live:8080/live/tanveer2159175/003332159175/238.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID025:Soccer Channel 2" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",STARSPORTS_SELECT_2
+http://starshare.live:8080/live/tanveer2159175/003332159175/200.ts
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Sony•Sports鈥�1.HD
 http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1114576&extension=ts&play_token=shareext@.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Sony•Sports鈥�2.HD
@@ -258,6 +349,74 @@ http://tvnid.x10.mx/1/master-1.m3u8
 http://tvnid.x10.mx/1/master-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",MentariTv_vd
 http://tvnid.x10.mx/1/master-3.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",(VD).Indosiar
+http://starshare.live:8080/live/tanveer2159175
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",INDOSIAR(D)
+http://starshare.live:8080/live/tanveer2159175
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",ANTV(D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151249.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",(VD).KompasTV
+http://starshare.live:8080/live/tanveer2159175/003332159175/151164.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",BandungTV(D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151229.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",MNC_News HD(D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151183.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",RCTI_HD(D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151185.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",TVOne(D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151255.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",TransTV(D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151256.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",MNCTV(D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151257.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",MetroTV(D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151258.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",iNews(D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151259.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",GTV(D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151260.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",MNC Shop Trendy (D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151261.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Trans7(D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151262.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",KompasTV(D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151264.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",BaliTV(D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151265.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",&TV (D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151266.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Reformed_21(D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151267.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",NET.(D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151268.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",RTV(D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151271.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",DaaiTV(D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151276.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",JakTV(D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151281.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",TVRI(D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151294.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",MNC Infotainment (D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151241.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",MNC Entertainment (D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151244.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Vision Prime(D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151245.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",MNC Shop Smart(D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151246.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",AnhuiTV(D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151296.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",XingKong_TV(D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151297.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Shanghai Dragon TV (D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151298.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",JiangsuTV (D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151299.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",HunanTV (D)
+http://starshare.live:8080/live/tanveer2159175/003332159175/151300.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",RCTI馃嚠馃嚛鈥�
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683099&extension=ts&play_token=M2PF34StIQ
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",MNCTV馃嚠馃嚛鈥�
