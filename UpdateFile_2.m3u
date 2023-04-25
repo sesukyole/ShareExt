@@ -270,30 +270,6 @@ http://tvnid.x10.mx/1/master-1.m3u8
 http://tvnid.x10.mx/1/master-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",MentariTv_vd
 http://tvnid.x10.mx/1/master-3.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Kompas.tv_intec
-https://h1.intechmedia.net/nasional/ch1.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Sctv_intec
-https://h1.intechmedia.net/nasional/ch2.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Indosiar_intec
-https://h1.intechmedia.net/nasional/ch3.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Moji_intec
-https://h1.intechmedia.net/nasional/ch4.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Transtv_intec
-https://h1.intechmedia.net/nasional/ch5.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Trans7_intec
-https://h1.intechmedia.net/nasional/ch6.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",ANtv_intec
-https://h1.intechmedia.net/nasional/ch7.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Tvone_intec
-https://h1.intechmedia.net/nasional/ch8.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",MetroTv_intec
-https://h1.intechmedia.net/nasional/ch9.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",CNN.indonesia_intec
-https://h1.intechmedia.net/nasional/ch10.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",NET.hd_intec
-https://h1.intechmedia.net/nasional/ch11.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",RTV_intec
-https://h1.intechmedia.net/nasional/ch12.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",(VD).Indosiar
 http://starshare.live:8080/live/tanveer2159175
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",INDOSIAR(D)
