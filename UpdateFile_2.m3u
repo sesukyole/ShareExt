@@ -1088,18 +1088,10 @@ https://epg.pw/stream/738ccedb44a946d5cb22d31e7aabcd4324193049bc6a47686f5967a2d1
 https://epg.pw/stream/0e708f7eb6985f9b1e5d5baf0bbaf7ae3a26a80a123e9346019105e2ba6962bb.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",All.japan.proWrestling
 https://epg.pw/stream/3e73f8afbccd08f1f6bb56e77088adc9a1881b5247ca9d0f5ddd9ecabc90c5f9.ctv
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",True.premier.1
-https://epg.pw/stream/0f17129dfd588370b7e0557ed3f0ad478d97fdce39a9a7a58db00d08e821e405.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",Premier.liga_hk
-https://epg.pw/stream/c37f1298094351a56bccbe0b0b51e800e0f1f527e510a62a8d504e60923fa96b.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",China.sports
-https://epg.pw/stream/579cd145568390b6990d0d927ecb84cad8ca08fb6ffd7094e46738727db43433.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",V.sports.china
-https://epg.pw/stream/ffd05f5013174c5161b27fd72d40bb8c3116f8b3f770010af4368d0ea053ce58.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",ELEVEN•SPORTS 1 HD_taiwan
 http://61.221.81.93:8078/hls/25/80/esport.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",ELEVEN•SPORTS 2 HD_taiwan
-http/http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",Persiana•Sports
 http://51.210.199.32/hls/stream.m3u8
