@@ -1416,8 +1416,14 @@ http://shareext@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115618&exten
 
 
 
-
-
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",ASTRO~SuperSport~HD
+http://ttv.bz:80/jRMAWCqMy5/Wi7pzbKj9X/68434
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",ASTRO~SuperSport~2 HD
+http://ttv.bz:80/jRMAWCqMy5/Wi7pzbKj9X/68435
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",ASTRO~SuperSport~3 HD
+http://ttv.bz:80/jRMAWCqMy5/Wi7pzbKj9X/68436
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",ASTRO~SuperSport~4 HD
+http://ttv.bz:80/jRMAWCqMy5/Wi7pzbKj9X/68437
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",BT~Sport 1 
 http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/303861
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",BT~Sport 2 
@@ -2082,6 +2088,30 @@ http://89.47.232.72:8080/live/Chris/Chris/5541.ts
 http://89.47.232.72:8080/live/Chris/Chris/5543.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@BT||SKYSPORTS|UK",Skyspots.Racing
 http://89.47.232.72:8080/live/Chris/Chris/5547.ts
+
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SKYSPORTS||NEWZEALAND",SKYSport~SELECT
+http://ttv.bz:80/jRMAWCqMy5/Wi7pzbKj9X/67197
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SKYSPORTS||NEWZEALAND",SKYSport~1
+http://ttv.bz:80/jRMAWCqMy5/Wi7pzbKj9X/67198
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SKYSPORTS||NEWZEALAND",SKYSport~2
+http://ttv.bz:80/jRMAWCqMy5/Wi7pzbKj9X/67199
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SKYSPORTS||NEWZEALAND",SKYSport~3
+http://ttv.bz:80/jRMAWCqMy5/Wi7pzbKj9X/67200
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SKYSPORTS||NEWZEALAND",SKYSport~4
+http://ttv.bz:80/jRMAWCqMy5/Wi7pzbKj9X/67201
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SKYSPORTS||NEWZEALAND",SKYSport~5
+http://ttv.bz:80/jRMAWCqMy5/Wi7pzbKj9X/67202
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SKYSPORTS||NEWZEALAND",SKYSport~6
+http://ttv.bz:80/jRMAWCqMy5/Wi7pzbKj9X/67203
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SKYSPORTS||NEWZEALAND",SKYSport~7
+http://ttv.bz:80/jRMAWCqMy5/Wi7pzbKj9X/67204
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SKYSPORTS||NEWZEALAND",SKYSport~8
+http://ttv.bz:80/jRMAWCqMy5/Wi7pzbKj9X/67205
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SKYSPORTS||NEWZEALAND",SKYSport~9
+http://ttv.bz:80/jRMAWCqMy5/Wi7pzbKj9X/67206
+
+
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@CHAMPION_LEAGUE",BEIN.PREMIUM 1 HD
