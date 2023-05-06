@@ -51,10 +51,16 @@ http://shareext@line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683
 http://shareext@line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683099&extension=ts&play_token=shareext
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",M|N|C|TV|line
 http://shareext@line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683098&extension=ts&play_token=shareext
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",TVRI•SPORTS🇮🇩
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseePrime_dec=auto
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ARENA•SOCCER
+https://bit.ly/arenabola-shareext
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ARENA•SOCCER•2
+https://bit.ly/arenabola-2-shareext
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ASTRO•ARENA•2
+https://bit.ly/arena-2-shareext
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ASTRO•SPORT•5
+https://bit.ly/assp-5-shareext
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Astro•ARENA
 http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/157485
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Astro•ARENA•2
@@ -1077,6 +1083,8 @@ http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571218&e
 https://maper.info/BOO-SHAREEXT-ts
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",BOoo*
 https://maper.info/BOO-shareext-ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",BOoo_bit
+https://bit.ly/BOO-shareext
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",Showcase•Movie*
 https://maper.info/ShowcaseMovie-shareext-ts
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",Galaxy*
