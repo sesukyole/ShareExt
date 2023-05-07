@@ -1765,6 +1765,18 @@ http://14.102.154.164:5021/live/411.ts
 http://14.102.154.164:5021/live/412.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",GAORA🇯🇵
 http://14.102.154.164:5021/live/413.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",mnc•sports•1_epg
+https://epg.pw/stream/46748b7a6e29d7d0ffc8ea24cba2028db1cb689c7d51d9e0b86fc44a7dd432fe.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",mnc•sports•2.epg
+https://epg.pw/stream/424b29a1239b57ba37c764ba7c5f505b3ee4aa4adb007d8f40ab5046edb19565.ctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",sctv15-sports_epg
+https://epg.pw/stream/6684227beb8e2c449efa564e8198bdda0860558f3f06bcc1b0db883bc22f5b15.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",btv5-sports_epg
+https://epg.pw/stream/2ba3386a170011d7df72c29954f52d73401175b1edcc37e322595b10836fdf92.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",on•football_epg
+https://epg.pw/stream/09df91409c9c551e4236c4e6ef48a0f89c49fa332f8f479379fb03bdd768bc72.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",sctv17-sports_epg
+https://epg.pw/stream/9b59bf5f9ec652891239b953851bbb1f29bf406030a051155d77ddddea5489a4.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",D•SPORTS HD
 http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93721
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",DD•SPORTS
