@@ -30,6 +30,14 @@ https://maper.info/MNC-SPORT-1-SHAREEXT-ts
 https://maper.info/MNC-SPORT-2-SHAREEXT-ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SUKAN•EMENCE_go
 http://shareext@line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683139&extension=ts&play_token=shareext
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ER•CE•TE•I•@
+https://rcti-azure.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8|User-Agent=Dalvik/2.1.0
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",EM•EN•CE•TIVI•@
+https://mnctv-azure.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|User-Agent=Dalvik/2.1.0
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",GOLOBAL•TIVI•@
+https://gtv-azure.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|User-Agent=Dalvik/2.1.0
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",i•BERITA•TIVI•@
+https://inews-azure.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8|User-Agent=Dalvik/2.1.0
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ANTV_sub
 https://sub.home-tv.my.id/first/antv.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SCTV_sub
