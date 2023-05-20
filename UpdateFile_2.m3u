@@ -248,9 +248,9 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@棣冨殽棣冨毑 MalaysiaN_Channel",CINEMAX
-https://epg.pw/stream/7b63b1869e587821ca60988305de01077ca427b3fb5df61f75d849b02038f271.xs
+https://epg.pw/stream/7b63b1869e587821ca60988305de01077ca427b3fb5df61f75d849b02038f271.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@棣冨殽棣冨毑 MalaysiaN_Channel",Xioa•Tai•Yang
-https://epg.pw/stream/22e8a0184266a2da4d577a943cd4dcdcc018e99914f399a7664afdcffb61a9de.xs
+https://epg.pw/stream/22e8a0184266a2da4d577a943cd4dcdcc018e99914f399a7664afdcffb61a9de.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@棣冨殽棣冨毑 MalaysiaN_Channel",姘戣鏂伴椈馃嚟馃嚢
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@棣冨殽棣冨毑 MalaysiaN_Channel",鍙拌鏂伴椈馃嚟馃嚢
@@ -813,6 +813,48 @@ https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",STIRR Movies
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+
+
+
+
+
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Wrestling.impack
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=331467&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Wrestling.Harry.potter.movie
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=100029&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Home.Alone@movie
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=99436&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",John.Wick@movie.fhd
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=99483&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Pirates.of.Csribbean@movie
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=100026&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",T.Hobbit@movie
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=100138&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Jason.Staham@movie
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111152&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Jacky.Chan@movie
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111151&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Jim.Carrer_1@movie
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111153&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Jim.carrer_2@movie
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111155&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Johny.deep@movie
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111154&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",T.Lord.of.T.Rings@movie
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=100028&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Mel.Gibson@movie
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111156&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Nicholas.Cage@movie
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111158&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Silvester.Stallone@movie
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111143&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Tom.Cruise@movie
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111160&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Van.Damme@movie
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111161&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="SHAREEXT@24X7",Vin.Diesel@movie
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111162&extension=ts&play_token=shareext.ts
 
 
 
