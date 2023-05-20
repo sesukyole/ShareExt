@@ -185,8 +185,30 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",HBO_dolby_HD
+https://anon.devds.site/link.php?hash=aHR0cDovLzExOC45Ny45NC42MDo5OTgxL3N0cmVhbS9jaGFubmVsaWQvNDU2MDAzMjI0P3Byb2ZpbGU9aHRzcA==|shareext@hbodolby
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",HBO_FAMILY_dolby_HD
+https://anon.devds.site/link.php?hash=aHR0cDovLzExOC45Ny45NC42MDo5OTgxL3N0cmVhbS9jaGFubmVsaWQvMTI4NTI2NDY1Nz9wcm9maWxlPWh0c3A=|shareext@hbofamilydolby
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",HBO_SIG_dolby_HD
+https://anon.devds.site/link.php?hash=aHR0cDovLzExOC45Ny45NC42MDo5OTgxL3N0cmVhbS9jaGFubmVsaWQvODQyNDIxODk5P3Byb2ZpbGU9aHRzcA==|shareext@hbosignaturedolby
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",HBO_HITS_dolby_HD
+https://anon.devds.site/link.php?hash=aHR0cDovLzExOC45Ny45NC42MDo5OTgxL3N0cmVhbS9jaGFubmVsaWQvMzY4NDg2OTA/cHJvZmlsZT1odHNw|shareext@hbohitsdolby
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",TVONE_dev
+https://anon.devds.site/link.php?hash=aHR0cDovLzExOC45Ny45NC42MDo5OTgxL3N0cmVhbS9jaGFubmVsaWQvMTY1ODg0NDU4Mj9wcm9maWxlPWh0c3A=|shareext@tvone
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",ANTV_dev
+https://anon.devds.site/link.php?hash=aHR0cDovLzExOC45Ny45NC42MDo5OTgxL3N0cmVhbS9jaGFubmVsaWQvMTkyNjUzMzgxNT9wcm9maWxlPWh0c3A=|shareext@antv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",MENTARItv_dev
+https://anon.devds.site/link.php?hash=aHR0cDovLzExOC45Ny45NC42MDo5OTgxL3N0cmVhbS9jaGFubmVsaWQvMTIzMjk3NDY5Nz9wcm9maWxlPWh0c3A=|shareext@mentaritv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",INDOSIAR_dev
+https://anon.devds.site/link.php?hash=aHR0cDovLzExOC45Ny45NC42MDo5OTgxL3N0cmVhbS9jaGFubmVsaWQvMTA5MTc1MTU4MD9wcm9maWxlPWh0c3A=|shareext@indosiar
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",MOJItv_dev
+https://anon.devds.site/link.php?hash=aHR0cDovLzExOC45Ny45NC42MDo5OTgxL3N0cmVhbS9jaGFubmVsaWQvMTU0MTQ5Njg4OD9wcm9maWxlPWh0c3A=|shareext@mojitv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",SCTV_dev
+https://anon.devds.site/link.php?hash=aHR0cDovLzExOC45Ny45NC42MDo5OTgxL3N0cmVhbS9jaGFubmVsaWQvOTEzODYxMDI/cHJvZmlsZT1odHNw|shareext@sctv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",TRANSTV_dev
+https://anon.devds.site/link.php?hash=aHR0cDovLzExOC45Ny45NC42MDo5OTgxL3N0cmVhbS9jaGFubmVsaWQvMTI1MTk1OTcwNj9wcm9maWxlPWh0c3A=|shareext@transtv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",TRANS7_dev
+https://anon.devds.site/link.php?hash=aHR0cDovLzExOC45Ny45NC42MDo5OTgxL3N0cmVhbS9jaGFubmVsaWQvMjEwMzE0NDYwMz9wcm9maWxlPWh0c3A=|shareext@trans7
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Moji_ott
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",ANtv_ott
@@ -247,10 +269,6 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@棣冨殽棣冨毑 MalaysiaN_Channel",CINEMAX
-https://epg.pw/stream/7b63b1869e587821ca60988305de01077ca427b3fb5df61f75d849b02038f271.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@棣冨殽棣冨毑 MalaysiaN_Channel",Xioa•Tai•Yang
-https://epg.pw/stream/22e8a0184266a2da4d577a943cd4dcdcc018e99914f399a7664afdcffb61a9de.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@棣冨殽棣冨毑 MalaysiaN_Channel",姘戣鏂伴椈馃嚟馃嚢
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="ShaReExT@棣冨殽棣冨毑 MalaysiaN_Channel",鍙拌鏂伴椈馃嚟馃嚢
@@ -750,6 +768,18 @@ https://anon.devds.site/link.php?hash=aHR0cDovLzExOC45Ny45NC42MDo5OTgxL3N0cmVhbS
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571218&extension=ts&play_token=qrZfvSgHAe
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",BOO••🇲🇾
 https://maper.info/BOO-SHAREEXT-ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",galaxy•premium_dev
+https://anon.devds.site/link.php?hash=aHR0cDovLzExOC45Ny45NC42MDo5OTgxL3N0cmVhbS9jaGFubmVsaWQvNjU1NDM3MzY4P3Byb2ZpbGU9aHRzcA==|shareext@galaxyPremium
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",galaxy_dev
+https://anon.devds.site/link.php?hash=aHR0cDovLzExOC45Ny45NC42MDo5OTgxL3N0cmVhbS9jaGFubmVsaWQvMTIwNDQ5NzQ3MT9wcm9maWxlPWh0c3A=|shareext@galaxy
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",chineses•drama_dev
+https://anon.devds.site/link.php?hash=aHR0cDovLzExOC45Ny45NC42MDo5OTgxL3N0cmVhbS9jaGFubmVsaWQvMTg1NDQ1MTEzMD9wcm9maWxlPWh0c3AK|shareext@chinesedrama
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",flik_dev
+https://anon.devds.site/link.php?hash=aHR0cDovLzExOC45Ny45NC42MDo5OTgxL3N0cmVhbS9jaGFubmVsaWQvMTg1MTA1MTI3ND9wcm9maWxlPWh0c3A=|shareext@flik
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",kix_dev
+https://anon.devds.site/link.php?hash=aHR0cDovLzExOC45Ny45NC42MDo5OTgxL3N0cmVhbS9jaGFubmVsaWQvMTY4NjExMTc0OD9wcm9maWxlPWh0c3A=|shareext@kix
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",axn_dev
+https://anon.devds.site/link.php?hash=aHR0cDovLzExOC45Ny45NC42MDo5OTgxL3N0cmVhbS9jaGFubmVsaWQvMTY2MDY2NDY3P3Byb2ZpbGU9aHRzcA==|shareext@axn
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",LOTUS•mACAU_dec=auto
 http://nettvpro.live/hls/lotustv.php
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",myTimeMovies
