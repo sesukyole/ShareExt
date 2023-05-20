@@ -782,6 +782,18 @@ https://anon.devds.site/link.php?hash=aHR0cDovLzExOC45Ny45NC42MDo5OTgxL3N0cmVhbS
 https://anon.devds.site/link.php?hash=aHR0cDovLzExOC45Ny45NC42MDo5OTgxL3N0cmVhbS9jaGFubmVsaWQvMTY2MDY2NDY3P3Byb2ZpbGU9aHRzcA==|shareext@axn
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",LOTUS•mACAU_dec=auto
 http://nettvpro.live/hls/lotustv.php
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",HBO.vietnam
+http://live.vthanhtivi.pw/hbo
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Sony.pick
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",HBO.xtream
+http://208.115.225.174:14165
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",HBO 2
+http://208.115.225.174:14140
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",HBO Mundi
+http://208.115.225.174:14148
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",HBO signature
+http://208.115.225.174:14160
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",myTimeMovies
 https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",🇮🇩CelestialClassicMovies
@@ -1368,6 +1380,34 @@ https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Sony|TEN|5 
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",HUB_PREMIER_1
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=348097&extension=ts&play_token=shareext.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",HUB_PREMIER_2
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=348098&extension=ts&play_token=shareext.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",HUB_PREMIER_3
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=348099&extension=ts&play_token=shareext.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",HUB_PREMIER_4
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=348100&extension=ts&play_token=shareext.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",HUB_PREMIER_5
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=348101&extension=ts&play_token=shareext.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",HUB_PREMIER_6
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=348102&extension=ts&play_token=shareext.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",HUB_PREMIER_7
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=348103&extension=ts&play_token=shareext.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",CBS_SPORT_NETWORK
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=71967&extension=ts&play_token=shareext.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Flow.sport.1
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=28096&extension=ts&play_token=shareext.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Flow.sport.2
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=28095&extension=ts&play_token=shareext.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Cctv16.sport_hd1
+http://tvindexlive01.yn.ysten.com:8080/ysten-business/live/cctv-16yn/1.m3u8|User-Agent=0151
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Cctv.16.sport.Hd2
+http://111.20.35.103:6610/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Now.sport.premier.1.4k.HK.
+http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=1032487&play_token=shareext.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Peacok.premier.ligue    
+http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=1032457&play_token=shareext.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Sony_TEN_1 HD 
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Sony_TEN_2 HD 
