@@ -1438,6 +1438,18 @@ http://111.20.35.103:6610/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomai
 http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=1032487&play_token=shareext.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Peacok.premier.ligue    
 http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=1032457&play_token=shareext.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Ru∆Sport
+http://live.globalflix.net:80/manik/freecatv/8.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",TÃ¼rkmenistan_Sport
+http://live.globalflix.net:80/manik/freecatv/12.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",NW|Sport_1
+http://live.globalflix.net:80/manik/freecatv/130.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",NW|Sport_2 
+http://live.globalflix.net:80/manik/freecatv/131.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",RTA|Sports
+http://live.globalflix.net:80/manik/freecatv/155.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Swerve|Sports 
+http://live.globalflix.net:80/manik/freecatv/180.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Sony_TEN_1 HD 
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Sony_TEN_2 HD 
