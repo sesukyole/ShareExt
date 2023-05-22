@@ -16,6 +16,10 @@ http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941564&e
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941563&extension=ts&play_token=shareext.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV•ON
 https://jk-live-us76.supportnettv.com/live/spotv_on_540/playlist.m3u8?secret=8756f4d6996bb4d827f2248bd6d7d72b&time=1680689584
+#EXTINF:-1 tvg-id="I219.82541.zap2it.com" tvg-name="Fox Sports 1 US" tvg-logo="https://godish.com/wp-content/uploads/channel-logos/foxs1.png" group-title="ShareExt@Relax",Fox_Sports 1
+http://4.26.188.2:8081/udp/239.193.10.101:23901
+#EXTINF:-1 tvg-id="I618.33178.zap2it.com" tvg-name="Fox Sports 2 US" tvg-logo="https://godish.com/wp-content/uploads/channel-logos/foxs2.png" group-title="ShareExt@Relax",Fox_Sports 2
+http://4.26.188.2:8081/udp/239.193.10.102:23902
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",BOLA•Chanel🇮🇩
 https://maper.info/SOCCER-2-SHAREEXT-ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ASTROcricket
@@ -1414,7 +1418,18 @@ https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Sony_TEN_5 HD 
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.gamingintelligence.com/wp-content/uploads/2008/10/17154117/Ladbrokes-lg.jpg" group-title="SHAREEXT@LIVE||SPORTS", ARC European
+http://vermmd.mmdlive.lldns.net/vermmd/84c4d7bebe1f4c578e0f68744041d6fc/chunklist_b1996000.m3u8
+#EXTINF:-1 tvg-id="ATG.se" tvg-name="" tvg-logo="https://shop.umbraco.com/media/2989298/atg_huvudlogotyp.png" group-title="SHAREEXT@LIVE||SPORTS", ATG Sweden
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/dubai-racing-live.png" group-title="SHAREEXT@LIVE||SPORTS", Dubai Racing
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/dubai-racing-live.png" group-title="SHAREEXT@LIVE||SPORTS", Dubai Racing 2
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/dubai-racing-live.png" group-title="SHAREEXT@LIVE||SPORTS", Dubai Racing 3
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="I593.103808.schedulesdirect.org" tvg-name="" tvg-logo="https://static.epg.best/gb/HorseAndCountry.uk.png" group-title="SHAREEXT@LIVE||SPORTS", Horse & Country
+https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",SporTV_1_HD+
 http://xcui.vitvabc.xyz:8880/287994016279/287994016279/16753
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Combate_HD+
