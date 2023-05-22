@@ -821,6 +821,68 @@ http://rr2.dens.tv/s/s32/index.m3u8
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=348064&extension=ts&play_token=w1Gs5vyU6z
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Fox.Movies.Action(arb)
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=14447&extension=ts&play_token=SzSdQEwOue
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳MOVIES_NOW_dec=auto
+http://103.245.195.80:9500/play/a00n/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳MOVIES_1_dec=auto
+http://103.245.195.80:9500/play/a02a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳MOVIES_2_dec=auto
+http://103.245.195.80:9500/play/a02c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳Movies_Active_dec=auto
+http://103.245.195.80:9500/play/a02w/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳HOLLYWOOD_dec=auto
+http://103.245.195.80:9500/play/a02b/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳Colors_HD_dec=auto
+http://103.245.195.80:9500/play/a01m/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳&flix_HD_dec=auto
+http://103.245.195.80:9500/play/a01f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳&pictures_HD_dec=auto
+http://103.245.195.80:9500/play/a015/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳&prive_HD_dec=auto
+http://103.245.195.80:9500/play/a019/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳&tv__dec=auto
+http://103.245.195.80:9500/play/a01t/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳Romedy_NOW_dec=auto
+http://103.245.195.80:9500/play/a00o/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳SONY_MAX_2_dec=auto
+http://103.245.195.80:9500/play/a02y/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳SONY_MAX_HD_dec=auto
+http://103.245.195.80:9500/play/a007/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳SONY_PAL_dec=auto
+http://103.245.195.80:9500/play/a026/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳SONY_PIX_HD_dec=auto
+http://103.245.195.80:9500/play/a014/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳SONY_SAB_dec=auto
+http://103.245.195.80:9500/play/a01s/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳STAR_BHARAT_HD_dec=auto
+http://103.245.195.80:9500/play/a00y/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳STAR_MOVIES_HD_dec=auto
+http://103.245.195.80:9500/play/a00e/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳Sony_HD_dec=auto
+http://103.245.195.80:9500/play/a01o/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳Star_GOLD_HD_dec=auto
+http://103.245.195.80:9500/play/a010/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳Star_Gold 2_dec=auto
+http://103.245.195.80:9500/play/a02t/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳Star_Gold_Romance_dec=auto
+http://103.245.195.80:9500/play/a02s/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳Star_Gold_Thrills_dec=auto
+http://103.245.195.80:9500/play/a02r/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳Star_Plus_HD_dec=auto
+http://103.245.195.80:9500/play/a01k/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳Star_Utsav_dec=auto
+http://103.245.195.80:9500/play/a024/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳StarGold_SelHD_dec=auto
+http://103.245.195.80:9500/play/a012/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳StarMovie_SelHD_dec=auto
+http://103.245.195.80:9500/play/a00f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳ZEE_BOLLYWOOD_dec=auto
+http://103.245.195.80:9500/play/a02x/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳ZEE_CINEMA_HD_dec=auto
+http://103.245.195.80:9500/play/a00x/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳Zee_TV_HD_dec=auto
+http://103.245.195.80:9500/play/a01l/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",🇮🇳colors_InfintyHD_dec=auto
+http://103.245.195.80:9500/play/a017/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",BOX Movie
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?bySCTV|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Family Flix
