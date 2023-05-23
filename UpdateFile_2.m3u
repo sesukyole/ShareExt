@@ -1909,6 +1909,54 @@ http://m3u.sea-iptv.com:80/82ofdhp7te/so61asxt/258408
 
 
 
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports NFL HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg" group-title="SHAREEXT@Live: United Kingdom",SkySports NFL HD
+http://45.12.1.14:80/gambarifriend/eh6mrY45/3598
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsarenahduk.jpg" group-title="SHAREEXT@Live: United Kingdom",SkySports Arena HD 
+http://45.12.1.14:80/gambarifriend/eh6mrY45/16968
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsmaineventuk.jpg" group-title="SHAREEXT@Live: United Kingdom",SkySports MainEvent HD 
+http://45.12.1.14:80/gambarifriend/eh6mrY45/5600
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportscricketuk.jpg" group-title="SHAREEXT@Live: United Kingdom",SkySports Cricket HD 
+http://45.12.1.14:80/gambarifriend/eh6mrY45/5601
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg" group-title="SHAREEXT@Live: United Kingdom",SkySports Football HD
+http://45.12.1.14:80/gambarifriend/eh6mrY45/20024
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsgolfuk.jpg" group-title="SHAREEXT@Live: United Kingdom",SkySports Golf HD 
+http://45.12.1.14:80/gambarifriend/eh6mrY45/3600
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premier League HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg" group-title="SHAREEXT@Live: United Kingdom",SkySports PremierLeague HD 
+http://45.12.1.14:80/gambarifriend/eh6mrY45/4458
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg" group-title="SHAREEXT@Live: United Kingdom",SkySports F1 HD 
+http://45.12.1.14:80/gambarifriend/eh6mrY45/3603
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsmix.jpg" group-title="SHAREEXT@Live: United Kingdom",SkySports Mix 
+http://45.12.1.14:80/gambarifriend/eh6mrY45/14926
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="Sky Sports Racing UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsracinguk.jpg" group-title="SHAREEXT@Live: United Kingdom",SkySports Racing 
+http://45.12.1.14:80/gambarifriend/eh6mrY45/1997
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News FHD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsnewshqhd.jpg" group-title="SHAREEXT@Live: United Kingdom",SkySports News FHD 
+http://45.12.1.14:80/gambarifriend/eh6mrY45/1954
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="Eurosport 1 FHD UK" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="SHAREEXT@Live: United Kingdom",Eurosport 1 FHD 
+http://45.12.1.14:80/gambarifriend/eh6mrY45/13091
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="Eurosport 2 FHD UK" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="SHAREEXT@Live: United Kingdom",Eurosport 2 FHD 
+http://45.12.1.14:80/gambarifriend/eh6mrY45/13092
+#EXTINF:-1 tvg-id="" tvg-name="Sporty Stuff TV UK" tvg-logo="https://picon-13398.kxcdn.com/sportystufftvuk.jpg" group-title="SHAREEXT@Live: United Kingdom",Sporty Stuff TV 
+http://45.12.1.14:80/gambarifriend/eh6mrY45/85577
+#EXTINF:-1 tvg-id="ViaplaySports1.uk" tvg-name="Viaplay Sports 1 HD UK" tvg-logo="https://picon-13398.kxcdn.com/viaplaysports1uk.jpg" group-title="SHAREEXT@Live: United Kingdom",Viaplay Sports 1 HD 
+http://45.12.1.14:80/gambarifriend/eh6mrY45/3584
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1 HD UK" tvg-logo="https://picon-13398.kxcdn.com/btsport1hd.jpg" group-title="SHAREEXT@Live: United Kingdom",BT_Sport 1 HD 
+http://45.12.1.14:80/gambarifriend/eh6mrY45/1991
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2 HD UK" tvg-logo="https://picon-13398.kxcdn.com/btsport2hd.jpg" group-title="SHAREEXT@Live: United Kingdom",BT_Sport 2 HD 
+http://45.12.1.14:80/gambarifriend/eh6mrY45/1992
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3 FHD UK" tvg-logo="https://picon-13398.kxcdn.com/btsport3hd.jpg" group-title="SHAREEXT@Live: United Kingdom",BT_Sport 3 FHD
+http://45.12.1.14:80/gambarifriend/eh6mrY45/14659
+#EXTINF:-1 tvg-id="BTSport4ESPN.uk" tvg-name="BT Sport 4 FHD UK" tvg-logo="https://picon-13398.kxcdn.com/btsportespnhd.jpg" group-title="SHAREEXT@Live: United Kingdom",BT_Sport 4 FHD 
+http://45.12.1.14:80/gambarifriend/eh6mrY45/1980
+#EXTINF:-1 tvg-id="4Music.uk" tvg-name="BT Sport 5 UK" tvg-logo="https://picon-13398.kxcdn.com/btsportextra1.jpg" group-title="SHAREEXT@Live: United Kingdom",BT_Sport 5 
+http://45.12.1.14:80/gambarifriend/eh6mrY45/14778
+#EXTINF:-1 tvg-id="4Music.uk" tvg-name="BT Sport 6 UK" tvg-logo="https://picon-13398.kxcdn.com/btsportextra2.jpg" group-title="SHAREEXT@Live: United Kingdom",BT_Sport 6
+http://45.12.1.14:80/gambarifriend/eh6mrY45/14809
+#EXTINF:-1 tvg-id="4Music.uk" tvg-name="BT Sport 8 UK" tvg-logo="https://picon-13398.kxcdn.com/btsportextra4.jpg" group-title="SHAREEXT@Live: United Kingdom",BT_Sport 8 
+http://45.12.1.14:80/gambarifriend/eh6mrY45/14807
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="NUBAR SPORT HD" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@ARAB_SKYSPORTS",NUBAR SPORT HD
 http://onntv.online:25461/live/30A612037A90/8754467/82.ts
