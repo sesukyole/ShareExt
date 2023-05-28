@@ -28,12 +28,6 @@ https://mnctv-azure.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|User-A
 https://gtv-azure.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|User-Agent=Dalvik/2.1.0
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",i•BERITA•TIVI•@
 https://inews-azure.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8|User-Agent=Dalvik/2.1.0
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ANTV_sub
-https://sub.home-tv.my.id/first/antv.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SCTV_sub
-https://sub.home-tv.my.id/first/sctv.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",INDOSIAR_sub
-https://sub.home-tv.my.id/first/indosiar.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar_mac
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=994885&extension=ts&play_token=1kEm8DbZmS
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Indosiar|HD_go
@@ -68,18 +62,6 @@ http://kuchini.site:8080/dooby1312/b244f7ab/157557
 http://kuchini.site:8080/dooby1312/b244f7ab/157558
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Astro|SuperSport 5
 http://kuchini.site:8080/dooby1312/b244f7ab/287792
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",seeyou•1
-http://51.79.255.108:2082/live/Duriantv184/Duriantv953/8285.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",seeyou•2
-http://51.79.255.108:2082/live/Duriantv184/Duriantv953/8286.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ARENA•SOCCER
-https://bit.ly/arenabola-shareext
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ARENA•SOCCER•2
-https://bit.ly/arenabola-2-shareext
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ASTRO•ARENA•2
-https://bit.ly/arena-2-shareext
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ASTRO•SPORT•5
-https://bit.ly/assp-5-shareext
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Cctv.5🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV-5H265_4000
@@ -101,15 +83,10 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b608000_sleng.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b608000_sleng.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",VTV_CAnThO
 http://171.238.181.52:18080/156.m3u8?Shareext/ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",aFa_play.kmerTv
-https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Vtv_2
 http://171.238.181.52:18080/192.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Vtv_5
 http://171.238.181.52:18080/194.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SCTV_15
-http://vtsstr4.sctv.vn:1935/live/SCTV_HD_TheThao_new.smil/CDAM.m3u8
-
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RealMadrid tv
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SETANTA_1鈩�
