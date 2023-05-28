@@ -769,6 +769,69 @@ http://rr2.dens.tv/s/s32/index.m3u8
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=348064&extension=ts&play_token=w1Gs5vyU6z
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Fox.Movies.Action(arb)
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=14447&extension=ts&play_token=SzSdQEwOue
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",STARBRARRAT_🇮🇳
+http://shareex@195.26.87.217/live?channelId=12364&deviceMac=00:1A:79:33:E9:41|id=starbrarrat|shareext.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",&PRIVE_🇮🇳
+http://shareex@195.26.87.217/live?channelId=170&deviceMac=00:1A:79:33:E9:41|id=&prive|shareext.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",&FLIX_🇮🇳
+http://shareex@195.26.87.217/live?channelId=49859&deviceMac=00:1A:79:33:E9:41|id=&flix|shareext.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",&PICTURE_🇮🇳
+http://shareex@195.26.87.217/live?channelId=139&deviceMac=00:1A:79:33:E9:41|id=&pictures|shareext.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",&TV_🇮🇳
+http://shareex@195.26.87.217/live?channelId=140&deviceMac=00:1A:79:33:E9:41|id=&tv|shareext.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",COLOR_CPLEX_BOLYWOOD_🇮🇳
+http://shareex@195.26.87.217/live?channelId=62412&deviceMac=00:1A:79:33:E9:41|id=colorcineplexBoolywood|shareext.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",COLOR_CINEPLEX_🇮🇳
+http://shareex@195.26.87.217/live?channelId=470&deviceMac=00:1A:79:33:E9:41|id=colorcineplex|shareext.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",INFINITY_HD_🇮🇳
+http://shareex@195.26.87.217/live?channelId=157&deviceMac=00:1A:79:33:E9:41|id=colorinfinity|shareext.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",COLOR_RED_🇮🇳
+http://shareex@195.26.87.217/live?channelId=158&deviceMac=00:1A:79:33:E9:41|id=colorred|shareext.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",COLOR_CPLEX_SUPERHITS_🇮🇳
+http://shareex@195.26.87.217/live?channelId=62413&deviceMac=00:1A:79:33:E9:41|id=colorcineplexsuperhits|shareext.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",COLOR_HD_🇮🇳
+http://shareex@195.26.87.217/live?channelId=36129&deviceMac=00:1A:79:33:E9:41|id=colorHD|shareext.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",HBO_🇮🇳
+http://shareex@195.26.87.217/live?channelId=49858&deviceMac=00:1A:79:33:E9:41|id=hboindia|shareext.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",STAR_JALWA_🇮🇳
+http://shareex@195.26.87.217/live?channelId=142&deviceMac=00:1A:79:33:E9:41|id=jalwa|shareext.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",MOVIES_NOW_🇮🇳
+http://shareex@195.26.87.217/live?channelId=162&deviceMac=00:1A:79:33:E9:41|id=moviesnow|shareext.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",SONY_MAX_🇮🇳
+http://shareex@195.26.87.217/live?channelId=184&deviceMac=00:1A:79:33:E9:41|id=sonymax|shareext.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",SONY_MAX_2_🇮🇳
+http://shareex@195.26.87.217/live?channelId=183&deviceMac=00:1A:79:33:E9:41|id=sonymax2|shareext.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",SONY_PIX_🇮🇳
+http://shareex@195.26.87.217/live?channelId=189&deviceMac=00:1A:79:33:E9:41|id=sonypix|shareext.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",SONY_SAAB_🇮🇳
+http://shareex@195.26.87.217/live?channelId=191&deviceMac=00:1A:79:33:E9:41|id=sonysab|shareext.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",SONY_WAH_🇮🇳
+http://shareex@195.26.87.217/live?channelId=187&deviceMac=00:1A:79:33:E9:41|id=sonywah|shareext.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",STAR_MOVIES_HD_🇮🇳
+http://shareex@195.26.87.217/live?channelId=198&deviceMac=00:1A:79:33:E9:41|id=starmovieHD|shareext.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",STAR_ZAHRA_🇮🇳
+http://shareex@195.26.87.217/live?channelId=195&deviceMac=00:1A:79:33:E9:41|id=starZahra|shareext.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",STAR_GOLD_2_🇮🇳
+http://shareex@195.26.87.217/live?channelId=33165&deviceMac=00:1A:79:33:E9:41|id=starGold2|shareext.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",STAR_SELECT_🇮🇳
+http://shareex@195.26.87.217/live?channelId=199&deviceMac=00:1A:79:33:E9:41|id=starselect|shareext.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",STAR_PLUS_HD_🇮🇳
+http://shareex@195.26.87.217/live?channelId=200&deviceMac=00:1A:79:33:E9:41|id=starplusHD|shareext.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",COLOR_INFINITY_HD_🇮🇳
+http://shareex@195.26.87.217/live?channelId=202&deviceMac=00:1A:79:33:E9:41|id=colorinfinityHD|shareext.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",ZEE_ACTION_🇮🇳
+http://shareex@195.26.87.217/live?channelId=207&deviceMac=00:1A:79:33:E9:41|id=zeeaction|shareext.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",ZEE_TAMIL_🇮🇳
+http://shareex@195.26.87.217/live?channelId=208&deviceMac=00:1A:79:33:E9:41|id=zeetamil|shareext.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",ZEE_TV_🇮🇳
+http://shareex@195.26.87.217/live?channelId=218&deviceMac=00:1A:79:33:E9:41|id=zeetvHD|shareext.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",ZOOM_🇮🇳
+http://shareex@195.26.87.217/live?channelId=121&deviceMac=00:1A:79:33:E9:41|id=zoom|shareext.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",BBO_🇮🇳
+http://shareex@195.26.87.217/live?channelId=86148&deviceMac=00:1A:79:33:E9:41|id=bbo|shareext.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="Shareext@MOVIES",BBO_CLASSIC_🇮🇳
+http://shareex@195.26.87.217/live?channelId=86150&deviceMac=00:1A:79:33:E9:41|id=bboclassic|shareext.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",BOX Movie
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?bySCTV|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Family Flix
