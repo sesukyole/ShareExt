@@ -123,6 +123,44 @@ http://171.238.181.52:18080/156.m3u8?Shareext/ts
 http://171.238.181.52:18080/192.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Vtv_5
 http://171.238.181.52:18080/194.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Hub•Premier•1
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=348097&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Hub•Premier•2
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=348098&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Hub•Premier•3
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=348099&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Hub•Premier•4
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=348100&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Hub•Premier•5
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=348101&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Hub•Premier•6
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=348102&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Hub•Premier•7
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=348103&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Hub•Premier•8
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=348104&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Hub•Premier•9
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=348105&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Hub•Premier•10
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=348106&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Hub•Premier•11
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=348107&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Astro•Supersport•UHD
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=348094&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",SS•RUGBY
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=39416&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",SS•Variety•2
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=39410&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",SS•Variety•3
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=39415&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",SS•Champion•League
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=39408&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",SS•Laliga
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=39406&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",SS•Football
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=39413&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",SS•Motorsport
+http://shareext@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=39412&extension=ts&play_token=shareext.ts
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",SPORT_18_🇮🇳
 http://shareex@195.26.87.217/live?channelId=102479&deviceMac=00:1A:79:33:E9:41|id=sport18|shareext.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",A_SPORTS_🇮🇳
