@@ -1637,7 +1637,14 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-4
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="VIP | UFC Fight Pass PPV" tvg-logo="https://www.pngplay.com/wp-content/uploads/2/UFC-Logo-PNG-HD-Quality.png" group-title="ShareExt@FIGHT_Sports",UFC•Fight•Pass•PPV
+http://memotv.xyz:8080/leylaser/muChEdcQ7d/319844
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: UFC Network" tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",UFC•Network
+http://memotv.xyz:8080/leylaser/muChEdcQ7d/319845
+#EXTINF:-1 tvg-id="" tvg-name="SP | Arena Fight" tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",Arena•Fight
+http://memotv.xyz:8080/leylaser/muChEdcQ7d/319846
+#EXTINF:-1 tvg-id="" tvg-name="RU: Fightbox HD" tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",RU:Fightbox•HD
+http://memotv.xyz:8080/leylaser/muChEdcQ7d/319851
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",FIGHT•SPORTS.🇮🇩
 http://rr1.dens.tv/h/h05/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",WWE•NETWORK
@@ -3933,11 +3940,6 @@ https://code.vthanhtivi.pw/getlink/tv360/95/2.m3u8
 https://code.vthanhtivi.pw/getlink/tv360/96/2.m3u8
 
 
-
-
-
-
-
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@MYANMAR|TELEVISION",MNTV (မြန်မာ)
 http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@MYANMAR|TELEVISION",MRTV (မြန်မာ)
@@ -3958,33 +3960,12 @@ http://203.81.84.130/hls/mwd_family/index.m3u8
 http://203.81.84.130/hls/mwd_shopping/index.m3u8
 
 
-
-
-
-
-
-
-
-
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",SONY.SAB HD
-http://208.86.19.13:81/7022.stream/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",&TV HD
-http://208.86.19.13:81/7033.stream/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",STAR.BHARAT
-http://208.86.19.13:81/7211.stream/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",&PICTURESHD
-http://208.86.19.13:81/7055.stream/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",SONY.MAX HD
-http://208.86.19.13:81/7066.stream/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",ZEE.ACTION
 http://208.86.19.13:81/7288.stream/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",SONY.MAX 2
 http://208.86.19.13:81/7300.stream/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@INDIA TV",Colors.Cineplex HD
 http://208.86.19.13:81/73555.stream/index.m3u8
-
-
 
 
 
@@ -4115,7 +4096,6 @@ http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/chunklist_w1329828768.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",RCN TV*
 https://5c75277727cd1.streamlock.net:443/rcntv/rcntv/playlist.m3u8
-
 
 
 
