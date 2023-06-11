@@ -4082,11 +4082,11 @@ http://203.81.84.130/hls/mwd_family/index.m3u8
 http://203.81.84.130/hls/mwd_shopping/index.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="",ZEE|ACTION
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",ZEE|ACTION
 http://208.86.19.13:81/7288.stream/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="",SONY|MAX 2
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",SONY|MAX 2
 http://208.86.19.13:81/7300.stream/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="",Colors|Cineplex HD
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Colors|Cineplex HD
 http://208.86.19.13:81/73555.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: &AMP; FLIX" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/and-flix-in.png" group-title="SHAREEXT@TEVE•INDIA",&FLIX
 http://parkpay.live:8080/Whts1414/gkCjBHNgAP/26543
