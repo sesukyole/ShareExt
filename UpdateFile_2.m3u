@@ -1810,6 +1810,28 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-4
 
 
 
+
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",UFC•PASS•01
+https://anon.devds.site/link.php?hash=aHR0cDovL3N2ZXJpZ2VwbGF5LnR2OjIwOTUvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6YmY6YTY6ODQmc3RyZWFtPTEzMjU5JmV4dGVuc2lvbj10cy ZwbGF5X3Rva2VuPWRXdEN6YTRxMTQ=|shareext@UfcPass1.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",UFC•PASS•02
+https://anon.devds.site/link.php?hash=aHR0cDovL2t1bmd0di5uZXQ6MjA5NS9wbGF5L2xpdmUucGhwP21hYz0xMDoyNzpCRToyRDoyRDo4MSZzdHJlYW09MTMyNTkmZXh0ZW5zaW9uPXRzJnBsYXlfd G9rZW49QkdrZkx3blVCSA==|shareext@UfcPass2.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",FIGHT||SPORTS
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+#EXTINF:-1 tvg-id="fightnetwork.us" tvg-name="US: Fight Network HD" tvg-logo="http://kb007.xyz/picons/liveevents.png" group-title="ShareExt@FIGHT_Sports",US:Fight•Network HD
+http://st3x.ddns.net:80/live/udFSfmJxLC/3BLgfSmFQX/7920.m3u8
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="US: WWE Network HD" tvg-logo="http://kb007.xyz/picons/liveevents.png" group-title="ShareExt@FIGHT_Sports",US:WWE•Network HD
+http://st3x.ddns.net:80/live/udFSfmJxLC/3BLgfSmFQX/4693.m3u8
+#EXTINF:-1 tvg-id="fightnetwork.us" tvg-name="US: Fight Network" tvg-logo="http://kb007.xyz/picons/liveevents.png" group-title="ShareExt@FIGHT_Sports",US:Fight•Network
+http://st3x.ddns.net:80/live/udFSfmJxLC/3BLgfSmFQX/5113.m3u8
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="US: WWE FHD" tvg-logo="http://kb007.xyz/picons/liveevents.png" group-title="ShareExt@FIGHT_Sports",US:WWE•FHD
+http://st3x.ddns.net:80/live/udFSfmJxLC/3BLgfSmFQX/226636.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: GLORY Kickboxing HD" tvg-logo="http://kb007.xyz/picons/liveevents.png" group-title="ShareExt@FIGHT_Sports",US:GLORY•Kickboxing HD
+http://st3x.ddns.net:80/live/udFSfmJxLC/3BLgfSmFQX/17338.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: MMA TV HD" tvg-logo="http://kb007.xyz/picons/liveevents.png" group-title="ShareExt@FIGHT_Sports",US:MMA•TV HD
+http://st3x.ddns.net:80/live/udFSfmJxLC/3BLgfSmFQX/8007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[CZ] Fightbox HD" tvg-logo="http://kb007.xyz/picons/liveevents.png" group-title="ShareExt@FIGHT_Sports",[CZ]Fightbox•HD
+http://st3x.ddns.net:80/live/udFSfmJxLC/3BLgfSmFQX/3626.m3u8
 #EXTINF:-1 tvg-id="FightNetwork.ca" tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="ShareExt@FIGHT_Sports",Fight•Network(1080p)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="ShareExt@FIGHT_Sports",FIGHT•SPORTS(1080p)
@@ -1885,6 +1907,24 @@ http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=918984&e
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=918983&extension=ts&play_token=1kEm8DbZmS
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",Astro•5🇲🇾
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=918982&extension=ts&play_token=1kEm8DbZmS
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",Total•Sports_indii
+http://50.7.237.11:8080/TOTALSPORTS/tracks-v1a1/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",StarSports•select 2
+http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/2507/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",StarSports•select 1
+http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/2508/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",WWE•network
+http://50.7.237.11:8080/WWE/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",T•sports•7_thai
+https://cdn6.goprimetime.info/feed/202205171929/chtsport/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",LiveSports=Gtv.              https://ythls.onrender.com/channel/UCXuHIkEezOy_b1pnkN0-TIg.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",RTA•Sports.              https://hls.rtasport.live/hls/stream.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",Viaplay•extra.              https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",On•Golf_viet
+https://code.vthanhtivi.pw/getlink/tv360/169/2.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",BTV5-ON•Sports•Action_viet
+https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="PK: A SPORTS HD" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",PK:A SPORTS HD
 http://ultrontv.xyz:80/Mahen123/Mahen77/152258
 #EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS HD" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",PK:PTV SPORTS HD
