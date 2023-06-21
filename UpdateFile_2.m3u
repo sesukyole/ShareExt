@@ -31,6 +31,7 @@ https://anon.devds.site/link.php?hash=aHR0cDovL2traW1jbzAzLm9rbmlydmFuYS5jbHViOj
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",ASSP•4•_🇲🇾
 https://anon.devds.site/link.php?hash=aHR0cDovL2traW1jbzAzLm9rbmlydmFuYS5jbHViOjg4ODAvM3VzMDIxMzNuMDEvZGFzY3NhZGF3LzE3MTkKCg==|shareext@assp4.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",ASSP•5•_🇲🇾
+http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=918982&extension=ts&shareext@AstroSports5
 https://anon.devds.site/link.m3u8?hash=aHR0cDovL2traW1jbzAzLm9rbmlydmFuYS5jbHViOjg4ODAvM3VzMDIxMzNuMDEvZGFzY3NhZGF3LzE3MTMKCg==|shareext@assp5.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPOTV🇲🇾
 http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=683117&extension=ts&play_token=shareext.ts
@@ -106,6 +107,9 @@ http://shareext@line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683
 http://shareext@line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683099&extension=ts&play_token=shareext
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",M|N|C|TV|line
 http://shareext@line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683098&extension=ts&play_token=shareext
+
+
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseePrime_dec=auto
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Optus•Sports_1(live_only)
@@ -1532,6 +1536,22 @@ https://anon.devds.site/link.php?hash=aHR0cDovL2traW1jbzAzLm9rbmlydmFuYS5jbHViOj
 http://nettvpro.live/hls/lotustv.php
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Sony.pick
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Fox•Movies_arb
+http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1141571&extension=ts&shareext@FoxMovies
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Fox•Action•Movies_arb
+http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1141570&extension=ts&shareext@FoxActionMovies
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Star•Movies_arb
+http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1141569&extension=ts&shareext@StarMovies
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Star•World_arb
+http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1141568&extension=ts&shareext@StarWorld
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Bein•Movies•Premier•1_arb
+http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1141583&extension=ts&shareext@BeinMoviesPremier1
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Bein•Movies•Action•2_arb
+http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1141582&extension=ts&shareext@BeinMoviesAction2
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Bein•Movies•Drama•3_arb
+http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1141581&extension=ts&shareext@BeinMoviesDrama3
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Bein•Movies•Family•4_arb
+http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1141580&extension=ts&shareext@BeinMoviesFamily4
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",HBO__devds
 https://anon.devds.site/link.php?hash=aHR0cDovL2lwdHZ0cmVlLm5ldDo4MDgwL0YxNzc0NC81b3Q4bkFxdWpJU1o3R2xNZ09uaUdDcUc4aExMajE2Ny8xOTc5NzIK|shareext@HBO.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",HBO•HITS_devds
