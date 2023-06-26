@@ -1172,12 +1172,95 @@ http://rr3.dens.tv/s/s94/index2.m3u8
 http://rr2.dens.tv/s/s32/index.m3u8
 
 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://asiagrandiptv.us/logo/hbo.png" group-title="Shareext@MOVIES",HBO_🇹🇼
+http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU" group-title="Shareext@MOVIES",HBO•FAMILY_🇹🇼
+http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO HITS" tvg-logo="https://asiagrandiptv.us/logo/hbohits.png" group-title="Shareext@MOVIES",HBO•HITS_🇹🇼
+http://198.16.100.90:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO SIGNATURE" tvg-logo="https://asiagrandiptv.us/logo//hbosignature.png" group-title="Shareext@MOVIES",HBO•SIGNATURE_🇹🇼
+http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+#EXTINF:-1 tvg-id="" tvg-name="MY: CINEMAX" tvg-logo="https://asiagrandiptv.us/logo/cinemax.png" group-title="Shareext@MOVIES",CINEMAX_🇹🇼
+http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
+#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU" group-title="Shareext@MOVIES",HOLLYWOOD•MOVIES_🇹🇼
+http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",HBO~🇮🇩
+http://kuchini.site:8080/ace2524d/e0749dc935/197972
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",HBO Family🇮🇩
+http://kuchini.site:8080/ace2524d/e0749dc935/197055
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",HBO Hits🇮🇩
+http://kuchini.site:8080/ace2524d/e0749dc935/196480
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",HBO Signature🇮🇩
+http://kuchini.site:8080/ace2524d/e0749dc935/221948
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Galaxy🇮🇩
+http://kuchini.site:8080/ace2524d/e0749dc935/264773
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Galaxy Premium🇮🇩
+http://kuchini.site:8080/ace2524d/e0749dc935/264774
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",My Cinema🇮🇩
+http://kuchini.site:8080/ace2524d/e0749dc935/298553
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",My Cinema Asia🇮🇩
+http://kuchini.site:8080/ace2524d/e0749dc935/298554
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",My Family🇮🇩
+http://kuchini.site:8080/ace2524d/e0749dc935/298555
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",My Kidz🇮🇩
+http://kuchini.site:8080/ace2524d/e0749dc935/298556
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Rock Action🇮🇩
+http://kuchini.site:8080/ace2524d/e0749dc935/298490
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Rock Entertaiment🇮🇩
+http://kuchini.site:8080/ace2524d/e0749dc935/298565
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Rock Extreme🇮🇩
+http://kuchini.site:8080/ace2524d/e0749dc935/298566
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Thrill🇮🇩
+http://kuchini.site:8080/ace2524d/e0749dc935/157580
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",AXN🇮🇩
+http://kuchini.site:8080/ace2524d/e0749dc935/165079
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Hits🇮🇩
+http://kuchini.site:8080/ace2524d/e0749dc935/165085
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Hits Movies🇮🇩
+http://kuchini.site:8080/ace2524d/e0749dc935/221947
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",boo_🇲🇾
 https://anon.devds.site/link.php?hash=aHR0cDovL2traW1jbzAzLm9rbmlydmFuYS5jbHViOjg4ODAvM3VzMDIxMzNuMDEvZGFzY3NhZGF3LzE2OTcKCg==|shareext@boo.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="Shareext@MOVIES",LOTUS•mACAU_dec=auto
 http://nettvpro.live/hls/lotustv.php
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Sony.pick
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Movies•Family•4K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/30718
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Movies•Blockbusters•4K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/27977
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Movies•Animation•4K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/159933
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Movies•Cult•4K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/159934
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Movies•Comedy•4K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/159937
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Movies•Classic•4K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/159923
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Movies•Greats•4K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/15517
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Movies•Greats•Two•4K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/16071
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Movies•Historical•4K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/16239
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Movies•Horror•4K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/16240
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Movies•Mystery•4K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/17657
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Movies•Premiere•4K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/18116
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Movies•Romance•4K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/20979
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Movies•Sci-Fi•4K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/20981
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Movies•Western•4K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/27584
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Movies•Hits•4K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/27591
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Movies•Thriller•4K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/27599
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Fox•Movies_arb
 http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1141571&extension=ts&shareext@FoxMovies
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/k42hmhPv/Superhero-DC-shareext.jpg" group-title="Shareext@MOVIES",Fox•Action•Movies_arb
@@ -1693,6 +1776,18 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 https://stream.ads.ottera.tv/cl/29fmbD4wgol0FelXaMeAw/854x480_550000_3_f.m3u8
 
 
+
+
+
+
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro Supersports 1 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",Astro•Supersports 1
+http://45.12.1.14:80/7JvIck488/meAqNw5218/23453
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro Supersports 2 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",Astro•Supersports 2 
+http://45.12.1.14:80/7JvIck488/meAqNw5218/23452
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro Supersports 3 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",Astro•Supersports 3 
+http://45.12.1.14:80/7JvIck488/meAqNw5218/23451
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro Supersports 4 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",Astro•Supersports 4 
+http://45.12.1.14:80/7JvIck488/meAqNw5218/33973
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",LiveSports=Gtv
 https://ythls.onrender.com/channel/UCXuHIkEezOy_b1pnkN0-TIg.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽ASIA•SUKAN",RTA•Sports.
