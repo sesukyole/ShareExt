@@ -414,8 +414,6 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•MY||HK",Astro•Arena.1
-https://ogietv.biz.id:443/play/3En1nRaR0x23S4Tt2ZPTbXqzgYC_0ekWxrlBm1aryjU/m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•MY||HK",Astro•Arena.2
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/379990.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•MY||HK",ARENA•BOLA•1
@@ -831,37 +829,37 @@ http://45.12.1.14:80/7JvIck488/meAqNw5218/116134
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•1_HD🇨🇳
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•1_HD🇨🇳_dec=auto
 http://lu1.cc/itv/php/gudou.php?id=cctv1hd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•2_HD🇨🇳
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•2_HD🇨🇳_dec=auto
 http://lu1.cc/itv/php/gudou.php?id=cctv2hd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•3_HD🇨🇳
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•3_HD🇨🇳_dec=auto
 http://lu1.cc/itv/php/gudou.php?id=cctv3hd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•4_HD🇨🇳
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•4_HD🇨🇳_dec=auto
 http://lu1.cc/itv/php/gudou.php?id=cctv4hd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•5_HD🇨🇳
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•5_HD🇨🇳_dec=auto
 http://lu1.cc/itv/php/gudou.php?id=cctv5hd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•5+_HD🇨🇳
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•5+_HD🇨🇳_dec=auto
 http://lu1.cc/itv/php/gudou.php?id=cctv5phd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•6_HD🇨🇳
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•6_HD🇨🇳_dec=auto
 http://lu1.cc/itv/php/gudou.php?id=cctv6hd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•7_HD🇨🇳
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•7_HD🇨🇳_dec=auto
 http://lu1.cc/itv/php/gudou.php?id=cctv7hd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•8_HD🇨🇳
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•8_HD🇨🇳_dec=auto
 http://lu1.cc/itv/php/gudou.php?id=cctv8hd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•9_HD🇨🇳
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•9_HD🇨🇳_dec=auto
 http://lu1.cc/itv/php/gudou.php?id=cctv9hd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•1O_HD🇨🇳
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•1O_HD🇨🇳_dec=auto
 http://lu1.cc/itv/php/gudou.php?id=cctv10hd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•11_HD🇨🇳
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•11_HD🇨🇳_dec=auto
 http://lu1.cc/itv/php/gudou.php?id=cctv11hd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•12_HD🇨🇳
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•12_HD🇨🇳_dec=auto
 http://lu1.cc/itv/php/gudou.php?id=cctv12hd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•13_HD🇨🇳
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•13_HD🇨🇳_dec=auto
 http://lu1.cc/itv/php/gudou.php?id=cctv13hd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•14_HD🇨🇳
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•14_HD🇨🇳_dec=auto
 http://lu1.cc/itv/php/gudou.php?id=cctv14hd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•15_HD🇨🇳
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•15_HD🇨🇳_dec=auto
 http://lu1.cc/itv/php/gudou.php?id=cctv15hd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",姘戣鏂伴椈馃嚟馃嚢
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
@@ -2741,350 +2739,6 @@ http://ultrontv.xyz:80/Mahen123/Mahen77/151506
 http://ultrontv.xyz:80/Mahen123/Mahen77/151507
 
 
-
-
-#EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-name="SuperSport Grandstand HD VIP AF" tvg-logo="https://i.postimg.cc/02GqGbK9/supersport-grandstand.png" group-title="SHAREEXT@SUKAN_AFRICAN",SuperSport Grandstand HD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/678031
-#EXTINF:-1 tvg-id="supersportpsl.za" tvg-name="SuperSport PSL HD VIP AF" tvg-logo="https://i.postimg.cc/xdpk0s9p/supersport-psl.png" group-title="SHAREEXT@SUKAN_AFRICAN",SuperSport PSL HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/678030
-#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="SuperSport Premier League HD VIP AF" tvg-logo="https://i.postimg.cc/ncqQvY1M/supersport-premier-league.png" group-title="SHAREEXT@SUKAN_AFRICAN",SuperSport PremierLeague HD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/694236
-#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="SuperSport La Liga HD VIP AF" tvg-logo="https://i.postimg.cc/sxXZYtwr/supersport-laliga.png" group-title="SHAREEXT@SUKAN_AFRICAN",SuperSport LaLiga HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/683001
-#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="SuperSport Football HD VIP AF" tvg-logo="https://i.postimg.cc/tRPk768C/supersport-football.png" group-title="SHAREEXT@SUKAN_AFRICAN",SuperSport Football HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/678024
-#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-name="SuperSport Variety 1 FHD VIP AF" tvg-logo="https://i.postimg.cc/MTjGzqPX/supersport-variety-1.png" group-title="SHAREEXT@SUKAN_AFRICAN",SuperSport Variety 1 FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/678020
-#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-name="SuperSport Variety 2 FHD AF" tvg-logo="https://i.postimg.cc/pLpbwk1L/supersport-variety-2.png" group-title="SHAREEXT@SUKAN_AFRICAN",SuperSport Variety 2 FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/678021
-#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name="SuperSport Variety 3 FHD VIP AF" tvg-logo="https://i.postimg.cc/sxv4jQF7/supersport-variety-3.png" group-title="SHAREEXT@SUKAN_AFRICAN",SuperSport Variety 3 FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/678022
-#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-name="SuperSport Variety 4 FHD VIP AF" tvg-logo="https://i.postimg.cc/sgF4zgTG/supersport-variety-4.png" group-title="SHAREEXT@SUKAN_AFRICAN",SuperSport Variety 4 FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/678023
-#EXTINF:-1 tvg-id="supersportblitz.za" tvg-name="SuperSport Blitz FHD VIP AF" tvg-logo="https://i.postimg.cc/gjrgBtNV/supersport-blitz.png" group-title="SHAREEXT@SUKAN_AFRICAN",SuperSport Blitz FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/682921
-#EXTINF:-1 tvg-id="supersportaction.za" tvg-name="SuperSport Action HD VIP AF" tvg-logo="https://i.postimg.cc/kgVdtfCt/supersport-action.png" group-title="SHAREEXT@SUKAN_AFRICAN",SuperSport Action HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/694748
-#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="SuperSport Rugby HD VIP AF" tvg-logo="https://i.postimg.cc/T3C19k52/supersport-rugby.png" group-title="SHAREEXT@SUKAN_AFRICAN",SuperSport Rugby HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/678026
-#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="SuperSport Cricket FHD AF" tvg-logo="https://i.postimg.cc/1RVSXyGr/supersport-cricket.png" group-title="SHAREEXT@SUKAN_AFRICAN",SuperSport Cricket FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/688714
-#EXTINF:-1 tvg-id="supersportgolf.za" tvg-name="SuperSport Golf HD VIP AF" tvg-logo="https://i.postimg.cc/d0LmFZ8F/supersport-golf.png" group-title="SHAREEXT@SUKAN_AFRICAN",SuperSport Golf HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/678028
-#EXTINF:-1 tvg-id="supersporttennis.za" tvg-name="SuperSport Tennis HD VIP AF" tvg-logo="https://i.postimg.cc/fbPL4Jv6/supersport-tennis.png" group-title="SHAREEXT@SUKAN_AFRICAN",SuperSport Tennis HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/678027
-#EXTINF:-1 tvg-id="supersportmotorsport.za" tvg-name="SuperSport Motorsport HD VIP AF" tvg-logo="https://i.postimg.cc/3w8r02LM/supersport-motorsport.png" group-title="SHAREEXT@SUKAN_AFRICAN",SuperSport Motorsport HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/678025
-#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-name="SuperSport Maximo HD AF" tvg-logo="https://i.postimg.cc/B6vvk2D5/supersport-maximo-1.png" group-title="SHAREEXT@SUKAN_AFRICAN",SuperSport Maximo HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/682919
-
-
-
-#EXTINF:-1 tvg-id="orfsport.at" tvg-name="ORF Sport+ HD AT" tvg-logo="https://i.postimg.cc/hGbn2RnV/ORF-Sport-Plus-logo-2011.jpg" group-title="SHAREEXT@SUKAN_AT&AU",ORF Sport+ HD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/8049
-#EXTINF:-1 tvg-id="skysportaustria.at" tvg-name="Sky Sport Austria HD AT" tvg-logo="https://i.postimg.cc/pdtw3cXx/Sky-Sport-Austria-1-2020.jpg" group-title="SHAREEXT@SUKAN_AT&AU",SkySport Austria HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/6175
-#EXTINF:-1 tvg-id="skysportaustria2.at" tvg-name="Sky Sport Austria 2 HD [Match Time] AT" tvg-logo="https://i.postimg.cc/pLMcdhNJ/Sky-Sport-Austria-2-2020.jpg" group-title="SHAREEXT@SUKAN_AT&AU",SkySport Austria 2 HD [Match Time]
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/663530
-#EXTINF:-1 tvg-id="skysportaustria3.at" tvg-name="Sky Sport Austria 3 HD [Match Time] AT" tvg-logo="https://i.postimg.cc/sDr0jGC9/Sky-Sport-Austria-3-2020.jpg" group-title="SHAREEXT@SUKAN_AT&AU",SkySport Austria 3 HD [Match Time]
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/663531
-#EXTINF:-1 tvg-id="skysportaustria4.at" tvg-name="Sky Sport Austria 4 HD [Match Time] AT" tvg-logo="https://i.postimg.cc/zBqyzyWT/Sky-Sport-Austria-4-AT.png" group-title="SHAREEXT@SUKAN_AT&AU",SkySport Austria 4 HD [Match Time] 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/696613
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria 5 HD [Match Time] AT" tvg-logo="https://i.postimg.cc/C5jsJKJF/Sky-Sport-Austria-5.png" group-title="SHAREEXT@SUKAN_AT&AU",SkySport Austria 5 HD [Match Time] 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/696614
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports News AU" tvg-logo="https://i.postimg.cc/bNKB4ncM/Fox-Sports-News-2015.jpg" group-title="SHAREEXT@SUKAN_AT&AU",FoxSports News
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/686914
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 501 AU" tvg-logo="https://i.postimg.cc/gkcH2q8Q/Fox-sports-501.jpg" group-title="SHAREEXT@SUKAN_AT&AU",FoxSports 501 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/686915
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 502 FHD AU" tvg-logo="https://i.postimg.cc/XvtCK9Zj/Fox-Sports502-HD.jpg" group-title="SHAREEXT@SUKAN_AT&AU",FoxSports 502 FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/686916
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 503 HD AU" tvg-logo="https://i.postimg.cc/CxZtdNYm/Fox-Sports503-HD.jpg" group-title="SHAREEXT@SUKAN_AT&AU",FoxSports 503 HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/686917
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 504 HD AU" tvg-logo="https://i.postimg.cc/tRN8ck9M/Fox-Sports504-HD.jpg" group-title="SHAREEXT@SUKAN_AT&AU",FoxSports 504 HD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/686918
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 505 HD AU" tvg-logo="https://i.postimg.cc/hG10GzJ2/Fox-Sports505-HD.jpg" group-title="SHAREEXT@SUKAN_AT&AU",FoxSports 505 HD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/686919
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 506 AU" tvg-logo="https://i.postimg.cc/HWytNkHv/Fox-Sports506-HD.jpg" group-title="SHAREEXT@SUKAN_AT&AU",FoxSports 506 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/686920
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 507 AU" tvg-logo="https://i.postimg.cc/rpbqKJDJ/Fox-Sports507-HD.jpg" group-title="SHAREEXT@SUKAN_AT&AU",FoxSports 507 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/686921
-
-
-
-#EXTINF:-1 tvg-id="matchtv.ru" tvg-name="Match! FHD RU" tvg-logo="https://i.postimg.cc/VvVtnVbT/Match.png" group-title="SHAREEXT@SUKAN_Russian",Setanta•Sports•1.FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/36872
-#EXTINF:-1 tvg-id="matchtv.ru" tvg-name="Match! HD RU" tvg-logo="https://i.postimg.cc/VvVtnVbT/Match.png" group-title="SHAREEXT@SUKAN_Russian",Match! HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/5374
-#EXTINF:-1 tvg-id="matchfutbol1.ru" tvg-name="Match! Futbol 1 HD RU" tvg-logo="https://i.postimg.cc/N060BzGt/Match-Futbol-1.jpg" group-title="SHAREEXT@SUKAN_Russian",Match! Futbol 1 HD http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/36898
-#EXTINF:-1 tvg-id="matchfutbol2.ru" tvg-name="Match! Futbol 2 FHD RU" tvg-logo="https://i.postimg.cc/wMsZYSHc/Match-Futbol-2.jpg" group-title="SHAREEXT@SUKAN_Russian",Match! Futbol 2 FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/36897
-#EXTINF:-1 tvg-id="matchplaneta.ru" tvg-name="Match Planeta RU" tvg-logo="https://i.postimg.cc/nLS96W3L/Match-Planeta.jpg" group-title="SHAREEXT@SUKAN_Russian",Match Planeta
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/5373
-#EXTINF:-1 tvg-id="mtachpremier" tvg-name="Match! Premier FHD RU" tvg-logo="https://i.postimg.cc/CxbGTp17/Match-Premier.jpg" group-title="SHAREEXT@SUKAN_Russian",Match! Premier FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/36875
-#EXTINF:-1 tvg-id="matcharena.ru" tvg-name="Match! Arena FHD RU" tvg-logo="https://i.postimg.cc/vZcs0Sxh/Match-Arena.jpg" group-title="SHAREEXT@SUKAN_Russian",Match! Arena FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/36895
-#EXTINF:-1 tvg-id="matchigra.ru" tvg-name="Match! Igra FHD RU" tvg-logo="https://i.postimg.cc/bvk4MXyx/Match-Igra.jpg" group-title="SHAREEXT@SUKAN_Russian",Match! Igra FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/36891
-#EXTINF:-1 tvg-id="" tvg-name="KHL TV FHD RU" tvg-logo="https://i.postimg.cc/9XKs8cTn/KHL-Prime.jpg" group-title="SHAREEXT@SUKAN_Russian",KHL TV FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/686546
-#EXTINF:-1 tvg-id="eurosport1.ru" tvg-name="Eurosport 1 FHD RU" tvg-logo="https://i.postimg.cc/59LmJJTG/Eurosport-1.jpg" group-title="SHAREEXT@SUKAN_Russian",Eurosport 1 FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/36870
-#EXTINF:-1 tvg-id="eurosport2.ru" tvg-name="Eurosport 2 FHD RU" tvg-logo="https://i.postimg.cc/0QpKTkj0/Eurosport-2.jpg" group-title="SHAREEXT@SUKAN_Russian",Eurosport 2 FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/36871
-#EXTINF:-1 tvg-id="konnyymir.ru" tvg-name="Konniy Mir FHD RU" tvg-logo="https://i.postimg.cc/HsJdnS0f/Konnyy-mir.jpg" group-title="SHAREEXT@SUKAN_Russian",Konniy Mir FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/36873
-#EXTINF:-1 tvg-id="viasatsport.ru" tvg-name="Viasat Sport FHD RU" tvg-logo="https://i.postimg.cc/PJQ35n3m/Viasat-Sport-2008.jpg" group-title="SHAREEXT@SUKAN_Russian",Viasat Sport FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/36879
-#EXTINF:-1 tvg-id="extremesports.ru" tvg-name="Extreme Sports RU" tvg-logo="https://i.postimg.cc/sDtGKHVr/Extreme-Sports-Channel.jpg" group-title="SHAREEXT@SUKAN_Russian",Extreme Sports 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/5361
-
-
-
-#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="RMC Sport 1 HD FR" tvg-logo="https://i.postimg.cc/jShBgm6q/RMC_Sport_1.jpg" group-title="SHAREEXT@SUKAN_France",RMC Sport 1 HD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/625226
-#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="RMC Sport 2 HD FR" tvg-logo="https://i.postimg.cc/hGy6gm3H/RMC_Sport_2.jpg" group-title="SHAREEXT@SUKAN_France",RMC Sport 2 HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/682955
-#EXTINF:-1 tvg-id="rmcsport3.fr" tvg-name="RMC Sport 3 HD FR" tvg-logo="https://i.postimg.cc/rmDbppBz/RMC_Sport_3.jpg" group-title="SHAREEXT@SUKAN_France",RMC Sport 3 HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/625233
-#EXTINF:-1 tvg-id="rmcsport4.fr" tvg-name="RMC Sport 4 HD FR" tvg-logo="https://i.postimg.cc/G3sVwHP5/RMC_Sport_4.jpg" group-title="SHAREEXT@SUKAN_France",RMC Sport 4 HD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/682961
-#EXTINF:-1 tvg-id="rmcsportlive5.fr" tvg-name="RMC Sport 5 [Match Time] FHD FR" tvg-logo="https://i.postimg.cc/hGP6HsML/RMC_Sport_Live_5.jpg" group-title="SHAREEXT@SUKAN_France",RMC Sport 5 [Match Time] FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/682962
-#EXTINF:-1 tvg-id="rmcsportlive6.fr" tvg-name="RMC Sport 6 [Match Time] FHD FR" tvg-logo="https://i.postimg.cc/gJ17LWps/RMC_Sport_Live_6.jpg" group-title="SHAREEXT@SUKAN_France",RMC Sport 6 [Match Time] FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/682963
-#EXTINF:-1 tvg-id="rmcsportlive7.fr" tvg-name="RMC Sport 7 [Match Time] FHD FR" tvg-logo="https://i.postimg.cc/XqFzwz7b/RMC_Sport_Live_7.jpg" group-title="SHAREEXT@SUKAN_France",RMC Sport 7 [Match Time] FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/682964
-#EXTINF:-1 tvg-id="rmcsportlive8.fr" tvg-name="RMC Sport 8 [Match Time] FHD FR" tvg-logo="https://i.postimg.cc/VLQTYmDL/RMC_Sport_Live_8.jpg" group-title="SHAREEXT@SUKAN_France",RMC Sport 8 [Match Time] FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/682965
-#EXTINF:-1 tvg-id="rmcsportlive9.fr" tvg-name="RMC Sport 9 [Match Time] FHD FR" tvg-logo="https://i.postimg.cc/PrW7J9Rb/RMC_Sport_Live_9.jpg" group-title="SHAREEXT@SUKAN_France",RMC Sport 9 [Match Time] FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/682967
-#EXTINF:-1 tvg-id="primevideoligue1.fr" tvg-name="Amazon Prime 1 [Match Time] FHD VIP FR" tvg-logo="https://i.postimg.cc/vZKyGCjY/Amazon_Prime_Video.jpg" group-title="SHAREEXT@SUKAN_France",Amazon Prime 1 [Match Time] FHD VIP 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/690041
-#EXTINF:-1 tvg-id="primevideoligue1.fr" tvg-name="Amazon Prime 2 [Match Time] FHD VIP FR" tvg-logo="https://i.postimg.cc/vZKyGCjY/Amazon_Prime_Video.jpg" group-title="SHAREEXT@SUKAN_France",Amazon Prime 2 [Match Time] FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/690042
-#EXTINF:-1 tvg-id="primevideoligue1.fr" tvg-name="Amazon Prime 3 [Match Time] FHD VIP FR" tvg-logo="https://i.postimg.cc/vZKyGCjY/Amazon_Prime_Video.jpg" group-title="SHAREEXT@SUKAN_France",Amazon Prime 3 [Match Time] FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/690043
-#EXTINF:-1 tvg-id="primevideoligue1.fr" tvg-name="Amazon Prime 4 [Match Time] FHD VIP FR" tvg-logo="https://i.postimg.cc/vZKyGCjY/Amazon_Prime_Video.jpg" group-title="SHAREEXT@SUKAN_France",Amazon Prime 4 [Match Time] FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/690044
-#EXTINF:-1 tvg-id="primevideoligue1.fr" tvg-name="Amazon Prime 5 [Match Time] FHD VIP FR" tvg-logo="https://i.postimg.cc/vZKyGCjY/Amazon_Prime_Video.jpg" group-title="SHAREEXT@SUKAN_France",Amazon Prime 5 [Match Time] FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/690045
-#EXTINF:-1 tvg-id="primevideoligue1.fr" tvg-name="Amazon Prime 6 [Match Time] FHD VIP FR" tvg-logo="https://i.postimg.cc/vZKyGCjY/Amazon_Prime_Video.jpg" group-title="SHAREEXT@SUKAN_France",Amazon Prime 6 [Match Time] FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/690046
-#EXTINF:-1 tvg-id="primevideoligue1.fr" tvg-name="Amazon Prime 7 [Match Time] FHD VIP FR" tvg-logo="https://i.postimg.cc/vZKyGCjY/Amazon_Prime_Video.jpg" group-title="SHAREEXT@SUKAN_France",Amazon Prime 7 [Match Time] FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/690047
-#EXTINF:-1 tvg-id="primevideoligue1.fr" tvg-name="Amazon Prime 8 [Match Time] FHD VIP FR" tvg-logo="https://i.postimg.cc/vZKyGCjY/Amazon_Prime_Video.jpg" group-title="SHAREEXT@SUKAN_France",Amazon Prime 8 [Match Time] FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/690048
-#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="Canal+ Sport FHD FR" tvg-logo="https://i.postimg.cc/cCRSf2Vy/Canal-Plus-Sport.png" group-title="SHAREEXT@SUKAN_France",Canal+ Sport FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/16926
-#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="Canal+ Sport HD FR" tvg-logo="https://i.postimg.cc/cCRSf2Vy/Canal-Plus-Sport.png" group-title="SHAREEXT@SUKAN_France",Canal+ Sport HD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/5696
-#EXTINF:-1 tvg-id="infosportplus.fr" tvg-name="InfoSport+ HD FR" tvg-logo="https://i.postimg.cc/ryxkFcc8/Infosport-plus.png" group-title="SHAREEXT@SUKAN_France",InfoSport+ HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/12952
-#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="Golf+ FHD FR" tvg-logo="https://i.postimg.cc/fLhS518W/Golf-plus.png" group-title="SHAREEXT@SUKAN_France",Golf+ FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/12948
-#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="Canal+ Foot HD FR" tvg-logo="https://i.postimg.cc/R090YBGm/Canal-Plus-Foot.png" group-title="SHAREEXT@SUKAN_France",Canal+ Foot HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/697179
-#EXTINF:-1 tvg-id="canalplusdecale.fr" tvg-name="Canal+ Sport 360 HD FR" tvg-logo="https://i.postimg.cc/YCjTcRLd/Canal-plus-Sport-360.png" group-title="SHAREEXT@SUKAN_France",Canal+ Sport 360 HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/5699
-#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="beIN Sports 1 HD FR" tvg-logo="https://i.postimg.cc/4452hX04/Be-INSports1.png" group-title="SHAREEXT@SUKAN_France",beINSports_1 HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/12961
-#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="beIN Sports 2 FHD FR" tvg-logo="https://i.postimg.cc/Hx30jkkf/Bein-sports-2.png" group-title="SHAREEXT@SUKAN_France",beINSports_2 FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/12958
-#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="beIN Sports 3 FHD FR" tvg-logo="https://i.postimg.cc/GhDB5p1d/Bein-sports-3.png" group-title="SHAREEXT@SUKAN_France",beINSports_3 FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/5708
-#EXTINF:-1 tvg-id="bein4max.fr" tvg-name="beIN Sports 4 Max FHD FR" tvg-logo="https://i.postimg.cc/90d6Dkk4/Be-IN-Sports-Max-4.png" group-title="SHAREEXT@SUKAN_France",beINSports 4 Max FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/694193
-#EXTINF:-1 tvg-id="bein5max.fr" tvg-name="beIN Sports 5 Max FHD FR" tvg-logo="https://i.postimg.cc/NfbnZRvw/Be-IN-Sports-Max-5.png" group-title="SHAREEXT@SUKAN_France",beINSports 5 Max FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/694194
-#EXTINF:-1 tvg-id="bein6max.fr" tvg-name="beIN Sports 6 Max HD FR" tvg-logo="https://i.postimg.cc/qvRFrgp6/be-IN-Sports-Max-6.png" group-title="SHAREEXT@SUKAN_France",beINSports 6 Max HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/8538
-#EXTINF:-1 tvg-id="bein7max.fr" tvg-name="beIN Sports 7 Max HD FR" tvg-logo="https://i.postimg.cc/kGgQS61x/be-IN-Sports-Max-7.png" group-title="SHAREEXT@SUKAN_France",beINSports 7 Max HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/8537
-#EXTINF:-1 tvg-id="bein8max.fr" tvg-name="beIN Sports 8 Max HD FR" tvg-logo="https://i.postimg.cc/KYhtNspc/be-IN-Sports-Max-8.png" group-title="SHAREEXT@SUKAN_France",beINSports 8 Max HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/12956
-#EXTINF:-1 tvg-id="bein9max.fr" tvg-name="beIN Sports 9 Max HD FR" tvg-logo="https://i.postimg.cc/kMY8Z5Yp/be-IN-Sports-Max-9.png" group-title="SHAREEXT@SUKAN_France",beINSports 9 Max HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/12954
-#EXTINF:-1 tvg-id="bein10max.fr" tvg-name="beIN Sports 10 Max FHD FR" tvg-logo="https://i.postimg.cc/Y9n4JXRW/be-IN-Sports-Max-10.png" group-title="SHAREEXT@SUKAN_France",beINSports 10 Max FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/12953
-
-
-
-
-#EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-name="beIN Sports Premium 1 HD VIP AR" tvg-logo="https://i.postimg.cc/L4fRyLWq/BS-premium-1.png" group-title="SHAREEXT@SUKAN_ARABIA",beINSports_Premium 1 HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/688156
-#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="beIN Sports Premium 2 HD VIP AR" tvg-logo="https://i.postimg.cc/gjP99t7x/BS-premium-2.png" group-title="SHAREEXT@SUKAN_ARABIA",beINSports_Premium 2 HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/5474
-#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="beIN Sports Premium 3 HD VIP AR" tvg-logo="https://i.postimg.cc/RZpjCZ85/BS-premium-3.png" group-title="SHAREEXT@SUKAN_ARABIA",beINSports_Premium 3 HD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/691817
-#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="beIN Sports Xtra 1 FHD VIP AR" tvg-logo="https://i.postimg.cc/Pqk1wm0m/BS-xtra-1.png" group-title="SHAREEXT@SUKAN_ARABIA",beINSports_Xtra 1 FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/667466
-#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="beIN Sports Xtra 2 HD VIP AR" tvg-logo="https://i.postimg.cc/XJs5mtq8/BS-xtra-2.png" group-title="SHAREEXT@SUKAN_ARABIA",beINSports_Xtra 2 HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/689266
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="beIN Sports English 1 FHD VIP AR" tvg-logo="https://i.postimg.cc/Pqh8xd8y/BS-english-1.png" group-title="SHAREEXT@SUKAN_ARABIA",beINSports_English 1 FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/689287
-#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="beIN Sports English 2 FHD VIP AR" tvg-logo="https://i.postimg.cc/d1N74dNN/BS-english-2.png" group-title="SHAREEXT@SUKAN_ARABIA",beINSports_English_2 FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/689288
-#EXTINF:-1 tvg-id="beinsports3en.qa" tvg-name="beIN Sports English 3 HD VIP AR" tvg-logo="https://i.postimg.cc/bJrrDrYx/BS-english-3.png" group-title="SHAREEXT@SUKAN_ARABIA",beINSports_English 3 HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/689289
-#EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="beIN Sports NBA FHD VIP AR" tvg-logo="https://i.postimg.cc/vTkkmvW3/BS-NBA.png" group-title="SHAREEXT@SUKAN_ARABIA",beINSports_NBA FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/694111
-#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="beIN Global FHD AR" tvg-logo="https://i.postimg.cc/vmj6b5bR/Be-IN-Sports.jpg" group-title="SHAREEXT@SUKAN_ARABIA",beIN_Global FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/688155
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports News FHD AR" tvg-logo="https://i.postimg.cc/cCWCLmzz/Be-IN-Sports-news.jpg" group-title="SHAREEXT@SUKAN_ARABIA",beINSports_News FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/676904
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN Sports 1 FHD AR" tvg-logo="https://i.postimg.cc/wxS8LMT6/BS1.png" group-title="SHAREEXT@SUKAN_ARABIA",beINSports_1 FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/682932
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="beIN Sports 2 FHD AR" tvg-logo="https://i.postimg.cc/dtmH3VhN/BS2.png" group-title="SHAREEXT@SUKAN_ARABIA",beINSports_2 FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/682933
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="beIN Sports 3 FHD AR" tvg-logo="https://i.postimg.cc/x1pPNJn5/BS3.png" group-title="SHAREEXT@SUKAN_ARABIA",beINSports_3 FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/682934
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="beIN Sports 4 [HEVC] FHD VIP AR" tvg-logo="https://i.postimg.cc/mk43W7yL/BS4.png" group-title="SHAREEXT@SUKAN_ARABIA",beINSports_4 [HEVC] 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/5479
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="beIN Sports 5 FHD VIP AR" tvg-logo="https://i.postimg.cc/fbX0WJLJ/BS5.png" group-title="SHAREEXT@SUKAN_ARABIA",beINSports_5 FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/5478
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="beIN Sports 6 [HEVC] FHD VIP AR" tvg-logo="https://i.postimg.cc/DyMWqq4S/BS6.png" group-title="SHAREEXT@SUKAN_ARABIA",beINSports_6 [HEVC] 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/54777
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN Sports 7 FHD VIP AR" tvg-logo="https://i.postimg.cc/jjQdkN2Q/BS7.png" group-title="SHAREEXT@SUKAN_ARABIA",beINSports_7 FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/5476
-#EXTINF:-1 tvg-id="onsport1.sa" tvg-name="ON Time Sport FHD AR" tvg-logo="https://i.postimg.cc/zX8LmHzr/On-Time-Sports-Logo.png" group-title="SHAREEXT@SUKAN_ARABIA",ONTime Sport FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/688268
-#EXTINF:-1 tvg-id="" tvg-name="ON Time Sports 2 FHD AR" tvg-logo="https://i.postimg.cc/DyDryWjz/On-Time-Sports-2.jpg" group-title="SHAREEXT@SUKAN_ARABIA",ONTime Sports 2 FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/698486
-#EXTINF:-1 tvg-id="abudhabisports1.ae" tvg-name="AD Sports 1 HD AR" tvg-logo="https://i.postimg.cc/SRDVLFS1/Ad-sport-1.jpg" group-title="SHAREEXT@SUKAN_ARABIA",AD Sports 1 HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/682978
-#EXTINF:-1 tvg-id="abudhabisports2.ae" tvg-name="AD Sports 2 HD AR" tvg-logo="https://i.postimg.cc/jSGc4hTT/Ad-sport-2.jpg" group-title="SHAREEXT@SUKAN_ARABIA",AD Sports 2 HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/682979
-#EXTINF:-1 tvg-id="abudhabisports3.ae" tvg-name="AD Sports 3 HD AR" tvg-logo="https://i.postimg.cc/VNm4dWck/Ad-sport-3.jpg" group-title="SHAREEXT@SUKAN_ARABIA",AD Sports 3 HD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/682973
-#EXTINF:-1 tvg-id="abudhabisports4.ae" tvg-name="AD Sports 4 FHD AR" tvg-logo="https://i.postimg.cc/HnxbgJm3/Ad-sport-4.jpg" group-title="SHAREEXT@SUKAN_ARABIA",AD Sports 4 FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/5404
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports 1 HD AR" tvg-logo="https://i.postimg.cc/BZkj67BJ/Dubai-sports-1.jpg" group-title="SHAREEXT@SUKAN_ARABIA",Dubai_Sports 1 HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/682975
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports 2 HD AR" tvg-logo="https://i.postimg.cc/XYcqsjSv/Dubai-sports-2.jpg" group-title="SHAREEXT@SUKAN_ARABIA",Dubai_Sports 2 HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/682976
-#EXTINF:-1 tvg-id="" tvg-name="Yas Sport HD AR" tvg-logo="https://i.postimg.cc/wjHDVx4W/Yas-sport.jpg" group-title="SHAREEXT@SUKAN_ARABIA",Yas_Sport HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/682972
-#EXTINF:-1 tvg-id="" tvg-name="SSC Sports 1 FHD VIP AR" tvg-logo="https://i.postimg.cc/VkXkXQ8D/SSC.jpg" group-title="SHAREEXT@SUKAN_ARABIA",SSC Sports 1 FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/694160
-#EXTINF:-1 tvg-id="" tvg-name="SSC Sports 2 FHD VIP AR" tvg-logo="https://i.postimg.cc/VkXkXQ8D/SSC.jpg" group-title="SHAREEXT@SUKAN_ARABIA",SSC Sports 2 FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/694161
-#EXTINF:-1 tvg-id="" tvg-name="SSC Sports 3 FHD VIP AR" tvg-logo="https://i.postimg.cc/VkXkXQ8D/SSC.jpg" group-title="SHAREEXT@SUKAN_ARABIA",SSC Sports 3 FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/694162
-#EXTINF:-1 tvg-id="" tvg-name="SSC Sports 4 FHD VIP AR" tvg-logo="https://i.postimg.cc/VkXkXQ8D/SSC.jpg" group-title="SHAREEXT@SUKAN_ARABIA",SSC Sports 4 FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/694163
-#EXTINF:-1 tvg-id="" tvg-name="SSC Sports 5 FHD VIP AR" tvg-logo="https://i.postimg.cc/VkXkXQ8D/SSC.jpg" group-title="SHAREEXT@SUKAN_ARABIA",SSC Sports 5 FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/694164
-
-
-
-
-#EXTINF:-1 tvg-id="arenapremium1.rs" tvg-name="Arena Premium 1 HD VIP RS" tvg-logo="https://i.postimg.cc/C5LG7gXG/Arena_premium_1.png" group-title="SHAREEXT@SUKAN_Srbija RS",Arena Premium 1 HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/695942
-#EXTINF:-1 tvg-id="arenapremium2.rs" tvg-name="Arena Premium 2 FHD VIP RS" tvg-logo="https://i.postimg.cc/1RJct8VJ/Arena_premium_2.png" group-title="SHAREEXT@SUKAN_Srbija RS",Arena Premium 2 FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/693000
-#EXTINF:-1 tvg-id="arenapremium3.rs" tvg-name="Arena Premium 3 FHD VIP RS" tvg-logo="https://i.postimg.cc/FzWjn6X2/Arena_premium_3.png" group-title="SHAREEXT@SUKAN_Srbija RS",Arena Premium 3 FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/693001
-#EXTINF:-1 tvg-id="arenasport1.rs" tvg-name="Arena Sport 1 HD RS" tvg-logo="https://i.postimg.cc/qq42N5Hk/Arena-Sport-1.jpg" group-title="SHAREEXT@SUKAN_Srbija RS",Arena Sport 1 HD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/5465
-#EXTINF:-1 tvg-id="arenasport2.rs" tvg-name="Arena Sport 2 HD RS" tvg-logo="https://i.postimg.cc/BZpKhNGK/Arena-Sport-2.jpg" group-title="SHAREEXT@SUKAN_Srbija RS",Arena Sport 2 HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/5463
-#EXTINF:-1 tvg-id="arenasport3.rs" tvg-name="Arena Sport 3 FHD RS" tvg-logo="https://i.postimg.cc/DyDmDMp8/Arena-Sport-3.jpg" group-title="SHAREEXT@SUKAN_Srbija RS",Arena Sport 3 FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/5461
-#EXTINF:-1 tvg-id="arenasport4.rs" tvg-name="Arena Sport 4 FHD RS" tvg-logo="https://i.postimg.cc/LshSp9qS/Arena-Sport-4.jpg" group-title="SHAREEXT@SUKAN_Srbija RS",Arena Sport 4 FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/5459
-#EXTINF:-1 tvg-id="arenasport5.rs" tvg-name="Arena Sport 5 FHD RS" tvg-logo="https://i.postimg.cc/cJPpGQy7/Arena-Sport-5.jpg" group-title="SHAREEXT@SUKAN_Srbija RS",Arena Sport 5 FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/5456
-#EXTINF:-1 tvg-id="arenasport6.rs" tvg-name="Arena Sport 6 FHD RS" tvg-logo="https://i.postimg.cc/6ptDByHH/Arena_Sport_6_2019.png" group-title="SHAREEXT@SUKAN_Srbija RS",Arena Sport 6 FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/694282
-#EXTINF:-1 tvg-id="arenasport7.rs" tvg-name="Arena Sport 7 HD RS" tvg-logo="https://i.postimg.cc/jq6ctvGb/Arena_Sport_7.png" group-title="SHAREEXT@SUKAN_Srbija RS",Arena Sport 7 HD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/694283
-#EXTINF:-1 tvg-id="arenasport8.rs" tvg-name="Arena Sport 8 HD RS" tvg-logo="https://i.postimg.cc/4NB1hyf2/Arena_Sport_8.png" group-title="SHAREEXT@SUKAN_Srbija RS",Arena Sport 8 HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/694284
-#EXTINF:-1 tvg-id="arenasport1x2.rs" tvg-name="Arena Sport 1x2 FHD RS" tvg-logo="https://i.postimg.cc/dtB5BB7z/Arena-Sport-1x2.png" group-title="SHAREEXT@SUKAN_Srbija RS",Arena Sport 1x2 FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/695943
-#EXTINF:-1 tvg-id="arenafight.rs" tvg-name="Arena Fight FHD VIP RS" tvg-logo="https://i.postimg.cc/PrfpbJqL/Arena-Fight.webp" group-title="SHAREEXT@SUKAN_Srbija RS",Arena Fight FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/696804
-#EXTINF:-1 tvg-id="sportklub1.rs" tvg-name="Sport Klub 1 FHD RS" tvg-logo="https://i.postimg.cc/SNZtpWcX/SK-1.png" group-title="SHAREEXT@SUKAN_Srbija RS",Sport Klub 1 FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/694507
-#EXTINF:-1 tvg-id="sportklub2.rs" tvg-name="Sport Klub 2 HD RS" tvg-logo="https://i.postimg.cc/Y0d8MHLc/SK-2.png" group-title="SHAREEXT@SUKAN_Srbija RS",Sport Klub 2 HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/9407
-#EXTINF:-1 tvg-id="sportklub3.rs" tvg-name="Sport Klub 3 HD RS" tvg-logo="https://i.postimg.cc/52hgxpyt/SK-3.png" group-title="SHAREEXT@SUKAN_Srbija RS",Sport Klub 3 HD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/9406
-#EXTINF:-1 tvg-id="sportklub4.rs" tvg-name="Sport Klub 4 HD RS" tvg-logo="https://i.postimg.cc/GpnP02g8/SK-4.png" group-title="SHAREEXT@SUKAN_Srbija RS",Sport Klub 4 HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/9405
-#EXTINF:-1 tvg-id="sportklub5.rs" tvg-name="Sport Klub 5 HD RS" tvg-logo="https://i.postimg.cc/5NZLvyV7/SK-5.png" group-title="SHAREEXT@SUKAN_Srbija RS",Sport Klub 5 HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/9404
-#EXTINF:-1 tvg-id="sportgolf.rs" tvg-name="Sport Klub Golf FHD RS" tvg-logo="https://i.postimg.cc/QCSBzN97/SK-Golf.png" group-title="SHAREEXT@SUKAN_Srbija RS",Sport Klub Golf FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/685941
-#EXTINF:-1 tvg-id="novasport.rs" tvg-name="Nova Sport HD RS" tvg-logo="https://i.postimg.cc/J7KGMn0D/Nova-sport-Balkan-logo.jpg" group-title="SHAREEXT@SUKAN_Srbija RS",Nova Sport HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/674094
-#EXTINF:-1 tvg-id="eurosport1.rs" tvg-name="Eurosport 1 HD RS" tvg-logo="https://i.postimg.cc/kMhqTtDc/Eurosport-1.jpg" group-title="SHAREEXT@SUKAN_Srbija RS",Eurosport 1 HD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/5056
-#EXTINF:-1 tvg-id="eurosport2.rs" tvg-name="Eurosport 2 RS" tvg-logo="https://i.postimg.cc/bvBf37wv/Eurosport-2.jpg" group-title="SHAREEXT@SUKAN_Srbija RS",Eurosport 2 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/5055
-
-
-
-
-
-#EXTINF:-1 tvg-id="ziggosportselect.nl" tvg-name="Ziggo Sport Select HD NL" tvg-logo="https://i.postimg.cc/9Q3HgCfK/Ziggo-Sport-Select.jpg" group-title="SHAREEXT@SUKAN_Netherlands",ZiggoSport Select HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/5113
-#EXTINF:-1 tvg-id="ziggosportvoetbal.nl" tvg-name="Ziggo Sport Voetbal HD NL" tvg-logo="https://i.postimg.cc/YqJ0k5XB/Ziggo-Sport-Voetbal.jpg" group-title="SHAREEXT@SUKAN_Netherlands",ZiggoSport Voetbal HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/5112
-#EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="Ziggo Sport Golf HD NL" tvg-logo="https://i.postimg.cc/c4sy3Xrt/Ziggo-Sport-Golf.jpg" group-title="SHAREEXT@SUKAN_Netherlands",ZiggoSport Golf HD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/6460
-#EXTINF:-1 tvg-id="ziggosportracing.nl" tvg-name="Ziggo Sport Racing HD NL" tvg-logo="https://i.postimg.cc/9FvdSNZr/Ziggo-Sport-Racing.jpg" group-title="SHAREEXT@SUKAN_Netherlands",ZiggoSport Racing HD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/5111
-#EXTINF:-1 tvg-id="ziggosportdocu.nl" tvg-name="Ziggo Sport Docu HD NL" tvg-logo="https://i.postimg.cc/nh8q5ZF9/Ziggo-Sport-Docu.jpg" group-title="SHAREEXT@SUKAN_Netherlands",ZiggoSport Docu HD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/697218
-#EXTINF:-1 tvg-id="ziggosporttennis.nl" tvg-name="Ziggo Sport Tennis HD NL" tvg-logo="https://i.postimg.cc/MZ7dywQd/Ziggo-Sport-Tennis.jpg" group-title="SHAREEXT@SUKAN_Netherlands",ZiggoSport Tennis HD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/5110
-#EXTINF:-1 tvg-id="espn.nl" tvg-name="ESPN HD NL" tvg-logo="https://i.postimg.cc/Y9jmn1np/ESPN.png" group-title="SHAREEXT@SUKAN_Netherlands",ESPN HD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/5143
-#EXTINF:-1 tvg-id="espn2.nl" tvg-name="ESPN 2 HD NL" tvg-logo="https://i.postimg.cc/zD6QqNgj/ESPN-2.png" group-title="SHAREEXT@SUKAN_Netherlands",ESPN 2 HD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/5142
-#EXTINF:-1 tvg-id="espn3.nl" tvg-name="ESPN 3 HD NL" tvg-logo="https://i.postimg.cc/RFqPzpCy/ESPN-3.png" group-title="SHAREEXT@SUKAN_Netherlands",ESPN 3 HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/5141
-#EXTINF:-1 tvg-id="espn4.nl" tvg-name="ESPN 4 HD NL" tvg-logo="https://i.postimg.cc/pXMB0Ljg/ESPN-4.png" group-title="SHAREEXT@SUKAN_Netherlands",ESPN 4 HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/514522
-#EXTINF:-1 tvg-id="eurosport1.nl" tvg-name="Eurosport 1 HD NL" tvg-logo="https://i.postimg.cc/Dz1G4qj0/Eurosport-1.jpg" group-title="SHAREEXT@SUKAN_Netherlands",Eurosport 1 HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/11445
-#EXTINF:-1 tvg-id="eurosport2.nl" tvg-name="Eurosport 2 FHD NL" tvg-logo="https://i.postimg.cc/xChqs8Fh/Eurosport-2.jpg" group-title="SHAREEXT@SUKAN_Netherlands",Eurosport 2 FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/11443
-#EXTINF:-1 tvg-id="extremesportschannel.nl" tvg-name="Extreme Sports NL" tvg-logo="https://i.postimg.cc/2ydbVm2t/Extreme-Sports-Channel.jpg" group-title="SHAREEXT@SUKAN_Netherlands",Extreme Sports
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/11442
-
-
-
-
-#EXTINF:-1 tvg-id="diemasport.bg" tvg-name="Diema Sport HD BG" tvg-logo="https://i.postimg.cc/BQvm60mf/Diema-Sport-HD.jpg" group-title="SHAREEXT@SUKAN_Bulgarian",Diema Sport HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/681649
-#EXTINF:-1 tvg-id="diemasport2.bg" tvg-name="Diema Sport 2 HD BG" tvg-logo="https://i.postimg.cc/3Jbn0cq4/Diema-Sport-2-HD.jpg" group-title="SHAREEXT@SUKAN_Bulgarian",Diema Sport 2 HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/5981
-#EXTINF:-1 tvg-id="diemasport3.bg" tvg-name="Diema Sport 3 FHD BG" tvg-logo="https://i.postimg.cc/htzML0FC/Diema-sport-3-hd.jpg" group-title="SHAREEXT@SUKAN_Bulgarian",Diema Sport 3 FHD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/9022
-#EXTINF:-1 tvg-id="maxsport1.bg" tvg-name="Max Sport 1 HD BG" tvg-logo="https://i.postimg.cc/CLDsdxbt/Max-Sport-1-HD.jpg" group-title="SHAREEXT@SUKAN_Bulgarian",Max Sport 1 HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/50865
-#EXTINF:-1 tvg-id="maxsport2.bg" tvg-name="Max Sport 2 HD BG" tvg-logo="https://i.postimg.cc/mDtQ4Lbm/Max-Sport-2-HD.jpg" group-title="SHAREEXT@SUKAN_Bulgarian",Max Sport 2 HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/50866
-#EXTINF:-1 tvg-id="maxsport3.bg" tvg-name="Max Sport 3 HD BG" tvg-logo="https://i.postimg.cc/HL5gh5Mz/Max-Sport-3-HD.jpg" group-title="SHAREEXT@SUKAN_Bulgarian",Max Sport 3 HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/629048
-#EXTINF:-1 tvg-id="maxsports4.bg" tvg-name="Max Sport 4 HD BG" tvg-logo="https://i.postimg.cc/j2qY2FF3/Max-Sport-4-HD.jpg" group-title="SHAREEXT@SUKAN_Bulgarian",Max Sport 4 HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/641399
-#EXTINF:-1 tvg-id="novasport.bg" tvg-name="Nova Sport HD BG" tvg-logo="https://i.postimg.cc/1XX7LhTS/Nova-Sport-Bulgaria.jpg" group-title="SHAREEXT@SUKAN_Bulgarian",Nova Sport HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/5979
-#EXTINF:-1 tvg-id="ringbg.bg" tvg-name="Ring TV HD BG" tvg-logo="https://i.postimg.cc/13GB73t6/Ring.jpg" group-title="SHAREEXT@SUKAN_Bulgarian",Ring TV HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/5980
-#EXTINF:-1 tvg-id="Auto Motor Sport BG" tvg-name="Auto Motor Sport BG" tvg-logo="https://i.postimg.cc/gcfkNY1G/Auto-Motor-und-Sport-Channel.png" group-title="SHAREEXT@SUKAN_Bulgarian",Auto Motor Sport
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/37964
-#EXTINF:-1 tvg-id="eurosport1.bg" tvg-name="Eurosport 1 HD BG" tvg-logo="https://i.postimg.cc/NFvS2PPv/Eurosport-1.jpg" group-title="SHAREEXT@SUKAN_Bulgarian",Eurosport 1 HD 
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/625815
-#EXTINF:-1 tvg-id="eurosport2.bg" tvg-name="Eurosport 2 FHD BG" tvg-logo="https://i.postimg.cc/mggq99Vk/Eurosport-2.jpg" group-title="SHAREEXT@SUKAN_Bulgarian",Eurosport 2 FHD
-http://satelliteiptv.xyz:80/iku7ieih2m/iihksf06zf/9029
-
-
-
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",WB TV
 http://208.115.225.174:14132
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/nrmjYfG8/China-share-Ext-Group.jpg" group-title="ShareExt@China_Television",天映频道
@@ -3857,26 +3511,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SHAREEXT@JAPAN™STATION",Nittere°News 24	
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KBS鈥ROUP",KBS.1_🇰🇷
-http://ye23.vip/z7z8/2021/kbs2020.php?id=1
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KBS鈥ROUP",KBS.2_🇰🇷
-http://ye23.vip/z7z8/2021/kbs2020.php?id=2
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KBS鈥ROUP",KBS.WORLD_🇰🇷
-http://ye23.vip/z7z8/2021/kbs2020.php?id=3
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KBS鈥ROUP",KBS.NEWS_🇰🇷
-http://ye23.vip/z7z8/2021/kbs2020.php?id=4
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KBS鈥ROUP",KBS.DRAMA_🇰🇷
-http://ye23.vip/z7z8/2021/kbs2020.php?id=5
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KBS鈥ROUP",KBS.JOY_🇰🇷
-http://ye23.vip/z7z8/2021/kbs2020.php?id=6
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KBS鈥ROUP",KBS.LIFE_🇰🇷
-http://ye23.vip/z7z8/2021/kbs2020.php?id=7
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KBS鈥ROUP",KBS STORY_🇰🇷
-http://ye23.vip/z7z8/2021/kbs2020.php?id=8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KBS鈥ROUP",KBS.KIDS_🇰🇷
-http://ye23.vip/z7z8/2021/kbs2020.php?id=9
 
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="SHAREEXT@THAiLandTv",3 HD_dec=auto
