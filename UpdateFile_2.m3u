@@ -414,22 +414,20 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 
 
-
-
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•MALAYSIA",ARENA•BOLA•1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•MY||HK",Astro•Arena.1
+https://ogietv.biz.id:443/play/3En1nRaR0x23S4Tt2ZPTbXqzgYC_0ekWxrlBm1aryjU/m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•MY||HK",Astro•Arena.2
+http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/379990.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•MY||HK",ARENA•BOLA•1
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/380001.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•MALAYSIA",ARENA•BOLA•2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•MY||HK",ARENA•BOLA•2
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/380005.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•MALAYSIA",ARENA•BOLA•3
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•MY||HK",ARENA•BOLA•3
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/380011.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•MALAYSIA",Unifi•Sports•1 HD
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•MY||HK",Unifi•Sports•1 HD
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•MALAYSIA",Unifi•Sports•2 HD
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•MY||HK",Unifi•Sports•2 HD
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
-
-
-
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•MY||HK",ASTRO•1
 http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111034&extension=ts&shareext@ASSP1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN•MY||HK",ASTRO•2
@@ -832,6 +830,39 @@ http://45.12.1.14:80/7JvIck488/meAqNw5218/116134
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•1_HD🇨🇳
+http://lu1.cc/itv/php/gudou.php?id=cctv1hd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•2_HD🇨🇳
+http://lu1.cc/itv/php/gudou.php?id=cctv2hd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•3_HD🇨🇳
+http://lu1.cc/itv/php/gudou.php?id=cctv3hd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•4_HD🇨🇳
+http://lu1.cc/itv/php/gudou.php?id=cctv4hd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•5_HD🇨🇳
+http://lu1.cc/itv/php/gudou.php?id=cctv5hd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•5+_HD🇨🇳
+http://lu1.cc/itv/php/gudou.php?id=cctv5phd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•6_HD🇨🇳
+http://lu1.cc/itv/php/gudou.php?id=cctv6hd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•7_HD🇨🇳
+http://lu1.cc/itv/php/gudou.php?id=cctv7hd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•8_HD🇨🇳
+http://lu1.cc/itv/php/gudou.php?id=cctv8hd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•9_HD🇨🇳
+http://lu1.cc/itv/php/gudou.php?id=cctv9hd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•1O_HD🇨🇳
+http://lu1.cc/itv/php/gudou.php?id=cctv10hd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•11_HD🇨🇳
+http://lu1.cc/itv/php/gudou.php?id=cctv11hd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•12_HD🇨🇳
+http://lu1.cc/itv/php/gudou.php?id=cctv12hd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•13_HD🇨🇳
+http://lu1.cc/itv/php/gudou.php?id=cctv13hd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•14_HD🇨🇳
+http://lu1.cc/itv/php/gudou.php?id=cctv14hd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•15_HD🇨🇳
+http://lu1.cc/itv/php/gudou.php?id=cctv15hd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",姘戣鏂伴椈馃嚟馃嚢
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",鍙拌鏂伴椈馃嚟馃嚢
@@ -3828,7 +3859,24 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=HD&ccode=JP&m=d0:20
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 
-
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KBS鈥ROUP",KBS.1_🇰🇷
+http://ye23.vip/z7z8/2021/kbs2020.php?id=1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KBS鈥ROUP",KBS.2_🇰🇷
+http://ye23.vip/z7z8/2021/kbs2020.php?id=2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KBS鈥ROUP",KBS.WORLD_🇰🇷
+http://ye23.vip/z7z8/2021/kbs2020.php?id=3
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KBS鈥ROUP",KBS.NEWS_🇰🇷
+http://ye23.vip/z7z8/2021/kbs2020.php?id=4
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KBS鈥ROUP",KBS.DRAMA_🇰🇷
+http://ye23.vip/z7z8/2021/kbs2020.php?id=5
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KBS鈥ROUP",KBS.JOY_🇰🇷
+http://ye23.vip/z7z8/2021/kbs2020.php?id=6
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KBS鈥ROUP",KBS.LIFE_🇰🇷
+http://ye23.vip/z7z8/2021/kbs2020.php?id=7
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KBS鈥ROUP",KBS STORY_🇰🇷
+http://ye23.vip/z7z8/2021/kbs2020.php?id=8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KBS鈥ROUP",KBS.KIDS_🇰🇷
+http://ye23.vip/z7z8/2021/kbs2020.php?id=9
 
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg"group-title="SHAREEXT@THAiLandTv",3 HD_dec=auto
@@ -3954,6 +4002,22 @@ https://xplore-roku.amagi.tv/playlist720-p.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1649997259_b384000_sleng.m3u8
 
 
+
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Vtv1🇻🇳
+https://code.vthanhtivi.pw/getlink/mytv/210/hd.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Vtv2🇻🇳
+http://live-ali2.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Vtv3🇻🇳
+http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Vtv4🇻🇳
+https://code.vthanhtivi.pw/getlink/mytv/378/hd.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Vtv5🇻🇳
+http://live-ali4.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Vtv7🇻🇳
+https://code.vthanhtivi.pw/getlink/mytv/459/hd.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Vtv8🇻🇳
+https://code.vthanhtivi.pw/getlink/mytv/380/hd.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",BTV
 https://code.vthanhtivi.pw/getlink/tv360/38/2.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",BTV_2
