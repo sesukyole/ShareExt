@@ -1482,6 +1482,22 @@ http://62.182.85.148:25443/live/4354355265/6545879898/32819.ts
 http://62.182.85.148:25443/live/4354355265/6545879898/9270.ts
 
 
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",Tv6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",Dunia•Sinema
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",Tv•ikim
+https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",Selangor•Tv
+https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",RTB•Sukma•Indera
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",RTB•Aneka
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",RTB•go•live
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•1_HD🇨🇳_dec=auto
 http://lu1.cc/itv/php/gudou.php?id=cctv1hd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="SHAREEXT@CHINA||MALAYSIA||CHANNEL",CCTV•2_HD🇨🇳_dec=auto
