@@ -353,7 +353,48 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 
-
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",TVONE_p
+http://103.166.27.2:800/play/a01h
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",ANTV HD_p
+http://103.166.27.2:800/play/a01g
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",INDOSIAR HD_p
+http://103.166.27.2:800/play/a016
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",MENTARI HD_p
+http://103.166.27.2:800/play/a018
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",MOJI HD_p
+http://103.166.27.2:800/play/a017
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",SCTV HD_p
+http://103.166.27.2:800/play/a015
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",TRANS 7 HD_p
+http://103.166.27.2:800/play/a01c
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",TRANS TV HD_p
+http://103.166.27.2:800/play/a01b
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Aswaja TV_p
+http://103.166.27.2:800/play/a020
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",CNBC INDONESIA HD_p
+http://103.166.27.2:800/play/a01e
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",CNN INDONESIA HD_p
+http://103.166.27.2:800/play/a01d
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",DREAMWORKS_p
+http://103.166.27.2:800/play/a027
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Dangdut Tivi_p
+http://103.166.27.2:800/play/a01x
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Hadi TV_p
+http://103.166.27.2:800/play/a01v
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",JTV_p
+http://103.166.27.2:800/play/a01s
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",KOMPASTV HD_p
+http://103.166.27.2:800/play/a019
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",LAGU TV_p
+http://103.166.27.2:800/play/a01u
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Madu TV Nusantara_P
+http://103.166.27.2:800/play/a01y
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",PARAMOUNT NETWORK_p
+http://103.166.27.2:800/play/a02a
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",RuaiTV_p
+http://103.166.27.2:800/play/a01w
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",TV Tabalong_p
+http://103.166.27.2:800/play/a01z
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",SPO•TV_🇮🇩
 https://anon.devds.site/link.php?hash=aHR0cDovL2RtdG4udHY6ODA4MC9saXZlL3VsdHJhc2VyNzIzL3FCUzlWZkU0dkMvMzcxNjk5LnRz|shareext@spotv
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",SPOTV•2_🇮🇩
@@ -1845,7 +1886,82 @@ http://rr2.dens.tv/s/s32/index.m3u8
 
 
 
-
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Etv•Bioskop|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298526
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Etv•Bioskop 02|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298527
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Etv•Bioskop 03|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298528
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Etv•Bioskop 04|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298529
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",HBO|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197972
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",HBO•Family|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197055
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",HBO•Hits|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/196480
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",HBO•Signature|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/221948
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Cinemax|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197964
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",HGTV|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298535
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",CCM|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165103
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Celestial•Movies|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165065
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",FLIK|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165095
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Galaxy|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/264773
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Galaxy•Premium|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/264774
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Hits|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165085
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Hits•Movies|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/221947
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Bioskop•Indonesia|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/264801
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Chinese•Drama|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298516
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",CinemaWorld|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165082
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Thrill|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157580
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",AXN|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165079
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",KIX|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165068
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Rock•Action|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298490
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Rock•Entertaiment|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298565
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Rock•Extreme|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298566
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",My•Cinema|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298553
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",My•Cinema•Asia|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298554
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",My•Family|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298555
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",My•Kidz|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298556
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Zee•Bioskop|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157584
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Warner•TV|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157594
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",Sony•One|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165077
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",GEM|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298533
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",K+|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197969
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",KBS•World|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197053
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",TVN|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197965
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",TVN•Movies|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157596
 #EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://asiagrandiptv.us/logo/hbo.png" group-title="Shareext@MOVIES",HBO_🇹🇼
 http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU" group-title="Shareext@MOVIES",HBO•FAMILY_🇹🇼
