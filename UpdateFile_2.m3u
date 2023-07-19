@@ -366,8 +366,14 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MTV Yo!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
-
-
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",ERCETE•I_plas
+https://withered-mountain-5208.media-my.workers.dev/rcti-rctiplus-hls-brotoali.m3u8|User-Agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",EMENCE•TEVE_plas
+https://withered-mountain-5208.media-my.workers.dev/mnctv-rctiplus-hls-brotoali.m3u8|User-Agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",GOLOBAL•TEVE_plas
+https://withered-mountain-5208.media-my.workers.dev/gtv-rctiplus-hls-brotoali.m3u8|User-Agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",I•BERITA_plas
+https://withered-mountain-5208.media-my.workers.dev/inews-rctiplus-hls-brotoali.m3u8|User-Agent=Dalvik/2.1.0
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",TVONE_p_dec=auto
 http://103.166.27.2:800/play/a01h
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",ANTV HD_p_dec=auto
