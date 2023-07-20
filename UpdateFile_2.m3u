@@ -47,39 +47,14 @@ http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=941564&e
 http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=941563&extension=ts&play_token=shareext.ts
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",PERSIANA•SPORTS
 https://af.ayas.ir/hls2/persiana.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",AIO•SPORTS•1
-https://af.ayas.ir/hls2/aiosport1.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",AIO•SPORTS•2
 https://af.ayas.ir/hls2/aiosport2.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",BT•SPORTS•1_🇬🇧
-http://212.8.253.117/BTSport1HD/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",BT•SPORTS•2_🇬🇧
-http://212.8.253.117/BTSport2HD/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",BT•SPORTS•3_🇬🇧
-http://212.8.253.117/BTSport3HD/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",StarSports•2_🇮🇳
 http://50.7.237.7:8081/STARSPORTS2HD/tracks-v1a1/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Sony•Ten•2_🇮🇳
 http://50.7.237.7:8081/TEN2HD/tracks-v1a1/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",Sony•Ten•3_🇮🇳
 http://50.7.237.7:8081/TEN3HD/tracks-v1a1/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",beinSPORTS•1•HD_🇸🇦 
-http://81.49.224.77:8080/bein1/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",beinSPORTS•2•HD_🇸🇦 
-http://81.49.224.77:8080/bein2/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",beinSPORTS•3•HD_🇸🇦 
-http://81.49.224.77:8080/bein3/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",beinSPORTS•4•HD_🇸🇦 
-http://81.49.224.77:8080/bein4/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",beinSPORTS•5•HD_🇸🇦 
-http://81.49.224.77:8080/bein5/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",beinSPORTS•6•HD_🇸🇦 
-http://81.49.224.77:8080/bein6/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",beinSPORTS•7•HD_🇸🇦 
-http://81.49.224.77:8080/bein7/index.m3u8
-
-
-
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Now•Sports•premier•1
 https://anon.devds.site/link.php?hash=aHR0cDovL3NoYXJlZXh0QDRrc3VwZXIubGl2ZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTo1MDo2Mzo5RSZzdHJlYW09MTExMDYyMiZleHRlbnNpb249dHMmcG xheV90b2tlbj1zaGFyZWV4dC50cw==|shareext@NowSportPremier.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",U•prime_🇮🇩_devds
