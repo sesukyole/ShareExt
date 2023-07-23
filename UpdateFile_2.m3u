@@ -3804,21 +3804,15 @@ http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186481&extens
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",T_sports
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",11_sports_1
-http://213.227.140.14:1234/stream/11sports1/master.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",11_sports_2
-http://213.227.140.14:1234/stream/11sports2/master.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",11_sports_3
-http://213.227.140.14:1234/stream/11sports3/master.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Over•sport 1 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Over•sport 1_dec=auto
 http://212.224.84.202:2200/ALB-EX/OverSport1_HD_AL-alb/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Over•sport 2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Over•sport 2_dec=auto
 http://212.224.84.202:2200/ALB-EX/OverSport2_HD_AL-alb/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Over•sport 3
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Over•sport 3_dec=auto
 http://212.224.84.202:2200/ALB-EX/OverSport3_HD_AL-alb/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Over•sport 4
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Over•sport 4_dec=auto
 http://212.224.84.202:2200/ALB-EX/OverSport4_HD_AL-alb/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Eurosports_p
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Eurosports_p_dec=auto
 http://149.100.19.131:8080/Eurosport/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",EuroSports_HD
 http://mn-nl.mncdn.com:80/blutv_eurosport1/eurosport1_hd.smil/chunklist_b4128000.m3u8
@@ -5254,12 +5248,6 @@ http://203.81.84.130/hls/mwd_family/index.m3u8
 http://203.81.84.130/hls/mwd_shopping/index.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",ZEE|ACTION
-http://208.86.19.13:81/7288.stream/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",SONY|MAX 2
-http://208.86.19.13:81/7300.stream/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",Colors|Cineplex HD
-http://208.86.19.13:81/73555.stream/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",& pictures
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16958
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@TEVE•INDIA",& prive
