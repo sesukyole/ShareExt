@@ -280,6 +280,22 @@ https://withered-mountain-5028.media-my.workers.dev/mnctv-rctiplus-hls-brotoali.
 https://withered-mountain-5028.media-my.workers.dev/gtv-rctiplus-hls-brotoali.m3u8|User-Agent=Dalvik/2.1.0
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",I•BERITA_plas
 https://withered-mountain-5028.media-my.workers.dev/inews-rctiplus-hls-brotoali.m3u8|User-Agent=Dalvik/2.1.0
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",CCM°°
+http://shareext@connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683110&extension=ts&play_ccm
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",TRANSTV°°
+http://shareext@connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683100&extension=ts&play_transtvHD
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",TRANS7°°
+http://shareext@connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683116&extension=ts&play_trans7HD
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",RCTI°°
+http://shareext@connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683099&extension=ts&play_rctiHD
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",MNCTV°°
+http://shareext@connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683098&extension=ts&play_mnctvHD
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",NET°°
+http://shareext@connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683093&extension=ts&play_net.HD
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",GTV°°
+http://shareext@connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683121&extension=ts&play_gtvHD
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",ANTV°°
+http://shareext@connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683153&extension=ts&play_antvHD
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",TVONE_p_dec=auto
 http://103.166.27.2:800/play/a01h
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",ANTV HD_p_dec=auto
