@@ -90,6 +90,20 @@ http://shareext@line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683
 http://shareext@line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683099&extension=ts&play_token=shareext
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",M|N|C|TV|line
 http://shareext@line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683098&extension=ts&play_token=shareext
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",RCTI°hello
+https://hello-world-withered-cake-01f8.media-my.workers.dev/https://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2-avc1_149952=1.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MNCTV°hello
+https://hello-world-withered-cake-01f8.media-my.workers.dev/https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",GTV°hello
+https://hello-world-withered-cake-01f8.media-my.workers.dev/https://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",INEWS°hello
+https://hello-world-withered-cake-01f8.media-my.workers.dev/https://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",AstroSports_2
+https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",ESPN_2
+https://qyfb8377447rtirq.fordems.live/live/for-dems2/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",FS_1
+https://qyfb8377447rtirq.fordems.live/live/for-dems3/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",NOW•SPORTS•1_🇭🇰
 http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1032479&extension=ts&shareext@NowSports1
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@Relax",NOW•SPORTS•2_🇭🇰
@@ -329,13 +343,13 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",ERCETE•I_plas
-https://withered-mountain-5028.media-my.workers.dev/rcti-rctiplus-hls-brotoali.m3u8|User-Agent=Dalvik/2.1.0
+https://withered-muontain-5028.media-my.workers.dev/rcti-rctiplus-hls-brotoali.m3u8|User-Agent=Dalvik/2.1.0
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",EMENCE•TEVE_plas
-https://withered-mountain-5028.media-my.workers.dev/mnctv-rctiplus-hls-brotoali.m3u8|User-Agent=Dalvik/2.1.0
+https://withered-muontain-5028.media-my.workers.dev/mnctv-rctiplus-hls-brotoali.m3u8|User-Agent=Dalvik/2.1.0
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",GOLOBAL•TEVE_plas
-https://withered-mountain-5028.media-my.workers.dev/gtv-rctiplus-hls-brotoali.m3u8|User-Agent=Dalvik/2.1.0
+https://withered-muontain-5028.media-my.workers.dev/gtv-rctiplus-hls-brotoali.m3u8|User-Agent=Dalvik/2.1.0
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",I•BERITA_plas
-https://withered-mountain-5028.media-my.workers.dev/inews-rctiplus-hls-brotoali.m3u8|User-Agent=Dalvik/2.1.0
+https://withered-muontain-5028.media-my.workers.dev/inews-rctiplus-hls-brotoali.m3u8|User-Agent=Dalvik/2.1.0
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",CCM°°
 http://shareext@connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683110&extension=ts&play_ccm
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",TRANSTV°°
