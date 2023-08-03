@@ -203,6 +203,19 @@ http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&strea
 http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1002781&extension=ts&shareext@sscExtra3
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",UseePrime_dec=auto
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="ShareExt@Relax",SPOTV•🇰🇷
+http://180.69.179.235:9981/stream/channelid/2136767334?ticket=1EF7B2A44EBA80DF1187047B67C862BCBF9D8B49&profile=pass
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="ShareExt@Relax",SPOTV•Golf&Health🇰🇷
+http://180.69.179.235:9981/stream/channelid/1137647664?ticket=134961E70F0636A3DBDCCD15DD63CF89A0F4A63D&profile=pass
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="ShareExt@Relax",SPOTV•2🇰🇷
+http://180.69.179.235:9981/stream/channelid/1020777144?ticket=A674EE899E3098E6137C3894C6A7E922503BE2BA&profile=pass
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="ShareExt@Relax",MBC•SPORTS+🇰🇷
+http://180.69.179.235:9981/stream/channelid/1916452331?ticket=B6263A8C4ACCF865D3996D261FA151E11D6C3F73&profile=pass
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="ShareExt@Relax",SBS•Golf🇰🇷
+http://180.69.179.235:9981/stream/channelid/1824089347?ticket=469C4F3D12FD752DA9F7FAD254A79F94409539E0&profile=pass
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="ShareExt@Relax",SBS•SPORTS🇰🇷
+http://180.69.179.235:9981/stream/channelid/1087323101?ticket=ACDC3BB11F98E9679668B9D299303FDC5081086C&profile=pass
+
 #EXTINF:1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",J°Sports 1		
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",J°Sports 2		
@@ -5216,82 +5229,6 @@ http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch49-2.m3
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch50-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv51(setAuto)
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch51-2.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",KBSN•SPORTS
-https://code.vthanhtivi.pw/getlink/jptv2/83/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",MBC•ON
-https://code.vthanhtivi.pw/getlink/jptv2/85/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",SBS•SPORTS
-https://code.vthanhtivi.pw/getlink/jptv2/86/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",SBS•GOLF
-https://code.vthanhtivi.pw/getlink/jptv2/87/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",SPOTV•
-https://code.vthanhtivi.pw/getlink/jptv2/89/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",SPOTV•2
-https://code.vthanhtivi.pw/getlink/jptv2/90/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",5••
-https://code.vthanhtivi.pw/getlink/jptv2/91/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",TVN•
-https://code.vthanhtivi.pw/getlink/jptv2/92/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",IHQ•original•
-https://code.vthanhtivi.pw/getlink/jptv2/93/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",TVn•Sports•
-https://code.vthanhtivi.pw/getlink/jptv2/94/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",Mnet•
-https://code.vthanhtivi.pw/getlink/jptv2/96/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",TVN•show•
-https://code.vthanhtivi.pw/getlink/jptv2/98/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",OCN•
-https://code.vthanhtivi.pw/getlink/jptv2/97/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",OCN•movies•2•
-https://code.vthanhtivi.pw/getlink/jptv2/99/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",OCN•movies•
-https://code.vthanhtivi.pw/getlink/jptv2/100/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",Mahjong•tv•
-https://code.vthanhtivi.pw/getlink/jptv2/101/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",FTV•
-https://code.vthanhtivi.pw/getlink/jptv2/102/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",E'•channel•
-https://code.vthanhtivi.pw/getlink/jptv2/103/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",Mahjong•LIVE•
-https://code.vthanhtivi.pw/getlink/jptv2/104/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",Billiard•tv•
-https://code.vthanhtivi.pw/getlink/jptv2/105/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",H•mall•
-https://code.vthanhtivi.pw/getlink/jptv2/106/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",Nat•geo•
-https://code.vthanhtivi.pw/getlink/jptv2/107/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",Discovery•ch•
-https://code.vthanhtivi.pw/getlink/jptv2/108/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",CBS•
-https://code.vthanhtivi.pw/getlink/jptv2/109/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",Cpbc•
-https://code.vthanhtivi.pw/getlink/jptv2/110/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",BBS•
-https://code.vthanhtivi.pw/getlink/jptv2/111/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",Jtbc•
-https://code.vthanhtivi.pw/getlink/jptv2/112/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",Ebs1•
-https://code.vthanhtivi.pw/getlink/jptv2/113/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",Now•kids
-https://code.vthanhtivi.pw/getlink/jptv2/114/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",Smile•tv
-https://code.vthanhtivi.pw/getlink/jptv2/115/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",Kids•tv
-https://code.vthanhtivi.pw/getlink/jptv2/116/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",KBS•kids
-https://code.vthanhtivi.pw/getlink/jptv2/117/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",Cartoon
-https://code.vthanhtivi.pw/getlink/jptv2/118/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",CN
-https://code.vthanhtivi.pw/getlink/jptv2/119/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",Midnight•19
-https://code.vthanhtivi.pw/getlink/jptv2/121/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",Extrem•harcode
-https://code.vthanhtivi.pw/getlink/jptv2/122/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hPvrZvT4/SHAREEXT-KOREAN-TEVE-LOGO.png" group-title="SHAREEXT@KOREAN||STATION",Jttbc•golf
-https://code.vthanhtivi.pw/getlink/jptv2/88/playlist.m3u8
 
 
 
