@@ -471,6 +471,15 @@ https://ezstat.ru/RCTI_shareext_ts
 https://ezstat.ru/MNCTV_shareext_ts
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",INEWS_ezt_dec=auto
 https://ezstat.ru/INEWS_shareext_ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",HBO✓
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/197972
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",HBO✓Family
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/197055
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",HBO✓Hits
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/196480
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",HBO✓Signature
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/221948
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",iNews_TV_play
 http://198.16.100.90:8278/Inewstv/playlist.m3u8?tid=ME1E8983653189836531&ct=19249&tsum=94c9e0a29f266dea3d3ed307954ed91a
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",Vision_Prime_play
