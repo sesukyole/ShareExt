@@ -3928,14 +3928,6 @@ http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186481&extens
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",T_sports
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Over•sport 1_dec=auto
-http://212.224.84.202:2200/ALB-EX/OverSport1_HD_AL-alb/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Over•sport 2_dec=auto
-http://212.224.84.202:2200/ALB-EX/OverSport2_HD_AL-alb/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Over•sport 3_dec=auto
-http://212.224.84.202:2200/ALB-EX/OverSport3_HD_AL-alb/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Over•sport 4_dec=auto
-http://212.224.84.202:2200/ALB-EX/OverSport4_HD_AL-alb/tracks-v1a1/mono.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",Eurosports_p_dec=auto
 http://149.100.19.131:8080/Eurosport/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@LIVE||SPORTS",EuroSports_HD
