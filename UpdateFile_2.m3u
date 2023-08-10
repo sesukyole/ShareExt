@@ -5916,6 +5916,54 @@ https://xplore-roku.amagi.tv/playlist720-p.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1649997259_b384000_sleng.m3u8
 
 
+
+
+
+#EXTINF:-1  tvg-logo="" tvg-id="e1e363590f7c4971d2fc319de34d2f3a" group-title="SHAREEXT@Vietnam_television",BTV (HD 8Mbps)
+http://118.70.103.186:9981/stream/channelid/1499718625?ticket=804A184E45C263225A8D4EADBE509FCE34975674&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6047gMa.jpg" tvg-id="b74654853347d83d72d2799fb33f1bc6" group-title="SHAREEXT@Vietnam_television",VTV1 (HD 8Mbps)
+http://118.70.103.186:9981/stream/channelid/89409207?ticket=5EDFCDDAE4B88B25F8C874CADE1B89595E4BC2AD&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pqPWPzf.jpg" tvg-id="4089106e07ad0add28d1bbaa84b341f5" group-title="SHAREEXT@Vietnam_television",VTV2 (HD 8Mbps)
+http://118.70.103.186:9981/stream/channelid/1846577472?ticket=F8FD7DB9A5363D8BD8E97361B3070B80D32AD215&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bsaeckx.jpg" tvg-id="a525bb265cfd14ec58358af8e0dfc049" group-title="SHAREEXT@Vietnam_television",VTV3 (HD 8Mbps)
+http://118.70.103.186:9981/stream/channelid/649799077?ticket=992AEA5091925C9EB6400AE853E3FCC735692F5B&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWfsKve.png" tvg-id="7ab7f2803ebf3408fa591d6d97dc1cc4" group-title="SHAREEXT@Vietnam_television",VTV4 (HD 8Mbps)
+http://118.70.103.186:9981/stream/channelid/15906682?ticket=BC4C57D46279B1925EED6ABF470571FDB46DE4CA&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d3dvKNa.jpg" tvg-id="ceca3af3dfd66e10804a942404108117" group-title="SHAREEXT@Vietnam_television",VTV5 (HD 8Mbps)
+http://118.70.103.186:9981/stream/channelid/1933232846?ticket=314F3B73D60433EE93D3DA52DC5877C170BF9AC6&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ATJwYik.jpg" tvg-id="e8806726e9b8036c8261443b0f76b708" group-title="SHAREEXT@Vietnam_television",VTV Cần Thơ (HD 8Mbps)
+http://118.70.103.186:9981/stream/channelid/644317416?ticket=3FBBF8DFADBD120E8CC491E8EE79E66ADAC9E33D&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qW0MBMH.jpg" tvg-id="046997226dddc7f970443f21a9b0b2ef" group-title="SHAREEXT@Vietnam_television",VTV7 (HD 8Mbps)
+http://118.70.103.186:9981/stream/channelid/580348164?ticket=666F9216653914595DF86306F5B2A94CE7273261&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7pgnEzG.jpg" tvg-id="a8a126b64d062a3b3f8dcac94f358bd1" group-title="SHAREEXT@Vietnam_television",VTV8 (HD 8Mbps)
+http://118.70.103.186:9981/stream/channelid/908501416?ticket=563F51DC5DB3FF99278E2475426593542D3B15F3&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9mL8Ve0.jpg" tvg-id="b91b257d515be1c9fde618aa473ccba8" group-title="SHAREEXT@Vietnam_television",VTV9 (HD 8Mbps)
+http://118.70.103.186:9981/stream/channelid/2099583929?ticket=6350CCA6E6C5BDCDCF760D1EC3EB33D22718C3E5&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fCpZa6a.png" tvg-id="5a2014c982814259e5acf8740e99acb5" group-title="SHAREEXT@Vietnam_television",VTV5 Tây Nam Bộ (HD 8Mbps)
+http://118.70.103.186:9981/stream/channelid/1226055770?ticket=9089239180DC2F461975B0352FC41A126B1FD6D7&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JDN8GJC.png" tvg-id="b4b18c846ed492c44c18cd8eef0cb08c" group-title="SHAREEXT@Vietnam_television",VTV5 Tây Nguyên (HD 8Mbps)
+http://118.70.103.186:9981/stream/channelid/76329396?ticket=F11979FA028B85E68C00BBBE487E27BB8D578494&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d3dvKNa.jpg" tvg-id="0733e1fc7c8cefe2104d91239b83dec7" group-title="SHAREEXT@Vietnam_television",VTV5 (HD 8Mbps)
+http://118.70.103.186:9981/stream/channelid/2095133447?ticket=79774448A48A4A5BF2331BF81879E61DC0CA4B92&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JDN8GJC.png" tvg-id="0f995c4d57bdde36464f48a067f9016e" group-title="SHAREEXT@Vietnam_television",VTV5 Tây Nguyên (HD 8Mbps)
+http://118.70.103.186:9981/stream/channelid/1297914127?ticket=CD8F61AEC5A63B2EC2E1C687E6E0BE79EEF94FBB&profile=pass
+#EXTINF:-1 tvg-logo="https://imgur.com/Pc2ZuX0.png" tvg-id="d10e82a60e834c43885a783fc8f8c20c" group-title="SHAREEXT@Vietnam_television",VTC1 HD (HD 8Mbps)
+http://118.70.103.186:9981/stream/channelid/646057681?ticket=6AB4815F47C761A6391C861A6E3FB2A5D092F358&profile=pass
+#EXTINF:-1 tvg-logo="https://imgur.com/vemNwkI.png" tvg-id="c6603816ab04637e4d4d2844421b3e9d" group-title="SHAREEXT@Vietnam_television",VTC3 HD (HD 8Mbps)
+http://118.70.103.186:9981/stream/channelid/372793542?ticket=3E7AB22B3AA6D84E2F88EE11DF772BD28DC6F0EF&profile=pass
+#EXTINF:-1 tvg-logo="https://imgur.com/0dkRtxJ.png" tvg-id="225e6a295391ebe3c86514db0acbc7b9" group-title="SHAREEXT@Vietnam_television",VTC4 HD (HD 8Mbps)
+http://118.70.103.186:9981/stream/channelid/694836770?ticket=E83CBD8B5B3E3F1897F6445614EA3059F3070847&profile=pass
+#EXTINF:-1 tvg-logo="https://imgur.com/QuXPUqi.png" tvg-id="bc8e3f7918ee23df0ef12cd73fe5d67c" group-title="SHAREEXT@Vietnam_television",VTC9 HD (HD 8Mbps)
+http://118.70.103.186:9981/stream/channelid/2034208444?ticket=BFEDAE91D266652990E2C806B84A8A6E79815092&profile=pass
+#EXTINF:-1 tvg-logo="https://imgur.com/F6x7ZNA.png" tvg-id="2ee87ffde0c53838df0bf4b6649de191" group-title="SHAREEXT@Vietnam_television",VTC10 HD (HD 8Mbps)
+http://118.70.103.186:9981/stream/channelid/2105534510?ticket=5364E0FEAF1F5F47D50C904451709B88092EC5FE&profile=pass
+#EXTINF:-1 tvg-logo="https://imgur.com/2RRt2M4.png" tvg-id="7b187637f03966cf338a5cdc564af0db" group-title="SHAREEXT@Vietnam_television",VTC13 HD (HD 8Mbps)
+http://118.70.103.186:9981/stream/channelid/930486395?ticket=66C31148EDEA08FC46968261E2AE1B0ABD66EF9B&profile=pass
+#EXTINF:-1 tvg-logo="https://imgur.com/jlvmYDY.png" tvg-id="699d6eef94fc23b8cc85e8f1cd932b65" group-title="SHAREEXT@Vietnam_television",VTC14 HD (HD 8Mbps)
+http://118.70.103.186:9981/stream/channelid/1869520233?ticket=683FB992967762852908A824126B0E107401B1F7&profile=pass
+#EXTINF:-1 tvg-logo="https://imgur.com/kpD8AAE.png" tvg-id="80e78e371ccdb63cfdb54e4bef9cce2e" group-title="SHAREEXT@Vietnam_television",VTC16 HD (HD 8Mbps)
+http://118.70.103.186:9981/stream/channelid/932112256?ticket=4AC85A21666352E2CCF50F4518A3BFD2DA35652D&profile=pass
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Vtv鈥�1
 https://code.vthanhtivi.pw/getlink/mytv/210/hd.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/kgQ8xZHx/Logo-shareext-vietnam.jpg" group-title="SHAREEXT@Vietnam_television",Vtv鈥�2
