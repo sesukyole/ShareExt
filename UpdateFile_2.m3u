@@ -1137,6 +1137,19 @@ http://45.12.1.14:80/MDKraker/GwWZ9I296/117436
 http://45.12.1.14:80/MDKraker/GwWZ9I296/117437
 
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OPTUS_Live_Event",OPTUS_1_(Live•Event)
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032471&extension=ts&play_Optus_1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OPTUS_Live_Event",OPTUS_2_(Live•Event)
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032470&extension=ts&play_Optus_2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OPTUS_Live_Event",OPTUS_3_(Live•Event)
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032469&extension=ts&play_Optus_3
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OPTUS_Live_Event",OPTUS_4_(Live•Event)
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032468&extension=ts&play_Optus_4
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OPTUS_Live_Event",OPTUS_5_(Live•Event)
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032467&extension=ts&play_Optus_5
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OPTUS_Live_Event",OPTUS_6_(Live•Event)
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032466&extension=ts&play_Optus_6
+
 
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1 HD UK" tvg-logo="https://picon-13398.kxcdn.com/btsport1hd.jpg" group-title="SHAREEXT@Live: United Kingdom",BT•Sport 1 HD
@@ -3694,12 +3707,6 @@ http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/146291.ts
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/146293.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@FIGHT_Sports",WWE•_usa
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/11645.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ShareExt@FIGHT_Sports",Combate_HD+
-http://xcui.vitvabc.xyz:8880/287994016279/287994016279/16703
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",UFC•PASS•01
-https://anon.devds.site/link.php?hash=aHR0cDovL3N2ZXJpZ2VwbGF5LnR2OjIwOTUvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6YmY6YTY6ODQmc3RyZWFtPTEzMjU5JmV4dGVuc2lvbj10cy ZwbGF5X3Rva2VuPWRXdEN6YTRxMTQ=|shareext@UfcPass1.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",UFC•PASS•02
-https://anon.devds.site/link.php?hash=aHR0cDovL2t1bmd0di5uZXQ6MjA5NS9wbGF5L2xpdmUucGhwP21hYz0xMDoyNzpCRToyRDoyRDo4MSZzdHJlYW09MTMyNTkmZXh0ZW5zaW9uPXRzJnBsYXlfd G9rZW49QkdrZkx3blVCSA==|shareext@UfcPass2.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@FIGHT_Sports",FIGHT||SPORTS
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 #EXTINF:-1 tvg-id="FightNetwork.ca" tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="ShareExt@FIGHT_Sports",Fight•Network(1080p)
