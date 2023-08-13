@@ -1137,19 +1137,86 @@ http://45.12.1.14:80/MDKraker/GwWZ9I296/117436
 http://45.12.1.14:80/MDKraker/GwWZ9I296/117437
 
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OPTUS_Live_Event",OPTUS_1_(Live•Event)
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OPTUS_Live_Event",🇭🇲OPTUS_1_(Live•Event)
 http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032471&extension=ts&play_Optus_1
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OPTUS_Live_Event",OPTUS_2_(Live•Event)
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OPTUS_Live_Event",🇭🇲OPTUS_2_(Live•Event)
 http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032470&extension=ts&play_Optus_2
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OPTUS_Live_Event",OPTUS_3_(Live•Event)
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OPTUS_Live_Event",🇭🇲OPTUS_3_(Live•Event)
 http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032469&extension=ts&play_Optus_3
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OPTUS_Live_Event",OPTUS_4_(Live•Event)
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OPTUS_Live_Event",🇭🇲OPTUS_4_(Live•Event)
 http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032468&extension=ts&play_Optus_4
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OPTUS_Live_Event",OPTUS_5_(Live•Event)
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OPTUS_Live_Event",🇭🇲OPTUS_5_(Live•Event)
 http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032467&extension=ts&play_Optus_5
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OPTUS_Live_Event",OPTUS_6_(Live•Event)
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OPTUS_Live_Event",🇭🇲OPTUS_6_(Live•Event)
 http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032466&extension=ts&play_Optus_6
 
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Astro•Cricket_🇲🇾
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=571244&extension=ts&play_assp_Cricket
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",ASSP_1_🇲🇾
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=571245&extension=ts&play_assp1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",ASSP_2_🇲🇾
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=571248&extension=ts&play_assp2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",ASSP_3_🇲🇾
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=571247&extension=ts&play_assp3
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",ASSP_4_🇲🇾
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=571246&extension=ts&play_assp4
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",NOW_SPORTS_1_🇭🇰
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=554949&extension=ts&play_NowSports1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",NOW_SPORTS_2_🇭🇰
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=554948&extension=ts&play_NowSports2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",NOW_SPORTS_3_🇭🇰
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=554947&extension=ts&play_NowSports3
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",NOW_SPORTS_4_🇭🇰
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=554946&extension=ts&play_NowSports4
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",NOW_SPORTS_5_🇭🇰
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=554945&extension=ts&play_NowSports5
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",NOW_SPORTS_6_🇭🇰
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=554944&extension=ts&play_NowSports6
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",NOW_SPORTS_7_🇭🇰
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=554943&extension=ts&play_NowSports7
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",SPOTV_🇮🇩
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=683117&extension=ts&play_SPOTV
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",SPOTTSTAR_🇮🇩
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=683133&extension=ts&play_SportStar
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",0PTUS_1_🇭🇲(Live_Event)
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032471&extension=ts&play_Optus_1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",OPTUS_2_🇭🇲(Live_Event)
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032470&extension=ts&play_Optus_2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",NOW_PREMIER_1_🇭🇰(Live_Event)
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032487&extension=ts&play_NowPrem_1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",NOW_PREMIER_2_🇭🇰(Live_Event)
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032486&extension=ts&play_NowPrem_2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",NOW_PREMIER_3_🇭🇰(Live_Event)
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032485&extension=ts&play_NowPrem_3
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",NOW_PREMIER_4_🇭🇰(Live_Event)
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032484&extension=ts&play_NowPrem_4
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",NOW_SPORTS_630_🇭🇰
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032480&extension=ts&play_NowSports630
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",🇭🇰NOW_SPORTS_1_
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032479&extension=ts&play_nowHKsport.1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",🇭🇰NOW_SPORTS_2_
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032478&extension=ts&play_nowHKsport.2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",🇭🇰NOW_SPORTS_3_
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032477&extension=ts&play_play_nowHKsport.3
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",🇭🇰NOW_SPORTS_4_
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032476&extension=ts&play_play_nowHKsport.4
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",🇭🇰NOW_SPORTS_5_
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032475&extension=ts&play_play_nowHKsport.5
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",🇭🇰NOW_SPORTS_6_
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032474&extension=ts&play_play_nowHKsport.6
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",🇭🇰NOW_SPORTS_7_
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032473&extension=ts&play_play_nowHKsport.7
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",ASTRO•SPORTS•1•🇲🇾
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=918986&extension=ts&play_astro1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",ASTRO•SPORTS•2•🇲🇾
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=918985&extension=ts&play_astro2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",ASTRO•SPORTS•3•🇲🇾
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=918984&extension=ts&play_astro3
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",ASTRO•SPORTS•4•🇲🇾
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=918983&extension=ts&play_astro4
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",W•SPORTS•🇲🇾
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=918982&extension=ts&play_Wsports
 
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1 HD UK" tvg-logo="https://picon-13398.kxcdn.com/btsport1hd.jpg" group-title="SHAREEXT@Live: United Kingdom",BT•Sport 1 HD
