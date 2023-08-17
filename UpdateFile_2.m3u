@@ -411,7 +411,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",UNIFI_SPORT.2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",sportstv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="ShareExt@Relax",sportstv 
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",StrongmanChampionLeague
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
@@ -1117,24 +1117,6 @@ http://45.12.1.14:80/7JvIck488/meAqNw5218/28907
 
 
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/YqFXsy5P/Skysport-shareext.png" group-title="SHAREEXT@NZ•SKYSPORTS",SkySport 1 NZ
-http://45.12.1.14:80/MDKraker/GwWZ9I296/117429
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/YqFXsy5P/Skysport-shareext.png" group-title="SHAREEXT@NZ•SKYSPORTS",SkySport 2 NZ
-http://45.12.1.14:80/MDKraker/GwWZ9I296/117430
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/YqFXsy5P/Skysport-shareext.png" group-title="SHAREEXT@NZ•SKYSPORTS",SkySport 3 NZ
-http://45.12.1.14:80/MDKraker/GwWZ9I296/117431
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/YqFXsy5P/Skysport-shareext.png" group-title="SHAREEXT@NZ•SKYSPORTS",SkySport 4 NZ
-http://45.12.1.14:80/MDKraker/GwWZ9I296/117432
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/YqFXsy5P/Skysport-shareext.png" group-title="SHAREEXT@NZ•SKYSPORTS",SkySport 5 NZ
-http://45.12.1.14:80/MDKraker/GwWZ9I296/117433
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/YqFXsy5P/Skysport-shareext.png" group-title="SHAREEXT@NZ•SKYSPORTS",SkySport 6 NZ
-http://45.12.1.14:80/MDKraker/GwWZ9I296/117434
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/YqFXsy5P/Skysport-shareext.png" group-title="SHAREEXT@NZ•SKYSPORTS",SkySport 7 NZ
-http://45.12.1.14:80/MDKraker/GwWZ9I296/117435
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/YqFXsy5P/Skysport-shareext.png" group-title="SHAREEXT@NZ•SKYSPORTS",SkySport 8 NZ
-http://45.12.1.14:80/MDKraker/GwWZ9I296/117436
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/YqFXsy5P/Skysport-shareext.png" group-title="SHAREEXT@NZ•SKYSPORTS",SkySport 9 NZ
-http://45.12.1.14:80/MDKraker/GwWZ9I296/117437
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@OPTUS_Live_Event",🇭🇲OPTUS_1_(Live•Event)
@@ -1217,139 +1199,6 @@ http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=91898
 http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=918983&extension=ts&play_astro4
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",W•SPORTS•🇲🇾
 http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=918982&extension=ts&play_Wsports
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Sony•Ten 1
-http://sg.sananda.online:80/call/BD01971466614/89.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Sony•Ten 2
-http://sg.sananda.online:80/call/BD01971466614/90.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Sony•Ten 3
-http://sg.sananda.online:80/call/BD01971466614/91.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Sony•Ten 4
-http://sg.sananda.online:80/call/BD01971466614/92.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Sony•Ten 5
-http://sg.sananda.online:80/call/BD01971466614/93.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",GTV
-http://sg.sananda.online:80/call/BD01971466614/94.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",PTV•Sports
-http://sg.sananda.online:80/call/BD01971466614/95.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Sports•18 HD
-http://sg.sananda.online:80/call/BD01971466614/96.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",T•Sports
-http://sg.sananda.online:80/call/BD01971466614/97.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Star•Sports 1
-http://sg.sananda.online:80/call/BD01971466614/98.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Star•Sports 2
-http://sg.sananda.online:80/call/BD01971466614/99.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Star•Sports 3
-http://sg.sananda.online:80/call/BD01971466614/100.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Astro•Cricket
-http://sg.sananda.online:80/call/BD01971466614/101.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Star•Sports Select 1
-http://sg.sananda.online:80/call/BD01971466614/102.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Star•Sports Select 2
-http://sg.sananda.online:80/call/BD01971466614/103.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",PLAY•SPORTS 1 HD
-http://sg.sananda.online:80/call/BD01971466614/104.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Eurosports•
-http://sg.sananda.online:80/call/BD01971466614/105.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",BeinSports•Extra
-http://sg.sananda.online:80/call/BD01971466614/106.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",BeinSports 1
-http://sg.sananda.online:80/call/BD01971466614/107.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",BeinSports 2
-http://sg.sananda.online:80/call/BD01971466614/108.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",BeinSports 3
-http://sg.sananda.online:80/call/BD01971466614/109.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",BeinSports 4
-http://sg.sananda.online:80/call/BD01971466614/110.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",BeiNSports 5
-http://sg.sananda.online:80/call/BD01971466614/111.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",BeinSports 6
-http://sg.sananda.online:80/call/BD01971466614/112.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",BeinSports 7
-http://sg.sananda.online:80/call/BD01971466614/113.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",BT•Sport 1
-http://sg.sananda.online:80/call/BD01971466614/115.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",BT•Sport 2
-http://sg.sananda.online:80/call/BD01971466614/116.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",BT•Sport 3
-http://sg.sananda.online:80/call/BD01971466614/117.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Arena•Sport 1
-http://sg.sananda.online:80/call/BD01971466614/118.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Arena•Sport 2
-http://sg.sananda.online:80/call/BD01971466614/119.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Arena•Sport 3
-http://sg.sananda.online:80/call/BD01971466614/120.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Espn•
-http://sg.sananda.online:80/call/BD01971466614/121.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Willow•
-http://sg.sananda.online:80/call/BD01971466614/122.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Viaplay•Xtra
-http://sg.sananda.online:80/call/BD01971466614/124.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",beINSports•Premium 1
-http://sg.sananda.online:80/call/BD01971466614/126.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",beINSports•English 1
-http://sg.sananda.online:80/call/BD01971466614/127.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",beINSports•English 2
-http://sg.sananda.online:80/call/BD01971466614/128.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",TNT•Sports 1
-http://sg.sananda.online:80/call/BD01971466614/129.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",TNT•Sports 3
-http://sg.sananda.online:80/call/BD01971466614/130.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",TNT•Sports 2
-http://sg.sananda.online:80/call/BD01971466614/131.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",ESPN|•
-http://sg.sananda.online:80/call/BD01971466614/132.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Rai•Sport
-http://sg.sananda.online:80/call/BD01971466614/133.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",EUROSPORT•1
-http://sg.sananda.online:80/call/BD01971466614/134.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",EUROSPORT•2
-http://sg.sananda.online:80/call/BD01971466614/135.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Abu•Dhabi Sports 1
-http://sg.sananda.online:80/call/BD01971466614/136.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Abu•Dhabi Sports 2
-http://sg.sananda.online:80/call/BD01971466614/137.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",SPORTTV +
-http://sg.sananda.online:80/call/BD01971466614/163.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",SPORTTV 1
-http://sg.sananda.online:80/call/BD01971466614/164.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",SPORTTV 2
-http://sg.sananda.online:80/call/BD01971466614/165.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",SPORTTV 3
-http://sg.sananda.online:80/call/BD01971466614/166.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",ELEVEN•SPORTS 1
-http://sg.sananda.online:80/call/BD01971466614/167.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",ELEVEN•SPORTS 2
-http://sg.sananda.online:80/call/BD01971466614/168.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",ELEVEN•SPORTS 3
-http://sg.sananda.online:80/call/BD01971466614/169.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Willow||
-http://sg.sananda.online:80/call/BD01971466614/172.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",ArenA|Sport 1
-http://sg.sananda.online:80/call/BD01971466614/174.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Arena|Sport 2
-http://sg.sananda.online:80/call/BD01971466614/175.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Arena|Sport 3
-http://sg.sananda.online:80/call/BD01971466614/176.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Arena|Sport 4
-http://sg.sananda.online:80/call/BD01971466614/177.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",Auto|worldwide|Sports
-http://sg.sananda.online:80/call/BD01971466614/178.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",tennis|channel
-http://sg.sananda.online:80/call/BD01971466614/179.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",dubai|sports 1
-http://sg.sananda.online:80/call/BD01971466614/180.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",dubai|sports 2
-http://sg.sananda.online:80/call/BD01971466614/181.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",dubai|ada sports 5
-http://sg.sananda.online:80/call/BD01971466614/182.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",FOXSPORT|•1
-http://sg.sananda.online:80/call/BD01971466614/187.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",FOXSPORTS|•2
-http://sg.sananda.online:80/call/BD01971466614/188.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",WWE•
-http://sg.sananda.online:80/call/BD01971466614/171.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@SUKAN_ANTARABANGSA",NovaSport•1 HD cz
 http://x3nwn68u.megogo.xyz/iptv/C3BRABULQN3RDL/2555/index.m3u8
