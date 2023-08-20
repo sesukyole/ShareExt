@@ -1002,89 +1002,85 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/16577
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SPOTVHD TH
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115304&extension=m3u8&play_token=shareext@spotvTH.m3u8
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115304&extension=ts&play_token=shareext@spotvTH
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD TH  [ENG]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SPOTV[ENG]
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115427&extension=m3u8&play_token=shareext@spotvEng.m3u8
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115427&extension=ts&play_token=shareext@spotvEng
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SPOTV_2(TH)
 http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115305&extension=ts&play_shareext@Spotv2_TH
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SPOTV_2(ENG)
 http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115433&extension=ts&play_shareext@Spotv2_ENG
 #EXTINF:-1 tvg-id="" tvg-name="Premier Football 1 TH [Thai]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball•1[Thai]
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115757&extension=m3u8&play_token=shareext@truePremier1TH.m3u8
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115757&extension=ts&play_token=shareext@truePremier1TH
 #EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 1  [ENG]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball HD•1[ENG]
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115758&extension=m3u8&play_token=shareext@truePremier1Eng.m3u8
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115758&extension=ts&play_token=shareext@truePremier1Eng
 #EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 2  [ENG]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball•2HD TH
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115762&extension=m3u8&play_token=shareext@truePremier2TH.m3u8
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115762&extension=ts&play_token=shareext@truePremier2TH
 #EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 2  [ENG]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball HD•2•[ENG]
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115508&extension=m3u8&play_token=shareext@truePremier2Eng.m3u8
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115508&extension=ts&play_token=shareext@truePremier2Eng
 #EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 3" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball•3HD TH
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115510&extension=m3u8&play_token=shareext@truePremier3TH.m3u8
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115510&extension=ts&play_token=shareext@truePremier3TH
 #EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 3 [ENG]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball HD•3[ENG]
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115511&extension=m3u8&play_token=shareext@truePremier3Eng.m3u8
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115511&extension=ts&play_token=shareext@truePremier3Eng
 #EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 4" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball•4•HD TH
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115513&extension=m3u8&play_token=shareext@truePremier3TH.m3u8
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115513&extension=ts&play_token=shareext@truePremier3TH
 #EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 4-X" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball•4•HD[ENG]
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115768&extension=m3u8&play_token=shareext@truePremier4Eng.m3u8
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115768&extension=ts&play_token=shareext@truePremier4Eng
 #EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 5" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PremierFootball•5•HD
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115515&extension=m3u8&play_token=shareext@truePremier4.m3u8
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115515&extension=ts&play_token=shareext@truePremier4
 #EXTINF:-1 tvg-id="" tvg-name="Sport TH 1 [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•1[THAI]
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115532&extension=m3u8&play_token=shareext@trueSportTH.m3u8
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115532&extension=ts&play_token=shareext@trueSportTH
 #EXTINF:-1 tvg-id="" tvg-name="Sport HD TH 1[THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•1HD TH
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115531&extension=m3u8&play_token=shareext@trueSport1TH.m3u8
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115531&extension=ts&play_token=shareext@trueSport1TH
 #EXTINF:-1 tvg-id="" tvg-name="Sport HD TH 2 [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•2•HD2[THAI]
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115533&extension=m3u8&play_token=shareext@trueSport2TH.m3u8
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115533&extension=ts&play_token=shareext@trueSport2TH
 #EXTINF:-1 tvg-id="" tvg-name="Sport TH 2 [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•2
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115535&extension=m3u8&play_token=shareext@truesport2
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115535&extension=ts&play_token=shareext@truesport2
 #EXTINF:-1 tvg-id="" tvg-name="Sport HD TH 3 [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•3HD[THAI]
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115537&extension=m3u8&play_token=shareext@truesport3TH
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115537&extension=ts&play_token=shareext@truesport3TH
 #EXTINF:-1 tvg-id="" tvg-name="Sport TH 3 [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•3
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115538&extension=m3u8&play_token=shareext@truesport3
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115538&extension=ts&play_token=shareext@truesport3
 #EXTINF:-1 tvg-id="" tvg-name="Sport 5 TH [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•5•[THAI]
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115541&extension=m3u8&play_token=shareext@truesport5TH
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115541&extension=ts&play_token=shareext@truesport5TH
 #EXTINF:-1 tvg-id="" tvg-name="Sport 6 TH [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•6•[THAI]
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115542&extension=m3u8&play_token=shareext@truesport6
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115542&extension=ts&play_token=shareext@truesport6
 #EXTINF:-1 tvg-id="" tvg-name="Sport 7 TH [ENG]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•7•[ENG]
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115798&extension=m3u8&play_token=shareext@truesport7Eng
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115798&extension=ts&play_token=shareext@truesport7Eng
 #EXTINF:-1 tvg-id="" tvg-name="Sport 7 TH [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",TRUESport•7•[THAI]
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115799&extension=m3u8&play_token=shareext@truesport7TH
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115799&extension=ts&play_token=shareext@truesport7TH
 #EXTINF:-1 tvg-id="" tvg-name="Thai BeIN Sports 1 HD TH [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",BeINSports•1 HD[THAI]
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115807&extension=m3u8&play_token=shareext@beinsport1
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115807&extension=ts&play_token=shareext@beinsport1
 #EXTINF:-1 tvg-id="" tvg-name="Thai BeIN Sports 2 HD TH [THAI]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",BeINSports•2 HD[THAI]
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115809&extension=m3u8&play_token=shareext@beinsport2
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115809&extension=ts&play_token=shareext@beinsport2
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",ASTRO•SUPERSPORTS 1 HD
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115615&extension=m3u8&play_token=shareext@astro1
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115615&extension=ts&play_token=shareext@astro1
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",ASTRO•SUPERSPORTS 2 HD 
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115616&extension=m3u8&play_token=shareext@astro2
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115616&extension=ts&play_token=shareext@astro2
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 3 HD TH MY" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",ASTRO•SUPERSPORTS 3 HD
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115617&extension=m3u8&play_token=shareext@astro3
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115617&extension=ts&play_token=shareext@astro3
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 4 HD TH MY" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",ASTRO•SUPERSPORTS 4 HD 
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115618&extension=m3u8&play_token=shareext@astro4
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115618&extension=ts&play_token=shareext@astro4
 #EXTINF:-1 tvg-id="" tvg-name="Astro Cricket HD TH " tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Astro•Cricket HD 
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115614&extension=m3u8&play_token=shareext@cricket
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115614&extension=ts&play_token=shareext@cricket
 #EXTINF:-1 tvg-id="" tvg-name="Super Bunteung/FightBox" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",SuperBunteunG/FightBox
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115500&extension=m3u8&play_token=shareext@fightbox
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115500&extension=ts&play_token=shareext@fightbox
 #EXTINF:-1 tvg-id="" tvg-name="Tennis HD TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Tennis HD
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115805&extension=m3u8&play_token=shareext@tennis
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115805&extension=ts&play_token=shareext@tennis
 #EXTINF:-1 tvg-id="" tvg-name="GOLF HD TH  [ENG]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",GOLF•HD[ENG]
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115702&extension=m3u8&play_token=shareext@golf
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115702&extension=ts&play_token=shareext@golf
 #EXTINF:-1 tvg-id="" tvg-name="Golf 2 HD TH [Thai]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Golf•2 HD[Thai]
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115698&extension=m3u8&play_token=shareext@golf2
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115698&extension=ts&play_token=shareext@golf2
 #EXTINF:-1 tvg-id="" tvg-name="Hi Sport TH [Thai]" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Hi•Sport [Thai]
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115709&extension=m3u8&play_token=shareext@hisport
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115709&extension=ts&play_token=shareext@hisport
 #EXTINF:-1 tvg-id="" tvg-name="NBA HD TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",NBA HD
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115738&extension=m3u8&play_token=shareext@nba
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115738&extension=ts&play_token=shareext@nba
 #EXTINF:-1 tvg-id="" tvg-name="NFL HD TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",NFL HD
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115742&extension=m3u8&play_token=shareext@nfl
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115742&extension=ts&play_token=shareext@nfl
 #EXTINF:-1 tvg-id="" tvg-name="One Golf TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",One Golf
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115325&extension=m3u8&play_token=shareext@onegolf
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115325&extension=ts&play_token=shareext@onegolf
 #EXTINF:-1 tvg-id="" tvg-name="PPTV HD TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",PPTV HD
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115501&extension=m3u8&play_token=shareext@pptv
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115501&extension=ts&play_token=shareext@pptv
 #EXTINF:-1 tvg-id="" tvg-name="Thairath HD TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Thairath HD
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115328&extension=m3u8&play_token=shareext@thairath
-#EXTINF:-1 tvg-id="" tvg-name="Fight Night TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Fight Night
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115320&extension=m3u8&play_token=shareext@fightnight
-#EXTINF:-1 tvg-id="" tvg-name="Fightclub (Sling) TH" tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SHAREEXT@⚽SUKAN_Thailand",Fightclub (Sling)
-http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115303&extension=m3u8&play_token=shareext@fightclub
+http://shareext@ultratv.one/play/live.php?mac=00:1A:79:00:22:B3&stream=115328&extension=ts&play_token=shareext@thairath
 
 
 #EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-name="SuperSport PSL HD ZA" tvg-logo="https://picon-13398.kxcdn.com/supersport-psl-za.jpg" group-title="SHAREEXT@Live: African Countries",SuperSport PSL HD ZA
